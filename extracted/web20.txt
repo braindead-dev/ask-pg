@@ -114,7 +114,7 @@ The fact that Google is a "Web 2.0" company shows that, while meaningful, the te
 
 [5] Hint: the way to create a web-based alternative to Office may not be to write every component yourself, but to establish a protocol for web-based apps to share a virtual home directory spread across multiple servers. Or it may be to write it all yourself.
 
-[6] In Jessica Livingston's <a href="http://foundersatwork.com">*Founders at Work*</a>.
+[6] In Jessica Livingston's [*Founders at Work*](http://foundersatwork.com).
 
 [7] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.
 

@@ -184,6 +184,6 @@ How can you see the wave, when you're the water? Always be questioning. That's t
 
 
 
-<a href="http://www.paulgraham.com/saynotes.html"><u>**Notes**</u></a>
+[<u>**Notes**</u>](http://www.paulgraham.com/saynotes.html)
 
 **Thanks** to Sarah Harlin, Trevor Blackwell, Jessica Livingston, Robert Morris, Eric Raymond and Bob van der Zwaan for reading drafts of this essay, and to Lisa Randall, Jackie McDonough, Ryan Stanley and Joel Rainey for conversations about heresy. Needless to say they bear no blame for opinions expressed in it, and especially for opinions *not* expressed in it.
