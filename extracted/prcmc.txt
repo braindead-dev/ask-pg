@@ -54,4 +54,4 @@ David isn't mistaken in saying you should start a company to live off its revenu
 
 **Thanks** to Trevor Blackwell, Jessica Livingston, Michael Mandel, Robert Morris, and Fred Wilson for reading drafts of this.
 
- <!-- http://news.ycombinator.com/item?id=254335" -->
+ 

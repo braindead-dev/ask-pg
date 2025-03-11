@@ -114,5 +114,5 @@ You may not have to kill bad comments to solve the problem. Comments at the bott
 
  **Thanks** to Justin Kan, Jessica Livingston, Robert Morris, Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of this.
 
-<img src="http://ycombinator.com/images/y18.gif"> [Comment](http://news.ycombinator.com/item?id=495053) on this essay.
+![y18](http://ycombinator.com/images/y18.gif) [Comment](http://news.ycombinator.com/item?id=495053) on this essay.
 

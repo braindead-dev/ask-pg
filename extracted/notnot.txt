@@ -232,4 +232,4 @@ That's ultimately what drives us to work on Y Combinator. We want to make money,
 
 
 
-<img src="http://ycombinator.com/images/y18.gif"> [Comment](http://news.ycombinator.com/comments?id=6668) on this essay.
+![y18](http://ycombinator.com/images/y18.gif) [Comment](http://news.ycombinator.com/comments?id=6668) on this essay.

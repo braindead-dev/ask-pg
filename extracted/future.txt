@@ -128,7 +128,7 @@ Another danger, pointed out by Mitch Kapor, is that if VCs are only doing angel 
 
 [7] Doing a rolling close doesn't mean the company is always raising money. That would be a distraction. The point of a rolling close is to make fundraising take less time, not more. With a classic fixed sized round, you don't get any money till all the investors agree, and that often creates a situation where they all sit waiting for the others to act. A rolling close usually prevents this.
 
-<!-- [8] Jeff Clavier pointed out a tax disadvantage of convertible notes: they don't start the long term capital gains clock. So perhaps the ultimate solution, after investors have been conditioned to do simpler deals with multiple caps by convertible notes, is eventually to do equity rounds that approach the same simplicity and flexibility. --> [8] There are two (non-exclusive) causes of hot deals: the quality of the company, and domino effects among investors. The former is obviously a better predictor of success.
+ [8] There are two (non-exclusive) causes of hot deals: the quality of the company, and domino effects among investors. The former is obviously a better predictor of success.
 
 [9] Some of the randomness is concealed by the fact that investment is a self fulfilling prophecy.
 

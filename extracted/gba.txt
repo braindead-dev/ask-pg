@@ -66,6 +66,6 @@ Those in a position to impose rules naturally want them to be obeyed. But be car
 
 
 
-**Thanks** to Ken Anderson, Trevor Blackwell, Daniel Giffin, Sarah Harlin, Shiro Kawai, Jessica Livingston, Matz, Jackie McDonough, Robert Morris, Eric Raymond, Guido van Rossum, David Weinberger, and Steven Wolfram for reading drafts of this essay. <!-- This was previously called "Good Bad Attitude," but I reverted to its original title when I found I kept having trouble remembering this cute new title. -->
+**Thanks** to Ken Anderson, Trevor Blackwell, Daniel Giffin, Sarah Harlin, Shiro Kawai, Jessica Livingston, Matz, Jackie McDonough, Robert Morris, Eric Raymond, Guido van Rossum, David Weinberger, and Steven Wolfram for reading drafts of this essay. 
 
 (The [image](bluebox.html) shows Steves Jobs and Wozniak with a "blue box." Photo by Margret Wozniak. Reproduced by permission of Steve Wozniak.)

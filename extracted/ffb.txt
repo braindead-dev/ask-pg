@@ -2,7 +2,7 @@ Filters that Fight Back
 ---
 August 2003
 
-<!-- *(Originally this essay began with a discussion of filtering. An expanded version of that discussion now exists on its own as [So Far, So Good](sofar.html).)* --> We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of [death2spam](http://death2spam.com) now does this in borderline cases, and reports that it works well.
+ We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of [death2spam](http://death2spam.com) now does this in borderline cases, and reports that it works well.
 
 Why only do it in borderline cases? And why only do it once?
 
@@ -16,7 +16,7 @@ If widely used, auto-retrieving spam filters would make the email system *reboun
 
 Pump out a million emails an hour, get a million hits an hour on your servers.
 
-<!--Of course, if any of the urls are "web bugs" they'll suggest to the spammer that the mail got opened, and may result in more spam. (However, they'll also tend to make "open rates" meaningless, thus depriving the spammer of valuable information.) And of course, some links will be unsubscribe links. The net effect might be less spam. --> We would want to ensure that this is only done to suspected spams. As a rule, any url sent to millions of people is likely to be a spam url, so submitting every http request in every email would work fine nearly all the time. But there are a few cases where this isn't true: the urls at the bottom of mails sent from free email services like Yahoo Mail and Hotmail, for example.
+ We would want to ensure that this is only done to suspected spams. As a rule, any url sent to millions of people is likely to be a spam url, so submitting every http request in every email would work fine nearly all the time. But there are a few cases where this isn't true: the urls at the bottom of mails sent from free email services like Yahoo Mail and Hotmail, for example.
 
 To protect such sites, and to prevent abuse, auto-retrieval should be combined with blacklists of spamvertised sites. Only sites on a blacklist would get crawled, and sites would be blacklisted only after being inspected by humans. The lifetime of a spam must be several hours at least, so it should be easy to update such a list in time to interfere with a spam promoting a new site. [2]
 
@@ -40,6 +40,6 @@ Instead of making n constant, it might be a good idea to make it a function of t
 
 There should probably be multiple blacklists. A single point of failure would be vulnerable both to attack and abuse.
 
-<!--[6] I don't pretend to have worked out all the [details](ffbfaq.html) of this scheme. I can't claim to be certain it will work. (Who could till it has been tried in practice?) Fortunately, unlike solutions that require new protocols, this one can be tested on a subset of the problem. Why not try using FFBs on, say, domains that begin with A? If spammers start to avoid such domains, we'll know we're winning, and we can roll down the rest of the alphabet one letter at a time. -->
+
 
  **Thanks** to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.

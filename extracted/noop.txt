@@ -1,6 +1,6 @@
 Why Arc Isn't Especially Object-Oriented
 ---
-<p align=justif> There is a kind of mania for object-oriented programming at the moment, but <!-- it seems to peak with medium-quality programmers. --> some of the [smartest programmers](reesoo.html) I know are some of the least excited about it.
+<p align=justif> There is a kind of mania for object-oriented programming at the moment, but  some of the [smartest programmers](reesoo.html) I know are some of the least excited about it.
 
 My own feeling is that object-oriented programming is a useful technique in some cases, but it isn't something that has to pervade every program you write. You should be able to define new types, but you shouldn't have to express every program as the definition of new types.
 

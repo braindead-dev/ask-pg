@@ -2,7 +2,7 @@ A Version 1.0
 ---
 October 2004
 
-<!--At the end of each day I save a copy of whatever I'm working on. I thought it would be interesting to compare a finished essay with the first version to see how much of the original text survives. --> As E. B. White said, "good writing is rewriting." I didn't realize this when I was in school. In writing, as in math and science, they only show you the finished product. You don't see all the false starts. This gives students a misleading view of how things get made.
+ As E. B. White said, "good writing is rewriting." I didn't realize this when I was in school. In writing, as in math and science, they only show you the finished product. You don't see all the false starts. This gives students a misleading view of how things get made.
 
 Part of the reason it happens is that writers don't want people to see their mistakes. But I'm willing to let people see an early draft if it will show how much you have to rewrite to beat an essay into shape.
 
@@ -120,90 +120,3 @@ The other extreme, the work that seems formidable from the moment it's created (
 
 
 
-<!-- <hr> <font color=#000000>That was as far as I'd gotten at the time. The rest is a kind of midden that always accumulates at the end of the file, consisting of notes to myself and chunks of deleted text that I might (but never do) re-use later.
-
-
-
-These are the notes about what to work on the next morning. (The percent sign is the LaTex comment character.) Except for the beginning, I didn't write about what I expected to:</font> <pre> % I didn't consciously notice the BR stuff at the time. % I'm noticing it now from raw memories. % naturalistic and weird: breugel % not allowed to write about painting % like nothing more than to be wrong-- because surprise % called opinionated, because I express opinions in ways % that violate the usual social conventions, much as surgeons % do things to your body that violate the usual social % conventions. % but not opinionated in the sense that I won't change my % opinions. I love to be surprised, and to be surprised is % always to have been at least implicitly mistaken </pre>
-
-<font color=#000000> This is the part I had to discard when I backtracked. It used to follow the paragraph that ended with "prescribed course."</font>
-
-Because you're after answers, instead of just trying to convince people of something, it's important to qualify your conclusions precisely. No scientist will be satisfied to hear that you measured something and it was 12.7. 12.7 plus or minus what? What's your experimental error?
-
-This is just as important for questions whose answers aren't numbers. And yet people rarely bother in ordinary conversation, most scientists included. Once people switch over to talking about matters that aren't "scientific"--- mere matters of opinion--- they pay comparatively little attention to qualifying what they say.
-
-Oh, they *use* qualifiers. Once kids arrive in college they learn pretty quickly that proper intellectuals qualify every statement with "perhaps" or "almost." But this kind of qualification is nothing more than grammatical. Sometimes these automatically inserted qualifications end up at odds with the statements they're attached to, yielding comic results. You find people saying that a certain writer is "perhaps the greatest writer of the twentieth century." That's a rather strong way to put something you're not sure about. Wouldn't it be better just to say "one of the best writers of the twentieth century?"
-
-One of the only people I've ever met who really pays attention to qualification is my friend Robert Morris. His great fear in life is to say something that's mistaken. So whenever he says something, he pays as much attention to expressing how sure he is of it as he does to what he's saying. He is a connoisseur of his own certainty, and has as many words for expressing it as Eskimos have for snow. This is how we all ought to be. Sticking a perfunctory perhaps onto every statement may shield us from blame, but it tells the reader nothing. That's like the manufacturers of Q-Tips, who to cover themselves print "do not insert in ear canal" on the boxes, when they know damned well that that's how Q-Tips are used.
-
-One of the most important things to know about painting is that darks make the light. This is particularly obvious in watercolor. Suppose you want to make a painting that seems glowing with light. Well, you can't get any brighter than the white of the paper. So the only way to make the make the painting bright is to add darks that make the lights seem brighter by contrast. Without darks, the painting won't seem bright; it will just seem washed out.
-
-Some books about writing say that you shouldn't begin sentences with "I think." If you're saying something, the argument does, then obviously you think it, so why bother telling people? This is nonsense. The heavily qualified statements in an essay play the role of darks. When you reach a point you're really sure of, you can just state it with no qualifications, and it will have all the more force by contrast.
-
-People aren't used to unqualified statements. Without the automatic "perhaps" they're used to seeing, many realize, with a shock, that what they're reading are *opinions.* Well of course. And what essay consists of anything else? An essay is not a theorem. You don't have to say only things you can prove irrefutably. Don't be afraid of expressing your opinions. Just make sure you're right.
-
-
-
-<font color=#000000> Miscellaneous smaller cuts:</font>
-
-The downside is that essays may contain mistakes (though so can theorems). The upside is that you can talk about
-
-more things.
-
-The world is not divided into the "scientific" and the "subjective." Scientific is a matter of degree. And there are plenty of questions that would be impractical to answer by a controlled experiment and yet which are worth discussing. Indeed, some of the most interesting questions are of this type.
-
-To mathematicians, the work of physicists seems rather speculative.
-
-But if they're less precise, they can talk about a broader range of subjects.
-
-Sometimes I feel tempted to add a disclaimer to the beginning of my essays saying, if you're bothered by unqualified statements, just stick the "perhaps" that you're used to seeing before each one. I mean the same thing.
-
-Don't expect people to thank you for delivering these valuable facts to them, though---any more than they would thank you for giving them steamed vegetables for dinner.
-
-
-
-<font color=#000000> More notes about topics I intended to cover:</font> <pre> % people will get angry, accuse you of making unsupported statements % mere opinions % as if problem was structure, not content % whole question of qualification, support % all the good writers seem to be english % practically the algorithm for life: look for anomalies % actually start the one about the role of color in fashion % try to write sound bites % length kind of arbitrary, based on human reader, % not needs of topic </pre><font color=#000000>
-
-And more cut text:</font>
-
-I don't know O'Reilly's street address, but it's probably not going to surprise me. Surprises are
-
-What's so important about surprises? They're the truth you didn't already know.
-
-An essay must at least explore conclusions, even if this offends people. And the disconcerting thing is, merely exploring ideas does offend people. Readers used to defend-a-position writing tend to get as angry with you for saying "let's explore the possibility that x" as if you had said "I believe x." Indeed, some writers use the former as nothing more than a learned sounding replacement for the latter. But in a proper essay,
-
-But when I want to say x I just say it.
-
-That sort of thing isn't really an essay either, though it begins like one.
-
-I'm too afraid of real live readers to pull that sort of thing.
-
-fuzzy treatments of controversial topics that begin with interesting questions, retreat in terror from the
-
-nature of newsmagazines means that such essays always start with the most controversial questions.
-
-Real live readers won't stand for this. In fact, they're often made to stand for it. I've noticed plenty of "essays" that peter out in this way.
-
-Their resistance gives the essay half its shape.
-
-Writing well is an extremely valuable skill. In part because to do it you have to think well.
-
-By the late 19th century, the era in which the study of ancient texts had been the hottest area of scholarship was a distant memory. But the classics still had enormous prestige. The problems posed by the ancientness part had been mostly solved, or solved as well as they were going to be. And so what was left
-
-the people doing it hardly remembered why it had originally been done.
-
-We think of the classics as tidy little red and green volumes from the Loeb Library.
-
-From Islamic civilizations, which were at that time far ahead in matters of scholarship, they got Plato, Aristotle, Euclid, Ptolemy. different Europe: what entered in 500 was the rump of the western Roman empire, and what emerged in 1000 was a civilization centered as much in northern Europe as in Italy.
-
-misleading to talk about "Europe"
-
-From this period date the oldest surviving institutions
-
-because university admissions were limited to children whose parents were willing to pay for them to spend ten years studying ancient languages.
-
-(I'm not saying that new disciplines have no content. I'm just saying that that isn't necessary.)
-
-
-
-<font color=#000000> These appear to the the original notes I started with. I don't usually write more than this before I start. I never got to half the topics I meant to cover, because the focus switched from prose to ideas.</font> <pre> %friend liked %why about novels? %imagine if aliens showed up. %If you feel like what you're doing is pointless, you're right. %took an english course in college and was so disgusted I % never took another %Big diff is essays are about figuring things out, not % choosing a position and arguing it like a lawyer. %don't learn hardest thing, which is to cut %waugh test %read aloud %mark uncomfortable bits %stitch sentences together %rhythm </pre> </font> -->

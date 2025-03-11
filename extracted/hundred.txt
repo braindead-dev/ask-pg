@@ -118,7 +118,7 @@ Writing software as multiple layers is a powerful technique even within applicat
 
 Somehow the idea of reusability got attached to object-oriented programming in the 1980s, and no amount of evidence to the contrary seems to be able to shake it free. But although some object-oriented software is reusable, what makes it reusable is its bottom-upness, not its object-orientedness. Consider libraries: they're reusable because they're language, whether they're written in an object-oriented style or not.
 
-I don't predict the demise of object-oriented programming, by the way. Though I don't think it has much to offer good programmers, except in certain specialized domains, it is irresistible to large organizations. Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches. <!--, without the effort of understanding, or the risk of breaking, existing code. --> Large organizations always tend to develop software this way, and I expect this to be as true in a hundred years as it is today.
+I don't predict the demise of object-oriented programming, by the way. Though I don't think it has much to offer good programmers, except in certain specialized domains, it is irresistible to large organizations. Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.  Large organizations always tend to develop software this way, and I expect this to be as true in a hundred years as it is today.
 
 
 

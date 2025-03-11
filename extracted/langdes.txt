@@ -4,7 +4,7 @@ May 2001 <p> *(These are some notes I made for a panel discussion on programming
 
 
 
-<img src="https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-18.gif" width="159" height="18" border="0" hspace="0" vspace="0" />
+![five-questions-about-language-design-18](https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-18.gif)
 
 **1. Programming Languages Are for People.**
 
@@ -52,7 +52,7 @@ What hackers like to do is make great programs. And I think, at least in our own
 
 
 
-<img src="https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-19.gif" width="125" height="18" border="0" hspace="0" vspace="0" />
+![five-questions-about-language-design-19](https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-19.gif)
 
 **1. How to Organize Big Libraries?**
 
@@ -74,7 +74,7 @@ I'm not sure how reasonable a hope this is, but one thing I would really love to
 
 
 
-<img src="https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-20.gif" width="179" height="18" border="0" hspace="0" vspace="0" />
+![five-questions-about-language-design-20](https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-20.gif)
 
 **1. You Can Use Whatever Language You Want.**
 
@@ -110,7 +110,7 @@ I was talking recently to Robert Morris, and he pointed out that operator overlo
 
 
 
-<img src="https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-21.gif" width="254" height="18" border="0" hspace="0" vspace="0" />
+![five-questions-about-language-design-21](https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-21.gif)
 
 **1. New Programming Languages.**
 
@@ -130,7 +130,7 @@ It may turn out that byte code is not a win, in the end. Sun and Microsoft seem 
 
 
 
-<img src="https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-22.gif" width="170" height="18" border="0" hspace="0" vspace="0" />
+![five-questions-about-language-design-22](https://s.turbifycdn.com/aah/paulgraham/five-questions-about-language-design-22.gif)
 
 **1. Clients.**
 

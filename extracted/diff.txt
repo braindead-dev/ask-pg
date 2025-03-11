@@ -44,4 +44,3 @@ Over time, the default language, embodied in a succession of popular languages, 
 
 Though useful to present-day programmers, it's strange to describe Lisp in terms of its variation from the random expedients other languages adopted. That was not, probably, how McCarthy thought of it. Lisp wasn't designed to fix the mistakes in Fortran; it came about more as the byproduct of an attempt to [axiomatize computation](rootsoflisp.html).
 
-<!-- Nor is this a complete list of ideas that began with Lisp and spread to other languages. These are only the initial set. Several more were developed in successive Lisp implementations, including continuations, multiple return values, rest parameters, and assignment (setf) inversion. -->

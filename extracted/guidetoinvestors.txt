@@ -162,7 +162,7 @@ Investing is not covered by antitrust law. At least, it better not be, because i
 
 In principle investors are all competing for the same deals, but the spirit of cooperation is stronger than the spirit of competition. The reason, again, is that there are so many deals. Though a professional investor may have a closer relationship with a founder he invests in than with other investors, his relationship with the founder is only going to last a couple years, whereas his relationship with other firms will last his whole career. There isn't so much at stake in his interactions with other investors, but there will be a lot of them. Professional investors are constantly trading little favors.
 
-Another reason investors stick together is to preserve the power of investors as a whole. So you will not, as of this writing, be able to get investors into an auction for your series A round. They'd rather lose the deal than establish a precedent of VCs competitively bidding against one another. An efficient startup funding market may be coming in the distant future; things tend to move in that direction; but it's certainly not here now. <!-- The best way to describe the situation might be to say that VCs compete intramurally. -->
+Another reason investors stick together is to preserve the power of investors as a whole. So you will not, as of this writing, be able to get investors into an auction for your series A round. They'd rather lose the deal than establish a precedent of VCs competitively bidding against one another. An efficient startup funding market may be coming in the distant future; things tend to move in that direction; but it's certainly not here now. 
 
 **17. Large-scale investors care about their portfolio, not any individual company.**
 
@@ -250,4 +250,4 @@ Apparently the most likely animals to be left alive after a nuclear war are cock
 
 **Thanks** to Sam Altman, Paul Buchheit, Hutch Fishman, and Robert Morris for reading drafts of this, and to Kenneth King of ASES for inviting me to speak.
 
-<img src="http://ycombinator.com/images/y18.gif"> [Comment](http://news.ycombinator.com/item?id=17947) on this essay.
+![y18](http://ycombinator.com/images/y18.gif) [Comment](http://news.ycombinator.com/item?id=17947) on this essay.

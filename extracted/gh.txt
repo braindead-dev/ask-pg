@@ -4,9 +4,7 @@ July 2004
 
 *(This essay is derived from a talk at Oscon 2004.)*
 
-<!-- Some programmers are much better than others. This variation is one of the most distinctive things about our field. But I think it's something more and more fields will see in time. So if we can understand this phenomenon, we may be learning about more than programming. We may be learning the pattern for the future.
-
-**Edisons** --> A few months ago I finished a new [book](http://www.amazon.com/exec/obidos/tg/detail/-/0596006624), and in reviews I keep noticing words like "provocative'' and "controversial.'' To say nothing of "idiotic.''
+ A few months ago I finished a new [book](http://www.amazon.com/exec/obidos/tg/detail/-/0596006624), and in reviews I keep noticing words like "provocative'' and "controversial.'' To say nothing of "idiotic.''
 
 I didn't mean to make the book controversial. I was trying to make it efficient. I didn't want to waste people's time telling them things they already knew. It's more efficient just to give them the diffs. But I suppose that's bound to yield an alarming book.
 
@@ -116,13 +114,13 @@ So who are the great hackers? How do you know when you meet one? That turns out 
 
 For Trevor, that's par for the course. But when I first met him, I thought he was a complete idiot. He was standing in Robert Morris's office babbling at him about something or other, and I remember standing behind him making frantic gestures at Robert to shoo this nut out of his office so we could go to lunch. Robert says he misjudged Trevor at first too. Apparently when Robert first met him, Trevor had just begun a new scheme that involved writing down everything about every aspect of his life on a stack of index cards, which he carried with him everywhere. He'd also just arrived from Canada, and had a strong Canadian accent and a mullet.
 
-The problem is compounded by the fact that hackers, despite their reputation for social obliviousness, sometimes put a good deal of effort into seeming smart. When I was in grad school I used to hang around the MIT AI Lab occasionally. It was kind of intimidating at first. Everyone there spoke so fast. But after a while I learned the trick of speaking fast. You don't have to think any faster; just use twice as many words to say everything. <!-- At the time I used to consult on the side, and when I was talking to clients I would sometimes put on this MIT manner deliberately to overawe them, especially during demos of software I'd supposedly been working on for weeks but had in fact written the night before. -->
+The problem is compounded by the fact that hackers, despite their reputation for social obliviousness, sometimes put a good deal of effort into seeming smart. When I was in grad school I used to hang around the MIT AI Lab occasionally. It was kind of intimidating at first. Everyone there spoke so fast. But after a while I learned the trick of speaking fast. You don't have to think any faster; just use twice as many words to say everything. 
 
 With this amount of noise in the signal, it's hard to tell good hackers when you meet them. I can't tell, even now. You also can't tell from their resumes. It seems like the only way to judge a hacker is to work with him on something.
 
 And this is the reason that high-tech areas only happen around universities. The active ingredient here is not so much the professors as the students. Startups grow up around universities because universities bring together promising young people and make them work on the same projects. The smart ones learn who the other smart ones are, and together they cook up new projects of their own.
 
-Because you can't tell a great hacker except by working with him, hackers themselves can't tell how good they are. This is true to a degree in most fields. I've found that people who are great at something are not so much convinced of their own greatness as mystified at why everyone else seems so incompetent. <!-- The people I've met who do great work rarely think that they're doing great work. They generally feel that they're stupid and lazy, that their brain only works properly one day out of ten, and that it's only a matter of time until they're found out. -->
+Because you can't tell a great hacker except by working with him, hackers themselves can't tell how good they are. This is true to a degree in most fields. I've found that people who are great at something are not so much convinced of their own greatness as mystified at why everyone else seems so incompetent. 
 
 But it's particularly hard for hackers to know how good they are, because it's hard to compare their work. This is easier in most other fields. In the hundred meters, you know in 10 seconds who's fastest. Even in math there seems to be a general consensus about which problems are hard to solve, and what constitutes a good solution. But hacking is like writing. Who can say which of two novels is better? Certainly not the authors.
 
@@ -156,13 +154,11 @@ Can you cultivate these qualities? I don't know. But you can at least not repres
 
 **Notes**
 
-<!--[h] The most productive individuals at different stages of technology are not necessarily the same people. Energy and determination are always important, but physical strength, for example, decreases in importance as technology increases.
-
-In early modern Europe, the most important quality may have been organization. The kind of brilliance that distinguished Isaac Newton had little practical effect. It would have more now.--> [1] In fairness, I have to say that IBM makes decent hardware. I wrote this on an IBM laptop.
+ [1] In fairness, I have to say that IBM makes decent hardware. I wrote this on an IBM laptop.
 
 [2] They did turn out to be doomed. They shut down a few months later.
 
-[3] I think this is what people mean when they talk about the "meaning of life." On the face of it, this seems an odd idea. Life isn't an expression; how could it have meaning? But it can have a quality that feels a lot like meaning. In a project like a compiler, you have to solve a lot of problems, but the problems all fall into a pattern, as in a signal. Whereas when the problems you have to solve are random, they seem like noise. <!-- What's the meaning of life? A metaphor.-->
+[3] I think this is what people mean when they talk about the "meaning of life." On the face of it, this seems an odd idea. Life isn't an expression; how could it have meaning? But it can have a quality that feels a lot like meaning. In a project like a compiler, you have to solve a lot of problems, but the problems all fall into a pattern, as in a signal. Whereas when the problems you have to solve are random, they seem like noise. 
 
 [4] Einstein at one point worked designing refrigerators. (He had equity.)
 

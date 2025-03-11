@@ -1,6 +1,6 @@
 Programming Bottom-Up
 ---
-1993 <p align=justif> *(This essay is from the introduction to *[On Lisp](onlisp.html)</i>*.)* <!-- The red text explains the origins of [Arc](arc.html)'s name.-->
+1993 <p align=justif> *(This essay is from the introduction to *[On Lisp](onlisp.html)</i>*.)* 
 
 It's a long-standing principle of programming style that the functional elements of a program should not be too large. If some component of a program grows beyond the stage where it's readily comprehensible, it becomes a mass of complexity which conceals errors as easily as a big city conceals fugitives. Such software will be hard to read, hard to test, and hard to debug.
 
@@ -16,7 +16,7 @@ In typical code, once you abstract out the parts which are merely bookkeeping, w
 
 <li> Bottom-up design promotes code re-use. When you write two or more programs, many of the utilities you wrote for the first program will also be useful in the succeeding ones. Once you've acquired a large substrate of utilities, writing a new program can take only a fraction of the effort it would require if you had to start with raw Lisp.
 
-<li> Bottom-up design makes programs easier to read. <!-- %It yields the same result as top-down design %with foresight---the foresight to arrange the branches near the %root of the tree so that among the leaves there is as little %duplication of effort as possible. --> An instance of this type of abstraction asks the reader to understand a general-purpose operator; an instance of functional abstraction asks the reader to understand a special-purpose subroutine. [1]
+<li> Bottom-up design makes programs easier to read.  An instance of this type of abstraction asks the reader to understand a general-purpose operator; an instance of functional abstraction asks the reader to understand a special-purpose subroutine. [1]
 
 <li> Because it causes you always to be on the lookout for patterns in your code, working bottom-up helps to clarify your ideas about the design of your program. If two distant components of a program are similar in form, you'll be led to notice the similarity and perhaps to redesign the program in a simpler way. </ol> <p align=justif> Bottom-up design is possible to a certain degree in languages other than Lisp. Whenever you see library functions, bottom-up design is happening. However, Lisp gives you much broader powers in this department, and augmenting the language plays a proportionately larger role in Lisp style-- so much so that Lisp is not just a different language, but a whole different way of programming.
 

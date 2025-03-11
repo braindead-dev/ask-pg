@@ -6,9 +6,7 @@ This summer, as an experiment, some friends and I are giving [seed funding](http
 
 We know from Google and Yahoo that grad students can start successful startups. And we know from experience that some undergrads are as capable as most grad students. The accepted age for startup founders has been creeping downward. We're trying to find the lower bound.
 
-<!-- There have been cases, certainly, of startups founded by people still in their teens. But I suspect few of them were allowed by investors to be more than mascots.
-
-That's not how we plan to operate. Having done it once, we have no desire to experience again the 24/7 timesuck of running even one startup, let alone eight or ten. We'll give these guys as much help as we can with their ideas, but it will be up to them to sink or swim. --> The deadline has now passed, and we're sifting through 227 applications. <!--We've learned a few surprising things in the process. One pleasant surprise is how few cranks we got. We expected to attract flocks of them, but we've only had a handful. We were surprised, too, at how smart the applicants appear to be. And how extraordinarily energetic. But you know what the most surprising thing is? How bad some of the smartest applicants' ideas are.--> We expected to divide them into two categories, promising and unpromising. But we soon saw we needed a third: promising people with unpromising ideas. <font color=#777777>[<a name="f1" href="#f1n"><font color=#777777>1</font></a>]</font>
+ The deadline has now passed, and we're sifting through 227 applications.  We expected to divide them into two categories, promising and unpromising. But we soon saw we needed a third: promising people with unpromising ideas. <font color=#777777>[<a name="f1" href="#f1n"><font color=#777777>1</font></a>]</font>
 
 **The Artix Phase**
 
@@ -20,7 +18,7 @@ Besides which, art dealers are the most technophobic people on earth. They didn'
 
 Gradually it dawned on us that instead of trying to make Web sites for people who didn't want them, we could make sites for people who did. In fact, software that would let people who wanted sites make their own. So we ditched Artix and started a new company, Viaweb, to make software for building online stores. That one succeeded.
 
-We're in good company here. Microsoft was not the first company Paul Allen and Bill Gates started either. The first was called Traf-o-data. <!-- I don't know exactly what happened to Traf-o-data, but i-->It does not seem to have done as well as Micro-soft. <!-- , as Microsoft was called then.-->
+We're in good company here. Microsoft was not the first company Paul Allen and Bill Gates started either. The first was called Traf-o-data. It does not seem to have done as well as Micro-soft. 
 
 In Robert's defense, he was skeptical about Artix. I dragged him into it. <font color=#777777>[<a name="f3" href="#f3n"><font color=#777777>3</font></a>]</font> But there were moments when he was optimistic. And if we, who were 29 and 30 at the time, could get excited about such a thoroughly boneheaded idea, we should not be surprised that hackers aged 21 or 22 are pitching us ideas with little hope of making money.
 
@@ -76,7 +74,7 @@ Reading the *Wall Street Journal* for a week should give anyone ideas for two or
 
 We expected the most common proposal to be for multiplayer games. We were not far off: this was the second most common. The most common was some combination of a blog, a calendar, a dating site, and Friendster. Maybe there is some new killer app to be discovered here, but it seems perverse to go poking around in this fog when there are valuable, unsolved problems lying about in the open for anyone to see. Why did no one propose a new scheme for micropayments? An ambitious project, perhaps, but I can't believe we've considered every alternative. And newspapers and magazines are (literally) dying for a solution.
 
-Why did so few applicants really think about what customers want? I think the problem with many, as with people in their early twenties generally, is that they've been trained their whole lives to jump through predefined hoops. They've spent 15-20 years solving problems other people have set for them. And how much time deciding what problems would be good to solve? Two or three course projects? <!-- Robert is one of us trying to rank the applications. He's a professor now, and he said recently that reading the proposals felt awfully familiar. --> They're good at solving problems, but bad at choosing them.
+Why did so few applicants really think about what customers want? I think the problem with many, as with people in their early twenties generally, is that they've been trained their whole lives to jump through predefined hoops. They've spent 15-20 years solving problems other people have set for them. And how much time deciding what problems would be good to solve? Two or three course projects?  They're good at solving problems, but bad at choosing them.
 
 But that, I'm convinced, is just the effect of training. Or more precisely, the effect of grading. To make grading efficient, everyone has to solve the same problem, and that means it has to be decided in advance. It would be great if schools taught students how to choose problems as well as how to solve them, but I don't know how you'd run such a class in practice.
 
@@ -100,7 +98,7 @@ A hacker who has learned what to make, and not just how to make, is extraordinar
 
 Doing an Artix teaches you to make something people want in the same way that not drinking anything would teach you how much you depend on water. But it would be more convenient for all involved if the Summer Founders didn't learn this on our dime—if they could skip the Artix phase and go right on to make something customers wanted. That, I think, is going to be the real experiment this summer. How long will it take them to grasp this?
 
-<!--With us beating it into their heads constantly, that is.--> We decided we ought to have T-Shirts for the SFP, and we'd been thinking about what to print on the back. Till now we'd been planning to use <blockquote>If you can read this, I should be working.</blockquote> but now we've decided it's going to be <blockquote>Make something people want.</blockquote>
+ We decided we ought to have T-Shirts for the SFP, and we'd been thinking about what to print on the back. Till now we'd been planning to use <blockquote>If you can read this, I should be working.</blockquote> but now we've decided it's going to be <blockquote>Make something people want.</blockquote>
 
 
 

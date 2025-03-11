@@ -18,9 +18,9 @@ This works well in some fields and badly in others. I suspect it works in movies
 
 In software, paradoxical as it sounds, good craftsmanship means working fast. If you work slowly and meticulously, you merely end up with a very fine implementation of your initial, mistaken idea. Working slowly and meticulously is premature optimization. Better to get a prototype done fast, and see what new ideas it gives you.
 
-It sounds like making movies works a lot like making software. Every movie is a Frankenstein, full of imperfections and usually quite different from what was originally envisioned. But interesting, and finished fairly quickly. <!--If you tried to make movies perfect, they'd never be done.-->
+It sounds like making movies works a lot like making software. Every movie is a Frankenstein, full of imperfections and usually quite different from what was originally envisioned. But interesting, and finished fairly quickly. 
 
-I think we get away with this in movies and software because they're both malleable mediums. Boldness pays. <!-- Nothing is set in stone. You can get away with last minute changes.--> And if at the last minute two parts don't quite fit, you can figure out some hack that will at least conceal the problem.
+I think we get away with this in movies and software because they're both malleable mediums. Boldness pays.  And if at the last minute two parts don't quite fit, you can figure out some hack that will at least conceal the problem.
 
 Not so with cars, or cities. They are all too physical. If the car business worked like software or movies, you'd surpass your competitors by making a car that weighed only fifty pounds, or folded up to the size of a motorcycle when you wanted to park it. But with physical products there are more constraints. You don't win by dramatic innovations so much as by good taste and attention to detail.
 
@@ -40,7 +40,7 @@ Not us. When we make something in America, our aim is just to get the job done. 
 
 Ditto for houses. In America you can have either a flimsy box banged together out of two by fours and drywall, or a McMansion-- a flimsy box banged together out of two by fours and drywall, but larger, more dramatic-looking, and full of expensive fittings. Rich people don't get better design or craftsmanship; they just get a larger, more conspicuous version of the standard house.
 
-We don't especially prize design or craftsmanship here. What we like is speed, and we're willing to do something in an ugly way to get it done fast. In some fields, like software or movies, this is a net win. <!-- But in others, like cars or consumer electronics, it isn't. -->
+We don't especially prize design or craftsmanship here. What we like is speed, and we're willing to do something in an ugly way to get it done fast. In some fields, like software or movies, this is a net win. 
 
 But it's not just that software and movies are malleable mediums. In those businesses, the designers (though they're not generally called that) have more power. Software companies, at least successful ones, tend to be run by programmers. And in the film industry, though producers may second-guess directors, the director controls most of what appears on the screen. And so American software and movies, and Japanese cars, all have this in common: the people in charge care about design-- the former because the designers are in charge, and the latter because the whole culture cares about design.
 

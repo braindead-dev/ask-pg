@@ -50,4 +50,4 @@ The good news is, if you're carrying a burden without knowing it, your life coul
 
 
 
- <!-- <font color=#666666>Like this? Leave a tip. All proceeds to EFF.</font><br> <img src="http://ycombinator.com/s.gif" height=6 width=1><br> <script language="javascript" src="http://tipjoy.com/custombutton/?targetUser=pg&targetUrl=http://paulgraham.com/stuff.html" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" allowtransparency="true" ></script> -->
+ 

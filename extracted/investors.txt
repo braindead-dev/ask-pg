@@ -128,7 +128,7 @@ The best stories about user needs are about your own. A remarkable number of fam
 
 Professional investors hear a lot of pitches. After a while they all blur together. The first cut is simply to be one of those they remember. And the way to ensure that is to create a descriptive phrase about yourself that sticks in their heads.
 
-In Hollywood, these phrases seem to be of the form "x meets y." <!-- "Brokeback Mountain meets Godzilla." [Pauses to contemplate this.] --> In the startup world, they're usually "the x of y" or "the x y." Viaweb's was "the Microsoft Word of ecommerce."
+In Hollywood, these phrases seem to be of the form "x meets y."  In the startup world, they're usually "the x of y" or "the x y." Viaweb's was "the Microsoft Word of ecommerce."
 
 Find one and launch it clearly (but apparently casually) in your talk, preferably near the beginning.
 

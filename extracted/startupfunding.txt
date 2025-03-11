@@ -2,7 +2,7 @@ How to Fund a Startup
 ---
 November 2005
 
-<!-- <i>(This article is meant to be a complete summary of funding options for startup founders. In effect we're open-sourcing the kernel of what we tell founders about funding at <nota href="http://ycombinator.com">Y Combinator</a>.)</i> --> Venture funding works like gears. A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear.
+ Venture funding works like gears. A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear.
 
 Few startups get it quite right. Many are underfunded. A few are overfunded, which is like trying to start driving in third gear.
 
@@ -100,7 +100,7 @@ What is an incubator? I'm not sure myself. The defining quality seems to be that
 
 The classic Bubble incubators, most of which now seem to be dead, were like VC firms except that they took a much bigger role in the startups they funded. In addition to working in their space, you were supposed to use their office staff, lawyers, accountants, and so on.
 
-Whereas incubators tend (or tended) to exert more control than VCs, Y Combinator exerts less. <!-- We just supply seed money, advice, and introductions. We don't want any control over the startups we fund. --> And we think it's better if startups operate out of their own premises, however crappy, than the offices of their investors. So it's annoying that we keep getting called an "incubator," but perhaps inevitable, because there's only one of us so far and no word yet for what we are. If we have to be called something, the obvious name would be "excubator." (The name is more excusable if one considers it as meaning that we enable people to escape cubicles.)
+Whereas incubators tend (or tended) to exert more control than VCs, Y Combinator exerts less.  And we think it's better if startups operate out of their own premises, however crappy, than the offices of their investors. So it's annoying that we keep getting called an "incubator," but perhaps inevitable, because there's only one of us so far and no word yet for what we are. If we have to be called something, the obvious name would be "excubator." (The name is more excusable if one considers it as meaning that we enable people to escape cubicles.)
 
 Because seed firms are companies rather than individual people, reaching them is easier than reaching angels. Just go to their web site and send them an email. The importance of personal introductions varies, but is less than with angels or VCs.
 
@@ -270,7 +270,7 @@ A frightening prospect? In a way. And yet also in a way encouraging. The very un
 
 [6] I've omitted one source: government grants. I don't think these are even worth thinking about for the average startup. Governments may mean well when they set up grant programs to encourage startups, but what they give with one hand they take away with the other: the process of applying is inevitably so arduous, and the restrictions on what you can do with the money so burdensome, that it would be easier to take a job to get the money.
 
-<!-- Here's an excerpt from an email I got from a German startup founder: <blockquote> I recently got 50k EUR government funding for technological innovation (basically to buy software, computers and so on). I can't hire people on that money (except pay myself absolute minimum wage) and the money is spread over 18 months and arrives with a delay of 6 months. I can't spend money on my accountant, or any non-technology costs (can't buy chairs either). To solve my money problems and try to set my mind at ease, I have been thinking to do consultancy work for other people. </blockquote> --> You should be especially suspicious of grants whose purpose is some kind of social engineering-- e.g. to encourage more startups to be started in Mississippi. Free money to start a startup in a place where few succeed is hardly free.
+ You should be especially suspicious of grants whose purpose is some kind of social engineering-- e.g. to encourage more startups to be started in Mississippi. Free money to start a startup in a place where few succeed is hardly free.
 
 Some government agencies run venture funding groups, which make investments rather than giving grants. For example, the CIA runs a venture fund called In-Q-Tel that is modelled on private sector funds and apparently generates good returns. They would probably be worth approaching—if you don't mind taking money from the CIA.
 

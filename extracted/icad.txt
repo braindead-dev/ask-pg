@@ -6,21 +6,7 @@ May 2002
 
 - Guy Steele, co-author of the Java spec </font> </td></tr></table> </td></tr></table>
 
-<!--*(This is an expanded version of the keynote lecture at the International ICAD User's Group conference in May 2002. It explains how a language developed in 1958 manages to be the most powerful available even today, what power is and when you need it, and why pointy-haired bosses (ideally, your competitors' pointy-haired bosses) deliberately ignore this issue.)
-
-**Note:** In this talk by "Lisp", I mean the Lisp family of
-
-languages, including Common Lisp, Scheme, Emacs Lisp, EuLisp, Goo, Arc, etc.*
-
- --> <!-- Let me start by admitting that I don't know much about ICAD. I do know that it's written in Lisp, and in fact includes Lisp, in the sense that it lets users create and run Lisp programs.
-
-It's fairly common for programs written in Lisp to include Lisp. Emacs does, and so does Yahoo Store. But if you think about it, that's kind of strange. How many programs written in C include C, in the sense that the user actually runs the C compiler while he's using the application? I can't think of any, unless you count Unix as an application. We're only a minute into this talk and already Lisp is looking kind of unusual.
-
-Now, it is probably not news to any of you that Lisp is looking unusual. In fact, that was probably the first thing you noticed about it.
-
-Believe it or not, there is a reason Lisp code looks so strange. Lisp doesn't look this way because it was designed by a bunch of pointy-headed academics. It *was* designed by pointy-headed academics, but they had hard-headed engineering reasons for making the syntax look so strange.
-
-**Are All Languages Equivalent?** --> In the software business there is an ongoing struggle between the pointy-headed academics, and another equally formidable force, the pointy-haired bosses. Everyone knows who the pointy-haired boss is, right? I think most people in the technology world not only recognize this cartoon character, but know the actual person in their company that he is modelled upon.
+  In the software business there is an ongoing struggle between the pointy-headed academics, and another equally formidable force, the pointy-haired bosses. Everyone knows who the pointy-haired boss is, right? I think most people in the technology world not only recognize this cartoon character, but know the actual person in their company that he is modelled upon.
 
 The pointy-haired boss miraculously combines two qualities that are common by themselves, but rarely seen together: (a) he knows nothing whatsoever about technology, and (b) he has very strong opinions about it.
 
@@ -180,7 +166,7 @@ In Smalltalk the code is slightly longer than in Lisp <font face=courier><xmp> f
 
 In Javascript the example is, again, slightly longer, because Javascript retains the distinction between statements and expressions, so you need explicit <tt>return</tt> statements to return values: <font face=courier><xmp> function foo(n) { return function (i) { return n += i } } </xmp></font> (To be fair, Perl also retains this distinction, but deals with it in typical Perl fashion by letting you omit <tt>return</tt>s.)
 
-If you try to translate the Lisp/Perl/Smalltalk/Javascript code into Python you run into some limitations. Because Python doesn't fully support lexical variables, you have to create a data structure to hold the value of n. And although Python does have a function data type, there is no literal representation for one (unless the body is only a single expression) so you need to create a named function to return. This is what you end up with: <font face=courier><xmp> def foo(n): s = [n] def bar(i): s[0] += i return s[0] return bar </xmp></font> Python users might legitimately ask why they can't just write <font face=courier><xmp> def foo(n): return lambda i: return n += i </xmp></font> or even <font face=courier><xmp> def foo(n): lambda i: n += i </xmp></font> and my guess is that they probably will, one day. (But if they don't want to wait for Python to evolve the rest of the way into Lisp, they could always just...) <!-- (Oscar Wilde: "I wish I had said that." Whistler: "You will, Oscar, you will.") -->
+If you try to translate the Lisp/Perl/Smalltalk/Javascript code into Python you run into some limitations. Because Python doesn't fully support lexical variables, you have to create a data structure to hold the value of n. And although Python does have a function data type, there is no literal representation for one (unless the body is only a single expression) so you need to create a named function to return. This is what you end up with: <font face=courier><xmp> def foo(n): s = [n] def bar(i): s[0] += i return s[0] return bar </xmp></font> Python users might legitimately ask why they can't just write <font face=courier><xmp> def foo(n): return lambda i: return n += i </xmp></font> or even <font face=courier><xmp> def foo(n): lambda i: n += i </xmp></font> and my guess is that they probably will, one day. (But if they don't want to wait for Python to evolve the rest of the way into Lisp, they could always just...) 
 
 In OO languages, you can, to a limited extent, simulate a closure (a function that refers to variables defined in enclosing scopes) by defining a class with one method and a field to replace each variable from an enclosing scope. This makes the programmer do the kind of code analysis that would be done by the compiler in a language with full support for lexical scope, and it won't work if more than one function refers to the same variable, but it is enough in simple cases like this.
 
