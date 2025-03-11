@@ -8,7 +8,7 @@ The way Apple runs the App Store has harmed their reputation with programmers mo
 
 How much of the goodwill Apple once had with programmers have they lost over the App Store? A third? Half? And that's just so far. The App Store is an ongoing karma leak.
 
-<center>* * *</center>
+---
 
 How did Apple get into this mess? Their fundamental problem is that they don't understand software.
 
@@ -26,7 +26,7 @@ They get away with maltreating developers, in the short term, because they make 
 
 So I bought it, but I bought it, for the first time, with misgivings. I felt the way I'd feel buying something made in a country with a bad human rights record. That was new. In the past when I bought things from Apple it was an unalloyed pleasure. Oh boy! They make such great stuff. This time it felt like a Faustian bargain. They make such great stuff, but they're such assholes. Do I really want to support this company?
 
-<center>* * *</center>
+---
 
 Should Apple care what people like me think? What difference does it make if they alienate a small minority of their users?
 
@@ -46,7 +46,7 @@ The main reason there are so many iPhone apps is that so many programmers have i
 
 So programmers continue to develop iPhone apps, even though Apple continues to maltreat them. They're like someone stuck in an abusive relationship. They're so attracted to the iPhone that they can't leave. But they're looking for a way out. One wrote: <blockquote> While I did enjoy developing for the iPhone, the control they place on the App Store does not give me the drive to develop applications as I would like. In fact I don't intend to make any more iPhone applications unless absolutely necessary. [4] </blockquote> Can anything break this cycle? No device I've seen so far could. Palm and RIM haven't a hope. The only credible contender is Android. But Android is an orphan; Google doesn't really care about it, not the way Apple cares about the iPhone. Apple cares about the iPhone the way Google cares about search.
 
-<center>* * *</center>
+---
 
 Is the future of handheld devices one locked down by Apple? It's a worrying prospect. It would be a bummer to have another grim monoculture like we had in the 1990s. In 1995, writing software for end users was effectively identical with writing Windows applications. Our horror at that prospect was the single biggest thing that drove us to start building [web apps](road.html).
 
@@ -72,7 +72,7 @@ My current development machine is a MacBook Air, which I use with an external mo
 
 [1] When Google adopted "Don't be evil," they were still so small that no one would have expected them to be, yet.
 
- [2] The dictator in the 1984 ad isn't Microsoft, incidentally; it's IBM. IBM seemed a lot more frightening in those days, but they were friendlier to developers than Apple is now.
+[2] The dictator in the 1984 ad isn't Microsoft, incidentally; it's IBM. IBM seemed a lot more frightening in those days, but they were friendlier to developers than Apple is now.
 
 [3] He couldn't even afford a *monitor*. That's why the Apple I used a TV as a monitor.
 

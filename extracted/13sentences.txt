@@ -4,7 +4,9 @@ February 2009
 
 One of the things I always tell startups is a principle I learned from Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy. I was saying recently to a reporter that if I could only tell startups 10 things, this would be one of them. Then I thought: what would the other 9 be?
 
-When I made the list there turned out to be 13: <p style="margin-top:32px"> **1. Pick good cofounders.**
+When I made the list there turned out to be 13: 
+
+**1. Pick good cofounders.**
 
 Cofounders are for a startup what location is for real estate. You can change anything about a house except where it is. In a startup you can change your idea easily, but changing your cofounders is hard. [1] And the success of a startup is almost always a function of its founders.
 
