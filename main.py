@@ -1,40 +1,37 @@
-import os
-import re
 from pathlib import Path
+import re
 
-def extract_content(text):
-    # Extract title
-    title_pattern = r'<title>(.*?)</title>'
-    title_match = re.search(title_pattern, text)
-    title = title_match.group(1) if title_match else "No Title Found"
+def clean_text(text):
+    # Replace &mdash; with em dash
+    text = text.replace("&mdash;", "—")
     
-    # Extract content
-    content_pattern = r'<br /><br /><font size="2" face="verdana">(.*?)<br /><br /></font></td></tr>'
-    content_match = re.search(content_pattern, text, re.DOTALL)  # re.DOTALL to match across lines
-    content = content_match.group(1) if content_match else "No Content Found"
+    # Replace <br /> with newline
+    text = text.replace("<br />", "\n")
     
-    return title, content
+    # Convert <a> tags to markdown links
+    # Pattern matches <a href="URL">TEXT</a>
+    pattern = r'<a href="([^"]+)">([^<]+)</a>'
+    text = re.sub(pattern, r'[\2](\1)', text)
+    
+    return text
 
 def process_files():
     # Get all txt files in extracted directory
     extracted_dir = Path("extracted")
     for file_path in extracted_dir.glob("*.txt"):
         try:
-            # Read the original file
+            # Read the file
             with open(file_path, 'r', encoding='utf-8') as f:
                 text = f.read()
             
-            # Extract title and content
-            title, content = extract_content(text)
-            
-            # Format new content
-            new_content = f"{title}\n---\n{content}"
+            # Clean the text
+            cleaned_text = clean_text(text)
             
             # Write back to the same file
             with open(file_path, 'w', encoding='utf-8') as f:
-                f.write(new_content)
+                f.write(cleaned_text)
                 
-            print(f"Successfully processed: {file_path}")
+            print(f"Successfully cleaned: {file_path}")
             
         except Exception as e:
             print(f"Error processing {file_path}: {str(e)}")
