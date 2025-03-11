@@ -4,7 +4,7 @@ February 2009
 
 Hacker News was two years old last week. Initially it was supposed to be a side project—an application to sharpen Arc on, and a place for current and future Y Combinator founders to exchange news. It's grown bigger and taken up more time than I expected, but I don't regret that because I've learned so much from working on it.
 
-<b>Growth</b>
+**Growth**
 
 When we launched in February 2007, weekday traffic was around 1600 daily uniques. It's since [grown](http://ycombinator.com/images/2yeartraffic.png) to around 22,000. This growth rate is a bit higher than I'd like. I'd like the site to grow, since a site that isn't growing at least slowly is probably dead. But I wouldn't want it to grow as large as Digg or Reddit—mainly because that would dilute the character of the site, but also because I don't want to spend all my time dealing with scaling.
 
@@ -14,7 +14,7 @@ This is my attitude to the site generally. Hacker News is an experiment, and an 
 
 That's why I'm so optimistic about HN. When a technology is this young, the existing solutions are usually terrible; which means it must be possible to do much better; which means many problems that seem insoluble aren't. Including, I hope, the problem that has afflicted so many previous communities: being ruined by growth.
 
-<b>Dilution</b>
+**Dilution**
 
 Users have worried about that since the site was a few months old. So far these alarms have been false, but they may not always be. Dilution is a hard problem. But probably soluble; it doesn't mean much that open conversations have "always" been destroyed by growth when "always" equals 20 instances.
 
@@ -34,7 +34,7 @@ But what happened to Reddit won't inevitably happen to HN. There are several loc
 
 I've observed this in the wild. I've seen people cross-posting on Reddit and Hacker News who actually took the trouble to write two versions, a flame for Reddit and a more subdued version for HN.
 
-<b>Submissions</b>
+**Submissions**
 
 There are two major types of problems a site like Hacker News needs to avoid: bad stories and bad comments. So far the danger of bad stories seems smaller. The stories on the frontpage now are still roughly the ones that would have been there when HN started.
 
@@ -52,7 +52,7 @@ The techniques for dealing with links have to evolve, because the links do. The 
 
 I think it's important that a site that kills submissions provide a way for users to see what got killed if they want to. That keeps editors honest, and just as importantly, makes users confident they'd know if the editors stopped being honest. HN users can do this by flipping a switch called showdead in their profile. [4]
 
-<b>Comments</b>
+**Comments**
 
 Bad comments seem to be a harder problem than bad submissions. While the quality of links on the frontpage of HN hasn't changed much, the quality of the median comment may have decreased somewhat.
 
@@ -68,7 +68,7 @@ Bad comments are like kudzu: they take over rapidly. Comments have much more eff
 
 Maybe the solution is to add a delay before people can respond to a comment, and make the length of the delay inversely proportional to some prediction of its quality. Then dumb threads would grow slower. [6]
 
- <b>People</b>
+ **People**
 
 I notice most of the techniques I've described are conservative: they're aimed at preserving the character of the site rather than enhancing it. I don't think that's a bias of mine. It's due to the shape of the problem. Hacker News had the good fortune to start out good, so in this case it's literally a matter of preservation. But I think this principle would also apply to sites with different origins.
 
@@ -86,7 +86,7 @@ I feel like the addictiveness of games and social applications is still a mostly
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] I tried ranking users by both average and median comment score, and average (with the high score thrown out) seemed the more accurate predictor of high quality. Median may be the more accurate predictor of low quality though.
 
@@ -112,7 +112,7 @@ You may not have to kill bad comments to solve the problem. Comments at the bott
 
 [7] What makes most suburbs so demoralizing is that there's no center to walk to.
 
- <b>Thanks</b> to Justin Kan, Jessica Livingston, Robert Morris, Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of this.
+ **Thanks** to Justin Kan, Jessica Livingston, Robert Morris, Alexis Ohanian, Emmet Shear, and Fred Wilson for reading drafts of this.
 
 <img src="http://ycombinator.com/images/y18.gif"> [Comment](http://news.ycombinator.com/item?id=495053) on this essay.
 

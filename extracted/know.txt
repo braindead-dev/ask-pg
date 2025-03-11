@@ -28,4 +28,4 @@ Eventually we may be able not just to play back experiences but also to index an
 
 
 
- <b>Thanks</b> to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.
+ **Thanks** to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.

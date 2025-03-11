@@ -18,7 +18,7 @@ While I'm sure Larry and Sergey do want to change the world, at least now, the r
 
 Corporate M&A is a strange business in that respect. They consistently lose the best deals, because turning down reasonable offers is the most reliable test you could invent for whether a startup will make it big.
 
-<b>VCs</b>
+**VCs**
 
 So what's the real reason there aren't more Googles? Curiously enough, it's the same reason Google and Facebook have remained independent: money guys undervalue the most innovative startups.
 
@@ -34,7 +34,7 @@ Whoever the next Google is, they're probably being told right now by VCs to come
 
 Why are VCs so conservative? It's probably a combination of factors. The large size of their investments makes them conservative. Plus they're investing other people's money, which makes them worry they'll get in trouble if they do something risky and it fails. Plus most of them are money guys rather than technical guys, so they don't understand what the startups they're investing in do.
 
-<a name="next"><b>What's Next</b></a>
+<a name="next">**What's Next**</a>
 
 The exciting thing about market economies is that stupidity equals opportunity. And so it is in this case. There is a huge, unexploited opportunity in startup investing. Y Combinator funds startups at the very beginning. VCs will fund them once they're already starting to succeed. But between the two there is a substantial gap.
 
@@ -56,8 +56,8 @@ But there is a big opportunity here, and one way or the other it's going to get 
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Another tip: If you want to get all that value, don't destroy the startup after you buy it. Give the founders enough autonomy that they can grow the acquisition into what it would have become.
 
-<b>Thanks</b> to Sam Altman, Paul Buchheit, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
+**Thanks** to Sam Altman, Paul Buchheit, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.

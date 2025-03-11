@@ -34,7 +34,7 @@ What's more, it wouldn't take very long. You could probably do it in five years.
 
 But now comes the hard part. You have to pick the startups. How do you do that? Picking startups is a rare and valuable skill, and the handful of people who have it are not readily hireable. And this skill is so hard to measure that if a government did try to hire people with it, they'd almost certainly get the wrong ones.
 
-For example, a city could give money to a VC fund to establish a local branch, and let them make the choices. But only a bad VC fund would take that deal. They wouldn't <i>seem</i> bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs. All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. [2]
+For example, a city could give money to a VC fund to establish a local branch, and let them make the choices. But only a bad VC fund would take that deal. They wouldn't *seem* bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs. All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. [2]
 
 What you really want is a pool of local angel investors—people investing money they made from their own startups. But unfortunately you run into a chicken and egg problem here. If your city isn't already a startup hub, there won't be people there who got rich from startups. And there is no way I can think of that a city could attract angels from outside. By definition they're rich. There's no incentive that would make them move. [3]
 
@@ -78,7 +78,7 @@ I realize the chance of any city having the political will to carry out this pla
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] What people who start these supposedly local seed firms always find is that (a) their applicants come from all over, not just the local area, and (b) the local startups also apply to the other seed firms. So what ends up happening is that the applicant pool gets partitioned by quality rather than geography.
 
@@ -88,4 +88,4 @@ I realize the chance of any city having the political will to carry out this pla
 
 [4] Thanks to Michael Keenan for pointing this out.
 
-<b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
+**Thanks** to Trevor Blackwell, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.

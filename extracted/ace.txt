@@ -12,7 +12,7 @@ Keep reading, and you'll learn both simultaneously.
 
 I know the politicians are mistaken because it was my job to predict which people will become billionaires. I think I can truthfully say that I know as much about how to do this as anyone. If the key to becoming a billionaire  the defining feature of billionaires  was to exploit people, then I, as a professional billionaire scout, would surely realize this and look for people who would be good at it, just as an NFL scout looks for speed in wide receivers.
 
-But aptitude for exploiting people is not what Y Combinator looks for at all. In fact, it's the opposite of what they look for. I'll tell you what they do look for, by explaining how to convince Y&nbsp;Combinator to fund you, and you can see for yourself.
+But aptitude for exploiting people is not what Y Combinator looks for at all. In fact, it's the opposite of what they look for. I'll tell you what they do look for, by explaining how to convince Y Combinator to fund you, and you can see for yourself.
 
 What YC looks for, above all, is founders who understand some group of users and can make what they want. This is so important that it's YC's motto: "Make something people want."
 
@@ -26,11 +26,11 @@ So the YC partners have to guess both whether you've discovered a real need, and
 
 The first thing the partners will try to figure out, usually, is whether what you're making will ever be something a lot of people want. It doesn't have to be something a lot of people want now. The product and the market will both evolve, and will influence each other's evolution. But in the end there has to be something with a huge market. That's what the partners will be trying to figure out: is there a path to a huge market? [1]
 
-Sometimes it's obvious there will be a huge market. If <a href="https://boomsupersonic.com/"><u>Boom</u></a> manages to ship an airliner at all, international airlines will have to buy it. But usually it's not obvious. Usually the path to a huge market is by growing a small market. This idea is important enough that it's worth coining a phrase for, so let's call one of these small but growable markets a "larval market."
+Sometimes it's obvious there will be a huge market. If [Boom](https://boomsupersonic.com/) manages to ship an airliner at all, international airlines will have to buy it. But usually it's not obvious. Usually the path to a huge market is by growing a small market. This idea is important enough that it's worth coining a phrase for, so let's call one of these small but growable markets a "larval market."
 
 The perfect example of a larval market might be Apple's market when they were founded in 1976. In 1976, not many people wanted their own computer. But more and more started to want one, till now every 10 year old on the planet wants a computer (but calls it a "phone").
 
-The ideal combination is the group of founders who are <a href="startupideas.html"><u>"living in the future"</u></a> in the sense of being at the leading edge of some kind of change, and who are building something they themselves want. Most super-successful startups are of this type. Steve Wozniak wanted a computer. Mark Zuckerberg wanted to engage online with his college friends. Larry and Sergey wanted to find things on the web. All these founders were building things they and their peers wanted, and the fact that they were at the leading edge of change meant that more people would want these things in the future.
+The ideal combination is the group of founders who are ["living in the future"](startupideas.html) in the sense of being at the leading edge of some kind of change, and who are building something they themselves want. Most super-successful startups are of this type. Steve Wozniak wanted a computer. Mark Zuckerberg wanted to engage online with his college friends. Larry and Sergey wanted to find things on the web. All these founders were building things they and their peers wanted, and the fact that they were at the leading edge of change meant that more people would want these things in the future.
 
 But although the ideal larval market is oneself and one's peers, that's not the only kind. A larval market might also be regional, for example. You build something to serve one location, and then expand to others.
 
@@ -68,11 +68,11 @@ Though the Airbnbs only did ok in the idea department, they did spectacularly we
 
 It wasn't just the cereal story that showed that, though. The whole interview showed that they cared. They weren't doing this just for the money, or because startups were cool. The reason they were working so hard on this company was because it was their project. They had discovered an interesting new idea, and they just couldn't let it go.
 
-Mundane as it sounds, that's the most powerful motivator of all, not just in startups, but in most ambitious undertakings: to be <a href="genius.html"><u>genuinely interested</u></a> in what you're building. This is what really drives billionaires, or at least the ones who become billionaires from starting companies. The company is their project.
+Mundane as it sounds, that's the most powerful motivator of all, not just in startups, but in most ambitious undertakings: to be [genuinely interested](genius.html) in what you're building. This is what really drives billionaires, or at least the ones who become billionaires from starting companies. The company is their project.
 
 One thing few people realize about billionaires is that all of them could have stopped sooner. They could have gotten acquired, or found someone else to run the company. Many founders do. The ones who become really rich are the ones who keep working. And what makes them keep working is not just money. What keeps them working is the same thing that keeps anyone else working when they could stop if they wanted to: that there's nothing else they'd rather do.
 
-That, not exploiting people, is the defining quality of people who become billionaires from starting companies. So that's what YC looks for in founders: authenticity. People's motives for starting startups are usually mixed. They're usually doing it from some combination of the desire to make money, the desire to seem cool, genuine interest in the problem, and unwillingness to work for someone else. The last two are more powerful motivators than the first two. It's ok for founders to want to make money or to seem cool. Most do. But if the founders seem like they're doing it <i>just</i> to make money or <i>just</i> to seem cool, they're not likely to succeed on a big scale. The founders who are doing it for the money will take the first sufficiently large acquisition offer, and the ones who are doing it to seem cool will rapidly discover that there are much less painful ways of seeming cool. [3]
+That, not exploiting people, is the defining quality of people who become billionaires from starting companies. So that's what YC looks for in founders: authenticity. People's motives for starting startups are usually mixed. They're usually doing it from some combination of the desire to make money, the desire to seem cool, genuine interest in the problem, and unwillingness to work for someone else. The last two are more powerful motivators than the first two. It's ok for founders to want to make money or to seem cool. Most do. But if the founders seem like they're doing it *just* to make money or *just* to seem cool, they're not likely to succeed on a big scale. The founders who are doing it for the money will take the first sufficiently large acquisition offer, and the ones who are doing it to seem cool will rapidly discover that there are much less painful ways of seeming cool. [3]
 
 Y Combinator certainly sees founders whose m.o. is to exploit people. YC is a magnet for them, because they want the YC brand. But when the YC partners detect someone like that, they reject them. If bad people made good founders, the YC partners would face a moral dilemma. Fortunately they don't, because bad people make bad founders. This exploitative type of founder is not going to succeed on a large scale, and in fact probably won't even succeed on a small one, because they're always going to be taking shortcuts. They see YC itself as a shortcut.
 
@@ -88,7 +88,7 @@ There are certainly some people who become rich by doing bad things. But there a
 
 The greatest danger of this nonsense may not even be that it sends policy astray, but that it misleads ambitious people. Can you imagine a better way to destroy social mobility than by telling poor kids that the way to get rich is by exploiting people, while the rich kids know, from having watched the preceding generation do it, how it's really done?
 
-I'll tell you how it's really done, so you can at least tell your own kids the truth. It's all about users. The most reliable way to become a billionaire is to start a company that <a href="growth.html"><u>grows fast</u></a>, and the way to grow fast is to make what users want. Newly started startups have no choice but to delight users, or they'll never even get rolling. But this never stops being the lodestar, and bigger companies take their eye off it at their peril. Stop delighting users, and eventually someone else will.
+I'll tell you how it's really done, so you can at least tell your own kids the truth. It's all about users. The most reliable way to become a billionaire is to start a company that [grows fast](growth.html), and the way to grow fast is to make what users want. Newly started startups have no choice but to delight users, or they'll never even get rolling. But this never stops being the lodestar, and bigger companies take their eye off it at their peril. Stop delighting users, and eventually someone else will.
 
 Users are what the partners want to know about in YC interviews, and what I want to know about when I talk to founders that we funded ten years ago and who are billionaires now. What do users want? What new things could you build for them? Founders who've become billionaires are always eager to talk about that topic. That's how they became billionaires.
 
@@ -100,7 +100,7 @@ Users are what the partners want to know about in YC interviews, and what I want
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] The YC partners have so much practice doing this that they sometimes see paths that the founders themselves haven't seen yet. The partners don't try to seem skeptical, as buyers in transactions often do to increase their leverage. Although the founders feel their job is to convince the partners of the potential of their idea, these roles are not infrequently reversed, and the founders leave the interview feeling their idea has more potential than they realized.
 
@@ -112,4 +112,4 @@ Users are what the partners want to know about in YC interviews, and what I want
 
 
 
-<b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this.
+**Thanks** to Trevor Blackwell, Jessica Livingston, Robert Morris, Geoff Ralston, and Harj Taggar for reading drafts of this.

@@ -34,4 +34,4 @@ It will be the same with writing. There will still be smart people, but only tho
 
 
 
-<font color="888888"><b>Thanks</b> to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this.</font>
+<font color="888888">**Thanks** to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this.</font>

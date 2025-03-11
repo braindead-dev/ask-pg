@@ -2,11 +2,11 @@ The Age of the Essay
 ---
 September 2004
 
-Remember the essays you had to write in high school? Topic sentence, introductory paragraph, supporting paragraphs, conclusion. The conclusion being, say, that Ahab in <i>Moby Dick</i> was a Christ-like figure.
+Remember the essays you had to write in high school? Topic sentence, introductory paragraph, supporting paragraphs, conclusion. The conclusion being, say, that Ahab in *Moby Dick* was a Christ-like figure.
 
 Oy. So I'm going to try to give the other side of the story: what an essay really is, and how you write one. Or at least, how I write one.
 
-<b>Mods</b>
+**Mods**
 
 The most obvious difference between real essays and the things one has to write in school is that real essays are not exclusively about English literature. Certainly schools should teach students how to write. But due to a series of historical accidents the teaching of writing has gotten mixed together with the study of literature. And so all over the country students are writing not about how a baseball team with a small budget might compete with the Yankees, or the role of color in fashion, or what constitutes a good dessert, but about symbolism in Dickens.
 
@@ -30,7 +30,7 @@ High schools imitate universities. The seeds of our miserable high school experi
 
 It's no wonder if this seems to the student a pointless exercise, because we're now three steps removed from real work: the students are imitating English professors, who are imitating classical scholars, who are merely the inheritors of a tradition growing out of what was, 700 years ago, fascinating and urgently needed work.
 
-<b>No Defense</b>
+**No Defense**
 
 The other big difference between a real essay and the things they make you write in school is that a real essay doesn't take a position and then defend it. That principle, like the idea that we ought to be writing about literature, turns out to be another intellectual hangover of long forgotten origins.
 
@@ -46,9 +46,9 @@ At the very least I must have explained something badly. In that case, in the co
 
 The sort of writing that attempts to persuade may be a valid (or at least inevitable) form, but it's historically inaccurate to call it an essay. An essay is something else.
 
-<b>Trying</b>
+**Trying**
 
-To understand what a real essay is, we have to reach back into history again, though this time not so far. To Michel de Montaigne, who in 1580 published a book of what he called "essais." He was doing something quite different from what lawyers do, and the difference is embodied in the name. <i>Essayer</i> is the French verb meaning "to try" and an <i>essai</i> is an attempt. An essay is something you write to try to figure something out.
+To understand what a real essay is, we have to reach back into history again, though this time not so far. To Michel de Montaigne, who in 1580 published a book of what he called "essais." He was doing something quite different from what lawyers do, and the difference is embodied in the name. *Essayer* is the French verb meaning "to try" and an *essai* is an attempt. An essay is something you write to try to figure something out.
 
 Figure out what? You don't know yet. And so you can't begin with a thesis, because you don't have one, and may never have one. An essay doesn't begin with a statement, but with a question. In a real essay, you don't take a position and defend it. You notice a door that's ajar, and you open it and walk in to see what's inside.
 
@@ -60,11 +60,11 @@ But not quite. Just as inviting people over forces you to clean up your apartmen
 
 Many published essays peter out in the same way. Particularly the sort written by the staff writers of newsmagazines. Outside writers tend to supply editorials of the defend-a-position variety, which make a beeline toward a rousing (and foreordained) conclusion. But the staff writers feel obliged to write something "balanced." Since they're writing for a popular magazine, they start with the most radioactively controversial questions, from which-- because they're writing for a popular magazine-- they then proceed to recoil in terror. Abortion, for or against? This group says one thing. That group says another. One thing is certain: the question is a complex one. (But don't get mad at us. We didn't draw any conclusions.)
 
-<b>The River</b>
+**The River**
 
 Questions aren't enough. An essay has to come up with answers. They don't always, of course. Sometimes you start with a promising question and get nowhere. But those you don't publish. Those are like experiments that get inconclusive results. An essay you publish ought to tell the reader something he didn't already know.
 
-But <i>what</i> you tell him doesn't matter, so long as it's interesting. I'm sometimes accused of meandering. In defend-a-position writing that would be a flaw. There you're not concerned with truth. You already know where you're going, and you want to go straight there, blustering through obstacles, and hand-waving your way across swampy ground. But that's not what you're trying to do in an essay. An essay is supposed to be a search for truth. It would be suspicious if it didn't meander.
+But *what* you tell him doesn't matter, so long as it's interesting. I'm sometimes accused of meandering. In defend-a-position writing that would be a flaw. There you're not concerned with truth. You already know where you're going, and you want to go straight there, blustering through obstacles, and hand-waving your way across swampy ground. But that's not what you're trying to do in an essay. An essay is supposed to be a search for truth. It would be suspicious if it didn't meander.
 
 The Meander (aka Menderes) is a river in Turkey. As you might expect, it winds all over the place. But it doesn't do this out of frivolity. The path it has discovered is the most economical route to the sea. [6]
 
@@ -76,7 +76,7 @@ Fundamentally an essay is a train of thought-- but a cleaned-up train of thought
 
 Err on the side of the river. An essay is not a reference work. It's not something you read looking for a specific answer, and feel cheated if you don't find it. I'd much rather read an essay that went off in an unexpected but interesting direction than one that plodded dutifully along a prescribed course.
 
-<b>Surprise</b>
+**Surprise**
 
 So what's interesting? For me, interesting means surprise. Interfaces, as Geoffrey James has said, should follow the principle of least astonishment. A button that looks like it will make a machine stop should make it stop, not speed up. Essays should do the opposite. Essays should aim for maximum surprise.
 
@@ -94,7 +94,7 @@ What should you think about? My guess is that it doesn't matter-- that anything 
 
 I didn't notice those things at the time, though. At sixteen I was about as observant as a lump of rock. I can see more now in the fragments of memory I preserve of that age than I could see at the time from having it all happening live, right in front of me.
 
-<b>Observation</b>
+**Observation**
 
 So the ability to ferret out the unexpected must not merely be an inborn one. It must be something you can learn. How do you learn it?
 
@@ -112,19 +112,19 @@ I have a hunch you want to pay attention not just to things that seem wrong, but
 
 I write down things that surprise me in notebooks. I never actually get around to reading them and using what I've written, but I do tend to reproduce the same thoughts later. So the main value of notebooks may be what writing things down leaves in your head.
 
-People trying to be cool will find themselves at a disadvantage when collecting surprises. To be surprised is to be mistaken. And the essence of cool, as any fourteen year old could tell you, is <i>nil admirari.</i> When you're mistaken, don't dwell on it; just act like nothing's wrong and maybe no one will notice.
+People trying to be cool will find themselves at a disadvantage when collecting surprises. To be surprised is to be mistaken. And the essence of cool, as any fourteen year old could tell you, is *nil admirari.* When you're mistaken, don't dwell on it; just act like nothing's wrong and maybe no one will notice.
 
 One of the keys to coolness is to avoid situations where inexperience may make you look foolish. If you want to find surprises you should do the opposite. Study lots of different things, because some of the most interesting surprises are unexpected connections between different fields. For example, jam, bacon, pickles, and cheese, which are among the most pleasing of foods, were all originally intended as methods of preservation. And so were books and paintings.
 
-Whatever you study, include history-- but social and economic history, not political history. History seems to me so important that it's misleading to treat it as a mere field of study. Another way to describe it is <i>all the data we have so far.</i>
+Whatever you study, include history-- but social and economic history, not political history. History seems to me so important that it's misleading to treat it as a mere field of study. Another way to describe it is *all the data we have so far.*
 
 Among other things, studying history gives one confidence that there are good ideas waiting to be discovered right under our noses. Swords evolved during the Bronze Age out of daggers, which (like their flint predecessors) had a hilt separate from the blade. Because swords are longer the hilts kept breaking off. But it took five hundred years before someone thought of casting hilt and blade as one piece.
 
-<b>Disobedience</b>
+**Disobedience**
 
 Above all, make a habit of paying attention to things you're not supposed to, either because they're "[inappropriate](say.html)," or not important, or not what you're supposed to be working on. If you're curious about something, trust your instincts. Follow the threads that attract your attention. If there's something you're really interested in, you'll find they have an uncanny way of leading back to it anyway, just as the conversation of people who are especially proud of something always tends to lead back to it.
 
-For example, I've always been fascinated by comb-overs, especially the extreme sort that make a man look as if he's wearing a beret made of his own hair. Surely this is a lowly sort of thing to be interested in-- the sort of superficial quizzing best left to teenage girls. And yet there is something underneath. The key question, I realized, is how does the comber-over not see how odd he looks? And the answer is that he got to look that way <i>incrementally.</i> What began as combing his hair a little carefully over a thin patch has gradually, over 20 years, grown into a monstrosity. Gradualness is very powerful. And that power can be used for constructive purposes too: just as you can trick yourself into looking like a freak, you can trick yourself into creating something so grand that you would never have dared to <i>plan</i> such a thing. Indeed, this is just how most good software gets created. You start by writing a stripped-down kernel (how hard can it be?) and gradually it grows into a complete operating system. Hence the next leap: could you do the same thing in painting, or in a novel?
+For example, I've always been fascinated by comb-overs, especially the extreme sort that make a man look as if he's wearing a beret made of his own hair. Surely this is a lowly sort of thing to be interested in-- the sort of superficial quizzing best left to teenage girls. And yet there is something underneath. The key question, I realized, is how does the comber-over not see how odd he looks? And the answer is that he got to look that way *incrementally.* What began as combing his hair a little carefully over a thin patch has gradually, over 20 years, grown into a monstrosity. Gradualness is very powerful. And that power can be used for constructive purposes too: just as you can trick yourself into looking like a freak, you can trick yourself into creating something so grand that you would never have dared to *plan* such a thing. Indeed, this is just how most good software gets created. You start by writing a stripped-down kernel (how hard can it be?) and gradually it grows into a complete operating system. Hence the next leap: could you do the same thing in painting, or in a novel?
 
 See what you can extract from a frivolous question? If there's one piece of advice I would give about writing essays, it would be: don't do as you're told. Don't believe what you're supposed to. Don't write the essay readers expect; one learns nothing from what one expects. And don't write the way they taught you to in school.
 
@@ -136,26 +136,26 @@ Popular magazines made the period between the spread of literacy and the arrival
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] I'm thinking of Oresme (c. 1323-82). But it's hard to pick a date, because there was a sudden drop-off in scholarship just as Europeans finished assimilating classical science. The cause may have been the plague of 1347; the trend in scientific progress matches the population curve.
 
-[2] Parker, William R. "Where Do College English Departments Come From?" <i>College English</i> 28 (1966-67), pp. 339-351. Reprinted in Gray, Donald J. (ed). <i>The Department of English at Indiana University Bloomington 1868-1970.</i> Indiana University Publications.
+[2] Parker, William R. "Where Do College English Departments Come From?" *College English* 28 (1966-67), pp. 339-351. Reprinted in Gray, Donald J. (ed). *The Department of English at Indiana University Bloomington 1868-1970.* Indiana University Publications.
 
-Daniels, Robert V. <i>The University of Vermont: The First Two Hundred Years.</i> University of Vermont, 1991.
+Daniels, Robert V. *The University of Vermont: The First Two Hundred Years.* University of Vermont, 1991.
 
-Mueller, Friedrich M. Letter to the <i>Pall Mall Gazette.</i> 1886/87. Reprinted in Bacon, Alan (ed). <i>The Nineteenth-Century History of English Studies.</i> Ashgate, 1998.
+Mueller, Friedrich M. Letter to the *Pall Mall Gazette.* 1886/87. Reprinted in Bacon, Alan (ed). *The Nineteenth-Century History of English Studies.* Ashgate, 1998.
 
 [3] I'm compressing the story a bit. At first literature took a back seat to philology, which (a) seemed more serious and (b) was popular in Germany, where many of the leading scholars of that generation had been trained.
 
-In some cases the writing teachers were transformed <i>in situ</i> into English professors. Francis James Child, who had been Boylston Professor of Rhetoric at Harvard since 1851, became in 1876 the university's first professor of English.
+In some cases the writing teachers were transformed *in situ* into English professors. Francis James Child, who had been Boylston Professor of Rhetoric at Harvard since 1851, became in 1876 the university's first professor of English.
 
-[4] Parker, <i>op. cit.</i>, p. 25.
+[4] Parker, *op. cit.*, p. 25.
 
-[5] The undergraduate curriculum or <i>trivium</i> (whence "trivial") consisted of Latin grammar, rhetoric, and logic. Candidates for masters' degrees went on to study the <i>quadrivium</i> of arithmetic, geometry, music, and astronomy. Together these were the seven liberal arts.
+[5] The undergraduate curriculum or *trivium* (whence "trivial") consisted of Latin grammar, rhetoric, and logic. Candidates for masters' degrees went on to study the *quadrivium* of arithmetic, geometry, music, and astronomy. Together these were the seven liberal arts.
 
 The study of rhetoric was inherited directly from Rome, where it was considered the most important subject. It would not be far from the truth to say that education in the classical world meant training landowners' sons to speak well enough to defend their interests in political and legal disputes.
 
 [6] Trevor Blackwell points out that this isn't strictly true, because the outside edges of curves erode faster.
 
-<!--[9] When I first heard about blogs, I imagined they would be a complete waste of time. Blogging sounded like a long-play version of netnews. But I was mistaken; people care more about something that stays on their site, and the Web supplies a filter that's missing in newsgroups. The best writing online is not only better than netnews, but better than most print media.--> <b>Thanks</b> to Ken Anderson, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, and Robert Morris for reading drafts of this.
+<!--[9] When I first heard about blogs, I imagined they would be a complete waste of time. Blogging sounded like a long-play version of netnews. But I was mistaken; people care more about something that stays on their site, and the Web supplies a filter that's missing in newsgroups. The best writing online is not only better than netnews, but better than most print media.--> **Thanks** to Ken Anderson, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, and Robert Morris for reading drafts of this.

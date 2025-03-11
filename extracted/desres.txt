@@ -2,7 +2,7 @@ Design and Research
 ---
 January 2003
 
-<i>(This article is derived from a keynote talk at the fall 2002 meeting of NEPLS.)</i>
+*(This article is derived from a keynote talk at the fall 2002 meeting of NEPLS.)*
 
 Visitors to this country are often surprised to find that Americans like to begin a conversation by asking "what do you do?" I've never liked this question. I've rarely had a neat answer to it. But I think I have finally solved the problem. Now, when someone asks me what I do, I look them straight in the eye and say "I'm designing a [new dialect of Lisp](arc.html)." I recommend this answer to anyone who doesn't like being asked what they do. The conversation will turn immediately to other topics.
 
@@ -18,7 +18,7 @@ The biggest difference is that you focus more on the user. Design begins by aski
 
 Notice I said "what they need," not "what they want." I don't mean to give the impression that working as a designer means working as a sort of short-order cook, making whatever the client tells you to. This varies from field to field in the arts, but I don't think there is any field in which the best work is done by the people who just make exactly what the customers tell them to.
 
-The customer <i>is</i> always right in the sense that the measure of good design is how well it works for the user. If you make a novel that bores everyone, or a chair that's horribly uncomfortable to sit in, then you've done a bad job, period. It's no defense to say that the novel or the chair is designed according to the most advanced theoretical principles.
+The customer *is* always right in the sense that the measure of good design is how well it works for the user. If you make a novel that bores everyone, or a chair that's horribly uncomfortable to sit in, then you've done a bad job, period. It's no defense to say that the novel or the chair is designed according to the most advanced theoretical principles.
 
 And yet, making what works for the user doesn't mean simply making what the user tells you to. Users don't know what all the choices are, and are often mistaken about what they really want.
 
@@ -64,7 +64,7 @@ What people outside the software world may not realize is that Worse is Better i
 
 In most fields, prototypes have traditionally been made out of different materials. Typefaces to be cut in metal were initially designed with a brush on paper. Statues to be cast in bronze were modelled in wax. Patterns to be embroidered on tapestries were drawn on paper with ink wash. Buildings to be constructed from stone were tested on a smaller scale in wood.
 
-What made oil paint so exciting, when it first became popular in the fifteenth century, was that you could actually make the finished work <i>from</i> the prototype. You could make a preliminary drawing if you wanted to, but you weren't held to it; you could work out all the details, and even make major changes, as you finished the painting.
+What made oil paint so exciting, when it first became popular in the fifteenth century, was that you could actually make the finished work *from* the prototype. You could make a preliminary drawing if you wanted to, but you weren't held to it; you could work out all the details, and even make major changes, as you finished the painting.
 
 You can do this in software too. A prototype doesn't have to be just a model; you can refine it into the finished product. I think you should always do this when you can. It lets you take advantage of new insights you have along the way. But perhaps even more important, it's good for morale.
 
@@ -94,4 +94,4 @@ I'm inclined to think there isn't-- that good design requires a dictator. One re
 
 
 
-<b>Related:</b>
+**Related:**

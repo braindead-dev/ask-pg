@@ -2,7 +2,7 @@ Beating the Averages
 ---
 April 2001, rev. April 2003
 
-<i>(This article is derived from a talk given at the 2001 Franz Developer Symposium.) </i>
+*(This article is derived from a talk given at the 2001 Franz Developer Symposium.) *
 
 In the summer of 1995, my friend Robert Morris and I started a startup called [Viaweb](http://docs.yahoo.com/docs/pr/release184.html). Our plan was to write software that would let end users build online stores. What was novel about this software, at the time, was that it ran on our server, using ordinary Web pages as the interface.
 
@@ -10,7 +10,7 @@ A lot of people could have been having this idea at the same time, of course, bu
 
 Another unusual thing about this software was that it was written primarily in a programming language called Lisp. It was one of the first big end-user applications to be written in Lisp, which up till then had been used mostly in universities and research labs. [1]
 
-<b>The Secret Weapon</b>
+**The Secret Weapon**
 
 Eric Raymond has written an essay called "How to Become a Hacker," and in it, among other things, he tells would-be hackers what languages they should learn. He suggests starting with Python and Java, because they are easy to learn. The serious hacker will also want to learn C, in order to hack Unix, and Perl for system administration and cgi scripts. Finally, the truly serious hacker should consider learning Lisp: <blockquote> Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot. </blockquote> This is the same argument you tend to hear for learning Latin. It won't get you a job, except perhaps as a classics professor, but it will improve your mind, and make you a better writer in languages you do want to use, like English.
 
@@ -44,7 +44,7 @@ What were the results of this experiment? Somewhat surprisingly, it worked. We e
 
 It must have seemed to our competitors that we had some kind of secret weapon-- that we were decoding their Enigma traffic or something. In fact we did have a secret weapon, but it was simpler than they realized. No one was leaking news of their features to us. We were just able to develop software faster than anyone thought possible.
 
-When I was about nine I happened to get hold of a copy of <i>The Day of the Jackal,</i> by Frederick Forsyth. The main character is an assassin who is hired to kill the president of France. The assassin has to get past the police to get up to an apartment that overlooks the president's route. He walks right by them, dressed up as an old man on crutches, and they never suspect him.
+When I was about nine I happened to get hold of a copy of *The Day of the Jackal,* by Frederick Forsyth. The main character is an assassin who is hired to kill the president of France. The assassin has to get past the police to get up to an apartment that overlooks the president's route. He walks right by them, dressed up as an old man on crutches, and they never suspect him.
 
 Our secret weapon was similar. We wrote our software in a weird AI language, with a bizarre syntax full of parentheses. For years it had annoyed me to hear Lisp described that way. But now it worked to our advantage. In business, there is nothing more valuable than a technical advantage your competitors don't understand. In business, as in war, surprise is worth as much as force.
 
@@ -52,7 +52,7 @@ And so, I'm a little embarrassed to say, I never said anything publicly about Li
 
 The people who understood our technology best were the customers. They didn't care what language Viaweb was written in either, but they noticed that it worked really well. It let them build great looking online stores literally in minutes. And so, by word of mouth mostly, we got more and more users. By the end of 1996 we had about 70 stores online. At the end of 1997 we had 500. Six months later, when Yahoo bought us, we had 1070 users. Today, as Yahoo Store, this software continues to dominate its market. It's one of the more profitable pieces of Yahoo, and the stores built with it are the foundation of Yahoo Shopping. I left Yahoo in 1999, so I don't know exactly how many users they have now, but the last I heard there were about 20,000.
 
-<!-- People sometimes ask me if Yahoo Store still uses Lisp. Yes, all the Lisp code is still there. Yahoo has server-side software written in all five of the languages Eric Raymond recommends to hackers. --> <b>The Blub Paradox</b>
+<!-- People sometimes ask me if Yahoo Store still uses Lisp. Yes, all the Lisp code is still there. Yahoo has server-side software written in all five of the languages Eric Raymond recommends to hackers. --> **The Blub Paradox**
 
 What's so great about Lisp? And if Lisp is so great, why doesn't everyone use it? These sound like rhetorical questions, but actually they have straightforward answers. Lisp is so great not because of some magic quality visible only to devotees, but because it is simply the most powerful language available. And the reason everyone doesn't use it is that programming languages are not merely technologies, but habits of mind as well, and nothing changes slower. Of course, both these answers need explaining.
 
@@ -98,7 +98,7 @@ But I think I can give a kind of argument that might be convincing. The source c
 
 A suspicious person might begin to wonder if there was some correlation here. A big chunk of our code was doing things that are very hard to do in other languages. The resulting software did things our competitors' software couldn't do. Maybe there was some kind of connection. I encourage you to follow that thread. There may be more to that old man hobbling along on his crutches than meets the eye.
 
-<b>Aikido for Startups</b>
+**Aikido for Startups**
 
 But I don't expect to convince anyone ([over 25](http://www.trollope.org/scheme.html)) to go out and learn Lisp. The purpose of this article is not to change anyone's mind, but to reassure people already interested in using Lisp-- people who know that Lisp is a powerful language, but worry because it isn't widely used. In a competitive situation, that's an advantage. Lisp's power is multiplied by the fact that your competitors don't get it.
 
@@ -116,7 +116,7 @@ During the years we worked on Viaweb I read a lot of job descriptions. A new com
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Viaweb at first had two parts: the editor, written in Lisp, which people used to build their sites, and the ordering system, written in C, which handled orders. The first version was mostly Lisp, because the ordering system was small. Later we added two more modules, an image generator written in C, and a back-office manager written mostly in Perl.
 

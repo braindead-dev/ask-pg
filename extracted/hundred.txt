@@ -2,7 +2,7 @@ The Hundred-Year Language
 ---
 April 2003
 
-<i>(This essay is derived from a keynote talk at PyCon 2003.)</i>
+*(This essay is derived from a keynote talk at PyCon 2003.)*
 
 It's hard to predict what life will be like in a hundred years. There are only a few things we can say with certainty. We know that everyone will drive flying cars, that zoning laws will be relaxed to allow buildings hundreds of stories tall, that it will be dark most of the time, and that women will all be trained in the martial arts. Here I want to zoom in on one detail of this picture. What kind of programming language will they use to write the software controlling those flying cars?
 
@@ -160,7 +160,7 @@ The trend is not merely toward languages being developed as open-source projects
 
 One way to design a language is to just write down the program you'd like to be able to write, regardless of whether there is a compiler that can translate it or hardware that can run it. When you do this you can assume unlimited resources. It seems like we ought to be able to imagine unlimited resources as well today as in a hundred years.
 
-What program would one like to write? Whatever is least work. Except not quite: whatever <i>would be</i> least work if your ideas about programming weren't already influenced by the languages you're currently used to. Such influence can be so pervasive that it takes a great effort to overcome it. You'd think it would be obvious to creatures as lazy as us how to express a program with the least effort. In fact, our ideas about what's possible tend to be so [limited](avg.html) by whatever language we think in that easier formulations of programs seem very surprising. They're something you have to discover, not something you naturally sink into.
+What program would one like to write? Whatever is least work. Except not quite: whatever *would be* least work if your ideas about programming weren't already influenced by the languages you're currently used to. Such influence can be so pervasive that it takes a great effort to overcome it. You'd think it would be obvious to creatures as lazy as us how to express a program with the least effort. In fact, our ideas about what's possible tend to be so [limited](avg.html) by whatever language we think in that easier formulations of programs seem very surprising. They're something you have to discover, not something you naturally sink into.
 
 One helpful trick here is to use the [length](power.html) of the program as an approximation for how much work it is to write. Not the length in characters, of course, but the length in distinct syntactic elements-- basically, the size of the parse tree. It may not be quite true that the shortest program is the least work to write, but it's close enough that you're better off aiming for the solid target of brevity than the fuzzy, nearby one of least work. Then the algorithm for language design becomes: look at a program and ask, is there any way to write this that's shorter?
 
@@ -186,8 +186,8 @@ When you're working on language design, I think it is good to have such a target
 
 
 
- <b>Notes</b>
+ **Notes**
 
 I believe Lisp Machine Lisp was the first language to embody the principle that declarations (except those of dynamic variables) were merely optimization advice, and would not change the meaning of a correct program. Common Lisp seems to have been the first to state this explicitly.
 
-<b>Thanks</b> to Trevor Blackwell, Robert Morris, and Dan Giffin for reading drafts of this, and to Guido van Rossum, Jeremy Hylton, and the rest of the Python crew for inviting me to speak at PyCon.
+**Thanks** to Trevor Blackwell, Robert Morris, and Dan Giffin for reading drafts of this, and to Guido van Rossum, Jeremy Hylton, and the rest of the Python crew for inviting me to speak at PyCon.

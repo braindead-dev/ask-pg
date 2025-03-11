@@ -24,4 +24,4 @@ It seemed curious that the same task could be painful to one person and pleasant
 
 
 
- <b>Thanks</b> to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, and my father for reading drafts of this.
+ **Thanks** to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, and my father for reading drafts of this.

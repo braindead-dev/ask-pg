@@ -4,9 +4,9 @@ May 2003
 
 If Lisp is so great, why don't more people use it? I was asked this question by a student in the audience at a talk I gave recently. Not for the first time, either.
 
-In languages, as in so many things, there's not much correlation between popularity and quality. Why does John Grisham (<i>King of Torts</i> sales rank, 44) outsell Jane Austen (<i>Pride and Prejudice</i> sales rank, 6191)? Would even Grisham claim that it's because he's a better writer?
+In languages, as in so many things, there's not much correlation between popularity and quality. Why does John Grisham (*King of Torts* sales rank, 44) outsell Jane Austen (*Pride and Prejudice* sales rank, 6191)? Would even Grisham claim that it's because he's a better writer?
 
-Here's the first sentence of <i>Pride and Prejudice:</i> <blockquote> It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. </blockquote> "It is a truth universally acknowledged?" Long words for the first sentence of a love story.
+Here's the first sentence of *Pride and Prejudice:* <blockquote> It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. </blockquote> "It is a truth universally acknowledged?" Long words for the first sentence of a love story.
 
 Like Jane Austen, Lisp looks hard. Its syntax, or lack of syntax, makes it look completely [unlike](https://sep.turbifycdn.com/ty/cdn/paulgraham/acl2.lisp?t=1688221954&) the languages most people are used to. Before I learned Lisp, I was afraid of it too. I recently came across a notebook from 1983 in which I'd written: <blockquote> I suppose I should learn Lisp, but it seems so foreign. </blockquote> Fortunately, I was 19 at the time and not too resistant to learning new things. I was so ignorant that learning almost anything meant learning new things.
 

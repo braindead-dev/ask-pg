@@ -38,7 +38,7 @@ Curiously enough it's an encouraging thought that we still know so little about 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] The more diplomatic way of phrasing this statement would be to say that experienced C-level execs are often very skilled at managing up. And I don't think anyone with knowledge of this world would dispute that.
 
@@ -48,4 +48,4 @@ Curiously enough it's an encouraging thought that we still know so little about 
 
 
 
-<font color="888888"><b>Thanks</b> to Brian Chesky, Patrick Collison, Ron Conway, Jessica Livingston, Elon Musk, Ryan Petersen, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+<font color="888888">**Thanks** to Brian Chesky, Patrick Collison, Ron Conway, Jessica Livingston, Elon Musk, Ryan Petersen, Harj Taggar, and Garry Tan for reading drafts of this.</font>

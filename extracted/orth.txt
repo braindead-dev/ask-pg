@@ -8,11 +8,11 @@ July 2020
 
  There has been a lot of talk about privilege lately. Although the concept is overused, there is something to it, and in particular to the idea that privilege makes you blind  that you can't see things that are visible to someone whose life is very different from yours.
 
-But one of the most pervasive examples of this kind of blindness is one that I haven't seen mentioned explicitly. I'm going to call it <i>orthodox privilege</i>: The more conventional-minded someone is, the more it seems to them that it's safe for everyone to express their opinions.
+But one of the most pervasive examples of this kind of blindness is one that I haven't seen mentioned explicitly. I'm going to call it *orthodox privilege*: The more conventional-minded someone is, the more it seems to them that it's safe for everyone to express their opinions.
 
-It's safe for <i>them</i> to express their opinions, because the source of their opinions is whatever it's currently acceptable to believe. So it seems to them that it must be safe for everyone. They literally can't imagine a true statement that would get you in trouble.
+It's safe for *them* to express their opinions, because the source of their opinions is whatever it's currently acceptable to believe. So it seems to them that it must be safe for everyone. They literally can't imagine a true statement that would get you in trouble.
 
-And yet at every point in history, there <a href="say.html"><u>were</u></a> true things that would get you in trouble to say. Is ours the first where this isn't so? What an amazing coincidence that would be.
+And yet at every point in history, there [were](say.html) true things that would get you in trouble to say. Is ours the first where this isn't so? What an amazing coincidence that would be.
 
 Surely it should at least be the default assumption that our time is not unique, and that there are true things you can't say now, just as there have always been. You would think. But even in the face of such overwhelming historical evidence, most people will go with their gut on this one.
 
@@ -38,4 +38,4 @@ Perhaps the solution is to appeal to politeness. If someone says they can hear a
 
 
 
-<b>Thanks</b> to Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia-Martinez, Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and Harj Taggar for reading drafts of this.
+**Thanks** to Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia-Martinez, Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and Harj Taggar for reading drafts of this.

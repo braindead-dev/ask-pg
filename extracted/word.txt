@@ -22,7 +22,7 @@ So being hard to talk to was not what was killing the unsuccessful startups. It 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] A YC partner wrote:
 
@@ -32,4 +32,4 @@ With the good groups, you can tell that everything you say is being looked at wi
 
 
 
-<b>Thanks</b> to Sam Altman, Patrick Collison, Aaron Iba, Jessica Livingston, Robert Morris, Harj Taggar, and Garry Tan for reading drafts of this.
+**Thanks** to Sam Altman, Patrick Collison, Aaron Iba, Jessica Livingston, Robert Morris, Harj Taggar, and Garry Tan for reading drafts of this.

@@ -6,7 +6,7 @@ Here's a simple trick for getting more people to read what you write: write in s
 
 Something comes over most people when they start writing. They write in a different language than they'd use if they were talking to a friend. The sentence structure and even the words are different. No one uses "pen" as a verb in spoken English. You'd feel like an idiot using "pen" instead of "write" in a conversation with a friend.
 
-The last straw for me was a sentence I read a couple days ago: <blockquote> The mercurial Spaniard himself declared: "After Altamira, all is decadence." </blockquote> It's from Neil Oliver's <i>A History of Ancient Britain</i>. I feel bad making an example of this book, because it's no worse than lots of others. But just imagine calling Picasso "the mercurial Spaniard" when talking to a friend. Even one sentence of this would raise eyebrows in conversation. And yet people write whole books of it.
+The last straw for me was a sentence I read a couple days ago: <blockquote> The mercurial Spaniard himself declared: "After Altamira, all is decadence." </blockquote> It's from Neil Oliver's *A History of Ancient Britain*. I feel bad making an example of this book, because it's no worse than lots of others. But just imagine calling Picasso "the mercurial Spaniard" when talking to a friend. Even one sentence of this would raise eyebrows in conversation. And yet people write whole books of it.
 
 Ok, so written and spoken language are different. Does that make written language worse?
 
@@ -16,7 +16,7 @@ You don't need complex sentences to express complex ideas. When specialists in s
 
 Informal language is the athletic clothing of ideas.
 
-I'm not saying spoken language always works best. Poetry is as much music as text, so you can say things you wouldn't say in conversation. And there are a handful of writers who can get away with using fancy language in prose. And then of course there are cases where writers don't want to make it easy to understand what they're saying—in corporate announcements of bad news, for example, or at the more <a href="https://scholar.google.com/scholar?hl=en&as_sdt=1,5&q=transgression+narrative+postmodern+gender"><u>bogus</u></a> end of the humanities. But for nearly everyone else, spoken language is better.
+I'm not saying spoken language always works best. Poetry is as much music as text, so you can say things you wouldn't say in conversation. And there are a handful of writers who can get away with using fancy language in prose. And then of course there are cases where writers don't want to make it easy to understand what they're saying—in corporate announcements of bad news, for example, or at the more [bogus](https://scholar.google.com/scholar?hl=en&as_sdt=1,5&q=transgression+narrative+postmodern+gender) end of the humanities. But for nearly everyone else, spoken language is better.
 
 It seems to be hard for most people to write in spoken language. So perhaps the best solution is to write your first draft the way you usually would, then afterward look at each sentence and ask "Is this the way I'd say this if I were talking to a friend?" If it isn't, imagine what you would say, and use that instead. After a while this filter will start to operate as you write. When you write something you wouldn't say, you'll hear the clank as it hits the page.
 
@@ -34,4 +34,4 @@ If you simply manage to write in spoken language, you'll be ahead of 95% of writ
 
 
 
-<b>Thanks</b> to Patrick Collison and Jessica Livingston for reading drafts of this.
+**Thanks** to Patrick Collison and Jessica Livingston for reading drafts of this.

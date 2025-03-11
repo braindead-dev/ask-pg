@@ -54,7 +54,7 @@ It's ok to do a little consulting-type work at first. Startups usually have to d
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] The "ramen" in "ramen profitable" refers to instant ramen, which is just about the cheapest food available.
 
@@ -72,4 +72,4 @@ Investors are one of the biggest sources of pain for founders; if they stopped c
 
 [3] It's conceivable that a startup could grow big by transforming consulting into a form that would scale. But if they did that they'd really be a product company.
 
-<b>Thanks</b> to Jessica Livingston for reading drafts of this.
+**Thanks** to Jessica Livingston for reading drafts of this.

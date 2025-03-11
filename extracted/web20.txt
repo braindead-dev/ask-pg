@@ -8,17 +8,17 @@ I first heard the phrase "Web 2.0" in the name of the Web 2.0 conference in 2004
 
 So I was surprised at a conference this summer when Tim O'Reilly led a session intended to figure out a definition of "Web 2.0." Didn't it already mean using the web as a platform? And if it didn't already mean something, why did we need the phrase at all?
 
-<b>Origins</b>
+**Origins**
 
 Tim says the phrase "Web 2.0" first [arose](http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20 .html) in "a brainstorming session between O'Reilly and Medialive International." What is Medialive International? "Producers of technology tradeshows and conferences," according to their site. So presumably that's what this brainstorming session was about. O'Reilly wanted to organize a conference about the web, and they were wondering what to call it.
 
-I don't think there was any deliberate plan to suggest there was a new <i>version</i> of the web. They just wanted to make the point that the web mattered again. It was a kind of semantic deficit spending: they knew new things were coming, and the "2.0" referred to whatever those might turn out to be.
+I don't think there was any deliberate plan to suggest there was a new *version* of the web. They just wanted to make the point that the web mattered again. It was a kind of semantic deficit spending: they knew new things were coming, and the "2.0" referred to whatever those might turn out to be.
 
 And they were right. New things were coming. But the new version number led to some awkwardness in the short term. In the process of developing the pitch for the first conference, someone must have decided they'd better take a stab at explaining what that "2.0" referred to. Whatever it meant, "the web as a platform" was at least not too constricting.
 
 The story about "Web 2.0" meaning the web as a platform didn't live much past the first conference. By the second conference, what "Web 2.0" seemed to mean was something about democracy. At least, it did when people wrote about it online. The conference itself didn't seem very grassroots. It cost $2800, so the only people who could afford to go were VCs and people from big companies.
 
-And yet, oddly enough, Ryan Singel's [article](http://www.wired.com/news/technology/0,1282,69114,00.html) about the conference in <i>Wired News</i> spoke of "throngs of geeks." When a friend of mine asked Ryan about this, it was news to him. He said he'd originally written something like "throngs of VCs and biz dev guys" but had later shortened it just to "throngs," and that this must have in turn been expanded by the editors into "throngs of geeks." After all, a Web 2.0 conference would presumably be full of geeks, right?
+And yet, oddly enough, Ryan Singel's [article](http://www.wired.com/news/technology/0,1282,69114,00.html) about the conference in *Wired News* spoke of "throngs of geeks." When a friend of mine asked Ryan about this, it was news to him. He said he'd originally written something like "throngs of VCs and biz dev guys" but had later shortened it just to "throngs," and that this must have in turn been expanded by the editors into "throngs of geeks." After all, a Web 2.0 conference would presumably be full of geeks, right?
 
 Well, no. There were about 7. Even Tim O'Reilly was wearing a suit, a sight so alien I couldn't parse it at first. I saw him walk by and said to one of the O'Reilly people "that guy looks just like Tim."
 
@@ -30,7 +30,7 @@ I wouldn't quite call it "Bubble 2.0" just because VCs are eager to invest again
 
 The reason this won't turn into a second Bubble is that the IPO market is gone. [Venture investors](startupfunding.html) are driven by exit strategies. The reason they were funding all those laughable startups during the late 90s was that they hoped to sell them to gullible retail investors; they hoped to be laughing all the way to the bank. Now that route is closed. Now the default exit strategy is to get bought, and acquirers are less prone to irrational exuberance than IPO investors. The closest you'll get to Bubble valuations is Rupert Murdoch paying $580 million for Myspace. That's only off by a factor of 10 or so.
 
-<b>1. Ajax</b>
+**1. Ajax**
 
 Does "Web 2.0" mean anything more than the name of a conference yet? I don't like to admit it, but it's starting to. When people say "Web 2.0" now, I have some idea what they mean. And the fact that I both despise the phrase and understand it is the surest proof that it has started to mean something.
 
@@ -42,7 +42,7 @@ In fact the new generation of software is being written way too fast for Microso
 
 So ironically the original description of the Web 2.0 conference turned out to be partially right: web-based applications are a big component of Web 2.0. But I'm convinced they got this right by accident. The Ajax boom didn't start till early 2005, when Google Maps appeared and the term "Ajax" was [coined](http://www.adaptivepath.com/publications/essays/archives/000385.php).
 
-<b>2. Democracy</b>
+**2. Democracy**
 
 The second big element of Web 2.0 is democracy. We now have several examples to prove that [amateurs](opensource.html) can surpass professionals, when they have the right kind of system to channel their efforts. [Wikipedia](http://wikipedia.org) may be the most famous. Experts have given Wikipedia middling reviews, but they miss the critical point: it's good enough. And it's free, which means people actually read it. On the web, articles you have to pay for might as well not exist. Even if you were willing to pay to read them yourself, you can't link to them. They're not part of the conversation.
 
@@ -56,11 +56,11 @@ On the web, people can publish whatever they want. Nearly all of it falls short 
 
 Even the startups are different this time around. They are to the startups of the Bubble what bloggers are to the print media. During the Bubble, a startup meant a company headed by an MBA that was blowing through several million dollars of VC money to "get big fast" in the most literal sense. Now it means a smaller, [younger](hiring.html), more technical group that just decided to make something great. They'll decide later if they want to raise VC-scale funding, and if they take it, they'll take it on [their terms](vcsqueeze.html).
 
-<b>3. Don't Maltreat Users</b>
+**3. Don't Maltreat Users**
 
 I think everyone would agree that democracy and Ajax are elements of "Web 2.0." I also see a third: not to maltreat users. During the Bubble a lot of popular sites were quite high-handed with users. And not just in obvious ways, like making them register, or subjecting them to annoying ads. The very design of the average site in the late 90s was an abuse. Many of the most popular sites were loaded with obtrusive branding that made them slow to load and sent the user the message: this is our site, not yours. (There's a physical analog in the Intel and Microsoft [stickers](designedforwindows.html) that come on some laptops.)
 
-I think the root of the problem was that sites felt they were giving something away for free, and till recently a company giving anything away for free could be pretty high-handed about it. Sometimes it reached the point of economic sadism: site owners assumed that the more pain they caused the user, the more benefit it must be to them. The most dramatic remnant of this model may be at salon.com, where you can read the beginning of a story, but to get the rest you have sit through a <i>movie</i>.
+I think the root of the problem was that sites felt they were giving something away for free, and till recently a company giving anything away for free could be pretty high-handed about it. Sometimes it reached the point of economic sadism: site owners assumed that the more pain they caused the user, the more benefit it must be to them. The most dramatic remnant of this model may be at salon.com, where you can read the beginning of a story, but to get the rest you have sit through a *movie*.
 
 At Y Combinator we advise all the startups we fund never to lord it over users. Never make users register, unless you need to in order to store something for them. If you do make users register, never make them wait for a confirmation link in an email; in fact, don't even ask for their email address unless you need it for some reason. Don't ask them any unnecessary questions. Never send them email unless they explicitly ask for it. Never frame pages you link to, or open them in new windows. If you have a free version and a pay version, don't make the free version too restricted. And if you find yourself asking "should we allow users to do x?" just answer "yes" whenever you're unsure. Err on the side of generosity.
 
@@ -76,7 +76,7 @@ Odd as it might sound, we tell startups that they should try to make as little m
 
 The ultimate target is Microsoft. What a bang that balloon is going to make when someone pops it by offering a free web-based alternative to MS Office. [5] Who will? Google? They seem to be taking their time. I suspect the pin will be wielded by a couple of 20 year old hackers who are too naive to be intimidated by the idea. (How hard can it be?)
 
-<b>The Common Thread</b>
+**The Common Thread**
 
 Ajax, democracy, and not dissing users. What do they all have in common? I didn't realize they had anything in common till recently, which is one of the reasons I disliked the term "Web 2.0" so much. It seemed that it was being used as a label for whatever happened to be new—that it didn't predict anything.
 
@@ -90,7 +90,7 @@ This plan collapsed under its own weight. Microsoft helped kill it, but it would
 
 The proof that Ajax is the next hot platform is that thousands of hackers have spontaneously started building things on top of it. Mikey likes it.
 
-There's another thing all three components of Web 2.0 have in common. Here's a clue. Suppose you approached investors with the following idea for a Web 2.0 startup: <blockquote> Sites like del.icio.us and flickr allow users to "tag" content with descriptive tokens. But there is also huge source of <i>implicit</i> tags that they ignore: the text within web links. Moreover, these links represent a social network connecting the individuals and organizations who created the pages, and by using graph theory we can compute from this network an estimate of the reputation of each member. We plan to mine the web for these implicit tags, and use them together with the reputation hierarchy they embody to enhance web searches. </blockquote> How long do you think it would take them on average to realize that it was a description of Google?
+There's another thing all three components of Web 2.0 have in common. Here's a clue. Suppose you approached investors with the following idea for a Web 2.0 startup: <blockquote> Sites like del.icio.us and flickr allow users to "tag" content with descriptive tokens. But there is also huge source of *implicit* tags that they ignore: the text within web links. Moreover, these links represent a social network connecting the individuals and organizations who created the pages, and by using graph theory we can compute from this network an estimate of the reputation of each member. We plan to mine the web for these implicit tags, and use them together with the reputation hierarchy they embody to enhance web searches. </blockquote> How long do you think it would take them on average to realize that it was a description of Google?
 
 Google was a pioneer in all three components of Web 2.0: their core business sounds crushingly hip when described in Web 2.0 terms, "Don't maltreat users" is a subset of "Don't be evil," and of course Google set off the whole Ajax boom with Google Maps.
 
@@ -102,7 +102,7 @@ The fact that Google is a "Web 2.0" company shows that, while meaningful, the te
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] From the [conference site](http://web.archive.org/web/20040602111547/http://web2con.com/), June 2004: "While the first wave of the Web was closely tied to the browser, the second wave extends applications across the web and enables a new generation of services and business opportunities." To the extent this means anything, it seems to be about [web-based applications](road.html).
 
@@ -114,10 +114,10 @@ The fact that Google is a "Web 2.0" company shows that, while meaningful, the te
 
 [5] Hint: the way to create a web-based alternative to Office may not be to write every component yourself, but to establish a protocol for web-based apps to share a virtual home directory spread across multiple servers. Or it may be to write it all yourself.
 
-[6] In Jessica Livingston's <a href="http://foundersatwork.com"><i>Founders at Work</i></a>.
+[6] In Jessica Livingston's <a href="http://foundersatwork.com">*Founders at Work*</a>.
 
 [7] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.
 
-<b>Thanks</b> to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the guys at O'Reilly and Adaptive Path for answering my questions.
+**Thanks** to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the guys at O'Reilly and Adaptive Path for answering my questions.
 
 <!-- <a href="http://reddit.com"><img src="https://sep.turbifycdn.com/ty/cdn/paulgraham/redditino.png?t=1688221954&" border=0></a> [ Comment](http://reddit.com/info?id=13218) on this essay. -->

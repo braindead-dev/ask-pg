@@ -8,7 +8,7 @@ The reason is not just that people can't find you. For companies with mobile app
 
 Even good founders can be in denial about this. Their denial derives from two very powerful forces: identity, and lack of imagination.
 
-X is what we <i>are</i>, founders think. There's no other name as good. Both of which are false.
+X is what we *are*, founders think. There's no other name as good. Both of which are false.
 
 You can fix the first by stepping back from the problem. Imagine you'd called your company something else. If you had, surely you'd be just as attached to that name as you are to your current one. The idea of switching to your current name would seem repellent. [1]
 
@@ -32,7 +32,7 @@ There are of course examples of startups that have succeeded without having the 
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Incidentally, this thought experiment works for [nationality and religion](identity.html) too.
 
@@ -40,4 +40,4 @@ There are of course examples of startups that have succeeded without having the 
 
 [3] Sometimes founders know it's a problem that they don't have the .com of their name, but delusion strikes a step later in the belief that they'll be able to buy it despite having no evidence it's for sale. Don't believe a domain is for sale unless the owner has already told you an asking price.
 
- <b>Thanks</b> to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.
+ **Thanks** to Sam Altman, Jessica Livingston, and Geoff Ralston for reading drafts of this.

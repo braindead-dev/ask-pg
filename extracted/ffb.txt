@@ -2,7 +2,7 @@ Filters that Fight Back
 ---
 August 2003
 
-<!-- <i>(Originally this essay began with a discussion of filtering. An expanded version of that discussion now exists on its own as [So Far, So Good](sofar.html).)</i> --> We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of [death2spam](http://death2spam.com) now does this in borderline cases, and reports that it works well.
+<!-- *(Originally this essay began with a discussion of filtering. An expanded version of that discussion now exists on its own as [So Far, So Good](sofar.html).)* --> We may be able to improve the accuracy of Bayesian spam filters by having them follow links to see what's waiting at the other end. Richard Jowsey of [death2spam](http://death2spam.com) now does this in borderline cases, and reports that it works well.
 
 Why only do it in borderline cases? And why only do it once?
 
@@ -12,7 +12,7 @@ So I'd like to suggest an additional feature to those working on spam filters: a
 
 As many people have noted, one of the problems with the current email system is that it's too passive. It does whatever you tell it. So far all the suggestions for fixing the problem seem to involve new protocols. This one wouldn't.
 
-If widely used, auto-retrieving spam filters would make the email system <i>rebound.</i> The huge volume of the spam, which has so far worked in the spammer's favor, would now work against him, like a branch snapping back in his face. Auto-retrieving spam filters would drive the spammer's [costs](http://www.bork.ca/pics/?path=incoming&img=bill.jpg) up, and his sales down: his bandwidth usage would go through the roof, and his servers would grind to a halt under the load, which would make them unavailable to the people who would have responded to the spam.
+If widely used, auto-retrieving spam filters would make the email system *rebound.* The huge volume of the spam, which has so far worked in the spammer's favor, would now work against him, like a branch snapping back in his face. Auto-retrieving spam filters would drive the spammer's [costs](http://www.bork.ca/pics/?path=incoming&img=bill.jpg) up, and his sales down: his bandwidth usage would go through the roof, and his servers would grind to a halt under the load, which would make them unavailable to the people who would have responded to the spam.
 
 Pump out a million emails an hour, get a million hits an hour on your servers.
 
@@ -28,7 +28,7 @@ In this scenario, spam would, like OS crashes, viruses, and popups, become one o
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Auto-retrieving filters will have to follow redirects, and should in some cases (e.g. a page that just says "click here") follow more than one level of links. Make sure too that the http requests are indistinguishable from those of popular Web browsers, including the order and referrer.
 
@@ -42,4 +42,4 @@ There should probably be multiple blacklists. A single point of failure would be
 
 <!--[6] I don't pretend to have worked out all the [details](ffbfaq.html) of this scheme. I can't claim to be certain it will work. (Who could till it has been tried in practice?) Fortunately, unlike solutions that require new protocols, this one can be tested on a subset of the problem. Why not try using FFBs on, say, domains that begin with A? If spammers start to avoid such domains, we'll know we're winning, and we can roll down the rest of the alphabet one letter at a time. -->
 
- <b>Thanks</b> to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.
+ **Thanks** to Brian Burton, Bill Yerazunis, Dan Giffin, Eric Raymond, and Richard Jowsey for reading drafts of this.

@@ -46,7 +46,7 @@ If you do want to sell, there's another set of [techniques ](https://justinkan.c
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] I'm not saying you should never sell. I'm saying you should be clear in your own mind about whether you want to sell or not, and not be led by manipulation or wishful thinking into trying to sell earlier than you otherwise would have.
 
@@ -54,4 +54,4 @@ If you do want to sell, there's another set of [techniques ](https://justinkan.c
 
 [3] To be fair, the apparent misdeeds of corp dev people are magnified by the fact that they function as the face of a large organization that often doesn't know its own mind. Acquirers can be surprisingly indecisive about acquisitions, and their flakiness is indistinguishable from dishonesty by the time it filters down to you.
 
-<b>Thanks</b> to Marc Andreessen, Jessica Livingston, Geoff Ralston, and Qasar Younis for reading drafts of this.
+**Thanks** to Marc Andreessen, Jessica Livingston, Geoff Ralston, and Qasar Younis for reading drafts of this.

@@ -12,7 +12,7 @@ Maybe this would have been obvious to someone who knew more about speaking, but 
 
 A few years later I heard a talk by someone who was not merely a better speaker than me, but a famous speaker. Boy was he good. So I decided I'd pay close attention to what he said, to learn how he did it. After about ten sentences I found myself thinking "I don't want to be a good speaker."
 
-Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction. For example, when I give a talk, I usually write it out beforehand. I know that's a mistake; I know delivering a <nota href="http://www.youtube.com/watch?v=UF8uR6Z6KLc">prewritten</a> talk makes it harder to engage with an audience. The way to get the attention of an audience is to give them <i>your</i> full attention, and when you're delivering a prewritten talk, your attention is always divided between the audience and the talk — even if you've memorized it. If you want to engage an audience, it's better to start with no more than an outline of what you want to say and <nota href="http://www.youtube.com/watch?v=vmG9jzCHtSQ">ad lib</a> the individual sentences. But if you do that, you might spend no more time thinking about each sentence than it takes to say it. [2] Occasionally the stimulation of talking to a live audience makes you think of new things, but in general this is not going to generate ideas as well as writing does, where you can spend as long on each sentence as you want.
+Being a really good speaker is not merely orthogonal to having good ideas, but in many ways pushes you in the opposite direction. For example, when I give a talk, I usually write it out beforehand. I know that's a mistake; I know delivering a <nota href="http://www.youtube.com/watch?v=UF8uR6Z6KLc">prewritten</a> talk makes it harder to engage with an audience. The way to get the attention of an audience is to give them *your* full attention, and when you're delivering a prewritten talk, your attention is always divided between the audience and the talk — even if you've memorized it. If you want to engage an audience, it's better to start with no more than an outline of what you want to say and <nota href="http://www.youtube.com/watch?v=vmG9jzCHtSQ">ad lib</a> the individual sentences. But if you do that, you might spend no more time thinking about each sentence than it takes to say it. [2] Occasionally the stimulation of talking to a live audience makes you think of new things, but in general this is not going to generate ideas as well as writing does, where you can spend as long on each sentence as you want.
 
 If you rehearse a prewritten speech enough, you can get asymptotically close to the sort of engagement you get when speaking ad lib. Actors do. But here again there's a tradeoff between smoothness and ideas. All the time you spend practicing a talk, you could instead spend making it better. Actors don't face that temptation, except in the rare cases where they've written the script, but any speaker does. Before I give a talk I can usually be found sitting in a corner somewhere with a copy printed out on paper, trying to rehearse it in my head. But I always end up spending most of the time rewriting it instead. Every talk I give ends up being given from a manuscript full of things crossed out and rewritten. Which of course makes me um even more, because I haven't had any time to practice the new bits. [3]
 
@@ -28,7 +28,7 @@ Talks are also good at motivating me to do things. It's probably no coincidence 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] I'm not talking here about academic talks, which are a different type of thing. While the audience at an academic talk might appreciate a joke, they will (or at least should) make a conscious effort to see what new ideas you're presenting.
 
@@ -38,4 +38,4 @@ Talks are also good at motivating me to do things. It's probably no coincidence 
 
 [4] For sufficiently small audiences, it may not be true that being part of an audience makes people dumber. The real decline seems to set in when the audience gets too big for the talk to feel like a conversation — maybe around 10 people.
 
- <b>Thanks</b> to Sam Altman and Robert Morris for reading drafts of this.
+ **Thanks** to Sam Altman and Robert Morris for reading drafts of this.

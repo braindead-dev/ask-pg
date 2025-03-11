@@ -1,22 +1,22 @@
 What Made Lisp Different
 ---
-December 2001 (rev. May 2002) <p align=justif> <i>(This article came about in response to some questions on the [LL1](http://ll1.mit.edu) mailing list. It is now incorporated in [Revenge of the Nerds](icad.html).)</i>
+December 2001 (rev. May 2002) <p align=justif> *(This article came about in response to some questions on the [LL1](http://ll1.mit.edu) mailing list. It is now incorporated in [Revenge of the Nerds](icad.html).)*
 
 When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was [Fortran](history.html).
 
 Lisp embodied nine new ideas:
 
-<hr> <b>1. Conditionals.</b> A conditional is an if-then-else construct. We take these for granted now. They were [invented](http://www-formal.stanford.edu/jmc/history/lisp/node2.html) by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.
+<hr> **1. Conditionals.** A conditional is an if-then-else construct. We take these for granted now. They were [invented](http://www-formal.stanford.edu/jmc/history/lisp/node2.html) by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.
 
-<b>2. A function type.</b> In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.
+**2. A function type.** In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.
 
-<b>3. Recursion.</b> Recursion existed as a mathematical concept before Lisp of course, but Lisp was the first programming language to support it. (It's arguably implicit in making functions first class objects.)
+**3. Recursion.** Recursion existed as a mathematical concept before Lisp of course, but Lisp was the first programming language to support it. (It's arguably implicit in making functions first class objects.)
 
-<b>4. A new concept of variables.</b> In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to.
+**4. A new concept of variables.** In Lisp, all variables are effectively pointers. Values are what have types, not variables, and assigning or binding variables means copying pointers, not what they point to.
 
-<b>5. Garbage-collection.</b>
+**5. Garbage-collection.**
 
-<b>6. Programs composed of expressions.</b> Lisp programs are trees of expressions, each of which returns a value. (In some Lisps expressions can return multiple values.) This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.
+**6. Programs composed of expressions.** Lisp programs are trees of expressions, each of which returns a value. (In some Lisps expressions can return multiple values.) This is in contrast to Fortran and most succeeding languages, which distinguish between expressions and statements.
 
 It was natural to have this distinction in Fortran because (not surprisingly in a language where the input format was punched cards) the language was line-oriented. You could not nest statements. And so while you needed expressions for math to work, there was no point in making anything else return a value, because there could not be anything waiting for it.
 
@@ -30,11 +30,11 @@ or
 
 (= x (if foo 1 2))
 
-<b>7. A symbol type.</b> Symbols differ from strings in that you can test equality by comparing a pointer.
+**7. A symbol type.** Symbols differ from strings in that you can test equality by comparing a pointer.
 
-<b>8. A notation for code</b> using trees of symbols.
+**8. A notation for code** using trees of symbols.
 
-<b>9. The whole language always available.</b> There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.
+**9. The whole language always available.** There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.
 
 Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML. <hr>
 

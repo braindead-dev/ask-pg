@@ -2,7 +2,7 @@ Writing, Briefly
 ---
 March 2005
 
-<!--<i>(Informal surveys of referring urls suggested demand for essays that were short and didn't mention Lisp.)</i> --> <i>(In the process of answering an email, I accidentally wrote a tiny essay about writing. I usually spend weeks on an essay. This one took <!--44--> 67 minutes—23 of writing, and <!--21--> 44 of rewriting.)</i>
+<!--*(Informal surveys of referring urls suggested demand for essays that were short and didn't mention Lisp.)* --> <i>(In the process of answering an email, I accidentally wrote a tiny essay about writing. I usually spend weeks on an essay. This one took <!--44--> 67 minutes—23 of writing, and <!--21--> 44 of rewriting.)</i>
 
 I think it's far more important to write well than most people realize. Writing doesn't just communicate ideas; it generates them. If you're bad at writing and don't like to do it, you'll miss out on most of the ideas writing would have generated.
 

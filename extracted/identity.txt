@@ -32,7 +32,7 @@ Most people reading this will already be fairly tolerant. But there is a step be
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] When that happens, it tends to happen fast, like a core going critical. The threshold for participating goes down to zero, which brings in more people. And they tend to say incendiary things, which draw more and angrier counterarguments.
 
@@ -40,4 +40,4 @@ Most people reading this will already be fairly tolerant. But there is a step be
 
 Considering yourself a scientist is equivalent to putting a sign in a cupboard saying "this cupboard must be kept empty." Yes, strictly speaking, you're putting something in the cupboard, but not in the ordinary sense.
 
-<b>Thanks</b> to Sam Altman, Trevor Blackwell, Paul Buchheit, and Robert Morris for reading drafts of this.
+**Thanks** to Sam Altman, Trevor Blackwell, Paul Buchheit, and Robert Morris for reading drafts of this.

@@ -32,7 +32,7 @@ Errands are so effective at killing great projects that a lot of people use them
 
 (There's also a variant where one has no place to work. The cure is to visit the places where famous people worked, and see how unsuitable they were.)
 
-I've used both these excuses at one time or another. I've learned a lot of tricks for making myself work over the last 20 years, but even now I don't win consistently. Some days I get real work done. Other days are eaten up by errands. And I know it's usually my fault: I <i>let</i> errands eat up the day, to avoid facing some hard problem.
+I've used both these excuses at one time or another. I've learned a lot of tricks for making myself work over the last 20 years, but even now I don't win consistently. Some days I get real work done. Other days are eaten up by errands. And I know it's usually my fault: I *let* errands eat up the day, to avoid facing some hard problem.
 
 The most dangerous form of procrastination is unacknowledged type-B procrastination, because it doesn't feel like procrastination. You're "getting things done." Just the wrong things.
 
@@ -52,7 +52,7 @@ But even when you like what you're working on, it's easier to get yourself to wo
 
 Another reason people don't work on big projects is, ironically, fear of wasting time. What if they fail? Then all the time they spent on it will be wasted. (In fact it probably won't be, because work on hard projects almost always leads somewhere.)
 
-But the trouble with big problems can't be just that they promise no immediate reward and might cause you to waste a lot of time. If that were all, they'd be no worse than going to visit your in-laws. There's more to it than that. Big problems are <i>terrifying</i>. There's an almost physical pain in facing them. It's like having a vacuum cleaner hooked up to your imagination. All your initial ideas get sucked out immediately, and you don't have any more, and yet the vacuum cleaner is still sucking.
+But the trouble with big problems can't be just that they promise no immediate reward and might cause you to waste a lot of time. If that were all, they'd be no worse than going to visit your in-laws. There's more to it than that. Big problems are *terrifying*. There's an almost physical pain in facing them. It's like having a vacuum cleaner hooked up to your imagination. All your initial ideas get sucked out immediately, and you don't have any more, and yet the vacuum cleaner is still sucking.
 
 You can't look a big problem too directly in the eye. You have to approach it somewhat obliquely. But you have to adjust the angle just right: you have to be facing the big problem directly enough that you catch some of the excitement radiating from it, but not so much that it paralyzes you. You can tighten the angle once you get going, just as a sailboat can sail closer to the wind once it gets underway.
 
@@ -66,4 +66,4 @@ I think the way to "solve" the problem of procrastination is to let delight pull
 
 
 
-<b>Thanks</b> to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.
+**Thanks** to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this.

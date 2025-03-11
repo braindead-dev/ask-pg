@@ -2,7 +2,7 @@ Better Bayesian Filtering
 ---
 January 2003
 
-<i>(This article was given as a talk at the 2003 Spam Conference. It describes the work I've done to improve the performance of the algorithm described in [A Plan for Spam](spam.html), and what I plan to do in the future.)</i>
+*(This article was given as a talk at the 2003 Spam Conference. It describes the work I've done to improve the performance of the algorithm described in [A Plan for Spam](spam.html), and what I plan to do in the future.)*
 
 The first discovery I'd like to present here is an algorithm for lazy evaluation of research papers. Just write whatever you want and don't cite any previous work, and indignant readers will send you references to all the papers you should have cited. I discovered this algorithm after ``A Plan for Spam'' [1] was on Slashdot.
 
@@ -26,7 +26,7 @@ Finally, they didn't bias against false positives. I think any spam filtering al
 
 I don't think it's a good idea to treat spam filtering as a straight text classification problem. You can use text classification techniques, but solutions can and should reflect the fact that the text is email, and spam in particular. Email is not just text; it has structure. Spam filtering is not just classification, because false positives are so much worse than false negatives that you should treat them as a different kind of error. And the source of error is not just random variation, but a live human spammer working actively to defeat your filter.
 
-<b>Tokens</b>
+**Tokens**
 
 Another project I heard about after the Slashdot article was Bill Yerazunis' [CRM114](http://crm114.sourceforge.net) [5]. This is the counterexample to the design principle I just mentioned. It's a straight text classifier, but such a stunningly effective one that it manages to filter spam almost perfectly without even knowing that's what it's doing.
 
@@ -74,7 +74,7 @@ Finally, what should one do about html? I've tried the whole spectrum of options
 
 I could probably be smarter about dealing with html, but I don't think it's worth putting a lot of time into this. Spams full of html are easy to filter. The smarter spammers already avoid it. So performance in the future should not depend much on how you deal with html.
 
-<b>Performance</b>
+**Performance**
 
 Between December 10 2002 and January 10 2003 I got about 1750 spams. Of these, 4 got through. That's a filtering rate of about 99.75%.
 
@@ -88,7 +88,7 @@ The fourth spam was what I call a spam-of-the-future, because this is what I exp
 
 If the spammers are careful about the headers and use a fresh url, there is nothing in spam-of-the-future for filters to notice. We can of course counter by sending a crawler to look at the page. But that might not be necessary. The response rate for spam-of-the-future must be low, or everyone would be doing it. If it's low enough, it [won't pay](wfks.html) for spammers to send it, and we won't have to work too hard on filtering it.
 
-Now for the really shocking news: during that same one-month period I got <i>three</i> false positives.
+Now for the really shocking news: during that same one-month period I got *three* false positives.
 
 In a way it's a relief to get some false positives. When I wrote ``A Plan for Spam'' I hadn't had any, and I didn't know what they'd be like. Now that I've had a few, I'm relieved to find they're not as bad as I feared. False positives yielded by statistical filters turn out to be mails that sound a lot like spam, and these tend to be the ones you would least mind missing [9].
 
@@ -106,13 +106,13 @@ I don't think this number can be trusted, partly because the sample is so small,
 
 False positives seem to me a different kind of error from false negatives. Filtering rate is a measure of performance. False positives I consider more like bugs. I approach improving the filtering rate as optimization, and decreasing false positives as debugging.
 
-So these five false positives are my bug list. For example, the mail from Egypt got nailed because the uppercase text made it look to the filter like a Nigerian spam. This really is kind of a bug. As with html, the email being all uppercase is really conceptually <i>one</i> feature, not one for each word. I need to handle case in a more sophisticated way.
+So these five false positives are my bug list. For example, the mail from Egypt got nailed because the uppercase text made it look to the filter like a Nigerian spam. This really is kind of a bug. As with html, the email being all uppercase is really conceptually *one* feature, not one for each word. I need to handle case in a more sophisticated way.
 
 So what to make of this .06%? Not much, I think. You could treat it as an upper bound, bearing in mind the small sample size. But at this stage it is more a measure of the bugs in my implementation than some intrinsic false positive rate of Bayesian filtering.
 
-<b>Future</b>
+**Future**
 
-What next? Filtering is an optimization problem, and the key to optimization is profiling. Don't try to guess where your code is slow, because you'll guess wrong. <i>Look</i> at where your code is slow, and fix that. In filtering, this translates to: look at the spams you miss, and figure out what you could have done to catch them.
+What next? Filtering is an optimization problem, and the key to optimization is profiling. Don't try to guess where your code is slow, because you'll guess wrong. *Look* at where your code is slow, and fix that. In filtering, this translates to: look at the spams you miss, and figure out what you could have done to catch them.
 
 For example, spammers are now working aggressively to evade filters, and one of the things they're doing is breaking up and misspelling words to prevent filters from recognizing them. But working on this is not my first priority, because I still have no trouble catching these spams [10].
 
@@ -136,7 +136,7 @@ But the real advantage of individual filters is that they'll all be different. I
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Paul Graham. ``A Plan for Spam.'' August 2002. http://paulgraham.com/spam.html.
 
@@ -180,8 +180,8 @@ Picking out the words won't be trivial. It will require more than just reconstru
 
 Historically, scarce-resource arguments have been the losing side in debates about software design. People only tend to use them to justify choices (inaction in particular) made for other reasons.
 
-<b>Thanks</b> to Sarah Harlin, Trevor Blackwell, and Dan Giffin for reading drafts of this paper, and to Dan again for most of the infrastructure that this filter runs on.
+**Thanks** to Sarah Harlin, Trevor Blackwell, and Dan Giffin for reading drafts of this paper, and to Dan again for most of the infrastructure that this filter runs on.
 
 
 
-<b>Related:</b>
+**Related:**

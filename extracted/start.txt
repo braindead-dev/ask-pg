@@ -2,7 +2,7 @@ How to Start a Startup
 ---
 March 2005
 
-<i>(This essay is derived from a talk at the Harvard Computer Society.)</i>
+*(This essay is derived from a talk at the Harvard Computer Society.)*
 
 You need three things to create a successful startup: to start with good people, to make something customers actually want, and to spend as little money as possible. Most startups that fail do it because they fail at one of these. A startup that does all three will probably succeed.
 
@@ -10,7 +10,7 @@ And that's kind of exciting, when you think about it, because all three are doab
 
 If there is one message I'd like to get across about startups, that's it. There is no magically difficult step that requires brilliance to solve.
 
-<b>The Idea</b>
+**The Idea**
 
 In particular, you don't need a brilliant [idea](ideas.html) to start a startup around. The way a startup makes money is to offer people better technology than they have now. But what people have now is often so bad that it doesn't take brilliance to do better.
 
@@ -28,11 +28,11 @@ Ideas for startups are worth something, certainly, but the trouble is, they're n
 
 What matters is not ideas, but the people who have them. Good people can fix bad ideas, but good ideas can't save bad people. <!-- So let's talk about people. -->
 
-<b>People</b>
+**People**
 
 What do I mean by good people? One of the best tricks I learned during [our](road.html) startup was a rule for deciding who to hire. Could you describe the person as an animal? It might be hard to translate that into another language, but I think everyone in the US knows what it means. It means someone who takes their work a little too seriously; someone who does what they do so well that they pass right through professional and cross over into obsessive.
 
-What it means specifically depends on the job: a salesperson who just won't take no for an answer; a hacker who will stay up till 4:00 AM rather than go to bed leaving code with a bug in it; a PR person who will cold-call <i>New York Times</i> reporters on their cell phones; a graphic designer who feels physical pain when something is two millimeters out of place.
+What it means specifically depends on the job: a salesperson who just won't take no for an answer; a hacker who will stay up till 4:00 AM rather than go to bed leaving code with a bug in it; a PR person who will cold-call *New York Times* reporters on their cell phones; a graphic designer who feels physical pain when something is two millimeters out of place.
 
 Almost everyone who worked for us was an animal at what they did. The woman in charge of sales was so tenacious that I used to feel sorry for potential customers on the phone with her. You could sense them squirming on the hook, but you knew there would be no rest for them till they'd signed up.
 
@@ -72,7 +72,7 @@ There is one reason you might want to include business people in a startup, thou
 
 If you can't understand users, however, you should either learn how or find a co-founder who can. That is the single most important issue for technology startups, and the rock that sinks more of them than anything else.
 
-<b>What Customers Want</b>
+**What Customers Want**
 
 It's not just startups that have to worry about this. I think most businesses that fail do it because they don't give customers what they want. Look at restaurants. A large percentage fail, about a quarter in the first year. But can you think of one restaurant that had really good food and went out of business?
 
@@ -106,11 +106,11 @@ If you want ideas for startups, one of the most valuable things you could do is 
 
 Start by writing software for smaller companies, because it's easier to sell to them. It's worth so much to sell stuff to big companies that the people selling them the crap they currently use spend a lot of time and money to do it. And while you can outhack Oracle with one frontal lobe tied behind your back, you can't outsell an Oracle salesman. So if you want to win through better technology, aim at smaller customers. [4]
 
-They're the more strategically valuable part of the market anyway. In technology, the low end always eats the high end. It's easier to make an inexpensive product more powerful than to make a powerful product cheaper. So the products that start as cheap, simple options tend to gradually grow more powerful till, like water rising in a room, they squash the "high-end" products against the ceiling. Sun did this to mainframes, and Intel is doing it to Sun. Microsoft Word did it to desktop publishing software like Interleaf and Framemaker. Mass-market digital cameras are doing it to the expensive models made for professionals. Avid did it to the manufacturers of specialized video editing systems, and now Apple is doing it to Avid. <i>Henry Ford</i> did it to the car makers that preceded him. If you build the simple, inexpensive option, you'll not only find it easier to sell at first, but you'll also be in the best position to conquer the rest of the market.
+They're the more strategically valuable part of the market anyway. In technology, the low end always eats the high end. It's easier to make an inexpensive product more powerful than to make a powerful product cheaper. So the products that start as cheap, simple options tend to gradually grow more powerful till, like water rising in a room, they squash the "high-end" products against the ceiling. Sun did this to mainframes, and Intel is doing it to Sun. Microsoft Word did it to desktop publishing software like Interleaf and Framemaker. Mass-market digital cameras are doing it to the expensive models made for professionals. Avid did it to the manufacturers of specialized video editing systems, and now Apple is doing it to Avid. *Henry Ford* did it to the car makers that preceded him. If you build the simple, inexpensive option, you'll not only find it easier to sell at first, but you'll also be in the best position to conquer the rest of the market.
 
 It's very dangerous to let anyone fly under you. If you have the cheapest, easiest product, you'll own the low end. And if you don't, you're in the crosshairs of whoever does.
 
-<b>Raising Money</b>
+**Raising Money**
 
 To make all this happen, you're going to need money. Some startups have been self-funding-- Microsoft for example-- but most aren't. I think it's wise to take money from investors. To be self-funding, you have to start as a consulting company, and it's hard to switch from that to a product company.
 
@@ -170,13 +170,13 @@ I'm happy to see Google is bucking that trend. They didn't talk Wall Street's la
 
 You have more leverage negotiating with VCs than you realize. The reason is other VCs. I know a number of VCs now, and when you talk to them you realize that it's a seller's market. Even now there is too much money chasing too few good deals.
 
-VCs form a pyramid. At the top are famous ones like Sequoia and Kleiner Perkins, but beneath those are a huge number you've never heard of. What they all have in common is that a dollar from them is worth one dollar. Most VCs will tell you that they don't just provide money, but connections and advice. If you're talking to Vinod Khosla or John Doerr or Mike Moritz, this is true. But such advice and connections can come very expensive. And as you go down the food chain the VCs get rapidly <!-- href="http://ricksegal.typepad.com/pmv/2005/03/vcs_suck_shocki.html"--> dumber. A few steps down from the top you're basically talking to bankers who've picked up a few new vocabulary words from reading <i>Wired</i>. (Does your product use <i>XML?</i>) So I'd advise you to be skeptical about claims of experience and connections. Basically, a VC is a source of money. I'd be inclined to go with whoever offered the most money the soonest with the least strings attached.
+VCs form a pyramid. At the top are famous ones like Sequoia and Kleiner Perkins, but beneath those are a huge number you've never heard of. What they all have in common is that a dollar from them is worth one dollar. Most VCs will tell you that they don't just provide money, but connections and advice. If you're talking to Vinod Khosla or John Doerr or Mike Moritz, this is true. But such advice and connections can come very expensive. And as you go down the food chain the VCs get rapidly <!-- href="http://ricksegal.typepad.com/pmv/2005/03/vcs_suck_shocki.html"--> dumber. A few steps down from the top you're basically talking to bankers who've picked up a few new vocabulary words from reading *Wired*. (Does your product use *XML?*) So I'd advise you to be skeptical about claims of experience and connections. Basically, a VC is a source of money. I'd be inclined to go with whoever offered the most money the soonest with the least strings attached.
 
 You may wonder how much to tell VCs. And you should, because some of them may one day be funding your competitors. I think the best plan is not to be overtly secretive, but not to tell them everything either. After all, as most VCs say, they're more interested in the people than the ideas. The main reason they want to talk about your idea is to judge you, not the idea. So as long as you seem like you know what you're doing, you can probably keep a few things back from them. [7]
 
 Talk to as many VCs as you can, even if you don't want their money, because a) they may be on the board of someone who will buy you, and b) if you seem impressive, they'll be discouraged from investing in your competitors. The most efficient way to reach VCs, especially if you only want them to know about you and don't want their money, is at the conferences that are occasionally organized for startups to present to them.
 
-<b>Not Spending It</b>
+**Not Spending It**
 
 When and if you get an infusion of real money from investors, what should you do with it? Not spend it, that's what. In nearly every startup that fails, the proximate cause is running out of money. Usually there is something deeper wrong. But even a proximate cause of death is worth trying hard to avoid.
 
@@ -228,7 +228,7 @@ This is ridiculous, really. If two companies have the same revenues, it's the on
 
 As with office space, the number of your employees is a choice between seeming impressive, and being impressive. Any of you who were [nerds](nerds.html) in high school know about this choice. Keep doing it when you start a company.
 
-<b>Should You?</b>
+**Should You?**
 
 But should you start a company? Are you the right sort of person to do it? If you are, is it worth it?
 
@@ -274,7 +274,7 @@ If you want to do it, do it. Starting a startup is not the great mystery it seem
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Google's revenues are about two billion a year, but half comes from ads on other sites.
 
@@ -294,4 +294,4 @@ If you want to do it, do it. Starting a startup is not the great mystery it seem
 
 [9] You could probably write a book about how to succeed in business by doing everything in exactly the opposite way from the DMV.
 
-<b>Thanks</b> to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this essay, and to Steve Melendez and Gregory Price for inviting me to speak.
+**Thanks** to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this essay, and to Steve Melendez and Gregory Price for inviting me to speak.

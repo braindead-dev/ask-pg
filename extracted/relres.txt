@@ -36,7 +36,7 @@ You can even use it tactically. If I were running a startup, this would be the p
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] I think the reason the dictionaries are wrong is that the meaning of the word has shifted. No one writing a dictionary from scratch today would say that hapless meant unlucky. But a couple hundred years ago they might have. People were more at the mercy of circumstances in the past, and as a result a lot of the words we use for good and bad outcomes have origins in words about luck.
 
@@ -46,4 +46,4 @@ When I was living in Italy, I was once trying to tell someone that I hadn't had 
 
 [3] I'd almost say to most people, but I realize (a) I have no idea what most people are like, and (b) I'm pathologically optimistic about people's ability to change.
 
-<b>Thanks</b> to Trevor Blackwell and Jessica Livingston for reading drafts of this.
+**Thanks** to Trevor Blackwell and Jessica Livingston for reading drafts of this.

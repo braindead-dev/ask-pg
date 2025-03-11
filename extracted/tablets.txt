@@ -24,6 +24,6 @@ It has turned out to be a great thing that Apple tablets have accelerometers in 
 
 
 
- <b>Thanks</b> to Sam Altman, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
+ **Thanks** to Sam Altman, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
 
-<!-- <b>Note:</b> The original version of this essay used the term "etherealization" instead of "ephemeralization," but apparently the former was an alternative name suggested to Fuller by someone else; he preferred the latter. -->
+<!-- **Note:** The original version of this essay used the term "etherealization" instead of "ephemeralization," but apparently the former was an alternative name suggested to Fuller by someone else; he preferred the latter. -->

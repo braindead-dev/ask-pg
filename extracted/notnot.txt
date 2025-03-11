@@ -2,7 +2,7 @@ Why to Not Not Start a Startup
 ---
 March 2007
 
-<i>(This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.)</i>
+*(This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.)*
 
 We've now been doing Y Combinator long enough to have some data about success rates. Our first batch, in the summer of 2005, had eight startups in it. Of those eight, it now looks as if at least four succeeded. Three have been acquired: [Reddit](http://reddit.com) was a merger of two, Reddit and Infogami, and a third was acquired that we can't talk about yet. Another from that batch was [Loopt](http://loopt.com), which is doing so well they could probably be acquired in about ten minutes if they wanted to.
 
@@ -30,7 +30,7 @@ I admit my goal is to increase your self-confidence. But there are two things di
 
 The other thing that's going to be different is my approach. Instead of being positive, I'm going to be negative. Instead of telling you "come on, you can do it" I'm going to consider all the reasons you aren't doing it, and show why most (but not all) should be ignored. We'll start with the one everyone's born with.
 
-<b>1. Too young</b>
+**1. Too young**
 
 A lot of people think they're too young to start a startup. Many are right. The median age worldwide is about 27, so probably a third of the population can truthfully say they're too young.
 
@@ -50,7 +50,7 @@ The other way to tell an adult is by how they react to a challenge. Someone who'
 
 There are a lot of adults who still react childishly to challenges, of course. What you don't often find are kids who react to challenges like adults. When you do, you've found an adult, whatever their age.
 
-<b>2. Too inexperienced</b>
+**2. Too inexperienced**
 
 I once wrote that startup founders should be at least 23, and that people should work for another company for a few years before starting their own. I no longer believe that, and what changed my mind is the example of the startups we've funded.
 
@@ -62,7 +62,7 @@ So now I'd advise people to go ahead and start startups right out of college. Th
 
 It worries me a bit to be saying this, because in effect we're advising people to educate themselves by failing at our expense, but it's the truth.
 
-<b>3. Not determined enough</b>
+**3. Not determined enough**
 
 You need a lot of determination to succeed as a startup founder. It's probably the single best predictor of success.
 
@@ -72,7 +72,7 @@ Most hackers probably underestimate their determination. I've seen a lot become 
 
 How can you tell if you're determined enough, when Larry and Sergey themselves were unsure at first about starting a company? I'm guessing here, but I'd say the test is whether you're sufficiently driven to work on your own projects. Though they may have been unsure whether they wanted to start a company, it doesn't seem as if Larry and Sergey were meek little research assistants, obediently doing their advisors' bidding. They started projects of their own.
 
- <b>4. Not smart enough</b>
+ **4. Not smart enough**
 
 You may need to be moderately smart to succeed as a startup founder. But if you're worried about this, you're probably mistaken. If you're smart enough to worry that you might not be smart enough to start a startup, you probably are.
 
@@ -80,7 +80,7 @@ And in any case, starting a startup just doesn't require that much intelligence.
 
 If you don't think you're smart enough to start a startup doing something technically difficult, just write enterprise software. Enterprise software companies aren't technology companies, they're sales companies, and sales depends mostly on effort.
 
-<b>5. Know nothing about business</b>
+**5. Know nothing about business**
 
 This is another variable whose coefficient should be zero. You don't need to know anything about business to start a startup. The initial focus should be the product. All you need to know in this phase is how to build things people want. If you succeed, you'll have to think about how to make money from it. But this is so easy you can pick it up on the fly.
 
@@ -94,7 +94,7 @@ The most valuable truths are the ones most people don't believe. They're like un
 
 We'll bet a seed round you can't make something popular that we can't figure out how to make money from.
 
-<b>6. No cofounder</b>
+**6. No cofounder**
 
 Not having a cofounder is a real problem. A startup is too much for one person to bear. And though we differ from other investors on a lot of questions, we all agree on this. All investors, without exception, are more likely to fund you with a cofounder than without.
 
@@ -108,7 +108,7 @@ It's possible you could meet a cofounder through something like a user's group o
 
 The real lesson to draw from this is not how to find a cofounder, but that you should start startups when you're young and there are lots of them around.
 
-<b>7. No idea</b>
+**7. No idea**
 
 In a sense, it's not a problem if you don't have a good idea, because most startups change their idea anyway. In the average Y Combinator startup, I'd guess 70% of the idea is new at the end of the first three months. Sometimes it's 100%.
 
@@ -120,7 +120,7 @@ That solves the problem if you get funded by Y Combinator. What about in the gen
 
 So here's the brief recipe for getting startup ideas. Find something that's missing in your own life, and supply that need—no matter how specific to you it seems. Steve Wozniak built himself a computer; who knew so many other people would want them? A need that's narrow but genuine is a better starting point than one that's broad but hypothetical. So even if the problem is simply that you don't have a date on Saturday night, if you can think of a way to fix that by writing software, you're onto something, because a lot of other people have the same problem.
 
-<b>8. No room for more startups</b>
+**8. No room for more startups**
 
 A lot of people look at the ever-increasing number of startups and think "this can't continue." Implicit in their thinking is a fallacy: that there is some limit on the number of startups there could be. But this is false. No one claims there's any limit on the number of people who can work for salary at 1000-person companies. Why should there be any limit on the number who can work for equity at 5-person companies? [3]
 
@@ -128,7 +128,7 @@ Nearly everyone who works is satisfying some kind of need. Breaking up companies
 
 Usually the limited-room fallacy is not expressed directly. Usually it's implicit in statements like "there are only so many startups Google, Microsoft, and Yahoo can buy." Maybe, though the list of acquirers is a lot longer than that. And whatever you think of other acquirers, Google is not stupid. The reason big companies buy startups is that they've created something valuable. And why should there be any limit to the number of valuable startups companies can acquire, any more than there is a limit to the amount of wealth individual people want? Maybe there would be practical limits on the number of startups any one acquirer could assimilate, but if there is value to be had, in the form of upside that founders are willing to forgo in return for an immediate payment, acquirers will evolve to consume it. Markets are pretty smart that way.
 
-<b>9. Family to support</b>
+**9. Family to support**
 
 This one is real. I wouldn't advise anyone with a family to start a startup. I'm not saying it's a bad idea, just that I don't want to take responsibility for advising it. I'm willing to take responsibility for telling 22 year olds to start startups. So what if they fail? They'll learn a lot, and that job at Microsoft will still be waiting for them if they need it. But I'm not prepared to cross moms.
 
@@ -138,7 +138,7 @@ Another way to decrease the risk is to join an existing startup instead of start
 
 As with the question of cofounders, the real lesson here is to start startups when you're young.
 
-<b>10. Independently wealthy</b>
+**10. Independently wealthy**
 
 This is my excuse for not starting a startup. Startups are stressful. Why do it if you don't need the money? For every "serial entrepreneur," there are probably twenty sane ones who think "Start another company? Are you crazy?"
 
@@ -148,13 +148,13 @@ There is a bit of a problem with retirement, though. Like a lot of people, I lik
 
 That's why I love working on Y Combinator so much. It's an excuse to work on something interesting with people I like.
 
-<b>11. Not ready for commitment</b>
+**11. Not ready for commitment**
 
 This was my reason for not starting a startup for most of my twenties. Like a lot of people that age, I valued freedom most of all. I was reluctant to do anything that required a commitment of more than a few months. Nor would I have wanted to do anything that completely took over my life the way a startup does. And that's fine. If you want to spend your time travelling around, or playing in a band, or whatever, that's a perfectly legitimate reason not to start a company.
 
 If you start a startup that succeeds, it's going to consume at least three or four years. (If it fails, you'll be done a lot quicker.) So you shouldn't do it if you're not ready for commitments on that scale. Be aware, though, that if you get a regular job, you'll probably end up working there for as long as a startup would take, and you'll find you have much less spare time than you might expect. So if you're ready to clip on that ID badge and go to that orientation session, you may also be ready to start that startup.
 
-<b>12. Need for structure</b>
+**12. Need for structure**
 
 I'm told there are people who need structure in their lives. This seems to be a nice way of saying they need someone to tell them what to do. I believe such people exist. There's plenty of empirical evidence: armies, religious cults, and so on. They may even be the majority.
 
@@ -164,7 +164,7 @@ If that sounds like a recipe for chaos, think about a soccer team. Eleven people
 
 How do you tell if you're independent-minded enough to start a startup? If you'd bristle at the suggestion that you aren't, then you probably are.
 
-<b>13. Fear of uncertainty</b>
+**13. Fear of uncertainty**
 
 Perhaps some people are deterred from starting startups because they don't like the uncertainty. If you go to work for Microsoft, you can predict fairly accurately what the next few years will be like—all too accurately, in fact. If you start a startup, anything might happen.
 
@@ -174,7 +174,7 @@ No one will blame you if the startup tanks, so long as you made a serious effort
 
 Nor will investors hold it against you, as long as you didn't fail out of laziness or incurable stupidity. I'm told there's a lot of stigma attached to failing in other places—in Europe, for example. Not here. In America, companies, like practically everything else, are disposable.
 
-<b>14. Don't realize what you're avoiding</b>
+**14. Don't realize what you're avoiding**
 
 One reason people who've been out in the world for a year or two make better founders than people straight from college is that they know what they're avoiding. If their startup fails, they'll have to get a job, and they know how much jobs suck.
 
@@ -188,17 +188,17 @@ In a startup, you skip all that. There's no concept of office hours in most star
 
 If you took a nap in your office in a big company, it would seem unprofessional. But if you're starting a startup and you fall asleep in the middle of the day, your cofounders will just assume you were tired.
 
-<b>15. Parents want you to be a doctor</b>
+**15. Parents want you to be a doctor**
 
 A significant number of would-be startup founders are probably dissuaded from doing it by their parents. I'm not going to say you shouldn't listen to them. Families are entitled to their own traditions, and who am I to argue with them? But I will give you a couple reasons why a safe career might not be what your parents really want for you.
 
 One is that parents tend to be more conservative for their kids than they would be for themselves. This is actually a rational response to their situation. Parents end up sharing more of their kids' ill fortune than good fortune. Most parents don't mind this; it's part of the job; but it does tend to make them excessively conservative. And erring on the side of conservatism is still erring. In almost everything, reward is proportionate to risk. So by protecting their kids from risk, parents are, without realizing it, also protecting them from rewards. If they saw that, they'd want you to take more risks.
 
-The other reason parents may be mistaken is that, like generals, they're always fighting the last war. If they want you to be a doctor, odds are it's not just because they want you to help the sick, but also because it's a prestigious and lucrative career. [4] But not so lucrative or prestigious as it was when their opinions were formed. When I was a kid in the seventies, a doctor was <i>the</i> thing to be. There was a sort of golden triangle involving doctors, Mercedes 450SLs, and tennis. All three vertices now seem pretty dated.
+The other reason parents may be mistaken is that, like generals, they're always fighting the last war. If they want you to be a doctor, odds are it's not just because they want you to help the sick, but also because it's a prestigious and lucrative career. [4] But not so lucrative or prestigious as it was when their opinions were formed. When I was a kid in the seventies, a doctor was *the* thing to be. There was a sort of golden triangle involving doctors, Mercedes 450SLs, and tennis. All three vertices now seem pretty dated.
 
 The parents who want you to be a doctor may simply not realize how much things have changed. Would they be that unhappy if you were Steve Jobs instead? So I think the way to deal with your parents' opinions about what you should do is to treat them like feature requests. Even if your only goal is to please them, the way to do that is not simply to give them what they ask for. Instead think about why they're asking for something, and see if there's a better way to give them what they need.
 
-<b>16. A job is the default</b>
+**16. A job is the default**
 
 This leads us to the last and probably most powerful reason people get regular jobs: it's the default thing to do. Defaults are enormously powerful, precisely because they operate without any conscious choice.
 
@@ -210,7 +210,7 @@ And you know what? If you'd been around when that change began (around 1000 in E
 
 Frightening as it seemed to them, it's now the default with us to live by our wits. So if it seems risky to you to start a startup, think how risky it once seemed to your ancestors to live as we do now. Oddly enough, the people who know this best are the very ones trying to get you to stick to the old model. How can Larry and Sergey say you should come work as their employee, when they didn't get jobs themselves?
 
-Now we look back on medieval peasants and wonder how they stood it. How grim it must have been to till the same fields your whole life with no hope of anything better, under the thumb of lords and priests you had to give all your surplus to and acknowledge as your masters. I wouldn't be surprised if one day people look back on what we consider a normal job in the same way. How grim it would be to commute every day to a cubicle in some soulless office complex, and be told what to do by someone you had to acknowledge as a boss—someone who could call you into their office and say "take a seat," and you'd sit! Imagine having to ask <i>permission</i> to release software to users. Imagine being sad on Sunday afternoons because the weekend was almost over, and tomorrow you'd have to get up and go to work. How did they stand it?
+Now we look back on medieval peasants and wonder how they stood it. How grim it must have been to till the same fields your whole life with no hope of anything better, under the thumb of lords and priests you had to give all your surplus to and acknowledge as your masters. I wouldn't be surprised if one day people look back on what we consider a normal job in the same way. How grim it would be to commute every day to a cubicle in some soulless office complex, and be told what to do by someone you had to acknowledge as a boss—someone who could call you into their office and say "take a seat," and you'd sit! Imagine having to ask *permission* to release software to users. Imagine being sad on Sunday afternoons because the weekend was almost over, and tomorrow you'd have to get up and go to work. How did they stand it?
 
 It's exciting to think we may be on the cusp of another shift like the one from farming to manufacturing. That's why I care about startups. Startups aren't interesting just because they're a way to make a lot of money. I couldn't care less about other ways to do that, like speculating in securities. At most those are interesting the way puzzles are. There's more going on with startups. They may represent one of those rare, historic shifts in the way [wealth](wealth.html) is created.
 
@@ -218,7 +218,7 @@ That's ultimately what drives us to work on Y Combinator. We want to make money,
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] The only people who lost were us. The angels had convertible debt, so they had first claim on the proceeds of the auction. Y Combinator only got 38 cents on the dollar.
 
@@ -228,7 +228,7 @@ That's ultimately what drives us to work on Y Combinator. We want to make money,
 
 [4] Thought experiment: If doctors did the same work, but as impoverished outcasts, which parents would still want their kids to be doctors?
 
-<b>Thanks</b> to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this, to the founders of Zenter for letting me use their web-based PowerPoint killer even though it isn't launched yet, and to Ming-Hay Luk of the Berkeley CSUA for inviting me to speak.
+**Thanks** to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this, to the founders of Zenter for letting me use their web-based PowerPoint killer even though it isn't launched yet, and to Ming-Hay Luk of the Berkeley CSUA for inviting me to speak.
 
 
 

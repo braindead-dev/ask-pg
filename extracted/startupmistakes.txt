@@ -8,7 +8,7 @@ Afterwards I realized it could be helpful to look at the problem from this direc
 
 In a sense there's just one mistake that kills startups: not making something users want. If you make something users want, you'll probably be fine, whatever else you do or don't do. And if you don't make something users want, then you're dead, whatever else you do or don't do. So really this is a list of 18 things that cause startups not to make something users want. Nearly all failure funnels through that.
 
-<b>1. Single Founder</b>
+**1. Single Founder**
 
 Have you ever noticed how few successful startups were founded by just one person? Even companies you think of as having one founder, like Oracle, usually turn out to have more. It seems unlikely this is a coincidence.
 
@@ -18,7 +18,7 @@ But even if the founder's friends were all wrong and the company is a good bet, 
 
 The last one might be the most important. The low points in a startup are so low that few could bear them alone. When you have multiple founders, esprit de corps binds them together in a way that seems to violate conservation laws. Each thinks "I can't let my friends down." This is one of the most powerful forces in human nature, and it's missing when there's just one founder.
 
-<b>2. Bad Location</b>
+**2. Bad Location**
 
 Startups prosper in some places and not others. Silicon Valley dominates, then Boston, then Seattle, Austin, Denver, and New York. After that there's not much. Even in New York the number of startups per capita is probably a 20th of what it is in Silicon Valley. In towns like Houston and Chicago and Detroit it's too small to measure.
 
@@ -26,7 +26,7 @@ Why is the falloff so sharp? Probably for the same reason it is in other industr
 
 It's an interesting question why cities [become](siliconvalley.html) startup hubs, but the reason startups prosper in them is probably the same as it is for any industry: that's where the experts are. Standards are higher; people are more sympathetic to what you're doing; the kind of people you want to hire want to live there; supporting industries are there; the people you run into in chance meetings are in the same business. Who knows exactly how these factors combine to boost startups in Silicon Valley and squish them in Detroit, but it's clear they do from the number of startups per capita in each.
 
-<b>3. Marginal Niche</b>
+**3. Marginal Niche**
 
 Most of the groups that apply to Y Combinator suffer from a common problem: choosing a small, obscure niche in the hope of avoiding competition.
 
@@ -34,9 +34,9 @@ If you watch little kids playing sports, you notice that below a certain age the
 
 Choosing a marginal project is the startup equivalent of my eight year old strategy for dealing with fly balls. If you make anything good, you're going to have competitors, so you may as well face that. You can only avoid competition by avoiding good ideas.
 
-I think this shrinking from big problems is mostly unconscious. It's not that people think of grand ideas but decide to pursue smaller ones because they seem safer. Your unconscious won't even let you think of grand ideas. So the solution may be to think about ideas without involving yourself. What would be a great idea for <i>someone else</i> to do as a startup?
+I think this shrinking from big problems is mostly unconscious. It's not that people think of grand ideas but decide to pursue smaller ones because they seem safer. Your unconscious won't even let you think of grand ideas. So the solution may be to think about ideas without involving yourself. What would be a great idea for *someone else* to do as a startup?
 
-<b>4. Derivative Idea</b>
+**4. Derivative Idea**
 
 Many of the applications we get are imitations of some existing company. That's one source of ideas, but not the best. If you look at the origins of successful startups, few were started in imitation of some other startup. Where did they get their ideas? Usually from some specific, unsolved problem the founders identified.
 
@@ -46,7 +46,7 @@ It seems like the best problems to solve are ones that affect you personally. Ap
 
 So instead of copying the Facebook, with some variation that the Facebook rightly ignored, look for ideas from the other direction. Instead of starting from companies and working back to the problems they solved, look for problems and imagine the company that might solve them. [2] What do people complain about? What do you wish there was?
 
-<b>5. Obstinacy</b>
+**5. Obstinacy**
 
 In some fields the way to succeed is to have a vision of what you want to achieve, and to hold true to it no matter what setbacks you encounter. Starting startups is not one of them. The stick-to-your-vision approach works for something like winning an Olympic gold medal, where the problem is well-defined. Startups are more like science, where you need to follow the trail wherever it leads.
 
@@ -56,7 +56,7 @@ But openness to new ideas has to be tuned just right. Switching to a new idea ev
 
 Fortunately there's someone you can ask for advice: your users. If you're thinking about turning in some new direction and your users seem excited about it, it's probably a good bet.
 
-<b>6. Hiring Bad Programmers</b>
+**6. Hiring Bad Programmers**
 
 I forgot to include this in the early versions of the list, because nearly all the founders I know are programmers. This is not a serious problem for them. They might accidentally hire someone bad, but it's not going to kill the company. In a pinch they can do whatever's required themselves.
 
@@ -66,7 +66,7 @@ In practice what happens is that the business guys choose people they think are 
 
 So how do you pick good programmers if you're not a programmer? I don't think there's an answer. I was about to say you'd have to find a good programmer to help you hire people. But if you can't recognize good programmers, how would you even do that?
 
-<b>7. Choosing the Wrong Platform</b>
+**7. Choosing the Wrong Platform**
 
 A related problem (since it tends to be done by bad programmers) is choosing the wrong platform. For example, I think a lot of startups during the Bubble killed themselves by deciding to build server-based applications on Windows. Hotmail was still running on FreeBSD for years after Microsoft bought it, presumably because Windows couldn't handle the load. If Hotmail's founders had chosen to use Windows, they would have been swamped.
 
@@ -78,17 +78,17 @@ The scary thing about platforms is that there are always some that seem to outsi
 
 How do you pick the right platforms? The usual way is to hire good programmers and let them choose. But there is a trick you could use if you're not a programmer: visit a top computer science department and see what they use in research projects.
 
-<b>8. Slowness in Launching</b>
+**8. Slowness in Launching**
 
 Companies of all sizes have a hard time getting software done. It's intrinsic to the medium; software is always 85% done. It takes an effort of will to push through this and get something released to users. [3]
 
 Startups make all kinds of excuses for delaying their launch. Most are equivalent to the ones people use for procrastinating in everyday life. There's something that needs to happen first. Maybe. But if the software were 100% finished and ready to launch at the push of a button, would they still be waiting?
 
-One reason to launch quickly is that it forces you to actually <i>finish</i> some quantum of work. Nothing is truly finished till it's released; you can see that from the rush of work that's always involved in releasing anything, no matter how finished you thought it was. The other reason you need to launch is that it's only by bouncing your idea off users that you fully understand it.
+One reason to launch quickly is that it forces you to actually *finish* some quantum of work. Nothing is truly finished till it's released; you can see that from the rush of work that's always involved in releasing anything, no matter how finished you thought it was. The other reason you need to launch is that it's only by bouncing your idea off users that you fully understand it.
 
-Several distinct problems manifest themselves as delays in launching: working too slowly; not truly understanding the problem; fear of having to deal with users; fear of being judged; working on too many different things; excessive perfectionism. Fortunately you can combat all of them by the simple expedient of forcing yourself to launch <i>something</i> fairly quickly.
+Several distinct problems manifest themselves as delays in launching: working too slowly; not truly understanding the problem; fear of having to deal with users; fear of being judged; working on too many different things; excessive perfectionism. Fortunately you can combat all of them by the simple expedient of forcing yourself to launch *something* fairly quickly.
 
-<b>9. Launching Too Early</b>
+**9. Launching Too Early**
 
 Launching too slowly has probably killed a hundred times more startups than launching too fast, but it is possible to launch too fast. The danger here is that you ruin your reputation. You launch something, the early adopters try it out, and if it's no good they may never come back.
 
@@ -96,9 +96,9 @@ So what's the minimum you need to launch? We suggest startups think about what t
 
 This is the same approach I (and many other programmers) use for writing software. Think about the overall goal, then start by writing the smallest subset of it that does anything useful. If it's a subset, you'll have to write it anyway, so in the worst case you won't be wasting your time. But more likely you'll find that implementing a working subset is both good for morale and helps you see more clearly what the rest should do.
 
-The early adopters you need to impress are fairly tolerant. They don't expect a newly launched product to do everything; it just has to do <i>something</i>.
+The early adopters you need to impress are fairly tolerant. They don't expect a newly launched product to do everything; it just has to do *something*.
 
-<b>10. Having No Specific User in Mind</b>
+**10. Having No Specific User in Mind**
 
 You can't build things users like without understanding them. I mentioned earlier that the most successful startups seem to have begun by trying to solve a problem their founders had. Perhaps there's a rule here: perhaps you create wealth in proportion to how well you understand the problem you're solving, and the problems you understand best are your own. [4]
 
@@ -110,7 +110,7 @@ You can of course build something for users other than yourself. We did. But you
 
 In this case the instruments are the users. When designing for other people you have to be empirical. You can no longer guess what will work; you have to find users and measure their responses. So if you're going to make something for teenagers or "business" users or some other group that doesn't include you, you have to be able to talk some specific ones into using what you're making. If you can't, you're on the wrong track.
 
-<b>11. Raising Too Little Money</b>
+**11. Raising Too Little Money**
 
 Most successful startups take funding at some point. Like having more than one founder, it seems a good bet statistically. How much should you take, though?
 
@@ -120,7 +120,7 @@ Too little money means not enough to get airborne. What airborne means depends o
 
 So if you take money from investors, you have to take enough to get to the next step, whatever that is. [5] Fortunately you have some control over both how much you spend and what the next step is. We advise startups to set both low, initially: spend practically nothing, and make your initial goal simply to build a solid prototype. This gives you maximum flexibility.
 
-<b>12. Spending Too Much</b>
+**12. Spending Too Much**
 
 It's hard to distinguish spending too much from raising too little. If you run out of money, you could say either was the cause. The only way to decide which to call it is by comparison with other startups. If you raised five million and ran out of money, you probably spent too much.
 
@@ -130,7 +130,7 @@ The classic way to burn through cash is by hiring a lot of people. This bites yo
 
 We have three general suggestions about hiring: (a) don't do it if you can avoid it, (b) pay people with equity rather than salary, not just to save money, but because you want the kind of people who are committed enough to prefer that, and (c) only hire people who are either going to write code or go out and get users, because those are the only things you need at first.
 
-<b>13. Raising Too Much Money</b>
+**13. Raising Too Much Money**
 
 It's obvious how too little money could kill you, but is there such a thing as having too much?
 
@@ -144,7 +144,7 @@ Another drawback of large investments is the time they take. The time required t
 
 We advise founders who go on to seek VC money to take the first reasonable deal they get. If you get an offer from a reputable firm at a reasonable valuation with no unusually onerous terms, just take it and get on with building the company. [8] Who cares if you could get a 30% better deal elsewhere? Economically, startups are an all-or-nothing game. Bargain-hunting among investors is a waste of time.
 
-<b>14. Poor Investor Management</b>
+**14. Poor Investor Management**
 
 As a founder, you have to manage your investors. You shouldn't ignore them, because they may have useful insights. But neither should you let them run the company. That's supposed to be your job. If investors had sufficient vision to run the companies they fund, why didn't they start them?
 
@@ -154,7 +154,7 @@ How hard you have to work on managing investors usually depends on how much mone
 
 If things go well, this shouldn't matter. So long as you seem to be advancing rapidly, most investors will leave you alone. But things don't always go smoothly in startups. Investors have made trouble even for the most successful companies. One of the most famous examples is Apple, whose board made a nearly fatal blunder in firing Steve Jobs. Apparently even Google got a lot of grief from their investors early on.
 
-<b>15. Sacrificing Users to (Supposed) Profit</b>
+**15. Sacrificing Users to (Supposed) Profit**
 
 When I said at the beginning that if you make something users want, you'll be fine, you may have noticed I didn't mention anything about having the right business model. That's not because making money is unimportant. I'm not suggesting that founders start companies with no chance of making money in the hope of unloading them before they tank. The reason we tell founders not to worry about the business model initially is that making something people want is so much harder.
 
@@ -164,9 +164,9 @@ Because making something people want is so much harder than making money from it
 
 The companies that win are the ones that put users first. Google, for example. They made search work, then worried about how to make money from it. And yet some startup founders still think it's irresponsible not to focus on the business model from the beginning. They're often encouraged in this by investors whose experience comes from less malleable industries.
 
-It <i>is</i> irresponsible not to think about business models. It's just ten times more irresponsible not to think about the product.
+It *is* irresponsible not to think about business models. It's just ten times more irresponsible not to think about the product.
 
-<b>16. Not Wanting to Get Your Hands Dirty</b>
+**16. Not Wanting to Get Your Hands Dirty**
 
 Nearly all programmers would rather spend their time writing code and have someone else handle the messy business of extracting money from it. And not just the lazy ones. Larry and Sergey apparently felt this way too at first. After developing their new search algorithm, the first thing they tried was to get some other company to buy it.
 
@@ -178,7 +178,7 @@ If you're going to attract users, you'll probably have to get up from your compu
 
 If you want to start a startup, you have to face the fact that you can't just hack. At least one hacker will have to spend some of the time doing business stuff.
 
-<b>17. Fights Between Founders</b>
+**17. Fights Between Founders**
 
 Fights between founders are surprisingly common. About 20% of the startups we've funded have had a founder leave. It happens so often that we've reversed our attitude to vesting. We still don't require it, but now we advise founders to vest so there will be an orderly way for people to quit.
 
@@ -186,7 +186,7 @@ A founder leaving doesn't necessarily kill a startup, though. Plenty of successf
 
 Most of the disputes I've seen between founders could have been avoided if they'd been more careful about who they started a company with. Most disputes are not due to the situation but the people. Which means they're inevitable. And most founders who've been burned by such disputes probably had misgivings, which they suppressed, when they started the company. Don't suppress misgivings. It's much easier to fix problems before the company is started than after. So don't include your housemate in your startup because he'd feel left out otherwise. Don't start a company with someone you dislike because they have some skill you need and you worry you won't find anyone else. The people are the most important ingredient in a startup, so don't compromise there.
 
-<b>18. A Half-Hearted Effort</b>
+**18. A Half-Hearted Effort**
 
 The failed startups you hear most about are the spectacular flameouts. Those are actually the elite of failures. The most common type is not the one that makes spectacular mistakes, but the one that doesn't do much of anything — the one we never even hear about, because it was some project a couple guys started on the side while working on their day jobs, but which never got anywhere and was gradually abandoned.
 
@@ -202,7 +202,7 @@ In other words, starting startups is just like everything else. The biggest mist
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] This is not a complete list of the causes of failure, just those you can control. There are also several you can't, notably ineptitude and bad luck.
 
@@ -218,7 +218,7 @@ In other words, starting startups is just like everything else. The biggest mist
 
 [7] Not linearly of course, or it would take forever to raise five million dollars. In practice it just feels like it takes forever.
 
-Though if you include the cases where VCs don't invest, it would literally take forever in the median case. And maybe we should, because the danger of chasing large investments is not just that they take a long time. That's the <i>best</i> case. The real danger is that you'll expend a lot of time and get nothing.
+Though if you include the cases where VCs don't invest, it would literally take forever in the median case. And maybe we should, because the danger of chasing large investments is not just that they take a long time. That's the *best* case. The real danger is that you'll expend a lot of time and get nothing.
 
 [8] Some VCs will offer you an artificially low valuation to see if you have the balls to ask for more. It's lame that VCs play such games, but some do. If you're dealing with one of those you should push back on the valuation a bit.
 
@@ -234,4 +234,4 @@ I don't mean to be hard on Google. They did better than their competitors, who m
 
 [13] So how do you know whether you're in the category of people who should quit their day job, or the presumably larger one who shouldn't? I got to the point of saying that this was hard to judge for yourself and that you should seek outside advice, before realizing that that's what we do. We think of ourselves as investors, but viewed from the other direction Y Combinator is a service for advising people whether or not to quit their day job. We could be mistaken, and no doubt often are, but we do at least bet money on our conclusions.
 
-<b>Thanks</b> to Sam Altman, Jessica Livingston, Greg McAdoo, and Robert Morris for reading drafts of this. <!-- <a href="http://reddit.com"><img src="https://sep.turbifycdn.com/ty/cdn/paulgraham/redditino.png?t=1688221954&" border=0></a> [ Comment](http://reddit.com/info/me0s/comments) on this essay. -->
+**Thanks** to Sam Altman, Jessica Livingston, Greg McAdoo, and Robert Morris for reading drafts of this. <!-- <a href="http://reddit.com"><img src="https://sep.turbifycdn.com/ty/cdn/paulgraham/redditino.png?t=1688221954&" border=0></a> [ Comment](http://reddit.com/info/me0s/comments) on this essay. -->

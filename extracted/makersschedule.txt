@@ -42,8 +42,8 @@ Those of us on the maker's schedule are willing to compromise. We know we have t
 
 
 
- <b>Thanks</b> to Sam Altman, Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
+ **Thanks** to Sam Altman, Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
 
 
 
-<b>Related:</b>
+**Related:**

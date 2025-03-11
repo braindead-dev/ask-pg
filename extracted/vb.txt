@@ -24,7 +24,7 @@ If you're a freelancer or a small company, you can do this at the level of indiv
 
 But while some amount of bullshit is inevitably forced on you, the bullshit that sneaks into your life by tricking you is no one's fault but your own. And yet the bullshit you choose may be harder to eliminate than the bullshit that's forced on you. Things that lure you into wasting your time have to be really good at tricking you. An example that will be familiar to a lot of people is arguing online. When someone contradicts you, they're in a sense attacking you. Sometimes pretty overtly. Your instinct when attacked is to defend yourself. But like a lot of instincts, this one wasn't designed for the world we now live in. Counterintuitive as it feels, it's better most of the time not to defend yourself. Otherwise these people are literally taking your life. [2]
 
-Arguing online is only incidentally addictive. There are more dangerous things than that. As I've written before, one byproduct of technical progress is that things we like tend to become <a href="addiction.html"><u>more addictive</u></a>. Which means we will increasingly have to make a conscious effort to avoid addictions  to stand outside ourselves and ask "is this how I want to be spending my time?"
+Arguing online is only incidentally addictive. There are more dangerous things than that. As I've written before, one byproduct of technical progress is that things we like tend to become [more addictive](addiction.html). Which means we will increasingly have to make a conscious effort to avoid addictions  to stand outside ourselves and ask "is this how I want to be spending my time?"
 
 As well as avoiding bullshit, one should actively seek out things that matter. But different things matter to different people, and most have to learn what matters to them. A few are lucky and realize early on that they love math or taking care of animals or writing, and then figure out a way to spend a lot of time doing it. But most people start out with a life that's a mix of things that matter and things that don't, and only gradually learn to distinguish between them.
 
@@ -44,7 +44,7 @@ I can think of two more things one does when one doesn't have much of something:
 
 How you live affects how long you live. Most people could do better. Me among them.
 
-But you can probably get even more effect by paying closer attention to the time you have. It's easy to let the days rush by. The "flow" that imaginative people love so much has a darker cousin that prevents you from pausing to savor life amid the daily slurry of errands and alarms. One of the most striking things I've read was not in a book, but the title of one: James Salter's <i>Burning the Days</i>.
+But you can probably get even more effect by paying closer attention to the time you have. It's easy to let the days rush by. The "flow" that imaginative people love so much has a darker cousin that prevents you from pausing to savor life amid the daily slurry of errands and alarms. One of the most striking things I've read was not in a book, but the title of one: James Salter's *Burning the Days*.
 
 It is possible to slow time somewhat. I've gotten better at it. Kids help. When you have small children, there are a lot of moments so perfect that you can't help noticing.
 
@@ -58,10 +58,10 @@ Relentlessly prune bullshit, don't wait to do things that matter, and savor the 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] At first I didn't like it that the word that came to mind was one that had other meanings. But then I realized the other meanings are fairly closely related. Bullshit in the sense of things you waste your time on is a lot like intellectual bullshit.
 
 [2] I chose this example deliberately as a note to self. I get attacked a lot online. People tell the craziest lies about me. And I have so far done a pretty mediocre job of suppressing the natural human inclination to say "Hey, that's not true!"
 
-<b>Thanks</b> to Jessica Livingston and Geoff Ralston for reading drafts of this.
+**Thanks** to Jessica Livingston and Geoff Ralston for reading drafts of this.

@@ -38,7 +38,7 @@ The most likely scenario is (1) that no government will successfully establish a
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] There are two very different types of startup: one kind that evolves naturally, and one kind that's called into being to "commercialize" a scientific discovery. Most computer/software startups are now the first type, and most pharmaceutical startups the second. When I talk about startups in this essay, I mean type I startups. There is no difficulty making type II startups spread: all you have to do is fund medical research labs; commercializing whatever new discoveries the boffins throw off is as straightforward as building a new airport. Type II startups neither require nor produce startup culture. But that means having type II startups won't get you type I startups. Philadelphia is a case in point: lots of type II startups, but hardly any type I.
 
@@ -48,4 +48,4 @@ Incidentally, Google may appear to be an instance of a type II startup, but it w
 
 [3] The biggest counterexample here is Skype. If you're doing something that would get shut down in the US, it becomes an advantage to be located elsewhere. That's why Kazaa took the place of Napster. And the expertise and connections the founders gained from running Kazaa helped ensure the success of Skype.
 
-<b>Thanks</b> to Patrick Collison, Jessica Livingston, and Fred Wilson for reading drafts of this.
+**Thanks** to Patrick Collison, Jessica Livingston, and Fred Wilson for reading drafts of this.

@@ -2,7 +2,7 @@ Hackers and Painters
 ---
 May 2003
 
-<i>(This essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.)</i>
+*(This essay is derived from a guest lecture at Harvard, which incorporated an earlier talk at Northeastern.)*
 
 When I finished grad school in computer science I went to art school to study painting. A lot of people seemed surprised that someone interested in computers would also be interested in painting. They seemed to think that hacking and painting were very different kinds of work-- that hacking was cold, precise, and methodical, and that painting was the frenzied expression of some primal urge.
 
@@ -172,7 +172,7 @@ One way to tell how good people are at empathy is to watch them explain a techni
 
 Part of what software has to do is explain itself. So to write good software you have to understand how little users understand. They're going to walk up to the software with no preparation, and it had better do what they guess it will, because they're not going to read the manual. The best system I've ever seen in this respect was the original Macintosh, in 1985. It did what software almost never does: it just worked. [6]
 
-Source code, too, should explain itself. If I could get people to remember just one quote about programming, it would be the one at the beginning of <i>Structure and Interpretation of Computer Programs.</i> <blockquote> Programs should be written for people to read, and only incidentally for machines to execute. </blockquote> You need to have empathy not just for your users, but for your readers. It's in your interest, because you'll be one of them. Many a hacker has written a program only to find on returning to it six months later that he has no idea how it works. I know several people who've sworn off Perl after such experiences. [7]
+Source code, too, should explain itself. If I could get people to remember just one quote about programming, it would be the one at the beginning of *Structure and Interpretation of Computer Programs.* <blockquote> Programs should be written for people to read, and only incidentally for machines to execute. </blockquote> You need to have empathy not just for your users, but for your readers. It's in your interest, because you'll be one of them. Many a hacker has written a program only to find on returning to it six months later that he has no idea how it works. I know several people who've sworn off Perl after such experiences. [7]
 
 Lack of empathy is associated with intelligence, to the point that there is even something of a fashion for it in some places. But I don't think there's any correlation. You can do well in math and the natural sciences without having to learn empathy, and people in these fields tend to be smart, so the two qualities have come to be associated. But there are plenty of dumb people who are bad at empathy too. Just listen to the people who call in with questions on talk shows. They ask whatever it is they're asking in such a roundabout way that the hosts often have to rephrase the question for them.
 
@@ -192,7 +192,7 @@ Painting was not, in Leonardo's time, as cool as his work helped make it. How co
 
 
 
-<br> <b>Notes</b>
+<br> **Notes**
 
 [1] The greatest damage that photography has done to painting may be the fact that it killed the best day job. Most of the great painters in history supported themselves by painting portraits. <!-- Until about 1870, there was always a cadre of painters trained in the most difficult task in art, painting the human face from life. -->
 
@@ -208,4 +208,4 @@ Painting was not, in Leonardo's time, as cool as his work helped make it. How co
 
 [7] The way to make programs easy to read is not to stuff them with comments. I would take Abelson and Sussman's quote a step further. Programming languages should be designed to express algorithms, and only incidentally to tell computers how to execute them. A good programming language ought to be better for explaining software than English. You should only need comments when there is some kind of kludge you need to warn readers about, just as on a road there are only arrows on parts with unexpectedly sharp curves. <!-- [8] Leonardo was paid the same amount for painting the Virgin of the Rocks as the workshop that made the frame for it. -->
 
-<b>Thanks</b> to Trevor Blackwell, Robert Morris, Dan Giffin, and Lisa Randall for reading drafts of this, and to Henry Leitner and Larry Finkelstein for inviting me to speak.
+**Thanks** to Trevor Blackwell, Robert Morris, Dan Giffin, and Lisa Randall for reading drafts of this, and to Henry Leitner and Larry Finkelstein for inviting me to speak.

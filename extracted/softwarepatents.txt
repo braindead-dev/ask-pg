@@ -1,8 +1,8 @@
 Are Software Patents Evil?
 ---
-<!--<table width=100% cellspacing=0> <tr><td bgcolor=#ffac74><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>April 29:</b> Free one-day [startup school](http://startupschool.org) for hackers. </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> --> March 2006
+<!--<table width=100% cellspacing=0> <tr><td bgcolor=#ffac74><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> **April 29:** Free one-day [startup school](http://startupschool.org) for hackers. </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> --> March 2006
 
-<i>(This essay is derived from a talk at Google.)</i>
+*(This essay is derived from a talk at Google.)*
 
 A few weeks ago I found to my surprise that I'd been granted four [patents](http://paulgraham.infogami.com/blog/morepatents). This was all the more surprising because I'd only applied for three. The patents aren't mine, of course. They were assigned to Viaweb, and became Yahoo's when they bought us. But the news set me thinking about the question of software patents generally.
 
@@ -20,7 +20,7 @@ I think the problem is more with the patent office than the concept of software 
 
 The most common is to grant patents that shouldn't be granted. To be patentable, an invention has to be more than new. It also has to be non-obvious. And this, especially, is where the USPTO has been dropping the ball. Slashdot has an icon that expresses the problem vividly: a knife and fork with the words "patent pending" superimposed.
 
-The scary thing is, this is the <i>only</i> icon they have for patent stories. Slashdot readers now take it for granted that a story about a patent will be about a bogus patent. That's how bad the problem has become.
+The scary thing is, this is the *only* icon they have for patent stories. Slashdot readers now take it for granted that a story about a patent will be about a bogus patent. That's how bad the problem has become.
 
 The problem with Amazon's notorious one-click patent, for example, is not that it's a software patent, but that it's obvious. Any online store that kept people's shipping addresses would have implemented this. The reason Amazon did it first was not that they were especially smart, but because they were one of the earliest sites with enough clout to force customers to log in before they could buy something. [1]
 
@@ -42,7 +42,7 @@ These are separate questions. For example, in preindustrial societies like medie
 
 The situation with patents is similar. Business is a kind of ritualized warfare. Indeed, it evolved from actual warfare: most early traders switched on the fly from merchants to pirates depending on how strong you seemed. In business there are certain rules describing how companies may and may not compete with one another, and someone deciding that they're going to play by their own rules is missing the point. Saying "I'm not going to apply for patents just because everyone else does" is not like saying "I'm not going to lie just because everyone else does." It's more like saying "I'm not going to use TCP/IP just because everyone else does." Oh yes you are.
 
-A closer comparison might be someone seeing a hockey game for the first time, realizing with shock that the players were <i>deliberately</i> bumping into one another, and deciding that one would on no account be so rude when playing hockey oneself.
+A closer comparison might be someone seeing a hockey game for the first time, realizing with shock that the players were *deliberately* bumping into one another, and deciding that one would on no account be so rude when playing hockey oneself.
 
 Hockey allows checking. It's part of the game. If your team refuses to do it, you simply lose. So it is in business. Under the present rules, patents are part of the game.
 
@@ -112,7 +112,7 @@ This is a very hard question to answer in the general case. People write whole b
 
 One thing I can say is that 99.9% of the people who express opinions on the subject do it not based on such research, but out of a kind of religious conviction. At least, that's the polite way of putting it; the colloquial version involves speech coming out of organs not designed for that purpose.
 
-Whether they encourage innovation or not, patents were at least intended to. You don't get a patent for nothing. In return for the exclusive right to use an idea, you have to <i>publish</i> it, and it was largely to encourage such openness that patents were established.
+Whether they encourage innovation or not, patents were at least intended to. You don't get a patent for nothing. In return for the exclusive right to use an idea, you have to *publish* it, and it was largely to encourage such openness that patents were established.
 
 Before patents, people protected ideas by keeping them secret. With patents, central governments said, in effect, if you tell everyone your idea, we'll protect it for you. There is a parallel here to the rise of civil order, which happened at roughly the same time. Before central governments were powerful enough to enforce order, rich people had private armies. As governments got more powerful, they gradually compelled magnates to cede most responsibility for protecting them. (Magnates still have bodyguards, but no longer to protect them from other magnates.)
 
@@ -122,7 +122,7 @@ As with gangs, we have some idea what secrecy would be like, because that's how 
 
 The most memorable example of medieval industrial secrecy is probably Venice, which forbade glassblowers to leave the city, and sent assassins after those who tried. We might like to think we wouldn't go so far, but the movie industry has already tried to pass [laws](http://news.com.com/2100-1026_3-5106684.html) prescribing three year prison terms just for putting movies on public networks. Want to try a frightening thought experiment? If the movie industry could have any law they wanted, where would they stop? Short of the death penalty, one assumes, but how close would they get?
 
-Even worse than the spectacular abuses might be the overall decrease in efficiency that would accompany increased secrecy. As anyone who has dealt with organizations that operate on a "need to know" basis can attest, dividing information up into little cells is terribly inefficient. The flaw in the "need to know" principle is that you don't <i>know</i> who needs to know something. An idea from one area might spark a great discovery in another. But the discoverer doesn't know he needs to know it.
+Even worse than the spectacular abuses might be the overall decrease in efficiency that would accompany increased secrecy. As anyone who has dealt with organizations that operate on a "need to know" basis can attest, dividing information up into little cells is terribly inefficient. The flaw in the "need to know" principle is that you don't *know* who needs to know something. An idea from one area might spark a great discovery in another. But the discoverer doesn't know he needs to know it.
 
 If secrecy were the only protection for ideas, companies wouldn't just have to be secretive with other companies; they'd have to be secretive internally. This would encourage what is already the worst trait of big companies.
 
@@ -134,7 +134,7 @@ The only real role of patents, for most startups, is as an element of the mating
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] You have to be careful here, because a great discovery often seems obvious in retrospect. One-click ordering, however, is not such a discovery.
 
@@ -152,4 +152,4 @@ The only real role of patents, for most startups, is as an element of the mating
 
 [8] If big companies don't want to wait for the government to take action, there is a way to fight back themselves. For a long time I thought there wasn't, because there was nothing to grab onto. But there is one resource patent trolls need: lawyers. Big technology companies between them generate a lot of legal business. If they agreed among themselves never to do business with any firm employing anyone who had worked for a patent troll, either as an employee or as outside counsel, they could probably starve the trolls of the lawyers they need.
 
-<b>Thanks</b> to Dan Bloomberg, Paul Buchheit, Sarah Harlin, Jessica Livingston, and Peter Norvig for reading drafts of this, to Joel Lehrer and Peter Eng for answering my questions about patents, and to Ankur Pansari for inviting me to speak.
+**Thanks** to Dan Bloomberg, Paul Buchheit, Sarah Harlin, Jessica Livingston, and Peter Norvig for reading drafts of this, to Joel Lehrer and Peter Eng for answering my questions about patents, and to Ankur Pansari for inviting me to speak.

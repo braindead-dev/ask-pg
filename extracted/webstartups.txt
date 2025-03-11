@@ -2,7 +2,7 @@ The Future of Web Startups
 ---
 October 2007
 
-<i>(This essay is derived from a keynote at FOWA in October 2007.)</i>
+*(This essay is derived from a keynote at FOWA in October 2007.)*
 
 There's something interesting happening right now. Startups are undergoing the same transformation that technology does when it becomes cheaper.
 
@@ -12,9 +12,9 @@ Computers are a familiar example. When I was a kid, computers were big, expensiv
 
 This pattern is very old. Most of the turning points in economic history are instances of it. It happened to steel in the 1850s, and to power in the 1780s. It happened to cloth manufacture in the thirteenth century, generating the wealth that later brought about the Renaissance. Agriculture itself was an instance of this pattern.
 
-Now as well as being produced by startups, this pattern is happening <i>to</i> startups. It's so cheap to start web startups that orders of magnitudes more will be started. If the pattern holds true, that should cause dramatic changes.
+Now as well as being produced by startups, this pattern is happening *to* startups. It's so cheap to start web startups that orders of magnitudes more will be started. If the pattern holds true, that should cause dramatic changes.
 
-<b>1. Lots of Startups</b>
+**1. Lots of Startups**
 
 So my first prediction about the future of web startups is pretty straightforward: there will be a lot of them. When starting a startup was expensive, you had to get the permission of investors to do it. Now the only threshold is courage.
 
@@ -26,7 +26,7 @@ As word spreads that startups work, the number may grow to a point that would no
 
 We now think of it as normal to have a job at a company, but this is the thinnest of historical veneers. Just two or three lifetimes ago, most people in what are now called industrialized countries lived by farming. So while it may seem surprising to propose that large numbers of people will change the way they make a living, it would be more surprising if they didn't.
 
-<b>2. Standardization</b>
+**2. Standardization**
 
 When technology makes something dramatically cheaper, standardization always follows. When you make things in large volumes you tend to standardize everything that doesn't need to change.
 
@@ -38,7 +38,7 @@ One of the most important things we've been working on standardizing are investm
 
 Some investors will still want to cook up their own deal terms. Series A rounds, where you raise a million dollars or more, will be custom deals for the forseeable future. But I think angel rounds will start to be done mostly with standardized agreements. An angel who wants to insert a bunch of complicated terms into the agreement is probably not one you want anyway.
 
-<b>3. New Attitude to Acquisition</b>
+**3. New Attitude to Acquisition**
 
 Another thing I see starting to get standardized is acquisitions. As the volume of startups increases, big companies will start to develop standardized procedures that make acquisitions little more work than hiring someone.
 
@@ -48,9 +48,9 @@ One problem they've solved is how to think about acquisitions. For most companie
 
 Google's example should cure the rest of the world of this idea. Google has by far the best programmers of any public technology company. If they don't have a problem doing acquisitions, the others should have even less problem. However many Google does, Microsoft should do ten times as many.
 
-One reason Google doesn't have a problem with acquisitions is that they know first-hand the quality of the people they can get that way. Larry and Sergey only started Google after making the rounds of the search engines trying to sell their idea and finding no takers. They've <i>been</i> the guys coming in to visit the big company, so they know who might be sitting across that conference table from them.
+One reason Google doesn't have a problem with acquisitions is that they know first-hand the quality of the people they can get that way. Larry and Sergey only started Google after making the rounds of the search engines trying to sell their idea and finding no takers. They've *been* the guys coming in to visit the big company, so they know who might be sitting across that conference table from them.
 
-<b>4. Riskier Strategies are Possible</b>
+**4. Riskier Strategies are Possible**
 
 Risk is always proportionate to reward. The way to get really big returns is to do things that seem crazy, like starting a new search engine in 1998, or turning down a billion dollar acquisition offer.
 
@@ -58,7 +58,7 @@ This has traditionally been a problem in venture funding. Founders and investors
 
 If startups are easy to start, this conflict goes away, because founders can start them younger, when it's rational to take more risk, and can start more startups total in their careers. When founders can do lots of startups, they can start to look at the world in the same portfolio-optimizing way as investors. And that means the overall amount of wealth created can be greater, because strategies can be riskier.
 
-<b>5. Younger, Nerdier Founders</b>
+**5. Younger, Nerdier Founders**
 
 If startups become a cheap commodity, more people will be able to have them, just as more people could have computers once microprocessors made them cheap. And in particular, younger and more technical founders will be able to start startups than could before.
 
@@ -68,15 +68,15 @@ Fortunately, if startups get cheaper to start, there's another way to convince i
 
 This way of convincing investors is better suited to hackers, who often went into technology in part because they felt uncomfortable with the amount of fakeness required in other fields.
 
-<b>6. Startup Hubs Will Persist</b>
+**6. Startup Hubs Will Persist**
 
 It might seem that if startups get cheap to start, it will mean the end of startup hubs like Silicon Valley. If all you need to start a startup is rent money, you should be able to do it anywhere.
 
-This is kind of true and kind of false. It's true that you can now <i>start</i> a startup anywhere. But you have to do more with a startup than just start it. You have to make it succeed. And that is more likely to happen in a startup hub.
+This is kind of true and kind of false. It's true that you can now *start* a startup anywhere. But you have to do more with a startup than just start it. You have to make it succeed. And that is more likely to happen in a startup hub.
 
 I've thought a lot about this question, and it seems to me the increasing cheapness of web startups will if anything increase the importance of startup hubs. The value of startup hubs, like centers for any kind of business, lies in something very old-fashioned: face to face meetings. No technology in the immediate future will replace walking down University Ave and running into a friend who tells you how to fix a bug that's been bothering you all weekend, or visiting a friend's startup down the street and ending up in a conversation with one of their investors.
 
-The question of whether to be in a startup hub is like the question of whether to take outside investment. The question is not whether you <i>need</i> it, but whether it brings any advantage at all. Because anything that brings an advantage will give your competitors an advantage over you if they do it and you don't. So if you hear someone saying "we don't need to be in Silicon Valley," that use of the word "need" is a sign they're not even thinking about the question right.
+The question of whether to be in a startup hub is like the question of whether to take outside investment. The question is not whether you *need* it, but whether it brings any advantage at all. Because anything that brings an advantage will give your competitors an advantage over you if they do it and you don't. So if you hear someone saying "we don't need to be in Silicon Valley," that use of the word "need" is a sign they're not even thinking about the question right.
 
 And while startup hubs are as powerful magnets as ever, the increasing cheapness of starting a startup means the particles they're attracting are getting lighter. A startup now can be just a pair of 22 year old guys. A company like that can move much more easily than one with 10 people, half of whom have kids.
 
@@ -90,7 +90,7 @@ The more mobile startups get, the harder it would be to start new silicon valley
 
 This is not a nationalistic idea, incidentally. It's cities that compete, not countries. Atlanta is just as hosed as Munich.
 
-<b>7. Better Judgement Needed</b>
+**7. Better Judgement Needed**
 
 If the number of startups increases dramatically, then the people whose job is to judge them are going to have to get better at it. I'm thinking particularly of investors and acquirers. We now get on the order of 1000 applications a year. What are we going to do if we get 10,000?
 
@@ -102,7 +102,7 @@ I think acquirers may eventually have chief acquisition officers who will both i
 
 At the moment, there is no one within big companies who gets in trouble when they buy a startup for $200 million that they could have bought earlier for $20 million. There should start to be someone who gets in trouble for that.
 
-<b>8. College Will Change</b>
+**8. College Will Change**
 
 If the best hackers start their own companies after college instead of getting jobs, that will change what happens in college. Most of these changes will be for the better. I think the experience of college is warped in a bad way by the expectation that afterward you'll be judged by potential employers.
 
@@ -116,7 +116,7 @@ The greatest value of universities is not the brand name or perhaps even the cla
 
 What students do in their classes will change too. Instead of trying to get good grades to impress future employers, students will try to learn things. We're talking about some pretty dramatic changes here.
 
-<b>9. Lots of Competitors</b>
+**9. Lots of Competitors**
 
 If it gets easier to start a startup, it's easier for competitors too. That doesn't erase the advantage of increased cheapness, however. You're not all playing a zero-sum game. There's not some fixed number of startups that can succeed, regardless of how many are started.
 
@@ -124,7 +124,7 @@ In fact, I don't think there's any limit to the number of startups that could su
 
 What the increasing number of startups does mean is that you won't be able to sit on a good idea. Other people have your idea, and they'll be increasingly likely to do something about it.
 
-<b>10. Faster Advances</b>
+**10. Faster Advances**
 
 There's a good side to that, at least for consumers of technology. If people get right to work implementing ideas instead of sitting on them, technology will evolve faster.
 
@@ -138,7 +138,7 @@ The company that bought them was not a particularly stupid one. I think what he 
 
 Imagine what all that energy could do if it were put to use. There is an enormous latent capacity in the world's hackers that most people don't even realize is there. That's the main reason we do Y Combinator: to let loose all this energy by making it easy for hackers to start their own startups.
 
-<b>A Series of Tubes</b>
+**A Series of Tubes**
 
 The process of starting startups is currently like the plumbing in an old house. The pipes are narrow and twisty, and there are leaks in every joint. In the future this mess will gradually be replaced by a single, huge pipe. The water will still have to get from A to B, but it will get there faster and without the risk of spraying out through some random leak.
 
@@ -148,4 +148,4 @@ This will change a lot of things for the better. In a big, straight pipe like th
 
 
 
-<b>Thanks</b> to Brian Oberkirch and Simon Willison for inviting me to speak, and the crew at Carson Systems for making everything run smoothly.
+**Thanks** to Brian Oberkirch and Simon Willison for inviting me to speak, and the crew at Carson Systems for making everything run smoothly.

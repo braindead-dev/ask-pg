@@ -24,7 +24,7 @@ Y Combinator is working to fix this. We're trying to increase the number of inve
 
 Unfortunately, t is still very far from infinity. What does a startup do now, in the imperfect world we currently inhabit? The most important thing is not to let fundraising get you down. Startups live or die on morale. If you let the difficulty of raising money destroy your morale, it will become a self-fulfilling prophecy.
 
- <b>Bootstrapping (= Consulting)</b>
+ **Bootstrapping (= Consulting)**
 
 Some would-be founders may by now be thinking, why deal with investors at all? If raising money is so painful, why do it?
 
@@ -42,11 +42,11 @@ Bootstrapping sounds great in principle, but this apparently verdant territory i
 
 The upshot is, you can choose your pain: either the short, sharp pain of raising money, or the chronic ache of consulting. For a given total amount of pain, raising money is the better choice, because new technology is usually more valuable now than later.
 
-But although for most startups raising money will be the lesser evil, it's still a pretty big evil—so big that it can easily kill you. Not merely in the obvious sense that if you fail to raise money you might have to shut the company down, but because the <i>process</i> of raising money itself can kill you.
+But although for most startups raising money will be the lesser evil, it's still a pretty big evil—so big that it can easily kill you. Not merely in the obvious sense that if you fail to raise money you might have to shut the company down, but because the *process* of raising money itself can kill you.
 
 To survive it you need a set of techniques mostly orthogonal to the ones used in convincing investors, just as mountain climbers need to know survival techniques that are mostly orthogonal to those used in physically getting up and down mountains.
 
- <b>1. Have low expectations.</b>
+ **1. Have low expectations.**
 
 The reason raising money destroys so many startups' morale is not simply that it's hard, but that it's so much harder than they expected. What kills you is the disappointment. And the lower your expectations, the harder it is to be disappointed.
 
@@ -56,7 +56,7 @@ There will be a tendency, as a deal progresses, to start to believe it will happ
 
 This is harder to do than it sounds. It's very flattering when eminent investors seem interested in funding you. It's easy to start to believe that raising money will be quick and straightforward. But it hardly ever is.
 
- <b>2. Keep working on your startup.</b>
+ **2. Keep working on your startup.**
 
 It sounds obvious to say that you should keep working on your startup while raising money. Actually this is hard to do. Most startups don't manage to.
 
@@ -68,7 +68,7 @@ That's the best case, though. More often than not the company comes to a standst
 
 The solution: put the startup first. Fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. If you keep the company moving forward—releasing new features, increasing traffic, doing deals, getting written about—those investor meetings are more likely to be productive. Not just because your startup will seem more alive, but also because it will be better for your own morale, which is one of the main ways investors judge you.
 
- <b>3. Be conservative.</b>
+ **3. Be conservative.**
 
 As conditions get worse, the optimal strategy becomes more conservative. When things go well you can take risks; when things are bad you want to play it safe.
 
@@ -76,15 +76,15 @@ I advise approaching fundraising as if it were always going badly. The reason is
 
 What I tell most startups we fund is that if someone reputable offers you funding on reasonable terms, take it. There have been startups that ignored this advice and got away with it—startups that ignored a good offer in the hope of getting a better one, and actually did. But in the same position I'd give the same advice again. Who knows how many bullets were in the gun they were playing Russian roulette with?
 
-Corollary: if an investor seems interested, don't just let them sit. You can't assume someone interested in investing will stay interested. In fact, you can't even tell (<i>they</i> can't even tell) if they're really interested till you try to convert that interest into money. So if you have hot prospect, either close them now or write them off. And unless you already have enough funding, that reduces to: close them now.
+Corollary: if an investor seems interested, don't just let them sit. You can't assume someone interested in investing will stay interested. In fact, you can't even tell (*they* can't even tell) if they're really interested till you try to convert that interest into money. So if you have hot prospect, either close them now or write them off. And unless you already have enough funding, that reduces to: close them now.
 
 Startups don't win by getting great funding rounds, but by making great products. So finish raising money and get back to work.
 
- <b>4. Be flexible.</b>
+ **4. Be flexible.**
 
 There are two questions VCs ask that you shouldn't answer: "Who else are you talking to?" and "How much are you trying to raise?"
 
-VCs don't expect you to answer the first question. They ask it just in case. [4] They do seem to expect an answer to the second. But I don't think you should just tell them a number. Not as a way to play games with them, but because you shouldn't <i>have</i> a fixed amount you need to raise.
+VCs don't expect you to answer the first question. They ask it just in case. [4] They do seem to expect an answer to the second. But I don't think you should just tell them a number. Not as a way to play games with them, but because you shouldn't *have* a fixed amount you need to raise.
 
 The custom of a startup needing a fixed amount of funding is an obsolete one left over from the days when startups were more expensive. A company that needed to build a factory or hire 50 people obviously needed to raise a certain minimum amount. But few technology startups are in that position today.
 
@@ -92,7 +92,7 @@ We advise startups to tell investors there are several different routes they cou
 
 If you're raising an angel round, the size of the round can even change on the fly. In fact, it's just as well to make the round small initially, then expand as needed, rather than trying to raise a large round and risk losing the investors you already have if you can't raise the full amount. You may even want to do a "rolling close," where the round has no predetermined size, but instead you sell stock to investors one at a time as they say yes. That helps break deadlocks, because you can start as soon as the first one is ready to buy. [5]
 
- <b>5. Be independent.</b>
+ **5. Be independent.**
 
 A startup with a couple founders in their early twenties can have expenses so low that they could be profitable on as little as $2000 per month. That's negligible as corporate revenues go, but the effect on your morale and your bargaining position is anything but. At YC we use the phrase "ramen profitable" to describe the situation where you're making just enough to pay your living expenses. Once you cross into ramen profitable, everything changes. You may still need investment to make it big, but you don't need it this month.
 
@@ -108,7 +108,7 @@ Investors know this, at least unconsciously. The reason they like it when you do
 
 [Sam Altman](http://www.youtube.com/watch?v=KhhId_WG7RA) has it. You could parachute him into an island full of cannibals and come back in 5 years and he'd be the king. If you're Sam Altman, you don't have to be profitable to convey to investors that you'll succeed with or without them. (He wasn't, and he did.) Not everyone has Sam's deal-making ability. I myself don't. But if you don't, you can let the numbers speak for you.
 
- <b>6. Don't take rejection personally.</b>
+ **6. Don't take rejection personally.**
 
 Getting rejected by investors can make you start to doubt yourself. After all, they're more experienced than you. If they think your startup is lame, aren't they probably right?
 
@@ -126,7 +126,7 @@ Though a rejection doesn't necessarily tell you anything about your startup, it 
 
 Don't let rejections pile up as a depressing, undifferentiated heap. Sort them and analyze them, and then instead of thinking "no one likes us," you'll know precisely how big a problem you have, and what to do about it.
 
- <b>7. Be able to downshift into consulting (if appropriate).</b>
+ **7. Be able to downshift into consulting (if appropriate).**
 
 Consulting, as I mentioned, is a dangerous way to finance a startup. But it's better than dying. It's a bit like anaerobic respiration: not the optimum solution for the long term, but it can save you from an immediate threat. If you're having trouble raising money from investors at all, it could save you to be able to shift toward consulting.
 
@@ -136,7 +136,7 @@ So long as you were careful not to get sucked permanently into consulting, this 
 
 At Viaweb we were forced to operate like a consulting company initially, because we were so desperate for users that we'd offer to build merchants' sites for them if they'd sign up. But we never charged for such work, because we didn't want them to start treating us like actual consultants, and calling us every time they wanted something changed on their site. We knew we had to stay a product company, because only that scales.
 
- <b>8. Avoid inexperienced investors.</b>
+ **8. Avoid inexperienced investors.**
 
 Though novice investors seem unthreatening they can be the most dangerous sort, because they're so nervous. Especially in proportion to the amount they invest. Raising $20,000 from a first-time angel investor can be as much work as raising $2 million from a VC fund.
 
@@ -144,7 +144,7 @@ Their lawyers are generally inexperienced too. But while the investors can admit
 
 Of course, someone has to take money from novice investors, or there would never be any experienced ones. But if you do, either (a) drive the process yourself, including supplying the [paperwork](http://ycombinator.com/seriesaa.html), or (b) use them only to fill up a larger round led by someone else.
 
- <b>9. Know where you stand.</b>
+ **9. Know where you stand.**
 
 The most dangerous thing about investors is their indecisiveness. The worst case scenario is the long no, the no that comes after months of meetings. Rejections from investors are like design flaws: inevitable, but much less costly if you discover them early.
 
@@ -156,7 +156,7 @@ You have to be disciplined when collecting data about investors' intentions. Oth
 
 Use the data to weight your strategy. You'll probably be talking to several investors. Focus on the ones that are most likely to say yes. The value of a potential investor is a combination of how good it would be if they said yes, and how likely they are to say it. Put the most weight on the second factor. Partly because the most important quality in an investor is simply investing. But also because, as I mentioned, the biggest factor in investors' opinion of you is other investors' opinion of you. If you're talking to several investors and you manage to get one over the threshold of saying yes, it will make the others much more interested. So you're not sacrificing the lukewarm investors if you focus on the hot ones; convincing the hot investors is the best way to convince the lukewarm ones.
 
- <b>Future</b>
+ **Future**
 
 I'm hopeful things won't always be so awkward. I hope that as startups get cheaper and the number of investors increases, raising money will become, if not easy, at least straightforward.
 
@@ -172,11 +172,11 @@ In the meantime founders have to treat raising money as a dangerous process. For
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] When investors can't make up their minds, they sometimes describe it as if it were a property of the startup. "You're too early for us," they sometimes say. But which of them, if they were taken back in a time machine to the hour Google was founded, wouldn't offer to invest at any valuation the founders chose? An hour old is not too early if it's the right startup. What "you're too early" really means is "we can't figure out yet whether you'll succeed."
 
- [2] Investors influence one another both directly and indirectly. They influence one another directly through the "buzz" that surrounds a hot startup. But they also influence one another indirectly <i>through the founders.</i> When a lot of investors are interested in you, it increases your confidence in a way that makes you much more attractive to investors.
+ [2] Investors influence one another both directly and indirectly. They influence one another directly through the "buzz" that surrounds a hot startup. But they also influence one another indirectly *through the founders.* When a lot of investors are interested in you, it increases your confidence in a way that makes you much more attractive to investors.
 
 No VC will admit they're influenced by buzz. Some genuinely aren't. But there are few who can say they're not influenced by confidence.
 
@@ -192,4 +192,4 @@ No VC will admit they're influenced by buzz. Some genuinely aren't. But there ar
 
 [7] But not all are. Though most VCs are suits at heart, the most successful ones tend not to be. Oddly enough, the best VCs tend to be the least VC-like.
 
- <b>Thanks</b> to Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
+ **Thanks** to Trevor Blackwell, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.

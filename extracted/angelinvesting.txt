@@ -2,7 +2,7 @@ How to Be an Angel Investor
 ---
 March 2009
 
-<i>(This essay is derived from a talk at [AngelConf](http://angelconf.org).)</i>
+*(This essay is derived from a talk at [AngelConf](http://angelconf.org).)*
 
 When we sold our startup in 1998 I thought one day I'd do some angel investing. Seven years later I still hadn't started. I put it off because it seemed mysterious and complicated. It turns out to be easier than I expected, and also more interesting.
 
@@ -12,7 +12,7 @@ There are sometimes minor tactical advantages to using one or the other. The pap
 
 That's how you win: by investing in the right startups. That is so much more important than anything else that I worry I'm misleading you by even talking about other things.
 
-<b>Mechanics</b>
+**Mechanics**
 
 Angel investors often syndicate deals, which means they join together to invest on the same terms. In a syndicate there is usually a "lead" investor who negotiates the terms with the startup. But not always: sometimes the startup cobbles together a syndicate of investors who approach them independently, and the startup's lawyer supplies the paperwork.
 
@@ -44,7 +44,7 @@ There's a second less obvious component of an angel investment: how much you're 
 
 Really hot companies sometimes have high standards for angels. The ones everyone wants to invest in practically audition investors, and only take money from people who are famous and/or will work hard for them. But don't feel like you have to put in a lot of time or you won't get to invest in any good startups. There is a surprising lack of correlation between how hot a deal a startup is and how well it ends up doing. Lots of hot startups will end up failing, and lots of startups no one likes will end up succeeding. And the latter are so desperate for money that they'll take it from anyone at a low valuation. [6]
 
-<b>Picking Winners</b>
+**Picking Winners**
 
 It would be nice to be able to pick those out, wouldn't it? The part of angel investing that has most effect on your returns, picking the right companies, is also the hardest. So you should practically ignore (or more precisely, archive, in the Gmail sense) everything I've told you so far. You may need to refer to it at some point, but it is not the central issue.
 
@@ -70,7 +70,7 @@ But I think I've figured out what's going on. The three most prominent people I 
 
 So as an angel investor I think you want to go with Ron Conway and bet on people. Thermals happen, yes, but no one can predict them—not even the founders, and certainly not you as an investor. And only good people can ride the thermals if they hit them anyway.
 
-<b>Deal Flow</b>
+**Deal Flow**
 
 Of course the question of how to choose startups presumes you have startups to choose between. How do you find them? This is yet another problem that gets solved for you by syndicates. If you tag along on a friend's investments, you don't have to find startups.
 
@@ -86,7 +86,7 @@ So if you want to invest seriously, the way to get started is to bootstrap yours
 
 If there are only a couple hundred serious angels in the Valley, then by deciding to become one you could single-handedly make the pipeline for startups in Silicon Valley significantly wider. That is kind of mind-blowing.
 
-<b>Being Good</b>
+**Being Good**
 
 How do you be a good angel investor? The first thing you need is to be decisive. When we talk to founders about good and bad investors, one of the ways we describe the good ones is to say "he writes checks." That doesn't mean the investor says yes to everyone. Far from it. It means he makes up his mind quickly, and follows through. You may be thinking, how hard could that be? You'll see when you try it. It follows from the nature of angel investing that the decisions are hard. You have to guess early, at the stage when the most promising ideas still seem counterintuitive, because if they were obviously good, VCs would already have funded them.
 
@@ -108,7 +108,7 @@ The most successful angel investors I know are all basically good people. Once t
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Convertible debt can be either capped at a particular valuation, or can be done at a discount to whatever the valuation turns out to be when it converts. E.g. convertible debt at a discount of 30% means when it converts you get stock as if you'd invested at a 30% lower valuation. That can be useful in cases where you can't or don't want to figure out what the valuation should be. You leave it to the next investor. On the other hand, a lot of investors want to know exactly what they're getting, so they will only do convertible debt with a cap.
 
@@ -142,6 +142,6 @@ I'm not saying you should always absolutely refuse to give up your anti-dilution
 
 If you like a startup enough to invest in it, then invest in it. Just use the standard [series AA](http://ycombinator.com/seriesaa.html) terms and write them a check.
 
- <b>Thanks</b> to Sam Altman, Paul Buchheit, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
+ **Thanks** to Sam Altman, Paul Buchheit, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.
 
 <img src="http://ycombinator.com/images/y18.gif"> [Comment](http://news.ycombinator.com/item?id=506671) on this essay.

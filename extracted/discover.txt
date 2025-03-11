@@ -38,7 +38,7 @@ It's hard enough to overcome one's own misconceptions without having to think ab
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] I had a strange feeling of being back in high school writing this. To get a good grade you had to both write the sort of pious crap you were expected to, but also seem to be writing with conviction. The solution was a kind of method acting. It was revoltingly familiar to slip back into it.
 
@@ -46,6 +46,6 @@ It's hard enough to overcome one's own misconceptions without having to think ab
 
 [3] Come to think of it, there is one way in which I deliberately pander to readers, because it doesn't change the number of words: I switch person. This flattering distinction seems so natural to the average reader that they probably don't notice even when I switch in mid-sentence, though you tend to notice when it's done as conspicuously as this.
 
-<b>Thanks</b> to Jessica Livingston and Robert Morris for reading drafts of this.
+**Thanks** to Jessica Livingston and Robert Morris for reading drafts of this.
 
-<b>Note:</b> An earlier version of this essay began by talking about why people dislike Michael Arrington. I now believe that was mistaken, and that most people don't dislike him for the same reason I did when I first met him, but simply because he writes about controversial things.
+**Note:** An earlier version of this essay began by talking about why people dislike Michael Arrington. I now believe that was mistaken, and that most people don't dislike him for the same reason I did when I first met him, but simply because he writes about controversial things.

@@ -2,7 +2,7 @@ Schlep Blindness
 ---
 January 2012
 
-There are great startup ideas lying around unexploited right under our noses. One reason we don't see them is a phenomenon I call <i>schlep blindness</i>. Schlep was originally a Yiddish word but has passed into general use in the US. It means a tedious, unpleasant task.
+There are great startup ideas lying around unexploited right under our noses. One reason we don't see them is a phenomenon I call *schlep blindness*. Schlep was originally a Yiddish word but has passed into general use in the US. It means a tedious, unpleasant task.
 
 No one likes schleps, but hackers especially dislike them. Most hackers who start startups wish they could do it by just writing some clever software, putting it on a server somewhere, and watching the money roll in—without ever having to talk to users, or negotiate with other companies, or deal with other people's broken code. Maybe that's possible, but I haven't seen it.
 
@@ -30,4 +30,4 @@ It's too late now to be Stripe, but there's plenty still broken in the world, if
 
 
 
-<b>Thanks</b> to Sam Altman, Paul Buchheit, Patrick Collison, Aaron Iba, Jessica Livingston, Emmett Shear, and Harj Taggar for reading drafts of this.
+**Thanks** to Sam Altman, Paul Buchheit, Patrick Collison, Aaron Iba, Jessica Livingston, Emmett Shear, and Harj Taggar for reading drafts of this.

@@ -10,7 +10,7 @@ We would have been happy if just one of the eight seemed promising by the end of
 
 The whole summer was full of surprises. The best was that the [hypothesis](hiring.html) we were testing seems to be correct. Young hackers can start viable companies. This is good news for two reasons: (a) it's an encouraging thought, and (b) it means that Y Combinator, which is predicated on the idea, is not hosed.
 
-<b>Age</b>
+**Age**
 
 More precisely, the hypothesis was that success in a startup depends mainly on how smart and energetic you are, and much less on how old you are or how much business experience you have. The results so far bear this out. The 2005 summer founders ranged in age from 18 to 28 (average 23), and there is no correlation between their ages and how well they're doing.
 
@@ -32,7 +32,7 @@ As well as working hard, the groups all turned out to be extraordinarily respons
 
 I think the problem here is much the same as with the apparent laziness of people this age. They seem lazy because the work they're given is pointless, and they act irresponsible because they're not given any power. Some of them, anyway. We only have a sample size of about twenty, but it seems so far that if you let people in their early twenties be their own bosses, they rise to the occasion.
 
-<b>Morale</b>
+**Morale**
 
 The summer founders were as a rule very idealistic. They also wanted very much to get rich. These qualities might seem incompatible, but they're not. These guys want to get rich, but they want to do it by changing the world. They wouldn't (well, seven of the eight groups wouldn't) be interested in making money by speculating in stocks. They want to make something people use.
 
@@ -64,7 +64,7 @@ That's why we advise groups to ignore issues like scalability, internationalizat
 
 I suspect this is another reason startups beat big companies. Startups can be irresponsible and release version 1s that are light enough to evolve. In big companies, all the pressure is in the direction of over-engineering.
 
-<b>What Got Learned</b>
+**What Got Learned**
 
 One thing we were curious about this summer was where these groups would need help. That turned out to vary a lot. Some we helped with technical advice-- for example, about how to set up an application to run on multiple servers. Most we helped with strategy questions, like what to patent, and what to charge for and what to give away. Nearly all wanted advice about dealing with future investors: how much money should they take and what kind of terms should they expect?
 
@@ -88,7 +88,7 @@ Another surprise was that the three-month batch format, which we were forced int
 
 Several groups said our weekly dinners saved them from a common problem afflicting startups: working so hard that one has no social life. (I remember that part all too well.) This way, they were guaranteed a social event at least once a week.
 
-<b>Independence</b>
+**Independence**
 
 I've heard Y Combinator described as an "incubator." Actually we're the opposite: incubators exert more control than ordinary VCs, and we make a point of exerting less. Among other things, incubators usually make you work in their office-- that's where the word "incubator" comes from. That seems the wrong model. If investors get too involved, they smother one of the most powerful forces in a startup: the feeling that it's your own company.
 
@@ -96,7 +96,7 @@ Incubators were conspicuous failures during the Bubble. There's still debate abo
 
 Indeed, one quality all the founders shared this summer was a spirit of independence. I've been wondering about that. Are some people just a lot more independent than others, or would everyone be this way if they were allowed to?
 
-As with most nature/nurture questions, the answer is probably: some of each. But my main conclusion from the summer is that there's more environment in the mix than most people realize. I could see that from how the founders' attitudes <i>changed</i> during the summer. Most were emerging from twenty or so years of being told what to do. They seemed a little surprised at having total freedom. But they grew into it really quickly; some of these guys now seem about four inches taller (metaphorically) than they did at the beginning of the summer.
+As with most nature/nurture questions, the answer is probably: some of each. But my main conclusion from the summer is that there's more environment in the mix than most people realize. I could see that from how the founders' attitudes *changed* during the summer. Most were emerging from twenty or so years of being told what to do. They seemed a little surprised at having total freedom. But they grew into it really quickly; some of these guys now seem about four inches taller (metaphorically) than they did at the beginning of the summer.
 
 When we asked the summer founders what surprised them most about starting a company, one said "the most shocking thing is that it worked."
 
@@ -108,10 +108,10 @@ If I'm right, "hacker" will mean something different in twenty years than it doe
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] By heavy-duty security I mean efforts to protect against truly determined attackers.
 
 The [image](https://sep.turbifycdn.com/ty/cdn/paulgraham/sfptable.jpg?t=1688221954&) shows us, the 2005 summer founders, and Smartleaf co-founders Mark Nitzberg and Olin Shivers at the 30-foot table Kate Courteau designed for us. Photo by Alex Lewin.
 
-<b>Thanks</b> to Sarah Harlin, Steve Huffman, Jessica Livingston, Zak Stone, and Aaron Swartz for reading drafts of this. <!-- <table width=100% cellspacing=0> <tr><td bgcolor=#ffac74><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> Want to start a startup? YC [Winter Founders Program](http://ycombinator.com/wfp2006.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> -->
+**Thanks** to Sarah Harlin, Steve Huffman, Jessica Livingston, Zak Stone, and Aaron Swartz for reading drafts of this. <!-- <table width=100% cellspacing=0> <tr><td bgcolor=#ffac74><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> Want to start a startup? YC [Winter Founders Program](http://ycombinator.com/wfp2006.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> -->

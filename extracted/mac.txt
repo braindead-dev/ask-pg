@@ -40,7 +40,7 @@ So Dad, there's this company called Apple. They make a new kind of computer that
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] These horrible stickers are much like the intrusive ads popular on pre-Google search engines. They say to the customer: you are unimportant. We care about Intel and Microsoft, not you.
 

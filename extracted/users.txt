@@ -26,7 +26,7 @@ Often founders know what their problems are, but not their relative importance. 
 
 Not that founders listen. That was another big surprise: how often founders don't listen to us. A couple weeks ago I talked to a partner who had been working for YC for a couple batches and was starting to see the pattern. "They come back a year later," she said, "and say 'We wish we'd listened to you.'"
 
-It took me a long time to figure out why founders don't listen. At first I thought it was mere stubbornness. That's part of the reason, but another and probably more important reason is that so much about startups is [counterintuitive](before.html). And when you tell someone something counterintuitive, what it sounds to them is wrong. So the reason founders don't listen to us is that they don't <i>believe</i> us. At least not till experience teaches them otherwise. [4]
+It took me a long time to figure out why founders don't listen. At first I thought it was mere stubbornness. That's part of the reason, but another and probably more important reason is that so much about startups is [counterintuitive](before.html). And when you tell someone something counterintuitive, what it sounds to them is wrong. So the reason founders don't listen to us is that they don't *believe* us. At least not till experience teaches them otherwise. [4]
 
 The reason startups are so counterintuitive is that they're so different from most people's other experiences. No one knows what it's like except those who've done it. Which is why YC partners should usually have been founders themselves. But strangely enough, the counterintuitiveness of startups turns out to be another of the things that make YC work. If it weren't counterintuitive, founders wouldn't need our advice about how to do it.
 
@@ -42,7 +42,7 @@ Why are founders uncertain about what to do? Partly because startups almost by d
 
 YC is not simply more experienced founders passing on their knowledge. It's more like specialization than apprenticeship. The knowledge of the YC partners and the founders have different shapes: It wouldn't be worthwhile for a founder to acquire the encyclopedic knowledge of startup problems that a YC partner has, just as it wouldn't be worthwhile for a YC partner to acquire the depth of domain knowledge that a founder has. That's why it can still be valuable for an experienced founder to do YC, just as it can still be valuable for an experienced athlete to have a coach.
 
-The other big thing YC gives founders is colleagues, and this may be even more important than the advice of partners. If you look at history, great work clusters around certain places and institutions: Florence in the late 15th century, the University of Göttingen in the late 19th, <i>The New Yorker</i> under Ross, Bell Labs, Xerox PARC. However good you are, good colleagues make you better. Indeed, very ambitious people probably need colleagues more than anyone else, because they're so starved for them in everyday life.
+The other big thing YC gives founders is colleagues, and this may be even more important than the advice of partners. If you look at history, great work clusters around certain places and institutions: Florence in the late 15th century, the University of Göttingen in the late 19th, *The New Yorker* under Ross, Bell Labs, Xerox PARC. However good you are, good colleagues make you better. Indeed, very ambitious people probably need colleagues more than anyone else, because they're so starved for them in everyday life.
 
 Whether or not YC manages one day to be listed alongside those famous clusters, it won't be for lack of trying. We were very aware of this historical phenomenon and deliberately designed YC to be one. By this point it's not bragging to say that it's the biggest cluster of great startup founders. Even people trying to attack YC concede that.
 
@@ -64,7 +64,7 @@ YC founders aren't just inspired by one another. They also help one another. Tha
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] This is why I've never liked it when people refer to YC as a "bootcamp." It's intense like a bootcamp, but the opposite in structure. Instead of everyone doing the same thing, they're each talking to YC partners to figure out what their specific startup needs.
 
@@ -78,4 +78,4 @@ YC founders aren't just inspired by one another. They also help one another. Tha
 
 
 
- <font color="888888"><b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+ <font color="888888">**Thanks** to Trevor Blackwell, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.</font>

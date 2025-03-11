@@ -14,7 +14,7 @@ There may be nothing founders are so prone to delude themselves about as how int
 
 One of the things that makes the fatal pinch so dangerous is that it's self-reinforcing. Founders overestimate their chances of raising more money, and so are slack about reaching profitability, which further decreases their chances of raising money.
 
-Now that you know about the fatal pinch, how do you avoid it? Y&nbsp;Combinator tells founders who raise money to act as if it's the last they'll ever get. Because the self-reinforcing nature of this situation works the other way too: the less you need further investment, the easier it is to get.
+Now that you know about the fatal pinch, how do you avoid it? Y Combinator tells founders who raise money to act as if it's the last they'll ever get. Because the self-reinforcing nature of this situation works the other way too: the less you need further investment, the easier it is to get.
 
 What do you do if you're already in the fatal pinch? The first step is to re-evaluate the probability of raising more money. I will now, by an amazing feat of clairvoyance, do this for you: the probability is zero. [2]
 
@@ -22,7 +22,7 @@ Three options remain: you can shut down the company, you can increase how much y
 
 You should shut down the company if you're certain it will fail no matter what you do. Then at least you can give back the money you have left, and save yourself however many months you would have spent riding it down.
 
-Companies rarely <i>have</i> to fail though. What I'm really doing here is giving you the option of admitting you've already given up.
+Companies rarely *have* to fail though. What I'm really doing here is giving you the option of admitting you've already given up.
 
 If you don't want to shut down the company, that leaves increasing revenues and decreasing expenses. In most startups, expenses = people, and decreasing expenses = firing people. [3] Deciding to fire people is usually hard, but there's one case in which it shouldn't be: when there are people you already know you should fire but you're in denial about it. If so, now's the time.
 
@@ -52,7 +52,7 @@ The good news is, plenty of successful startups have passed through near-death e
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] There are a handful of companies that can't reasonably expect to make money for the first year or two, because what they're building takes so long. For these companies substitute "progress" for "revenue growth." You're not one of these companies unless your initial investors agreed in advance that you were. And frankly even these companies wish they weren't, because the illiquidity of "progress" puts them at the mercy of investors.
 
@@ -62,4 +62,4 @@ The good news is, plenty of successful startups have passed through near-death e
 
 [4] Unless of course the source of the problem is that you're paying yourselves high salaries. If by cutting the founders' salaries to the minimum you need, you can make it to profitability, you should. But it's a bad sign if you needed to read this to realize that.
 
- <b>Thanks</b> to Sam Altman, Paul Buchheit, Jessica Livingston, and Geoff Ralston for reading drafts of this.
+ **Thanks** to Sam Altman, Paul Buchheit, Jessica Livingston, and Geoff Ralston for reading drafts of this.

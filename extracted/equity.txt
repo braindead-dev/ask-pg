@@ -16,7 +16,7 @@ In the general case, if n is the fraction of the company you're giving up, the d
 
 For example, suppose Y Combinator offers to fund you in return for 7% of your company. In this case, n is .07 and 1/(1 - n) is 1.075. So you should take the deal if you believe we can improve your average outcome by more than 7.5%. If we improve your outcome by 10%, you're net ahead, because the remaining .93 you hold is worth .93 x 1.1 = 1.023. [1]
 
-One of the things the equity equation shows us is that, financially at least, taking money from a top VC firm can be a really good deal. Greg Mcadoo from Sequoia recently said at a YC dinner that when Sequoia invests alone they like to take about 30% of a company. 1/.7 = 1.43, meaning that deal is worth taking if they can improve your outcome by more than 43%. For the average startup, that would be an extraordinary bargain. It would improve the average startup's prospects by more than 43% just to be able to <i>say</i> they were funded by Sequoia, even if they never actually got the money.
+One of the things the equity equation shows us is that, financially at least, taking money from a top VC firm can be a really good deal. Greg Mcadoo from Sequoia recently said at a YC dinner that when Sequoia invests alone they like to take about 30% of a company. 1/.7 = 1.43, meaning that deal is worth taking if they can improve your outcome by more than 43%. For the average startup, that would be an extraordinary bargain. It would improve the average startup's prospects by more than 43% just to be able to *say* they were funded by Sequoia, even if they never actually got the money.
 
 The reason Sequoia is such a good deal is that the percentage of the company they take is artificially low. They don't even try to get market price for their investment; they limit their holdings to leave the founders enough stock to feel the company is still theirs.
 
@@ -44,10 +44,10 @@ And more generally, when you make any decision involving equity, run it through 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] This is why we can't believe anyone would think Y Combinator was a bad deal. Does anyone really think we're so useless that in three months we can't improve a startup's prospects by 7.5%? <!-- Usually people who say we're a bad deal, like Seth Levine in [this article](http://www.usatoday.com/money/industries/technology/2007-07-17-ycombinator_N.htm), simply don't understand what we do. If all we did was write checks, YC would be a bad deal. But in fact the money is the least of what we do. No VC who has seen Demo Day first hand has ever said YC took too much equity. -->
 
 [2] The obvious choice for your present valuation is the post-money valuation of your last funding round. This probably undervalues the company, though, because (a) unless your last round just happened, the company is presumably worth more, and (b) the valuation of an early funding round usually reflects some other contribution by the investors.
 
-<b>Thanks</b> to Sam Altman, Trevor Blackwell, Paul Buchheit, Hutch Fishman, David Hornik, Paul Kedrosky, Jessica Livingston, Gary Sabot, and Joshua Schachter for reading drafts of this.
+**Thanks** to Sam Altman, Trevor Blackwell, Paul Buchheit, Hutch Fishman, David Hornik, Paul Kedrosky, Jessica Livingston, Gary Sabot, and Joshua Schachter for reading drafts of this.

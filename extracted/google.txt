@@ -2,19 +2,19 @@ How to Start Google
 ---
 March 2024
 
-<i>(This is a talk I gave to 14 and 15 year olds about what to do now if they might want to start a startup later. Lots of schools think they should tell students something about startups. This is what I think they should tell them.)</i>
+*(This is a talk I gave to 14 and 15 year olds about what to do now if they might want to start a startup later. Lots of schools think they should tell students something about startups. This is what I think they should tell them.)*
 
 Most of you probably think that when you're released into the so-called real world you'll eventually have to get some kind of job. That's not true, and today I'm going to talk about a trick you can use to avoid ever having to get a job.
 
-The trick is to start your own company. So it's not a trick for avoiding <i>work</i>, because if you start your own company you'll work harder than you would if you had an ordinary job. But you will avoid many of the annoying things that come with a job, including a boss telling you what to do.
+The trick is to start your own company. So it's not a trick for avoiding *work*, because if you start your own company you'll work harder than you would if you had an ordinary job. But you will avoid many of the annoying things that come with a job, including a boss telling you what to do.
 
-It's more exciting to work on your own project than someone else's. And you can also get a lot richer. In fact, this is the standard way to get <a href="richnow.html"><u>really rich</u></a>. If you look at the lists of the richest people that occasionally get published in the press, nearly all of them did it by starting their own companies.
+It's more exciting to work on your own project than someone else's. And you can also get a lot richer. In fact, this is the standard way to get [really rich](richnow.html). If you look at the lists of the richest people that occasionally get published in the press, nearly all of them did it by starting their own companies.
 
 Starting your own company can mean anything from starting a barber shop to starting Google. I'm here to talk about one extreme end of that continuum. I'm going to tell you how to start Google.
 
 The companies at the Google end of the continuum are called startups when they're young. The reason I know about them is that my wife Jessica and I started something called Y Combinator that is basically a startup factory. Since 2005, Y Combinator has funded over 4000 startups. So we know exactly what you need to start a startup, because we've helped people do it for the last 19 years.
 
-You might have thought I was joking when I said I was going to tell you how to start Google. You might be thinking "How could <i>we</i> start Google?" But that's effectively what the people who did start Google were thinking before they started it. If you'd told Larry Page and Sergey Brin, the founders of Google, that the company they were about to start would one day be worth over a trillion dollars, their heads would have exploded.
+You might have thought I was joking when I said I was going to tell you how to start Google. You might be thinking "How could *we* start Google?" But that's effectively what the people who did start Google were thinking before they started it. If you'd told Larry Page and Sergey Brin, the founders of Google, that the company they were about to start would one day be worth over a trillion dollars, their heads would have exploded.
 
 All you can know when you start working on a startup is that it seems worth pursuing. You can't know whether it will turn into a company worth billions or one that goes out of business. So when I say I'm going to tell you how to start Google, I mean I'm going to tell you how to get to the point where you can start a company that has as much chance of being Google as Google had of being Google. [1]
 
@@ -32,13 +32,13 @@ You don't have to learn programming, though. If you're wondering what counts as 
 
 Steve Jobs, the founder of Apple, spent time when he was a teenager studying calligraphy — the sort of beautiful writing that you see in medieval manuscripts. No one, including him, thought that this would help him in his career. He was just doing it because he was interested in it. But it turned out to help him a lot. The computer that made Apple really big, the Macintosh, came out at just the moment when computers got powerful enough to make letters like the ones in printed books instead of the computery-looking letters you see in 8 bit games. Apple destroyed everyone else at this, and one reason was that Steve was one of the few people in the computer business who really got graphic design.
 
-Don't feel like your projects have to be <i>serious</i>. They can be as frivolous as you like, so long as you're building things you're excited about. Probably 90% of programmers start out building games. They and their friends like to play games. So they build the kind of things they and their friends want. And that's exactly what you should be doing at 15 if you want to start a startup one day.
+Don't feel like your projects have to be *serious*. They can be as frivolous as you like, so long as you're building things you're excited about. Probably 90% of programmers start out building games. They and their friends like to play games. So they build the kind of things they and their friends want. And that's exactly what you should be doing at 15 if you want to start a startup one day.
 
 You don't have to do just one project. In fact it's good to learn about multiple things. Steve Jobs didn't just learn calligraphy. He also learned about electronics, which was even more valuable. Whatever you're interested in. (Do you notice a theme here?)
 
 So that's the first of the three things you need, to get good at some kind or kinds of technology. You do it the same way you get good at the violin or football: practice. If you start a startup at 22, and you start writing your own programs now, then by the time you start the company you'll have spent at least 7 years practicing writing code, and you can get pretty good at anything after practicing it for 7 years.
 
-Let's suppose you're 22 and you've succeeded: You're now really good at some technology. How do you get <a href="startupideas.html"><u>startup ideas</u></a>? It might seem like that's the hard part. Even if you are a good programmer, how do you get the idea to start Google?
+Let's suppose you're 22 and you've succeeded: You're now really good at some technology. How do you get [startup ideas](startupideas.html)? It might seem like that's the hard part. Even if you are a good programmer, how do you get the idea to start Google?
 
 Actually it's easy to get startup ideas once you're good at technology. Once you're good at some technology, when you look at the world you see dotted outlines around the things that are missing. You start to be able to see both the things that are missing from the technology itself, and all the broken things that could be fixed using it, and each one of these is a potential startup.
 
@@ -82,7 +82,7 @@ That's it, just two things, build stuff and do well in school.
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] The rhetorical trick in this sentence is that the "Google"s refer to different things. What I mean is: a company that has as much chance of growing as big as Google ultimately did as Larry and Sergey could have reasonably expected Google itself would at the time they started it. But I think the original version is zippier.
 
@@ -92,4 +92,4 @@ That's it, just two things, build stuff and do well in school.
 
 
 
-<font color="888888"><b>Thanks</b> to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+<font color="888888">**Thanks** to Jared Friedman, Carolynn Levy, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.</font>

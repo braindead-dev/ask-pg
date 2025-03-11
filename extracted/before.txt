@@ -2,7 +2,7 @@ Before the Startup
 ---
 October 2014
 
-<i>(This essay is derived from a guest lecture in Sam Altman's [startup class](http://startupclass.samaltman.com/) at Stanford. It's intended for college students, but much of it is applicable to potential founders at other ages.)</i>
+*(This essay is derived from a guest lecture in Sam Altman's [startup class](http://startupclass.samaltman.com/) at Stanford. It's intended for college students, but much of it is applicable to potential founders at other ages.)*
 
 One of the advantages of having kids is that when you have to give advice, you can ask yourself "what would I tell my own kids?" My kids are little, but I can imagine what I'd tell them about startups if they were in college, and that's what I'm going to tell you.
 
@@ -12,7 +12,7 @@ It's like skiing in that way. When you first try skiing and you want to slow dow
 
 Startups are as unnatural as skiing, so there's a similar list for startups. Here I'm going to give you the first part of it — the things to remember if you want to prepare yourself to start a startup.
 
- <b>Counterintuitive</b>
+ **Counterintuitive**
 
 The first item on it is the fact I already mentioned: that startups are so weird that if you trust your instincts, you'll make a lot of mistakes. If you know nothing more than this, you may at least pause before making them.
 
@@ -26,7 +26,7 @@ If you're thinking about getting involved with someone — as a cofounder, an em
 
 This is one case where it pays to be self-indulgent. Work with people you genuinely like, and you've known long enough to be sure.
 
- <b>Expertise</b>
+ **Expertise**
 
 The second counterintuitive point is that it's not that important to know a lot about startups. The way to succeed in a startup is not to be an expert on startups, but to be an expert on your users and the problem you're solving for them. Mark Zuckerberg didn't succeed because he was an expert on startups. He succeeded despite being a complete noob at startups, because he understood his users really well.
 
@@ -34,7 +34,7 @@ If you don't know anything about, say, how to raise an angel round, don't feel b
 
 In fact, I worry it's not merely unnecessary to learn in great detail about the mechanics of startups, but possibly somewhat dangerous. If I met an undergrad who knew all about convertible notes and employee agreements and (God forbid) class FF stock, I wouldn't think "here is someone who is way ahead of their peers." It would set off alarms. Because another of the characteristic mistakes of young founders is to go through the motions of starting a startup. They make up some plausible-sounding idea, raise money at a good valuation, rent a cool office, hire a bunch of people. From the outside that seems like what startups do. But the next step after rent a cool office and hire a bunch of people is: gradually realize how completely fucked they are, because while imitating all the outward forms of a startup they have neglected the one thing that's actually essential: making something people want.
 
- <b>Game</b>
+ **Game**
 
 We saw this happen so often that we made up a name for it: playing house. Eventually I realized why it was happening. The reason young founders go through the motions of starting a startup is because that's what they've been trained to do for their whole lives up to that point. Think about what you have to do to get into college, for example. Extracurricular activities, check. Even in college classes most of the work is as artificial as running laps.
 
@@ -56,7 +56,7 @@ So stop looking for the trick. There are tricks in startups, as there are in any
 
 Though in a sense it's bad news in that you're deprived of one of your most powerful weapons, I think it's exciting that gaming the system stops working when you start a startup. It's exciting that there even exist parts of the world where you win by doing good work. Imagine how depressing the world would be if it were all like school and big companies, where you either have to spend a lot of time on bullshit things or lose to people who do. [3] I would have been delighted if I'd realized in college that there were parts of the real world where gaming the system mattered less than others, and a few where it hardly mattered at all. But there are, and this variation is one of the most important things to consider when you're thinking about your future. How do you win in each type of work, and what would you like to win by doing? [4]
 
- <b>All-Consuming</b>
+ **All-Consuming**
 
 That brings us to our fourth counterintuitive point: startups are all-consuming. If you start a startup, it will take over your life to a degree you cannot imagine. And if your startup succeeds, it will take over your life for a long time: for several years at the very least, maybe for a decade, maybe for the rest of your working life. So there is a real opportunity cost here.
 
@@ -80,7 +80,7 @@ Mark Zuckerberg will never get to bum around a foreign country. He can do other 
 
 There's not even a tradeoff here. You're not sacrificing anything if you forgo starting a startup at 20, because you're more likely to succeed if you wait. In the unlikely case that you're 20 and one of your side projects takes off like Facebook did, you'll face a choice of running with it or not, and it may be reasonable to run with it. But the usual way startups take off is for the founders to [make them](ds.html) take off, and it's gratuitously stupid to do that at 20.
 
- <b>Try</b>
+ **Try**
 
 Should you do it at any age? I realize I've made startups sound pretty hard. If I haven't, let me try again: starting a startup is really hard. What if it's too hard? How can you tell if you're up to this challenge?
 
@@ -94,7 +94,7 @@ I've read that the same is true in the military — that the swaggering recruits
 
 If you're absolutely terrified of starting a startup, you probably shouldn't do it. But if you're merely unsure whether you're up to it, the only way to find out is to try. Just not now.
 
- <b>Ideas</b>
+ **Ideas**
 
 So if you want to start a startup one day, what should you do in college? There are only two things you need initially: an idea and cofounders. And the m.o. for getting both is the same. Which leads to our sixth and last counterintuitive point: that the way to get startup ideas is not to try to think of startup ideas.
 
@@ -110,7 +110,7 @@ The first time I wrote that paragraph, instead of "learn a lot about things that
 
 What kind of problems are those? That is very hard to answer in the general case. History is full of examples of young people who were working on important problems that [no one else](marginal.html) at the time thought were important, and in particular that their parents didn't think were important. On the other hand, history is even fuller of examples of parents who thought their kids were wasting their time and who were right. So how do you know when you're working on real stuff? [8]
 
-I know how <i>I</i> know. Real problems are interesting, and I am self-indulgent in the sense that I always want to work on interesting things, even if no one else cares about them (in fact, especially if no one else cares about them), and find it very hard to make myself work on boring things, even if they're supposed to be important.
+I know how *I* know. Real problems are interesting, and I am self-indulgent in the sense that I always want to work on interesting things, even if no one else cares about them (in fact, especially if no one else cares about them), and find it very hard to make myself work on boring things, even if they're supposed to be important.
 
 My life is full of case after case where I worked on something just because it seemed interesting, and it turned out later to be useful in some worldly way. [Y Combinator itself](http://ycombinator.com/start.html) was something I only did because it seemed interesting. So I seem to have some sort of internal compass that helps me out. But I don't know what other people have in their heads. Maybe if I think more about this I can come up with heuristics for recognizing genuinely interesting problems, but for the moment the best I can offer is the hopelessly question-begging advice that if you have a taste for genuinely interesting problems, indulging it energetically is the best way to prepare yourself for a startup. And indeed, probably also the best way to live. [9]
 
@@ -132,7 +132,7 @@ So here is the ultimate advice for young would-be startup founders, boiled down 
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Some founders listen more than others, and this tends to be a [predictor of success](word.html). One of the things I remember about the Airbnbs during YC is how intently they listened.
 
@@ -156,4 +156,4 @@ The way universities "teach" students how to be employees is to hand off the tas
 
 [10] In fact, if your goal is to start a startup, you can stick even more closely to the ideal of a liberal education than past generations have. Back when students focused mainly on getting a job after college, they thought at least a little about how the courses they took might look to an employer. And perhaps even worse, they might shy away from taking a difficult class lest they get a low grade, which would harm their all-important GPA. Good news: users [don't care](credentials.html) what your GPA was. And I've never heard of investors caring either. Y Combinator certainly never asks what classes you took in college or what grades you got in them.
 
- <b>Thanks</b> to Sam Altman, Paul Buchheit, John Collison, Patrick Collison, Jessica Livingston, Robert Morris, Geoff Ralston, and Fred Wilson for reading drafts of this.
+ **Thanks** to Sam Altman, Paul Buchheit, John Collison, Patrick Collison, Jessica Livingston, Robert Morris, Geoff Ralston, and Fred Wilson for reading drafts of this.

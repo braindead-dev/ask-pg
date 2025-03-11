@@ -28,7 +28,7 @@ So if you're a founder, here's a deal you can make with yourself that will both 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Many think successful startup founders are driven by money. In fact the secret weapon of the most successful founders is that they aren't. If they were, they'd have taken one of the acquisition offers that every fast-growing startup gets on the way up. What drives the most successful founders is the same thing that drives most people who make things: the company is their project.
 
@@ -38,4 +38,4 @@ So if you're a founder, here's a deal you can make with yourself that will both 
 
 
 
-<b>Thanks</b> to Sam Altman, Harj Taggar, Jessica Livingston, and Geoff Ralston for reading drafts of this, and to Randall Bennett for being such a nice guy.
+**Thanks** to Sam Altman, Harj Taggar, Jessica Livingston, and Geoff Ralston for reading drafts of this, and to Randall Bennett for being such a nice guy.

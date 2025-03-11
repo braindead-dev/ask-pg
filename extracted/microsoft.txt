@@ -44,9 +44,9 @@ I already know what the reaction to this essay will be. Half the readers will sa
 
 
 
-<b>See also:</b> [Microsoft is Dead: the Cliffs Notes](cliffsnotes.html)
+**See also:** [Microsoft is Dead: the Cliffs Notes](cliffsnotes.html)
 
-<b>Notes</b>
+**Notes**
 
 [1] It doesn't take a conscious effort to make software incompatible. All you have to do is not work too hard at fixing bugs—which, if you're a big company, you produce in copious quantities. The situation is analogous to the writing of "<ax href="http://scholar.google.com/scholar?q=subtext+gendered+theory+postmodern+deconstruct">literary theorists</a>." Most don't try to be obscure; they just don't make an effort to be clear. It wouldn't pay.
 

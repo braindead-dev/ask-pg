@@ -14,7 +14,7 @@ I've talked to a lot of determined people, and it seems to me that they're diffe
 
 There's something annoying about the obstinate that's not simply due to being mistaken. They won't listen. And that's not true of all determined people. I can't think of anyone more determined than the Collison brothers, and when you point out a problem to them, they not only listen, but listen with an almost predatory intensity. Is there a hole in the bottom of their boat? Probably not, but if there is, they want to know about it.
 
-It's the same with most successful people. They're never <i>more</i> engaged than when you disagree with them. Whereas the obstinate don't want to hear you. When you point out problems, their eyes glaze over, and their replies sound like ideologues talking about matters of doctrine. [2]
+It's the same with most successful people. They're never *more* engaged than when you disagree with them. Whereas the obstinate don't want to hear you. When you point out problems, their eyes glaze over, and their replies sound like ideologues talking about matters of doctrine. [2]
 
 The reason the persistent and the obstinate seem similar is that they're both hard to stop. But they're hard to stop in different senses. The persistent are like boats whose engines can't be throttled back. The obstinate are like boats whose rudders can't be turned. [3]
 
@@ -22,7 +22,7 @@ In the degenerate case they're indistinguishable: when there's only one way to s
 
 The persistent are attached to the goal. The obstinate are attached to their ideas about how to reach it.
 
-Worse still, that means they'll tend to be attached to their <i>first</i> ideas about how to solve a problem, even though these are the least informed by the experience of working on it. So the obstinate aren't merely attached to details, but disproportionately likely to be attached to wrong ones.
+Worse still, that means they'll tend to be attached to their *first* ideas about how to solve a problem, even though these are the least informed by the experience of working on it. So the obstinate aren't merely attached to details, but disproportionately likely to be attached to wrong ones.
 
 
 
@@ -70,7 +70,7 @@ Considering what it's made of, it's not surprising that the right kind of stubbo
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] I'm going to use "persistent" for the good kind of stubborn and "obstinate" for the bad kind, but I can't claim I'm simply following current usage. Conventional opinion barely distinguishes between good and bad kinds of stubbornness, and usage is correspondingly promiscuous. I could have invented a new word for the good kind, but it seemed better just to stretch "persistent."
 
@@ -86,4 +86,4 @@ Considering what it's made of, it's not surprising that the right kind of stubbo
 
 
 
-<font color="888888"><b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Jackie McDonough, Courtenay Pipkin, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+<font color="888888">**Thanks** to Trevor Blackwell, Jessica Livingston, Jackie McDonough, Courtenay Pipkin, Harj Taggar, and Garry Tan for reading drafts of this.</font>

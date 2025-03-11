@@ -26,7 +26,7 @@ So one way to express the correct answer is to use a regular expression. You can
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] I didn't know when I was 9 that matter might behave randomly, but I don't think it affects the problem much. Randomness destroys the ghost in the machine as effectively as determinism.
 
@@ -34,4 +34,4 @@ So one way to express the correct answer is to use a regular expression. You can
 
 
 
- <font color="888888"><b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.</font>
+ <font color="888888">**Thanks** to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.</font>

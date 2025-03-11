@@ -28,7 +28,7 @@ Google, typically, seems to have been the first to figure this out. "Bring us yo
 
 Of course, Google has an advantage in buying startups: a lot of the people there are rich, or expect to be when their options vest. Ordinary employees find it very hard to recommend an acquisition; it's just too annoying to see a bunch of twenty year olds get rich when you're still working for salary. Even if it's the right thing for your company to do.
 
-<b>The Solution(s)</b>
+**The Solution(s)**
 
 Bad as things look now, there is a way for VCs to save themselves. They need to do two things, one of which won't surprise them, and another that will seem an anathema.
 
@@ -58,4 +58,4 @@ If VCs are frightened at the idea of letting founders partially cash out, let me
 
 
 
- <b>Thanks</b> to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.
+ **Thanks** to Trevor Blackwell, Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.

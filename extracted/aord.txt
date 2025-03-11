@@ -6,7 +6,7 @@ When I talk to a startup that's been operating for more than 8 or 9 months, the 
 
 The startling thing is how often the founders themselves don't know. Half the founders I talk to don't know whether they're default alive or default dead.
 
-If you're among that number, Trevor Blackwell has made a handy <a href="http://growth.tlb.org/#"><u>calculator</u></a> you can use to find out.
+If you're among that number, Trevor Blackwell has made a handy [calculator](http://growth.tlb.org/#) you can use to find out.
 
 The reason I want to know first whether a startup is default alive or default dead is that the rest of the conversation depends on the answer. If the company is default alive, we can talk about ambitious new things they could do. If it's default dead, we probably need to talk about how to save it. We know the current trajectory ends badly. How can they get off that trajectory?
 
@@ -34,15 +34,15 @@ Here's a common way startups die. They make something moderately appealing and h
 
 What the company should have done is address the fundamental problem: that the product is only moderately appealing. Hiring people is rarely the way to fix that. More often than not it makes it harder. At this early stage, the product needs to evolve more than to be "built out," and that's usually easier with fewer people. [4]
 
-Asking whether you're default alive or default dead may save you from this. Maybe the alarm bells it sets off will counteract the forces that push you to overhire. Instead you'll be compelled to seek growth in other ways. For example, by <a href="ds.html"><u>doing things that don't scale</u></a>, or by redesigning the product in the way only founders can. And for many if not most startups, these paths to growth will be the ones that actually work.
+Asking whether you're default alive or default dead may save you from this. Maybe the alarm bells it sets off will counteract the forces that push you to overhire. Instead you'll be compelled to seek growth in other ways. For example, by [doing things that don't scale](ds.html), or by redesigning the product in the way only founders can. And for many if not most startups, these paths to growth will be the ones that actually work.
 
-Airbnb waited 4 months after raising money at the end of Y&nbsp;Combinator before they hired their first employee. In the meantime the founders were terribly overworked. But they were overworked evolving Airbnb into the astonishingly successful organism it is now.
-
-
+Airbnb waited 4 months after raising money at the end of Y Combinator before they hired their first employee. In the meantime the founders were terribly overworked. But they were overworked evolving Airbnb into the astonishingly successful organism it is now.
 
 
 
-<b>Notes</b>
+
+
+**Notes**
 
 [1] Steep usage growth will also interest investors. Revenue will ultimately be a constant multiple of usage, so x% usage growth predicts x% revenue growth. But in practice investors discount merely predicted revenue, so if you're measuring usage you need a higher growth rate to impress investors.
 
@@ -58,4 +58,4 @@ Paul Buchheit adds:
 
 "A related problem that I see a lot is premature scaling—founders take a small business that isn't really working (bad unit economics, typically) and then scale it up because they want impressive growth numbers. This is similar to over-hiring in that it makes the business much harder to fix once it's big, plus they are bleeding cash really fast."
 
- <b>Thanks</b> to Sam Altman, Paul Buchheit, Joe Gebbia, Jessica Livingston, and Geoff Ralston for reading drafts of this.
+ **Thanks** to Sam Altman, Paul Buchheit, Joe Gebbia, Jessica Livingston, and Geoff Ralston for reading drafts of this.

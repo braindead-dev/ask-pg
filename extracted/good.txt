@@ -2,7 +2,7 @@ Be Good
 ---
 April 2008
 
-<i>(This essay is derived from a talk at the 2008 Startup School.)</i>
+*(This essay is derived from a talk at the 2008 Startup School.)*
 
 About a month after we started Y Combinator we came up with the phrase that became our motto: Make something people want. We've learned a lot since then, but if I were choosing now that's still the one I'd pick.
 
@@ -14,7 +14,7 @@ When you get an unexpected result like this, it could either be a bug or a new d
 
 I suspect it's the latter, because as soon as this thought occurred to me, a whole bunch of other things fell into place.
 
-<b>Examples</b>
+**Examples**
 
 For example, Craigslist. It's not a charity, but they run it like one. And they're astoundingly successful. When you scan down the list of most popular web sites, the number of employees at Craigslist looks like a misprint. Their revenues aren't as high as they could be, but most startups would be happy to trade places with them.
 
@@ -32,7 +32,7 @@ I didn't want to start another company, so I didn't do it. But if someone had, t
 
 Notice the pattern here? From either direction we get to the same spot. If you start from successful startups, you find they often behaved like nonprofits. And if you start from ideas for nonprofits, you find they'd often make good startups.
 
-<b>Power</b>
+**Power**
 
 How wide is this territory? Would all good nonprofits be good companies? Possibly not. What makes Google so valuable is that their users have money. If you make people with money love you, you can probably get some of it. But could you also base a successful startup on behaving like a nonprofit to people who don't have money? Could you, for example, grow a successful startup out of curing an unfashionable but deadly disease like malaria?
 
@@ -52,11 +52,11 @@ You get away with it till the underlying conditions change, and then all your vi
 
 The curious thing is, this elixir is freely available to any other company. Anyone can adopt "Don't be evil." The catch is that people will hold you to it. So I don't think you're going to see record labels or tobacco companies using this discovery.
 
-<b>Morale</b>
+**Morale**
 
 There's a lot of external evidence that benevolence works. But how does it work? One advantage of investing in a large number of startups is that you get a lot of data about how they work. From what we've seen, being good seems to help startups in three ways: it improves their morale, it makes other people want to help them, and above all, it helps them be decisive.
 
-Morale is tremendously important to a startup&mdash;so important that morale alone is almost enough to determine success. Startups are often described as emotional roller-coasters. One minute you're going to take over the world, and the next you're doomed. The problem with feeling you're doomed is not just that it makes you unhappy, but that it makes you <i>stop working</i>. So the downhills of the roller-coaster are more of a self fulfilling prophecy than the uphills. If feeling you're going to succeed makes you work harder, that probably improves your chances of succeeding, but if feeling you're going to fail makes you stop working, that practically guarantees you'll fail.
+Morale is tremendously important to a startup—so important that morale alone is almost enough to determine success. Startups are often described as emotional roller-coasters. One minute you're going to take over the world, and the next you're doomed. The problem with feeling you're doomed is not just that it makes you unhappy, but that it makes you *stop working*. So the downhills of the roller-coaster are more of a self fulfilling prophecy than the uphills. If feeling you're going to succeed makes you work harder, that probably improves your chances of succeeding, but if feeling you're going to fail makes you stop working, that practically guarantees you'll fail.
 
 Here's where benevolence comes in. If you feel you're really helping people, you'll keep working even when it seems like your startup is doomed. Most of us have some amount of natural benevolence. The mere fact that someone needs you makes you want to help them. So if you start the kind of startup where users come back each day, you've basically built yourself a giant tamagotchi. You've made something you need to take care of.
 
@@ -70,7 +70,7 @@ Once they realized this, they stopped caring so much what investors thought abou
 
 If you're really committed and your startup is cheap to run, you become very hard to kill. And practically all startups, even the most successful, come close to death at some point. So if doing good for people gives you a sense of mission that makes you harder to kill, that alone more than compensates for whatever you lose by not choosing a more selfish project.
 
-<b>Help</b>
+**Help**
 
 Another advantage of being good is that it makes other people want to help you. This too seems to be an inborn trait in humans.
 
@@ -82,7 +82,7 @@ The Octoparts are the nicest guys in the world. They dropped out of the PhD prog
 
 If you're benevolent, people will rally around you: investors, customers, other companies, and potential employees. In the long term the most important may be the potential employees. I think everyone knows now that [good hackers](gh.html) are much better than mediocre ones. If you can attract the best hackers to work for you, as Google has, you have a big advantage. And the very best hackers tend to be idealistic. They're not desperate for a job. They can work wherever they want. So most want to work on things that will make the world better.
 
-<b>Compass</b>
+**Compass**
 
 But the most important advantage of being good is that it acts as a compass. One of the hardest parts of doing a startup is that you have so many choices. There are just two or three of you, and a thousand things you could do. How do you decide?
 
@@ -96,7 +96,7 @@ For example, Y Combinator has now invested in 80 startups, 57 of which are still
 
 When you write something telling people to be good, you seem to be claiming to be good yourself. So I want to say explicitly that I am not a particularly good person. When I was a kid I was firmly in the camp of bad. The way adults used the word good, it seemed to be synonymous with quiet, so I grew up very suspicious of it.
 
-You know how there are some people whose names come up in conversation and everyone says "He's <i>such</i> a great guy?" People never say that about me. The best I get is "he means well." I am not claiming to be good. At best I speak good as a second language.
+You know how there are some people whose names come up in conversation and everyone says "He's *such* a great guy?" People never say that about me. The best I get is "he means well." I am not claiming to be good. At best I speak good as a second language.
 
 So I'm not suggesting you be good in the usual sanctimonious way. I'm suggesting it because it works. It will work not just as a statement of "values," but as a guide to strategy, and even a design spec for software. Don't just not be evil. Be good.
 
@@ -104,11 +104,11 @@ So I'm not suggesting you be good in the usual sanctimonious way. I'm suggesting
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Fifty years ago it would have seemed shocking for a public company not to pay dividends. Now many tech companies don't. The markets seem to have figured out how to value potential dividends. Maybe that isn't the last step in this evolution. Maybe markets will eventually get comfortable with potential earnings. (VCs already are, and at least some of them consistently make money.)
 
-I realize this sounds like the stuff one used to hear about the "new economy" during the Bubble. Believe me, I was not drinking that kool-aid at the time. But I'm convinced there were some [good ideas](bubble.html) buried in Bubble thinking. For example, it's ok to focus on growth instead of profits&mdash;but only if the growth is genuine. You can't be buying users; that's a pyramid scheme. But a company with rapid, genuine growth is valuable, and eventually markets learn how to value valuable things.
+I realize this sounds like the stuff one used to hear about the "new economy" during the Bubble. Believe me, I was not drinking that kool-aid at the time. But I'm convinced there were some [good ideas](bubble.html) buried in Bubble thinking. For example, it's ok to focus on growth instead of profits—but only if the growth is genuine. You can't be buying users; that's a pyramid scheme. But a company with rapid, genuine growth is valuable, and eventually markets learn how to value valuable things.
 
 [2] The idea of starting a company with benevolent aims is currently undervalued, because the kind of people who currently make that their explicit goal don't usually do a very good job.
 
@@ -118,6 +118,6 @@ Most explicitly benevolent projects don't hold themselves sufficiently accountab
 
 [3] Users dislike their new operating system so much that they're starting petitions to save the old one. And the old one was nothing special. The hackers within Microsoft must know in their hearts that if the company really cared about users they'd just advise them to switch to OSX.
 
-<b>Thanks</b> to Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
+**Thanks** to Trevor Blackwell, Paul Buchheit, Jessica Livingston, and Robert Morris for reading drafts of this.
 
 <!-- [Video of talk](http://omnisio.com/startupschool08/paul-graham-at-startup-school-08) -->

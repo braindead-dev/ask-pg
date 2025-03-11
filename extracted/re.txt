@@ -32,9 +32,9 @@ And not only did everyone get the same thing, they got it at the same time. It's
 
 In a way mid-century TV culture was good. The view it gave of the world was like you'd find in a children's book, and it probably had something of the effect that (parents hope) children's books have in making people behave better. But, like children's books, TV was also misleading. Dangerously misleading, for adults. In his autobiography, Robert MacNeil talks of seeing gruesome images that had just come in from Vietnam and thinking, we can't show these to families while they're having dinner.
 
-I know how pervasive the common culture was, because I tried to opt out of it, and it was practically impossible to find alternatives. When I was 13 I realized, more from internal evidence than any outside source, that the ideas we were being fed on TV were crap, and I stopped watching it. [7] But it wasn't just TV. It seemed like everything around me was crap. The politicians all saying the same things, the consumer brands making almost identical products with different labels stuck on to indicate how prestigious they were meant to be, the balloon-frame houses with fake "colonial" skins, the cars with several feet of gratuitous metal on each end that started to fall apart after a couple years, the "red delicious" apples that were red but only <xa href="http://www.theatlantic.com/health/archive/2014/09/the-evil-reign-of-the-red-delicious/379892/">nominally</a> apples. And in retrospect, it <i>was</i> crap. [8]
+I know how pervasive the common culture was, because I tried to opt out of it, and it was practically impossible to find alternatives. When I was 13 I realized, more from internal evidence than any outside source, that the ideas we were being fed on TV were crap, and I stopped watching it. [7] But it wasn't just TV. It seemed like everything around me was crap. The politicians all saying the same things, the consumer brands making almost identical products with different labels stuck on to indicate how prestigious they were meant to be, the balloon-frame houses with fake "colonial" skins, the cars with several feet of gratuitous metal on each end that started to fall apart after a couple years, the "red delicious" apples that were red but only <xa href="http://www.theatlantic.com/health/archive/2014/09/the-evil-reign-of-the-red-delicious/379892/">nominally</a> apples. And in retrospect, it *was* crap. [8]
 
-But when I went looking for alternatives to fill this void, I found practically nothing. There was no Internet then. The only place to look was in the chain bookstore in our local shopping mall. [9] There I found a copy of <i>The Atlantic</i>. I wish I could say it became a gateway into a wider world, but in fact I found it boring and incomprehensible. Like a kid tasting whisky for the first time and pretending to like it, I preserved that magazine as carefully as if it had been a book. I'm sure I still have it somewhere. But though it was evidence that there was, somewhere, a world that wasn't red delicious, I didn't find it till college.
+But when I went looking for alternatives to fill this void, I found practically nothing. There was no Internet then. The only place to look was in the chain bookstore in our local shopping mall. [9] There I found a copy of *The Atlantic*. I wish I could say it became a gateway into a wider world, but in fact I found it boring and incomprehensible. Like a kid tasting whisky for the first time and pretending to like it, I preserved that magazine as carefully as if it had been a book. I'm sure I still have it somewhere. But though it was evidence that there was, somewhere, a world that wasn't red delicious, I didn't find it till college.
 
 It wasn't just as consumers that the big companies made us similar. They did as employers too. Within companies there were powerful forces pushing people toward a single model of how to look and act. IBM was particularly notorious for this, but they were only a little more extreme than other big companies. And the models of how to look and act varied little between companies. Meaning everyone within this world was expected to seem more or less the same. And not just those in the corporate world, but also everyone who aspired to it — which in the middle of the 20th century meant most people who weren't already in it. For most of the 20th century, working-class people tried hard to look middle class. You can see it in old photos. Few adults aspired to look dangerous in 1950.
 
@@ -46,11 +46,11 @@ As well as pushing incomes up from the bottom, by overpaying unions, the big com
 
 To some extent this was an illusion. Much of the de facto pay of executives never showed up on their income tax returns, because it took the form of perks. The higher the rate of income tax, the more pressure there was to pay employees upstream of it. (In the UK, where taxes were even higher than in the US, companies would even pay their kids' private school tuitions.) One of the most valuable things the big companies of the mid 20th century gave their employees was job security, and this too didn't show up in tax returns or income statistics. So the nature of employment in these organizations tended to yield falsely low numbers about economic inequality. But even accounting for that, the big companies paid their best people less than market price. There was no market; the expectation was that you'd work for the same company for decades if not your whole career. [13]
 
-Your work was so illiquid there was little chance of getting market price. But that same illiquidity also encouraged you not to seek it. If the company promised to employ you till you retired and give you a pension afterward, you didn't want to extract as much from it this year as you could. You needed to take care of the company so it could take care of you. Especially when you'd been working with the same group of people for decades. If you tried to squeeze the company for more money, you were squeezing the organization that was going to take care of <i>them</i>. Plus if you didn't put the company first you wouldn't be promoted, and if you couldn't switch ladders, promotion on this one was the only way up. [14]
+Your work was so illiquid there was little chance of getting market price. But that same illiquidity also encouraged you not to seek it. If the company promised to employ you till you retired and give you a pension afterward, you didn't want to extract as much from it this year as you could. You needed to take care of the company so it could take care of you. Especially when you'd been working with the same group of people for decades. If you tried to squeeze the company for more money, you were squeezing the organization that was going to take care of *them*. Plus if you didn't put the company first you wouldn't be promoted, and if you couldn't switch ladders, promotion on this one was the only way up. [14]
 
 To someone who'd spent several formative years in the armed forces, this situation didn't seem as strange as it does to us now. From their point of view, as big company executives, they were high-ranking officers. They got paid a lot more than privates. They got to have expense account lunches at the best restaurants and fly around on the company's Gulfstreams. It probably didn't occur to most of them to ask if they were being paid market price.
 
-The ultimate way to get market price is to work for yourself, by starting your own company. That seems obvious to any ambitious person now. But in the mid 20th century it was an alien concept. Not because starting one's own company seemed too ambitious, but because it didn't seem ambitious enough. Even as late as the 1970s, when I grew up, the ambitious plan was to get lots of education at prestigious institutions, and then join some other prestigious institution and work one's way up the hierarchy. Your prestige was the prestige of the institution you belonged to. People did start their own businesses of course, but educated people rarely did, because in those days there was practically zero concept of starting what we now call a <a href="growth.html"><u>startup</u></a>: a business that starts small and grows big. That was much harder to do in the mid 20th century. Starting one's own business meant starting a business that would start small and stay small. Which in those days of big companies often meant scurrying around trying to avoid being trampled by elephants. It was more prestigious to be one of the executive class riding the elephant.
+The ultimate way to get market price is to work for yourself, by starting your own company. That seems obvious to any ambitious person now. But in the mid 20th century it was an alien concept. Not because starting one's own company seemed too ambitious, but because it didn't seem ambitious enough. Even as late as the 1970s, when I grew up, the ambitious plan was to get lots of education at prestigious institutions, and then join some other prestigious institution and work one's way up the hierarchy. Your prestige was the prestige of the institution you belonged to. People did start their own businesses of course, but educated people rarely did, because in those days there was practically zero concept of starting what we now call a [startup](growth.html): a business that starts small and grows big. That was much harder to do in the mid 20th century. Starting one's own business meant starting a business that would start small and stay small. Which in those days of big companies often meant scurrying around trying to avoid being trampled by elephants. It was more prestigious to be one of the executive class riding the elephant.
 
 By the 1970s, no one stopped to wonder where the big prestigious companies had come from in the first place. It seemed like they'd always been there, like the chemical elements. And indeed, there was a double wall between ambitious kids in the 20th century and the origins of the big companies. Many of the big companies were roll-ups that didn't have clear founders. And when they did, the founders didn't seem like us. Nearly all of them had been uneducated, in the sense of not having been to college. They were what Shakespeare called rude mechanicals. College trained one to be a member of the professional classes. Its graduates didn't expect to do the sort of grubby menial work that Andrew Carnegie or Henry Ford started out doing. [15]
 
@@ -102,7 +102,7 @@ Meanwhile a similar fragmentation was happening at the other end of the economic
 
 And just as the mid-century model induced social as well as economic cohesion, its breakup brought social as well as economic fragmentation. People started to dress and act differently. Those who would later be called the "creative class" became more mobile. People who didn't care much for religion felt less pressure to go to church for appearances' sake, while those who liked it a lot opted for increasingly colorful forms. Some switched from meat loaf to tofu, and others to Hot Pockets. Some switched from driving Ford sedans to driving small imported cars, and others to driving SUVs. Kids who went to private schools or wished they did started to dress "preppy," and kids who wanted to seem rebellious made a conscious effort to look disreputable. In a hundred ways people spread apart. [20]
 
-Almost four decades later, fragmentation is still increasing. Has it been net good or bad? I don't know; the question may be unanswerable. Not entirely bad though. We take for granted the forms of fragmentation we like, and worry only about the ones we don't. But as someone who caught the tail end of mid-century <a href="https://books.google.com/ngrams/graph?content=well-adjusted&year_start=1800&year_end=2000&corpus=15&smoothing=3"><u>conformism</u></a>, I can tell you it was no utopia. [21]
+Almost four decades later, fragmentation is still increasing. Has it been net good or bad? I don't know; the question may be unanswerable. Not entirely bad though. We take for granted the forms of fragmentation we like, and worry only about the ones we don't. But as someone who caught the tail end of mid-century [conformism](https://books.google.com/ngrams/graph?content=well-adjusted&year_start=1800&year_end=2000&corpus=15&smoothing=3), I can tell you it was no utopia. [21]
 
 My goal here is not to say whether fragmentation has been good or bad, just to explain why it's happening. With the centripetal forces of total war and 20th century oligopoly mostly gone, what will happen next? And more specifically, is it possible to reverse some of the fragmentation we've seen?
 
@@ -110,7 +110,7 @@ If it is, it will have to happen piecemeal. You can't reproduce mid-century cohe
 
 20th century cohesion was something that happened at least in a sense naturally. The war was due mostly to external forces, and the Duplo economy was an evolutionary phase. If you want cohesion now, you'd have to induce it deliberately. And it's not obvious how. I suspect the best we'll be able to do is address the symptoms of fragmentation. But that may be enough.
 
-The form of fragmentation people worry most about lately is <a href="ineq.html"><u>economic inequality</u></a>, and if you want to eliminate that you're up against a truly formidable headwind that has been in operation since the stone age. Technology.
+The form of fragmentation people worry most about lately is [economic inequality](ineq.html), and if you want to eliminate that you're up against a truly formidable headwind that has been in operation since the stone age. Technology.
 
 Technology is a lever. It magnifies work. And the lever not only grows increasingly long, but the rate at which it grows is itself increasing.
 
@@ -128,7 +128,7 @@ I worry that if we don't acknowledge this, we're headed for trouble. If we think
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] Lester Thurow, writing in 1975, said the wage differentials prevailing at the end of World War II had become so embedded that they "were regarded as 'just' even after the egalitarian pressures of World War II had disappeared. Basically, the same differentials exist to this day, thirty years later." But Goldin and Margo think market forces in the postwar period also helped preserve the wartime compression of wages — specifically increased demand for unskilled workers, and oversupply of educated ones.
 
@@ -150,13 +150,13 @@ After the war, federal tax receipts as a percentage of GDP were about the same a
 
 [8] I didn't realize it till I started doing research for this essay, but the meretriciousness of the products I grew up with is a well-known byproduct of oligopoly. When companies can't compete on price, they compete on tailfins.
 
-[9] Monroeville Mall was at the time of its completion in 1969 the largest in the country. In the late 1970s the movie <i>Dawn of the Dead</i> was shot there. Apparently the mall was not just the location of the movie, but its inspiration; the crowds of shoppers drifting through this huge mall reminded George Romero of zombies. My first job was scooping ice cream in the Baskin-Robbins.
+[9] Monroeville Mall was at the time of its completion in 1969 the largest in the country. In the late 1970s the movie *Dawn of the Dead* was shot there. Apparently the mall was not just the location of the movie, but its inspiration; the crowds of shoppers drifting through this huge mall reminded George Romero of zombies. My first job was scooping ice cream in the Baskin-Robbins.
 
 [10] Labor unions were exempted from antitrust laws by the Clayton Antitrust Act in 1914 on the grounds that a person's work is not "a commodity or article of commerce." I wonder if that means service companies are also exempt.
 
 [11] The relationships between unions and unionized companies can even be symbiotic, because unions will exert political pressure to protect their hosts. According to Michael Lind, when politicians tried to attack the A&P supermarket chain because it was putting local grocery stores out of business, "A&P successfully defended itself by allowing the unionization of its workforce in 1938, thereby gaining organized labor as a constituency." I've seen this phenomenon myself: hotel unions are responsible for more of the political pressure against Airbnb than hotel companies.
 
-[12] Galbraith was clearly puzzled that corporate executives would work so hard to make money for other people (the shareholders) instead of themselves. He devoted much of <i>The New Industrial State</i> to trying to figure this out.
+[12] Galbraith was clearly puzzled that corporate executives would work so hard to make money for other people (the shareholders) instead of themselves. He devoted much of *The New Industrial State* to trying to figure this out.
 
 His theory was that professionalism had replaced money as a motive, and that modern corporate executives were, like (good) scientists, motivated less by financial rewards than by the desire to do good work and thereby earn the respect of their peers. There is something in this, though I think lack of movement between companies combined with self-interest explains much of observed behavior.
 
@@ -170,9 +170,9 @@ By mid-century big companies funded 3/4 of their growth from earnings. But the e
 
 Incidentally, the switch in the 1920s to financing growth with retained earnings was one cause of the 1929 crash. The banks now had to find someone else to lend to, so they made more margin loans.
 
-[15] Even now it's hard to get them to. One of the things I find hardest to get into the heads of would-be startup founders is how important it is to do certain kinds of menial work early in the life of a company. Doing <a href="ds.html"><u>things that don't scale</u></a> is to how Henry Ford got started as a high-fiber diet is to the traditional peasant's diet: they had no choice but to do the right thing, while we have to make a conscious effort.
+[15] Even now it's hard to get them to. One of the things I find hardest to get into the heads of would-be startup founders is how important it is to do certain kinds of menial work early in the life of a company. Doing [things that don't scale](ds.html) is to how Henry Ford got started as a high-fiber diet is to the traditional peasant's diet: they had no choice but to do the right thing, while we have to make a conscious effort.
 
-[16] Founders weren't celebrated in the press when I was a kid. "Our founder" meant a photograph of a severe-looking man with a walrus mustache and a wing collar who had died decades ago. The thing to be when I was a kid was an <i>executive</i>. If you weren't around then it's hard to grasp the cachet that term had. The fancy version of everything was called the "executive" model.
+[16] Founders weren't celebrated in the press when I was a kid. "Our founder" meant a photograph of a severe-looking man with a walrus mustache and a wing collar who had died decades ago. The thing to be when I was a kid was an *executive*. If you weren't around then it's hard to grasp the cachet that term had. The fancy version of everything was called the "executive" model.
 
 [17] The wave of hostile takeovers in the 1980s was enabled by a combination of circumstances: court decisions striking down state anti-takeover laws, starting with the Supreme Court's 1982 decision in Edgar v. MITE Corp.; the Reagan administration's comparatively sympathetic attitude toward takeovers; the Depository Institutions Act of 1982, which allowed banks and savings and loans to buy corporate bonds; a new SEC rule issued in 1982 (rule 415) that made it possible to bring corporate bonds to market faster; the creation of the junk bond business by Michael Milken; a vogue for conglomerates in the preceding period that caused many companies to be combined that never should have been; a decade of inflation that left many public companies trading below the value of their assets; and not least, the increasing complacency of managements.
 
@@ -196,52 +196,52 @@ But becoming a Texas oilman was not in 1950 something one could aspire to the wa
 
 
 
-<b>Thanks</b> to Sam Altman, Trevor Blackwell, Paul Buchheit, Patrick Collison, Ron Conway, Chris Dixon, Benedict Evans, Richard Florida, Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Geoff Ralston, Max Roser, Alexia Tsotsis, and Qasar Younis for reading drafts of this. Max also told me about several valuable sources.
+**Thanks** to Sam Altman, Trevor Blackwell, Paul Buchheit, Patrick Collison, Ron Conway, Chris Dixon, Benedict Evans, Richard Florida, Ben Horowitz, Jessica Livingston, Robert Morris, Tim O'Reilly, Geoff Ralston, Max Roser, Alexia Tsotsis, and Qasar Younis for reading drafts of this. Max also told me about several valuable sources.
 
 
 
-<b>Bibliography</b>
+**Bibliography**
 
-Allen, Frederick Lewis. <i>The Big Change</i>. Harper, 1952.
+Allen, Frederick Lewis. *The Big Change*. Harper, 1952.
 
-Averitt, Robert. <i>The Dual Economy</i>. Norton, 1968.
+Averitt, Robert. *The Dual Economy*. Norton, 1968.
 
-Badger, Anthony. <i>The New Deal</i>. Hill and Wang, 1989.
+Badger, Anthony. *The New Deal*. Hill and Wang, 1989.
 
-Bainbridge, John. <i>The Super-Americans</i>. Doubleday, 1961.
+Bainbridge, John. *The Super-Americans*. Doubleday, 1961.
 
-Beatty, Jack. <i>Collossus</i>. Broadway, 2001.
+Beatty, Jack. *Collossus*. Broadway, 2001.
 
-Brinkley, Douglas. <i>Wheels for the World</i>. Viking, 2003.
+Brinkley, Douglas. *Wheels for the World*. Viking, 2003.
 
-Brownleee, W. Elliot. <i>Federal Taxation in America</i>. Cambridge, 1996.
+Brownleee, W. Elliot. *Federal Taxation in America*. Cambridge, 1996.
 
-Chandler, Alfred. <i>The Visible Hand</i>. Harvard, 1977.
+Chandler, Alfred. *The Visible Hand*. Harvard, 1977.
 
-Chernow, Ron. <i>The House of Morgan</i>. Simon & Schuster, 1990.
+Chernow, Ron. *The House of Morgan*. Simon & Schuster, 1990.
 
-Chernow, Ron. <i>Titan: The Life of John D. Rockefeller</i>. Random House, 1998.
+Chernow, Ron. *Titan: The Life of John D. Rockefeller*. Random House, 1998.
 
-Galbraith, John. <i>The New Industrial State</i>. Houghton Mifflin, 1967.
+Galbraith, John. *The New Industrial State*. Houghton Mifflin, 1967.
 
 Goldin, Claudia and Robert A. Margo. "The Great Compression: The Wage Structure in the United States at Mid-Century." NBER Working Paper 3817, 1991.
 
-Gordon, John. <i>An Empire of Wealth</i>. HarperCollins, 2004.
+Gordon, John. *An Empire of Wealth*. HarperCollins, 2004.
 
-Klein, Maury. <i>The Genesis of Industrial America, 1870-1920</i>. Cambridge, 2007.
+Klein, Maury. *The Genesis of Industrial America, 1870-1920*. Cambridge, 2007.
 
-Lind, Michael. <i>Land of Promise</i>. HarperCollins, 2012.
+Lind, Michael. *Land of Promise*. HarperCollins, 2012.
 
-Mickelthwaite, John, and Adrian Wooldridge. <i>The Company</i>. Modern Library, 2003.
+Mickelthwaite, John, and Adrian Wooldridge. *The Company*. Modern Library, 2003.
 
-Nasaw, David. <i>Andrew Carnegie</i>. Penguin, 2006.
+Nasaw, David. *Andrew Carnegie*. Penguin, 2006.
 
-Sobel, Robert. <i>The Age of Giant Corporations</i>. Praeger, 1993.
+Sobel, Robert. *The Age of Giant Corporations*. Praeger, 1993.
 
-Thurow, Lester. <i>Generating Inequality: Mechanisms of Distribution</i>. Basic Books, 1975.
+Thurow, Lester. *Generating Inequality: Mechanisms of Distribution*. Basic Books, 1975.
 
-Witte, John. <i>The Politics and Development of the Federal Income Tax</i>. Wisconsin, 1985.
+Witte, John. *The Politics and Development of the Federal Income Tax*. Wisconsin, 1985.
 
 
 
-<b>Related:</b>
+**Related:**

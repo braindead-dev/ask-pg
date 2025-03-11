@@ -58,7 +58,7 @@ Indeed, if you want to create the most [wealth](wealth.html), the way to do it i
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Loosely speaking. What I'm claiming with the melon seed model is more like determination is proportionate to wd^m - k|w - d|^n, where w is will and d discipline.
 
@@ -68,4 +68,4 @@ Conversely, it's probably a mistake to do as some European countries have done a
 
 [3] For example, willfulness clearly has two subcomponents, stubbornness and energy. The first alone yields someone who's stubbornly inert. The second alone yields someone flighty. As willful people get older or otherwise lose their energy, they tend to become merely stubborn.
 
- <b>Thanks</b> to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.
+ **Thanks** to Sam Altman, Jessica Livingston, and Robert Morris for reading drafts of this.

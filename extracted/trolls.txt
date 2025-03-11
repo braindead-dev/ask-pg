@@ -14,7 +14,7 @@ Trolling tends to be particularly bad in forums related to computers, and I thin
 
 The third cause of trolling is incompetence. If you disagree with something, it's easier to say "you suck" than to figure out and explain exactly what you disagree with. You're also safe that way from refutation. In this respect trolling is a lot like graffiti. Graffiti happens at the intersection of ambition and incompetence: people want to make their mark on the world, but have no other way to do it than literally making a mark on the world. [2]
 
-The final contributing factor is the culture of the forum. Trolls are like children (many <i>are</i> children) in that they're capable of a wide range of behavior depending on what they think will be tolerated. In a place where rudeness isn't tolerated, most can be polite. But vice versa as well.
+The final contributing factor is the culture of the forum. Trolls are like children (many *are* children) in that they're capable of a wide range of behavior depending on what they think will be tolerated. In a place where rudeness isn't tolerated, most can be polite. But vice versa as well.
 
 There's a sort of Gresham's Law of trolls: trolls are willing to use a forum with a lot of thoughtful people in it, but thoughtful people aren't willing to use a forum with a lot of trolls in it. Which means that once trolling takes hold, it tends to become the dominant culture. That had already happened to Slashdot and Digg by the time I paid attention to comment threads there, but I watched it happen to Reddit.
 
@@ -32,7 +32,7 @@ I'm optimistic we will. We're not depending just on technical tricks. The core u
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] I mean forum in the general sense of a place to exchange views. The original Internet forums were not web sites but Usenet newsgroups.
 

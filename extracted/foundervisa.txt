@@ -6,7 +6,7 @@ I usually avoid politics, but since we now seem to have an administration that's
 
 The biggest constraint on the number of new startups that get created in the US is not tax policy or employment law or even Sarbanes-Oxley. It's that we won't let the people who want to start them into the country.
 
-Letting just 10,000 startup founders into the country each year could have a visible effect on the economy. If we assume 4 people per startup, which is probably an overestimate, that's 2500 new companies. <i>Each year.</i> They wouldn't all grow as big as Google, but out of 2500 some would come close.
+Letting just 10,000 startup founders into the country each year could have a visible effect on the economy. If we assume 4 people per startup, which is probably an overestimate, that's 2500 new companies. *Each year.* They wouldn't all grow as big as Google, but out of 2500 some would come close.
 
 By definition these 10,000 founders wouldn't be taking jobs from Americans: it could be part of the terms of the visa that they couldn't work for existing companies, only new ones they'd founded. In fact they'd cause there to be more jobs for Americans, because the companies they started would hire more employees as they grew.
 
@@ -20,8 +20,8 @@ How would the government decide who's a startup investor? The same way they deci
 
 
 
- <b>Thanks</b> to Trevor Blackwell, Paul Buchheit, Jeff Clavier, David Hornik, Jessica Livingston, Greg Mcadoo, Aydin Senkut, and Fred Wilson for reading drafts of this.
+ **Thanks** to Trevor Blackwell, Paul Buchheit, Jeff Clavier, David Hornik, Jessica Livingston, Greg Mcadoo, Aydin Senkut, and Fred Wilson for reading drafts of this.
 
 
 
-<b>Related:</b>
+**Related:**

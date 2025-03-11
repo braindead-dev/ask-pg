@@ -46,18 +46,18 @@ If you're nice, as well as wise, you won't merely resist attacking such people, 
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] This domain expertise could be in another field. Indeed, such crossovers tend to be particularly promising.
 
 [2] I'm not claiming this principle extends much beyond math, engineering, and the hard sciences. In politics, for example, crazy-sounding ideas generally are as bad as they sound. Though arguably this is not an exception, because the people who propose them are not in fact domain experts; politicians are domain experts in political tactics, like how to get elected and how to get legislation passed, but not in the world that policy acts upon. Perhaps no one could be.
 
-[3] This sense of "paradigm" was defined by Thomas Kuhn in his <i>Structure of Scientific Revolutions</i>, but I also recommend his <i>Copernican Revolution</i>, where you can see him at work developing the idea.
+[3] This sense of "paradigm" was defined by Thomas Kuhn in his *Structure of Scientific Revolutions*, but I also recommend his *Copernican Revolution*, where you can see him at work developing the idea.
 
 [4] This is one reason people with a touch of Asperger's may have an advantage in discovering new ideas. They're always flying on instruments.
 
-[5] Hall, Rupert. <i>From Galileo to Newton.</i> Collins, 1963. This book is particularly good at getting into contemporaries' heads.
+[5] Hall, Rupert. *From Galileo to Newton.* Collins, 1963. This book is particularly good at getting into contemporaries' heads.
 
 
 
-<b>Thanks</b> to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.
+**Thanks** to Trevor Blackwell, Patrick Collison, Suhail Doshi, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.

@@ -8,9 +8,9 @@ I wondered about this for years. I could see the average town was like a roach m
 
 A couple weeks ago I finally figured it out. I was framing the question wrong. The problem is not that most towns kill startups. It's that death is the [default](die.html) for startups, and most towns don't save them. Instead of thinking of most places as being sprayed with startupicide, it's more accurate to think of startups as all being poisoned, and a few places being sprayed with the antidote.
 
-Startups in other places are just doing what startups naturally do: fail. The real question is, what's <i>saving</i> startups in places like Silicon Valley? [2]
+Startups in other places are just doing what startups naturally do: fail. The real question is, what's *saving* startups in places like Silicon Valley? [2]
 
-<b>Environment</b>
+**Environment**
 
 I think there are two components to the antidote: being in a place where startups are the cool thing to do, and chance meetings with people who can help you. And what drives them both is the number of startup people around you.
 
@@ -22,7 +22,7 @@ Having people around you care about what you're doing is an extraordinarily [pow
 
 In most other cities, the prospect of starting a startup just doesn't seem real. In the Valley it's not only real but fashionable. That no doubt causes a lot of people to start startups who shouldn't. But I think that's ok. Few people are suited to running a startup, and it's very hard to predict beforehand which are (as I know all too well from being in the business of trying to predict beforehand), so lots of people starting startups who shouldn't is probably the optimal state of affairs. As long as you're at a point in your life when you can bear the risk of failure, the best way to find out if you're suited to running a startup is to [try it](notnot.html).
 
-<b>Chance</b>
+**Chance**
 
 The second component of the antidote is chance meetings with people who can help you. This force works in both phases: both in the transition from the desire to start a startup to starting one, and the transition from starting a company to succeeding. The power of chance meetings is more variable than people around you caring about startups, which is like a sort of background radiation that affects everyone equally, but at its strongest it is far stronger.
 
@@ -44,9 +44,9 @@ Many observers have noticed that one of the most distinctive things about startu
 
 A large part of YC's function is to accelerate that process. We're a sort of Valley within the Valley, where the density of people working on startups and their willingness to help one another are both artificially amplified.
 
-<b>Numbers</b>
+**Numbers**
 
-Both components of the antidote—an environment that encourages startups, and chance meetings with people who help you—are driven by the same underlying cause: the number of startup people around you. To make a startup hub, you need a <i>lot</i> of people interested in startups.
+Both components of the antidote—an environment that encourages startups, and chance meetings with people who help you—are driven by the same underlying cause: the number of startup people around you. To make a startup hub, you need a *lot* of people interested in startups.
 
 There are three reasons. The first, obviously, is that if you don't have enough density, the chance meetings don't happen. [4] The second is that different startups need such different things, so you need a lot of people to supply each startup with what they need most. Sean Parker was exactly what Facebook needed in 2004. Another startup might have needed a database guy, or someone with connections in the movie business.
 
@@ -60,7 +60,7 @@ I flew into the Bay Area a few days ago. I notice this every time I fly over the
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] I'm not saying it's impossible to succeed in a city with few other startups, just harder. If you're sufficiently good at generating your own morale, you can survive without external encouragement. Wufoo was based in Tampa and they succeeded. But the Wufoos are exceptionally disciplined.
 
@@ -72,4 +72,4 @@ I flew into the Bay Area a few days ago. I notice this every time I fly over the
 
 
 
-<b>Thanks</b> to Sam Altman, Paul Buchheit, Jessica Livingston, and Harj Taggar for reading drafts of this.
+**Thanks** to Sam Altman, Paul Buchheit, Jessica Livingston, and Harj Taggar for reading drafts of this.

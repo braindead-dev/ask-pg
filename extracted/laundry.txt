@@ -26,7 +26,7 @@ Well, they're not. Those things you have to write in school are not only not ess
 
 <font color=#aa0000>With</font> obvious <font color=#aa0000>result</font>s. Only a few people really <font color=#aa0000> care about symbolism in Dickens.</font> The teacher doesn't. The students don't. Most of the people who've had to write PhD disserations about Dickens don't. And certainly <font color=#aa0000> Dickens himself would be more interested in an essay about color or baseball.
 
-How did things get this way? To answer that we have to go back almost a thousand years.</font> Between about 500 and 1000, life was not very good in Europe. The term "dark ages" is presently out of fashion as too judgemental (the period wasn't dark; it was just <i>different</i>), but if this label didn't already exist, it would seem an inspired metaphor. What little original thought there was took place in lulls between constant wars and had something of the character of the thoughts of parents with a new baby. The most amusing thing written during this period, Liudprand of Cremona's Embassy to Constantinople, is, I suspect, mostly inadvertantly so.
+How did things get this way? To answer that we have to go back almost a thousand years.</font> Between about 500 and 1000, life was not very good in Europe. The term "dark ages" is presently out of fashion as too judgemental (the period wasn't dark; it was just *different*), but if this label didn't already exist, it would seem an inspired metaphor. What little original thought there was took place in lulls between constant wars and had something of the character of the thoughts of parents with a new baby. The most amusing thing written during this period, Liudprand of Cremona's Embassy to Constantinople, is, I suspect, mostly inadvertantly so.
 
 Around 1000 <font color=#aa0000>Europe began to catch its breath. And once they had the luxury of curiosity,</font> one of the first things they discovered was <font color=#aa0000>what we call "the classics."</font> Imagine if <font color=#aa0000>we were visited by</font> aliens. If they could even get here they'd presumably know a few things we don't. Immediately Alien Studies would become the most dynamic field of scholarship: instead of painstakingly discovering things for ourselves, we could simply suck up everything they'd discovered. So it was in Europe in 1200. When classical texts began to circulate in Europe, they contained not just new answers, but new questions. (If anyone proved a theorem in christian Europe before 1200, for example, there is no record of it.)
 
@@ -68,7 +68,7 @@ Figure out what? You don't know yet. And so you can't begin with a thesis, becau
 
 If all you want to do is figure things out, why do you need to write anything, though? Why not just sit and think? Well, there precisely is Montaigne's great discovery. Expressing ideas helps to form them. Indeed, helps is far too weak a word.</font> 90% <font color=#aa0000>of what ends up in my essays</font> was stuff <font color=#aa0000>I only thought of when I sat down to write them. That's why I write them.</font>
 
-So there's another difference between essays and <font color=#aa0000>the things you have to write in school</font>. In school <font color=#aa0000> you are, in theory, explaining yourself to</font> someone else. In the best case---if you're really organized---you're just writing it <i>down.</i> <font color=#aa0000>In a real essay you're writing for yourself. You're thinking out loud.
+So there's another difference between essays and <font color=#aa0000>the things you have to write in school</font>. In school <font color=#aa0000> you are, in theory, explaining yourself to</font> someone else. In the best case---if you're really organized---you're just writing it *down.* <font color=#aa0000>In a real essay you're writing for yourself. You're thinking out loud.
 
 But not quite. Just as inviting people over forces you to clean up your apartment, writing something that</font> you know <font color=#aa0000> other people will read forces you to think well. So it does matter to have an audience. The things I've written just for myself are no good.</font> Indeed, they're bad in a particular way: <font color=#aa0000>they tend to peter out. When I run into difficulties, I</font> notice that I <font color=#aa0000>tend to conclude with a few vague questions and then drift off to get a cup of tea.</font>
 
@@ -78,7 +78,7 @@ And indeed, a lot of <font color=#aa0000>published essays peter out in</font> th
 
 Questions aren't enough. An essay has to come up with answers. They don't always, of course. Sometimes you start with a promising question and get nowhere. But those you don't publish. Those are like experiments that get inconclusive results. Something you publish ought to tell the reader something he didn't already know.
 
- But <i>what</i> you tell him doesn't matter, so long as it's interesting. I'm sometimes accused of meandering. In defend-a-position writing that would be a flaw. There you're not concerned with truth. You already know where you're going, and you want to go straight there, blustering through obstacles, and hand-waving your way across swampy ground. But that's not what you're trying to do in an essay. An essay is supposed to be a search for truth. It would be suspicious if it didn't meander.
+ But *what* you tell him doesn't matter, so long as it's interesting. I'm sometimes accused of meandering. In defend-a-position writing that would be a flaw. There you're not concerned with truth. You already know where you're going, and you want to go straight there, blustering through obstacles, and hand-waving your way across swampy ground. But that's not what you're trying to do in an essay. An essay is supposed to be a search for truth. It would be suspicious if it didn't meander.
 
 The Meander is a river in</font> Asia Minor (aka <font color=#aa0000>Turkey</font>). <font color=#aa0000>As you might expect, it winds all over the place. But</font> does it <font color=#aa0000>do this out of frivolity</font>? Quite the opposite. Like all rivers, it's rigorously following the laws of physics. <font color=#aa0000>The path it has discovered</font>, winding as it is, represents <font color=#aa0000>the most economical route to the sea.
 
@@ -112,7 +112,7 @@ What about the other half, ferreting out the unexpected? That may require some n
 
 
 
-<b>Notes</b>
+**Notes**
 
 [sh] In Shakespeare's own time, serious writing meant theological discourses, not the bawdy plays acted over on the other side of the river among the bear gardens and whorehouses.
 
@@ -132,7 +132,7 @@ Because you're after answers, instead of just trying to convince people of somet
 
 This is just as important for questions whose answers aren't numbers. And yet people rarely bother in ordinary conversation, most scientists included. Once people switch over to talking about matters that aren't "scientific"--- mere matters of opinion--- they pay comparatively little attention to qualifying what they say.
 
-Oh, they <i>use</i> qualifiers. Once kids arrive in college they learn pretty quickly that proper intellectuals qualify every statement with "perhaps" or "almost." But this kind of qualification is nothing more than grammatical. Sometimes these automatically inserted qualifications end up at odds with the statements they're attached to, yielding comic results. You find people saying that a certain writer is "perhaps the greatest writer of the twentieth century." That's a rather strong way to put something you're not sure about. Wouldn't it be better just to say "one of the best writers of the twentieth century?"
+Oh, they *use* qualifiers. Once kids arrive in college they learn pretty quickly that proper intellectuals qualify every statement with "perhaps" or "almost." But this kind of qualification is nothing more than grammatical. Sometimes these automatically inserted qualifications end up at odds with the statements they're attached to, yielding comic results. You find people saying that a certain writer is "perhaps the greatest writer of the twentieth century." That's a rather strong way to put something you're not sure about. Wouldn't it be better just to say "one of the best writers of the twentieth century?"
 
 One of the only people I've ever met who really pays attention to qualification is my friend Robert Morris. His great fear in life is to say something that's mistaken. So whenever he says something, he pays as much attention to expressing how sure he is of it as he does to what he's saying. He is a connoisseur of his own certainty, and has as many words for expressing it as Eskimos have for snow. This is how we all ought to be. Sticking a perfunctory perhaps onto every statement may shield us from blame, but it tells the reader nothing. That's like the manufacturers of Q-Tips, who to cover themselves print "do not insert in ear canal" on the boxes, when they know damned well that that's how Q-Tips are used.
 
@@ -140,7 +140,7 @@ One of the most important things to know about painting is that darks make the l
 
 Some books about writing say that you shouldn't begin sentences with "I think." If you're saying something, the argument does, then obviously you think it, so why bother telling people? This is nonsense. The heavily qualified statements in an essay play the role of darks. When you reach a point you're really sure of, you can just state it with no qualifications, and it will have all the more force by contrast.
 
-People aren't used to unqualified statements. Without the automatic "perhaps" they're used to seeing, many realize, with a shock, that what they're reading are <i>opinions.</i> Well of course. And what essay consists of anything else? An essay is not a theorem. You don't have to say only things you can prove irrefutably. Don't be afraid of expressing your opinions. Just make sure you're right.
+People aren't used to unqualified statements. Without the automatic "perhaps" they're used to seeing, many realize, with a shock, that what they're reading are *opinions.* Well of course. And what essay consists of anything else? An essay is not a theorem. You don't have to say only things you can prove irrefutably. Don't be afraid of expressing your opinions. Just make sure you're right.
 
 
 

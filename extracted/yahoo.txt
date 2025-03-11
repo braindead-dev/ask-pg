@@ -6,7 +6,7 @@ When I went to work for Yahoo after they bought our startup in 1998, it felt lik
 
 What went wrong? The problems that hosed Yahoo go back a long time, practically to the beginning of the company. They were already very visible when I got there in 1998. Yahoo had two problems Google didn't: easy money, and ambivalence about being a technology company.
 
-<b>Money</b>
+**Money**
 
 The first time I met Jerry Yang, we thought we were meeting for different reasons. He thought we were meeting so he could check us out in person before buying us. I thought we were meeting so we could show him our new technology, Revenue Loop. It was a way of sorting shopping search results. Merchants bid a percentage of sales for traffic, but the results were sorted not by the bid but by the bid times the average amount a user would buy. It was like the algorithm Google uses now to sort ads, but this was in the spring of 1998, before Google was founded.
 
@@ -32,7 +32,7 @@ I didn't say "But search traffic is worth more than other traffic!" I said "Oh, 
 
 If circumstances had been different, the people running Yahoo might have realized sooner how important search was. But they had the most opaque obstacle in the world between them and the truth: money. As long as customers were writing big checks for banner ads, it was hard to take search seriously. Google didn't have that to distract them.
 
-<b>Hackers</b>
+**Hackers**
 
 But Yahoo also had another problem that made it hard to change directions. They'd been thrown off balance from the start by their ambivalence about being a technology company.
 
@@ -74,10 +74,10 @@ Why would great programmers want to work for a company that didn't have a hacker
 
 
 
- <b>Notes</b>
+ **Notes**
 
 [1] The closest we got to targeting when I was there was when we created pets.yahoo.com in order to provoke a bidding war between 3 pet supply startups for the spot as top sponsor.
 
 [2] In theory you could beat the death spiral by buying good programmers instead of hiring them. You can get programmers who would never have come to you as employees by buying their startups. But so far the only companies smart enough to do this are companies smart enough not to need to.
 
-<b>Thanks</b> to Trevor Blackwell, Jessica Livingston, and Geoff Ralston for reading drafts of this.
+**Thanks** to Trevor Blackwell, Jessica Livingston, and Geoff Ralston for reading drafts of this.

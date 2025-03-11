@@ -40,7 +40,7 @@ I'll sometimes let through a sentence that seems clumsy, if I can't think of a w
 
 This is where essayists have an advantage over journalists. You don't have a deadline. You can work for as long on an essay as you need to get it right. You don't have to publish the essay at all, if you can't get it right. Mistakes seem to lose courage in the face of an enemy with unlimited resources. Or that's what it feels like. What's really going on is that you have different expectations for yourself. You're like a parent saying to a child "we can sit here all night till you eat your vegetables." Except you're the child too.
 
-I'm not saying no mistake gets through. For example, I added condition (c) in <a href="bias.html"><u>"A Way to Detect Bias"</u></a> after readers pointed out that I'd omitted it. But in practice you can catch nearly all of them.
+I'm not saying no mistake gets through. For example, I added condition (c) in ["A Way to Detect Bias"](bias.html) after readers pointed out that I'd omitted it. But in practice you can catch nearly all of them.
 
 There's a trick for getting importance too. It's like the trick I suggest to young founders for getting startup ideas: to make something you yourself want. You can use yourself as a proxy for the reader. The reader is not completely unlike you, so if you write about topics that seem important to you, they'll probably seem important to a significant number of readers as well.
 
@@ -66,7 +66,7 @@ I realize florid writing works for some people. But unless you're sure you're on
 
  I believe the formula I've given you, importance + novelty + correctness + strength, is the recipe for a good essay. But I should warn you that it's also a recipe for making people mad.
 
-The root of the problem is novelty. When you tell people something they didn't know, they don't always thank you for it. Sometimes the reason people don't know something is because they don't want to know it. Usually because it contradicts some cherished belief. And indeed, if you're looking for novel ideas, popular but mistaken beliefs are a good place to find them. Every popular mistaken belief creates a <a href="nov.html"><u>dead zone</u></a> of ideas around it that are relatively unexplored because they contradict it.
+The root of the problem is novelty. When you tell people something they didn't know, they don't always thank you for it. Sometimes the reason people don't know something is because they don't want to know it. Usually because it contradicts some cherished belief. And indeed, if you're looking for novel ideas, popular but mistaken beliefs are a good place to find them. Every popular mistaken belief creates a [dead zone](nov.html) of ideas around it that are relatively unexplored because they contradict it.
 
 The strength component just makes things worse. If there's anything that annoys people more than having their cherished assumptions contradicted, it's having them flatly contradicted.
 
@@ -98,13 +98,13 @@ If you narrow the topic sufficiently, you can probably find something you're an 
 
 The other constraint you can relax is a little surprising: publication. Writing essays doesn't have to mean publishing them. That may seem strange now that the trend is to publish every random thought, but it worked for me. I wrote what amounted to essays in notebooks for about 15 years. I never published any of them and never expected to. I wrote them as a way of figuring things out. But when the web came along I'd had a lot of practice.
 
-Incidentally, <a href="http://www.foundersatwork.com/steve-wozniak.html"><u>Steve Wozniak</u></a> did the same thing. In high school he designed computers on paper for fun. He couldn't build them because he couldn't afford the components. But when Intel launched 4K DRAMs in 1975, he was ready.
+Incidentally, [Steve Wozniak](http://www.foundersatwork.com/steve-wozniak.html) did the same thing. In high school he designed computers on paper for fun. He couldn't build them because he couldn't afford the components. But when Intel launched 4K DRAMs in 1975, he was ready.
 
 <center>_____</center>
 
  How many essays are there left to write though? The answer to that question is probably the most exciting thing I've learned about essay writing. Nearly all of them are left to write.
 
-Although <a href="essay.html"><u>the essay</u></a> is an old form, it hasn't been assiduously cultivated. In the print era, publication was expensive, and there wasn't enough demand for essays to publish that many. You could publish essays if you were already well known for writing something else, like novels. Or you could write book reviews that you took over to express your own ideas. But there was not really a direct path to becoming an essayist. Which meant few essays got written, and those that did tended to be about a narrow range of subjects.
+Although [the essay](essay.html) is an old form, it hasn't been assiduously cultivated. In the print era, publication was expensive, and there wasn't enough demand for essays to publish that many. You could publish essays if you were already well known for writing something else, like novels. Or you could write book reviews that you took over to express your own ideas. But there was not really a direct path to becoming an essayist. Which meant few essays got written, and those that did tended to be about a narrow range of subjects.
 
 Now, thanks to the internet, there's a path. Anyone can publish essays online. You start in obscurity, perhaps, but at least you can start. You don't need anyone's permission.
 
@@ -120,7 +120,7 @@ The exciting thing is not that there's a lot left to write, but that there's a l
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Put railings on the balconies, but don't put bars on the windows.
 
@@ -128,4 +128,4 @@ The exciting thing is not that there's a lot left to write, but that there's a l
 
 
 
-<b>Thanks</b> to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.
+**Thanks** to Trevor Blackwell, Daniel Gackle, Jessica Livingston, and Robert Morris for reading drafts of this.

@@ -2,7 +2,7 @@ The Other Road Ahead
 ---
 September 2001
 
-<i> (This article explains why much of the next generation of software may be server-based, what that will mean for programmers, and why this new kind of software is a great opportunity for startups. It's derived from a talk at BBN Labs.) </i>
+* (This article explains why much of the next generation of software may be server-based, what that will mean for programmers, and why this new kind of software is a great opportunity for startups. It's derived from a talk at BBN Labs.) *
 
 In the summer of 1995, my friend Robert Morris and I decided to start a startup. The PR campaign leading up to Netscape's IPO was running full blast then, and there was a lot of talk in the press about online commerce. At the time there might have been thirty actual stores on the Web, all made by hand. If there were going to be a lot of online stores, there would need to be software for making them, so we decided to write some.
 
@@ -14,7 +14,7 @@ When we started Viaweb, hardly anyone understood what we meant when we said that
 
 I think that a lot of the next generation of software will be written on this model. Even Microsoft, who have the most to lose, seem to see the inevitablity of moving some things off the desktop. If software moves off the desktop and onto servers, it will mean a very different world for developers. This article describes the surprising things we saw, as some of the first visitors to this new world. To the extent software does move onto servers, what I'm describing here is the future.
 
-<b>The Next Thing?</b>
+**The Next Thing?**
 
 When we look back on the desktop software era, I think we'll marvel at the inconveniences people put up with, just as we marvel now at what early car owners put up with. For the first twenty or thirty years, you had to be a car expert to own a car. But cars were such a big win that lots of people who weren't car experts wanted to have them as well.
 
@@ -26,7 +26,7 @@ With Web-based software, most users won't have to think about anything except th
 
 It will take about a tenth of a second for a click to get to the server and back, so users of heavily interactive software, like Photoshop, will still want to have the computations happening on the desktop. But if you look at the kind of things most people use computers for, a tenth of a second latency would not be a problem. My mother doesn't really need a desktop computer, and there are a lot of people like her.
 
-<b>The Win for Users</b>
+**The Win for Users**
 
 Near my house there is a car with a bumper sticker that reads "death before inconvenience." Most people, most of the time, will take whatever choice requires least work. If Web-based software wins, it will be because it's more convenient. And it looks as if it will be, for users and developers both.
 
@@ -54,9 +54,9 @@ When you use a Web-based application, your data will be safer. Disk crashes won'
 
 Finally, Web-based software should be less vulnerable to viruses. If the client doesn't run anything except a browser, there's less chance of running viruses, and no data locally to damage. And a program that attacked the servers themselves should find them very well defended. [2]
 
-For users, Web-based software will be <i>less stressful.</i> I think if you looked inside the average Windows user you'd find a huge and pretty much untapped desire for software meeting that description. Unleashed, it could be a powerful force.
+For users, Web-based software will be *less stressful.* I think if you looked inside the average Windows user you'd find a huge and pretty much untapped desire for software meeting that description. Unleashed, it could be a powerful force.
 
-<b>City of Code</b>
+**City of Code**
 
 To developers, the most conspicuous difference between Web-based and desktop software is that a Web-based application is not a single piece of code. It will be a collection of programs of different types rather than a single big binary. And so designing Web-based software is like desiging a city rather than a building: as well as buildings you need roads, street signs, utilities, police and fire departments, and plans for both growth and various kinds of disasters.
 
@@ -72,7 +72,7 @@ With server-based software, no one can tell you what language to use, because yo
 
 Most of our competitors used C and C++, and this made their software visibly inferior because (among other things), they had no way around the statelessness of CGI scripts. If you were going to change something, all the changes had to happen on one page, with an Update button at the bottom. As I've written elsewhere, by using [Lisp](avg.html), which many people still consider a research language, we could make the Viaweb editor behave more like desktop software.
 
-<b>Releases</b>
+**Releases**
 
 One of the most important changes in this new world is the way you do releases. In the desktop software business, doing a release is a huge trauma, in which the whole company sweats and strains to push out a single, giant piece of code. Obvious comparisons suggest themselves, both to the process and the resulting product.
 
@@ -96,7 +96,7 @@ Some of our competitors were offering desktop software and actually had version 
 
 By the time we were bought, we had done this three times, so we were on Version 4. Version 4.1 if I remember correctly. After Viaweb became Yahoo Store, there was no longer such a desperate need for publicity, so although the software continued to evolve, the whole idea of version numbers was quietly dropped.
 
-<b>Bugs</b>
+**Bugs**
 
 The other major technical advantage of Web-based software is that you can reproduce most bugs. You have the users' data right there on your disk. If someone breaks your software, you don't have to try to guess what's going on, as you would with desktop software: you should be able to reproduce the error while they're on the phone with you. You might even know about it already, if you have code for noticing errors built into your application.
 
@@ -114,7 +114,7 @@ It helps if you use a technique called functional programming. Functional progra
 
 People from the desktop software business will find this hard to credit, but at Viaweb bugs became almost a game. Since most released bugs involved borderline cases, the users who encountered them were likely to be advanced users, pushing the envelope. Advanced users are more forgiving about bugs, especially since you probably introduced them in the course of adding some feature they were asking for. In fact, because bugs were rare and you had to be doing sophisticated things to see them, advanced users were often proud to catch one. They would call support in a spirit more of triumph than anger, as if they had scored points off us.
 
-<b>Support</b>
+**Support**
 
 When you can reproduce errors, it changes your approach to customer support. At most software companies, support is offered as a way to make customers feel better. They're either calling you about a known bug, or they're just doing something wrong and you have to figure out what. In either case there's not much you can learn from them. And so you tend to view support calls as a pain in the ass that you want to isolate from your developers as much as possible.
 
@@ -128,7 +128,7 @@ Our policy of fixing bugs on the fly changed the relationship between customer s
 
 After we were bought by Yahoo, the customer support people were moved far away from the programmers. It was only then that we realized that they were effectively QA and to some extent marketing as well. In addition to catching bugs, they were the keepers of the knowledge of vaguer, buglike things, like features that confused users. [6] They were also a kind of proxy focus group; we could ask them which of two new features users wanted more, and they were always right.
 
-<b>Morale</b>
+**Morale**
 
 Being able to release software immediately is a big motivator. Often as I was walking to work I would think of some change I wanted to make to the software, and do it that day. This worked for bigger features as well. Even if something was going to take two weeks to write (few projects took longer), I knew I could see the effect in the software as soon as it was done.
 
@@ -140,19 +140,19 @@ At Viaweb, as at many software companies, most code had one definite owner. But 
 
 This way of writing software is a double-edged sword of course. It works a lot better for a small team of good, trusted programmers than it would for a big company of mediocre ones, where bad ideas are caught by committees instead of the people that had them.
 
-<b>Brooks in Reverse</b>
+**Brooks in Reverse**
 
 Fortunately, Web-based software does require fewer programmers. I once worked for a medium-sized desktop software company that had over 100 people working in engineering as a whole. Only 13 of these were in product development. All the rest were working on releases, ports, and so on. With Web-based software, all you need (at most) are the 13 people, because there are no releases, ports, and so on.
 
 Viaweb was written by just three people. [7] I was always under pressure to hire more, because we wanted to get bought, and we knew that buyers would have a hard time paying a high price for a company with only three programmers. (Solution: we hired more, but created new projects for them.)
 
-When you can write software with fewer programmers, it saves you more than money. As Fred Brooks pointed out in <i>The Mythical Man-Month,</i> adding people to a project tends to slow it down. The number of possible connections between developers grows exponentially with the size of the group. The larger the group, the more time they'll spend in meetings negotiating how their software will work together, and the more bugs they'll get from unforeseen interactions. Fortunately, this process also works in reverse: as groups get smaller, software development gets exponentially more efficient. I can't remember the programmers at Viaweb ever having an actual meeting. We never had more to say at any one time than we could say as we were walking to lunch.
+When you can write software with fewer programmers, it saves you more than money. As Fred Brooks pointed out in *The Mythical Man-Month,* adding people to a project tends to slow it down. The number of possible connections between developers grows exponentially with the size of the group. The larger the group, the more time they'll spend in meetings negotiating how their software will work together, and the more bugs they'll get from unforeseen interactions. Fortunately, this process also works in reverse: as groups get smaller, software development gets exponentially more efficient. I can't remember the programmers at Viaweb ever having an actual meeting. We never had more to say at any one time than we could say as we were walking to lunch.
 
 If there is a downside here, it is that all the programmers have to be to some degree system administrators as well. When you're hosting software, someone has to be watching the servers, and in practice the only people who can do this properly are the ones who wrote the software. At Viaweb our system had so many components and changed so frequently that there was no definite border between software and infrastructure. Arbitrarily declaring such a border would have constrained our design choices. And so although we were constantly hoping that one day ("in a couple months") everything would be stable enough that we could hire someone whose job was just to worry about the servers, it never happened.
 
 I don't think it could be any other way, as long as you're still actively developing the product. Web-based software is never going to be something you write, check in, and go home. It's a live thing, running on your servers right now. A bad bug might not just crash one user's process; it could crash them all. If a bug in your code corrupts some data on disk, you have to fix it. And so on. We found that you don't have to watch the servers every minute (after the first year or so), but you definitely want to keep an eye on things you've changed recently. You don't release code late at night and then go home.
 
-<b>Watching Users</b>
+**Watching Users**
 
 With server-based software, you're in closer touch with your code. You can also be in closer touch with your users. Intuit is famous for introducing themselves to customers at retail stores and asking to follow them home. If you've ever watched someone use your software for the first time, you know what surprises must have awaited them.
 
@@ -170,7 +170,7 @@ Finally, by watching users you can often tell when they're in trouble. And since
 
 I studied click trails of people taking the test drive and found that at a certain step they would get confused and click on the browser's Back button. (If you try writing Web-based applications, you'll find that the Back button becomes one of your most interesting philosophical problems.) So I added a message at that point, telling users that they were nearly finished, and reminding them not to click on the Back button. Another great thing about Web-based software is that you get instant feedback from changes: the number of people completing the test drive rose immediately from 60% to 90%. And since the number of new users was a function of the number of completed test drives, our revenue growth increased by 50%, just from that change.
 
-<b>Money</b>
+**Money**
 
 In the early 1990s I read an article in which someone said that software was a subscription business. At first this seemed a very cynical statement. But later I realized that it reflects reality: software development is an ongoing process. I think it's cleaner if you openly charge subscription fees, instead of forcing people to keep buying and installing new versions so that they'll keep paying you. And fortunately, subscriptions are the natural way to bill for Web-based applications.
 
@@ -188,7 +188,7 @@ Web-based software sells well, especially in comparison to desktop software, bec
 
 Several of our competitors shot themselves in the foot this way-- usually, I think, because they were overrun by suits who were excited about this huge potential channel, and didn't realize that it would ruin the product they hoped to sell through it. Selling Web-based software through ISPs is like selling sushi through vending machines.
 
-<b>Customers</b>
+**Customers**
 
 Who will the customers be? At Viaweb they were initially individuals and smaller companies, and I think this will be the rule with Web-based applications. These are the users who are ready to try new things, partly because they're more flexible, and partly because they want the lower costs of new technology.
 
@@ -206,7 +206,7 @@ There is always a tendency for rich customers to buy expensive solutions, even w
 
 A large part of what big companies pay extra for is the cost of selling expensive things to them. (If the Defense Department pays a thousand dollars for toilet seats, it's partly because it costs a lot to sell toilet seats for a thousand dollars.) And this is one reason intranet software will continue to thrive, even though it is probably a bad idea. It's simply more expensive. There is nothing you can do about this conundrum, so the best plan is to go for the smaller customers first. The rest will come in time.
 
-<b>Son of Server</b>
+**Son of Server**
 
 Running software on the server is nothing new. In fact it's the old model: mainframe applications are all server-based. If server-based software is such a good idea, why did it lose last time? Why did desktop computers eclipse mainframes?
 
@@ -230,7 +230,7 @@ If a company wants to make a platform that startups will build on, they have to 
 
 I don't think we would have started a startup to write desktop software, because desktop software has to run on Windows, and before we could write software for Windows we'd have to use it. The Web let us do an end-run around Windows, and deliver software running on Unix direct to users through the browser. That is a liberating prospect, a lot like the arrival of PCs twenty-five years ago.
 
-<b>Microsoft</b>
+**Microsoft**
 
 Back when desktop computers arrived, IBM was the giant that everyone was afraid of. It's hard to imagine now, but I remember the feeling very well. Now the frightening giant is Microsoft, and I don't think they are as blind to the threat facing them as IBM was. After all, Microsoft deliberately built their business in IBM's blind spot.
 
@@ -246,7 +246,7 @@ It's not so much that a competitor will trip them up as that they will trip over
 
 I'm not saying that no one will dominate server-based applications. Someone probably will eventually. But I think that there will be a good long period of cheerful chaos, just as there was in the early days of microcomputers. That was a good time for startups. Lots of small companies flourished, and did it by making cool things.
 
-<b>Startups but More So</b>
+**Startups but More So**
 
 The classic startup is fast and informal, with few people and little money. Those few people work very hard, and technology magnifies the effect of the decisions they make. If they win, they win big.
 
@@ -262,9 +262,9 @@ At Viaweb we spent the first six months just writing software. We worked the usu
 
 Desktop software forces users to become system administrators. Web-based software forces programmers to. There is less stress in total, but more for the programmers. That's not necessarily bad news. If you're a startup competing with a big company, it's good news. [15] Web-based applications offer a straightforward way to outwork your competitors. No startup asks for more.
 
-<b>Just Good Enough</b>
+**Just Good Enough**
 
-One thing that might deter you from writing Web-based applications is the lameness of Web pages as a UI. That is a problem, I admit. There were a few things we would have <i>really</i> liked to add to HTML and HTTP. What matters, though, is that Web pages are just good enough.
+One thing that might deter you from writing Web-based applications is the lameness of Web pages as a UI. That is a problem, I admit. There were a few things we would have *really* liked to add to HTML and HTTP. What matters, though, is that Web pages are just good enough.
 
 There is a parallel here with the first microcomputers. The processors in those machines weren't actually intended to be the CPUs of computers. They were designed to be used in things like traffic lights. But guys like Ed Roberts, who designed the [Altair](http://en.wikipedia.org/wiki/Altair_8800), realized that they were just good enough. You could combine one of these chips with some memory (256 bytes in the first Altair), and front panel switches, and you'd have a working computer. Being able to have your own computer was so exciting that there were plenty of people who wanted to buy them, however limited.
 
@@ -276,7 +276,7 @@ I feel like I've watched the evolution of the Web as closely as anyone, and I ca
 
 How will it all play out? I don't know. And you don't have to know if you bet on Web-based applications. No one can break that without breaking browsing. The Web may not be the only way to deliver software, but it's one that works now and will continue to work for a long time. Web-based applications are cheap to develop, and easy for even the smallest startup to deliver. They're a lot of work, and of a particularly stressful kind, but that only makes the odds better for startups.
 
-<b>Why Not?</b>
+**Why Not?**
 
 E. B. White was amused to learn from a farmer friend that many electrified fences don't have any current running through them. The cows apparently learn to stay away from them, and after that you don't need the current. "Rise up, cows!" he wrote, "Take your liberty while despots snore!"
 
@@ -300,7 +300,7 @@ You may not believe it, but I promise you, Microsoft is scared of you. The compl
 
 
 
-<b>Notes</b>
+**Notes**
 
 [1] Realizing that much of the money is in the services, companies building lightweight clients have usually tried to combine the hardware with an [online service](http://news.cnet.com/news/0-1006-200-3622600.html). This approach has not worked well, partly because you need two different kinds of companies to build consumer electronics and to run an online service, and partly because users hate the idea. Giving away the razor and making money on the blades may work for Gillette, but a razor is much smaller commitment than a Web terminal. Cell phone handset makers are satisfied to sell hardware without trying to capture the service revenue as well. That should probably be the model for Internet clients too. If someone just sold a nice-looking little box with a Web browser that you could use to connect through any ISP, every technophobe in the country would buy one.
 
@@ -318,7 +318,7 @@ You may not believe it, but I promise you, Microsoft is scared of you. The compl
 
 [8] Price discrimination is so pervasive (how often have you heard a retailer claim that their buying power meant lower prices for you?) that I was surprised to find it was outlawed in the U.S. by the Robinson-Patman Act of 1936. This law does not appear to be vigorously enforced.
 
-[9] In <i>No Logo,</i> Naomi Klein says that clothing brands favored by "urban youth" do not try too hard to prevent shoplifting because in their target market the shoplifters are also the fashion leaders.
+[9] In *No Logo,* Naomi Klein says that clothing brands favored by "urban youth" do not try too hard to prevent shoplifting because in their target market the shoplifters are also the fashion leaders.
 
 [10] Companies often wonder what to outsource and what not to. One possible answer: outsource any job that's not directly exposed to competitive pressure, because outsourcing it will thereby expose it to competitive pressure.
 
@@ -338,8 +338,8 @@ If you want to change the world, write a new Mosaic. Think it's too late? In 199
 
 "I would go farther in saying that because server-based software is so hard on the programmers, it causes a fundamental economic shift away from large companies. It requires the kind of intensity and dedication from programmers that they will only be willing to provide when it's their own company. Software companies can hire skilled people to work in a not-too-demanding environment, and can hire unskilled people to endure hardships, but they can't hire highly skilled people to bust their asses. Since capital is no longer needed, big companies have little to bring to the table."
 
-[16] In the original version of this essay, I advised avoiding Javascript. That was a good plan in 2001, but Javascript now works. <!-- Most of the Javascript I see on the Web isn't necessary, and much of it breaks. (My mental picture of a Javascript programmer is Wally from Dilbert, with a thought bubble over his head reading "It works on my computer.") Yahoo uses Javascript in a few places, though not many. I once asked someone there how this worked out, and he said "they ended up learning a <i>lot</i> about different browser versions." Microsoft may start to embrace and extend Javascript, or even can it, like Java. And when you start to be able to browse actual Web pages on your cell phone or PDA (or toaster), who knows if they'll even support it? -->
+[16] In the original version of this essay, I advised avoiding Javascript. That was a good plan in 2001, but Javascript now works. <!-- Most of the Javascript I see on the Web isn't necessary, and much of it breaks. (My mental picture of a Javascript programmer is Wally from Dilbert, with a thought bubble over his head reading "It works on my computer.") Yahoo uses Javascript in a few places, though not many. I once asked someone there how this worked out, and he said "they ended up learning a *lot* about different browser versions." Microsoft may start to embrace and extend Javascript, or even can it, like Java. And when you start to be able to browse actual Web pages on your cell phone or PDA (or toaster), who knows if they'll even support it? -->
 
-<b>Thanks</b> to Sarah Harlin, Trevor Blackwell, Robert Morris, Eric Raymond, Ken Anderson, and Dan Giffin for reading drafts of this paper; to Dan Bricklin and Bob Frankston for information about VisiCalc; and again to Ken Anderson for inviting me to speak at BBN.
+**Thanks** to Sarah Harlin, Trevor Blackwell, Robert Morris, Eric Raymond, Ken Anderson, and Dan Giffin for reading drafts of this paper; to Dan Bricklin and Bob Frankston for information about VisiCalc; and again to Ken Anderson for inviting me to speak at BBN.
 
-<table width=410 cellpadding=0 cellspacing=0> <tr><td bgcolor=#ffe799><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> You'll find this essay and 14 others in <a href="hackpaint.html"><b><i>Hackers & Painters</i></b></a>.</font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ><tr>
+<table width=410 cellpadding=0 cellspacing=0> <tr><td bgcolor=#ffe799><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> You'll find this essay and 14 others in <a href="hackpaint.html"><b>*Hackers & Painters*</b></a>.</font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ><tr>
