@@ -1,6 +1,6 @@
 Are Software Patents Evil?
 ---
-<!--<table width=100% cellspacing=0> <tr><td bgcolor=#ffac74><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> **April 29:** Free one-day [startup school](http://startupschool.org) for hackers. </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> --> March 2006
+March 2006
 
 *(This essay is derived from a talk at Google.)*
 

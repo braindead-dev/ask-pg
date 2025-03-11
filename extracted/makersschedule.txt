@@ -1,8 +1,6 @@
 Maker's Schedule, Manager's Schedule
 ---
-<!-- --> <table width=100% cellpadding=6 cellspacing=0> <tr><td bgcolor=#ffffdd> <table width=100% cellpadding=0 cellspacing=0> <tr><td bgcolor=#ffffdd><font size=2> "...the mere consciousness of an engagement will sometimes worry a whole day."
-
- Charles Dickens </font> </td></tr></table> </td></tr></table> <p> July 2009
+July 2009
 
 One reason programmers dislike meetings so much is that they're on a different type of schedule from other people. Meetings cost them more.
 

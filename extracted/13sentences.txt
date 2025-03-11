@@ -1,6 +1,6 @@
 Startups in 13 Sentences
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> **Want to start a startup?** Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <table width=100% cellspacing=0> <tr><td bgcolor=#cccc99><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> Watch how this essay was [written](https://byronm.com/13sentences.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> February 2009
+February 2009
 
 One of the things I always tell startups is a principle I learned from Paul Buchheit: it's better to make a few people really happy than to make a lot of people semi-happy. I was saying recently to a reporter that if I could only tell startups 10 things, this would be one of them. Then I thought: what would the other 9 be?
 

@@ -1,6 +1,6 @@
 A Plan for Spam
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> **Like to build things?** Try [Hacker News](http://news.ycombinator.com). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> August 2002
+August 2002
 
 *(This article describes the spam-filtering techniques used in the spamproof web-based mail reader we built to exercise [Arc](arc.html). An improved algorithm is described in [Better Bayesian Filtering](better.html).)*
 
@@ -163,7 +163,3 @@ In some business relationships, you do implicitly solicit certain kinds of mail.
 [3] As a rule of thumb, the more qualifiers there are before the name of a country, the more corrupt the rulers. A country called The Socialist People's Democratic Republic of X is probably the last place in the world you'd want to live.
 
  **Thanks** to Sarah Harlin for reading drafts of this; Daniel Giffin (who is also writing the production Arc interpreter) for several good ideas about filtering and for creating our mail infrastructure; Robert Morris, Trevor Blackwell and Erann Gat for many discussions about spam; Raph Levien for advice about trust metrics; and Chip Coldwell and Sam Steingold for advice about statistics.
-
-<table width=100% cellpadding=0 cellspacing=0> <tr><td bgcolor=#ffe799><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> You'll find this essay and 14 others in <a href="http://www.amazon.com/gp/product/0596006624"><b>*Hackers & Painters*</b></a>.</font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ><tr> </table>
-
- **More Info:**
