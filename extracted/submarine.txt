@@ -82,18 +82,18 @@ Readers aren't the only ones who've noticed the change. The PR industry has too.
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] PR has at least one beneficial feature: it favors small companies. If PR didn't work, the only alternative would be to advertise, and only big companies can afford that.
+[1] PR has at least one beneficial feature: it favors small companies. If PR didn't work, the only alternative would be to advertise, and only big companies can afford that.
 
-[<a name="f2n"><font color=#000000>2</font></a>] Advertisers pay less for ads in free publications, because they assume readers ignore something they get for free. This is why so many trade publications nominally have a cover price and yet give away free subscriptions with such abandon.
+[2] Advertisers pay less for ads in free publications, because they assume readers ignore something they get for free. This is why so many trade publications nominally have a cover price and yet give away free subscriptions with such abandon.
 
-[<a name="f3n"><font color=#000000>3</font></a>] Different sections of the <i>Times</i> vary so much in their standards that they're practically different papers. Whoever fed the style section reporter this story about suits coming back would have been sent packing by the regular news reporters.
+[3] Different sections of the <i>Times</i> vary so much in their standards that they're practically different papers. Whoever fed the style section reporter this story about suits coming back would have been sent packing by the regular news reporters.
 
-[<a name="f4n"><font color=#000000>4</font></a>] The most striking example I know of this type is the "fact" that the Internet worm of 1988 infected 6000 computers. I was there when it was cooked up, and this was the recipe: someone guessed that there were about 60,000 computers attached to the Internet, and that the worm might have infected ten percent of them.
+[4] The most striking example I know of this type is the "fact" that the Internet worm of 1988 infected 6000 computers. I was there when it was cooked up, and this was the recipe: someone guessed that there were about 60,000 computers attached to the Internet, and that the worm might have infected ten percent of them.
 
 Actually no one knows how many computers the worm infected, because the remedy was to reboot them, and this destroyed all traces. But people like numbers. And so this one is now [replicated](http://www.google.com/search?q=internet+worm+1988+6000) all over the Internet, like a little worm of its own.
 
-[<a name="f5n"><font color=#000000>5</font></a>] Not all were necessarily supplied by the PR firm. Reporters sometimes call a few additional sources on their own, like someone adding a few fresh vegetables to a can of soup.
+[5] Not all were necessarily supplied by the PR firm. Reporters sometimes call a few additional sources on their own, like someone adding a few fresh vegetables to a can of soup.
 
-<!-- [<a name="f6n"><font color=#000000>6</font></a>] More precisely, they're driven by a kind of devotion that includes a large admixture of vanity. But writers have always been like this, no matter what the medium. --> <b>Thanks</b> to Ingrid Basset, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, and Aaron Swartz (who also found the PRSA article) for reading drafts of this.
+<!-- [6] More precisely, they're driven by a kind of devotion that includes a large admixture of vanity. But writers have always been like this, no matter what the medium. --> <b>Thanks</b> to Ingrid Basset, Trevor Blackwell, Sarah Harlin, Jessica Livingston, Jackie McDonough, Robert Morris, and Aaron Swartz (who also found the PRSA article) for reading drafts of this.
 
 <b>Correction:</b> Earlier versions used a recent <i>Business Week</i> article mentioning del.icio.us as an example of a press hit, but Joshua Schachter tells me it was spontaneous.

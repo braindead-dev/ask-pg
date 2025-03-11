@@ -4,11 +4,11 @@ June 2013
 
 <i>(This talk was written for an audience of investors.)</i>
 
-Y Combinator has now funded 564 startups including the current batch, which has 53. The total valuation of the 287 that have valuations (either by raising an equity round, getting acquired, or dying) is about $11.7 billion, and the 511 prior to the current batch have collectively raised about $1.7 billion. <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font>
+Y Combinator has now funded 564 startups including the current batch, which has 53. The total valuation of the 287 that have valuations (either by raising an equity round, getting acquired, or dying) is about $11.7 billion, and the 511 prior to the current batch have collectively raised about $1.7 billion. [1]
 
 As usual those numbers are dominated by a few big winners. The top 10 startups account for 8.6 of that 11.7 billion. But there is a peloton of younger startups behind them. There are about 40 more that have a shot at being really big.
 
-Things got a little out of hand last summer when we had 84 companies in the batch, so we tightened up our filter to decrease the batch size. <font color=#999999>[<a href="#f2n"><font color=#999999>2</font></a>]</font> Several journalists have tried to interpret that as evidence for some macro story they were telling, but the reason had nothing to do with any external trend. The reason was that we discovered we were using an n&sup2; algorithm, and we needed to buy time to fix it. Fortunately we've come up with several techniques for sharding YC, and the problem now seems to be fixed. With a new more scaleable model and only 53 companies, the current batch feels like a walk in the park. I'd guess we can grow another 2 or 3x before hitting the next bottleneck. <font color=#999999>[<a href="#f3n"><font color=#999999>3</font></a>]</font>
+Things got a little out of hand last summer when we had 84 companies in the batch, so we tightened up our filter to decrease the batch size. [2] Several journalists have tried to interpret that as evidence for some macro story they were telling, but the reason had nothing to do with any external trend. The reason was that we discovered we were using an n&sup2; algorithm, and we needed to buy time to fix it. Fortunately we've come up with several techniques for sharding YC, and the problem now seems to be fixed. With a new more scaleable model and only 53 companies, the current batch feels like a walk in the park. I'd guess we can grow another 2 or 3x before hitting the next bottleneck. [3]
 
 One consequence of funding such a large number of startups is that we see trends early. And since fundraising is one of the main things we help startups with, we're in a good position to notice trends in investing.
 
@@ -18,11 +18,11 @@ I think more. There are multiple forces at work, some of which will decrease ret
 
 There are two big forces driving change in startup funding: it's becoming cheaper to start a startup, and startups are becoming a more normal thing to do.
 
-When I graduated from college in 1986, there were essentially two options: get a job or go to grad school. Now there's a third: start your own company. That's a big change. In principle it was possible to start your own company in 1986 too, but it didn't seem like a real possibility. It seemed possible to start a consulting company, or a niche product company, but it didn't seem possible to start a company that would become big. <font color=#999999>[<a href="#f4n"><font color=#999999>4</font></a>]</font>
+When I graduated from college in 1986, there were essentially two options: get a job or go to grad school. Now there's a third: start your own company. That's a big change. In principle it was possible to start your own company in 1986 too, but it didn't seem like a real possibility. It seemed possible to start a consulting company, or a niche product company, but it didn't seem possible to start a company that would become big. [4]
 
 That kind of change, from 2 paths to 3, is the sort of big social shift that only happens once every few generations. I think we're still at the beginning of this one. It's hard to predict how big a deal it will be. As big a deal as the Industrial Revolution? Maybe. Probably not. But it will be a big enough deal that it takes almost everyone by surprise, because those big social shifts always do.
 
-One thing we can say for sure is that there will be a lot more startups. The monolithic, hierarchical companies of the mid 20th century are being [replaced](highres.html) by networks of smaller companies. This process is not just something happening now in Silicon Valley. It started decades ago, and it's happening as far afield as the car industry. It has a long way to run. <font color=#999999>[<a href="#f5n"><font color=#999999>5</font></a>]</font>
+One thing we can say for sure is that there will be a lot more startups. The monolithic, hierarchical companies of the mid 20th century are being [replaced](highres.html) by networks of smaller companies. This process is not just something happening now in Silicon Valley. It started decades ago, and it's happening as far afield as the car industry. It has a long way to run. [5]
 
  The other big driver of change is that startups are becoming cheaper to start. And in fact the two forces are related: the decreasing cost of starting a startup is one of the reasons startups are becoming a more normal thing to do.
 
@@ -32,7 +32,7 @@ Does that mean investors will make less money? Not necessarily, because there wi
 
 There's a rule of thumb in the VC business that there are about 15 companies a year that will be really successful. Although a lot of investors unconsciously treat this number as if it were some sort of cosmological constant, I'm certain it isn't. There are probably limits on the rate at which technology can develop, but that's not the limiting factor now. If it were, each successful startup would be founded the month it became possible, and that is not the case. Right now the limiting factor on the number of big hits is the number of sufficiently good founders starting companies, and that number can and will increase. There are still a lot of people who'd make great founders who never end up starting a company. You can see that from how randomly some of the most successful startups got started. So many of the biggest startups almost didn't happen that there must be a lot of equally good startups that actually didn't happen.
 
-There might be 10x or even 50x more good founders out there. As more of them go ahead and start startups, those 15 big hits a year could easily become 50 or even 100. <font color=#999999>[<a href="#f6n"><font color=#999999>6</font></a>]</font>
+There might be 10x or even 50x more good founders out there. As more of them go ahead and start startups, those 15 big hits a year could easily become 50 or even 100. [6]
 
 What about returns, though? Are we heading for a world in which returns will be pinched by increasingly high valuations? I think the top firms will actually make more money than they have in the past. High returns don't come from investing at low valuations. They come from investing in the companies that do really well. So if there are more of those to be had each year, the best pickers should have more hits.
 
@@ -46,7 +46,7 @@ I think one of the biggest unexploited opportunities in startup investing right 
 
 Will the number of big hits grow linearly with the total number of new startups? Probably not, for two reasons. One is that the scariness of starting a startup in the old days was a pretty effective filter. Now that the cost of failing is becoming lower, we should expect founders to do it more. That's not a bad thing. It's common in technology for an innovation that decreases the cost of failure to increase the number of failures and yet leave you net ahead.
 
-The other reason the number of big hits won't grow proportionately to the number of startups is that there will start to be an increasing number of idea clashes. Although the finiteness of the number of good ideas is not the reason there are only 15 big hits a year, the number has to be finite, and the more startups there are, the more we'll see multiple companies doing the same thing at the same time. It will be interesting, in a bad way, if idea clashes become a lot more common. <font color=#999999>[<a href="#f7n"><font color=#999999>7</font></a>]</font>
+The other reason the number of big hits won't grow proportionately to the number of startups is that there will start to be an increasing number of idea clashes. Although the finiteness of the number of good ideas is not the reason there are only 15 big hits a year, the number has to be finite, and the more startups there are, the more we'll see multiple companies doing the same thing at the same time. It will be interesting, in a bad way, if idea clashes become a lot more common. [7]
 
 Mostly because of the increasing number of early failures, the startup business of the future won't simply be the same shape, scaled up. What used to be an obelisk will become a pyramid. It will be a little wider at the top, but a lot wider at the bottom.
 
@@ -78,24 +78,24 @@ If you want to find new opportunities for investing, look for things founders co
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] I realize revenue and not fundraising is the proper test of success for a startup. The reason we quote statistics about fundraising is because those are the numbers we have. We couldn't talk meaningfully about revenues without including the numbers from the most successful startups, and we don't have those. We often discuss revenue growth with the earlier stage startups, because that's how we gauge their progress, but when companies reach a certain size it gets presumptuous for a seed investor to do that.
+[1] I realize revenue and not fundraising is the proper test of success for a startup. The reason we quote statistics about fundraising is because those are the numbers we have. We couldn't talk meaningfully about revenues without including the numbers from the most successful startups, and we don't have those. We often discuss revenue growth with the earlier stage startups, because that's how we gauge their progress, but when companies reach a certain size it gets presumptuous for a seed investor to do that.
 
 In any case, companies' market caps do eventually become a function of revenues, and post-money valuations of funding rounds are at least guesses by pros about where those market caps will end up.
 
 The reason only 287 have valuations is that the rest have mostly raised money on convertible notes, and although convertible notes often have valuation caps, a valuation cap is merely an upper bound on a valuation.
 
-[<a name="f2n"><font color=#000000>2</font></a>] We didn't try to accept a particular number. We have no way of doing that even if we wanted to. We just tried to be significantly pickier.
+[2] We didn't try to accept a particular number. We have no way of doing that even if we wanted to. We just tried to be significantly pickier.
 
-[<a name="f3n"><font color=#000000>3</font></a>] Though you never know with bottlenecks, I'm guessing the next one will be coordinating efforts among partners.
+[3] Though you never know with bottlenecks, I'm guessing the next one will be coordinating efforts among partners.
 
-[<a name="f4n"><font color=#000000>4</font></a>] I realize starting a company doesn't have to mean starting a [startup](growth.html). There will be lots of people starting normal companies too. But that's not relevant to an audience of investors.
+[4] I realize starting a company doesn't have to mean starting a [startup](growth.html). There will be lots of people starting normal companies too. But that's not relevant to an audience of investors.
 
 Geoff Ralston reports that in Silicon Valley it seemed thinkable to start a startup in the mid 1980s. It would have started there. But I know it didn't to undergraduates on the East Coast.
 
-[<a name="f5n"><font color=#000000>5</font></a>] This trend is one of the main causes of the increase in economic inequality in the US since the mid twentieth century. The person who would in 1950 have been the general manager of the x division of Megacorp is now the founder of the x company, and owns significant equity in it.
+[5] This trend is one of the main causes of the increase in economic inequality in the US since the mid twentieth century. The person who would in 1950 have been the general manager of the x division of Megacorp is now the founder of the x company, and owns significant equity in it.
 
-[<a name="f6n"><font color=#000000>6</font></a>] If Congress passes the [founder visa](foundervisa.html) in a non-broken form, that alone could in principle get us up to 20x, since 95% of the world's population lives outside the US.
+[6] If Congress passes the [founder visa](foundervisa.html) in a non-broken form, that alone could in principle get us up to 20x, since 95% of the world's population lives outside the US.
 
-[<a name="f7n"><font color=#000000>7</font></a>] If idea clashes got bad enough, it could change what it means to be a startup. We currently advise startups mostly to ignore competitors. We tell them startups are competitive like running, not like soccer; you don't have to go and steal the ball away from the other team. But if idea clashes became common enough, maybe you'd start to have to. That would be unfortunate.
+[7] If idea clashes got bad enough, it could change what it means to be a startup. We currently advise startups mostly to ignore competitors. We tell them startups are competitive like running, not like soccer; you don't have to go and steal the ball away from the other team. But if idea clashes became common enough, maybe you'd start to have to. That would be unfortunate.
 
 <b>Thanks</b> to Sam Altman, Paul Buchheit, Dalton Caldwell, Patrick Collison, Jessica Livingston, Andrew Mason, Geoff Ralston, and Garry Tan for reading drafts of this.

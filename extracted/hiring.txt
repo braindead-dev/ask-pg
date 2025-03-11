@@ -16,7 +16,7 @@ The most interesting subset may be those in their early twenties. I'm not so exc
 
 I once claimed that [nerds](nerds.html) were unpopular in secondary school mainly because they had better things to do than work full-time at being popular. Some said I was just telling people what they wanted to hear. Well, I'm now about to do that in a spectacular way: I think undergraduates are undervalued.
 
-Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. <font color=#777777>[<a href="#f1n"><font color=#777777>1</font></a>]</font>
+Or more precisely, I think few realize the huge spread in the value of 20 year olds. Some, it's true, are not very capable. But others are more capable than all but a handful of 30 year olds. [1]
 
 Till now the problem has always been that it's difficult to pick them out. Every VC in the world, if they could go back in time, would try to invest in Microsoft. But which would have then? How many would have understood that this particular 19 year old was Bill Gates?
 
@@ -52,7 +52,7 @@ Big companies also lose because they usually only build one of each thing. When 
 
 The more general version of this problem is that there are too many new ideas for companies to explore them all. There might be 500 startups right now who think they're making something Microsoft might buy. Even Microsoft probably couldn't manage 500 development projects in-house.
 
-Big companies also don't pay people the right way. People developing a new product at a big company get paid roughly the same whether it succeeds or fails. People at a startup expect to get rich if the product succeeds, and get nothing if it fails. <font color=#777777>[<a href="#f2n"><font color=#777777>2</font></a>]</font> So naturally the people at the startup work a lot harder.
+Big companies also don't pay people the right way. People developing a new product at a big company get paid roughly the same whether it succeeds or fails. People at a startup expect to get rich if the product succeeds, and get nothing if it fails. [2] So naturally the people at the startup work a lot harder.
 
 The mere bigness of big companies is an obstacle. In startups, developers are often forced to talk directly to users, whether they want to or not, because there is no one else to do sales and support. It's painful doing sales, but you learn much more from trying to sell people something than reading what they said in focus groups.
 
@@ -112,7 +112,7 @@ The reason risk is always proportionate to reward is that market forces make it 
 
 Riskier career moves pay better on average, because there is less demand for them. Extreme choices like starting a startup are so frightening that most people won't even try. So you don't end up having as much competition as you might expect, considering the prizes at stake.
 
-The math is brutal. While perhaps 9 out of 10 startups fail, the one that succeeds will pay the founders more than 10 times what they would have made in an ordinary job. <font color=#777777>[<a href="#f3n"><font color=#777777>3</font></a>]</font> That's the sense in which startups pay better "on average."
+The math is brutal. While perhaps 9 out of 10 startups fail, the one that succeeds will pay the founders more than 10 times what they would have made in an ordinary job. [3] That's the sense in which startups pay better "on average."
 
 Remember that. If you start a startup, you'll probably fail. Most startups fail. It's the nature of the business. But it's not necessarily a mistake to try something that has a 90% chance of failing, if you can afford the risk. Failing at 40, when you have a family to support, could be serious. But if you fail at 22, so what? If you try to start a startup right out of college and it tanks, you'll end up at 23 broke and a lot smarter. Which, if you think about it, is roughly what you hope to get from a graduate program.
 
@@ -182,10 +182,10 @@ So while I stand by our responsible advice to finish college and then go work fo
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] The average B-17 pilot in World War II was in his early twenties. (Thanks to Tad Marko for pointing this out.)
+[1] The average B-17 pilot in World War II was in his early twenties. (Thanks to Tad Marko for pointing this out.)
 
-[<a name="f2n"><font color=#000000>2</font></a>] If a company tried to pay employees this way, they'd be called unfair. And yet when they buy some startups and not others, no one thinks of calling that unfair. <!--The cause of this discrepancy is the unspoken idea that employers are somehow in loco parentis. (The concept of an employee evolved from that of a servant.) -->
+[2] If a company tried to pay employees this way, they'd be called unfair. And yet when they buy some startups and not others, no one thinks of calling that unfair. <!--The cause of this discrepancy is the unspoken idea that employers are somehow in loco parentis. (The concept of an employee evolved from that of a servant.) -->
 
-[<a name="f3n"><font color=#000000>3</font></a>] The 1/10 success rate for startups is a bit of an urban legend. It's suspiciously neat. My guess is the odds are slightly worse.
+[3] The 1/10 success rate for startups is a bit of an urban legend. It's suspiciously neat. My guess is the odds are slightly worse.
 
 <b>Thanks</b> to Jessica Livingston for reading drafts of this, to the friends I promised anonymity to for their opinions about hiring, and to Karen Nguyen and the Berkeley CSUA for organizing this talk.

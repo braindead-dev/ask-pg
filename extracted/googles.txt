@@ -8,7 +8,7 @@ Why isn't it? Because Google had a deeply felt sense of purpose: a conviction to
 
 It was the same with Facebook. They would have sold, but Yahoo blew it by offering too little.
 
-Tip for acquirers: when a startup turns you down, consider raising your offer, because there's a good chance the outrageous price they want will later seem a bargain. <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font>
+Tip for acquirers: when a startup turns you down, consider raising your offer, because there's a good chance the outrageous price they want will later seem a bargain. [1]
 
 From the evidence I've seen so far, startups that turn down acquisition offers usually end up doing better. Not always, but usually there's a bigger offer coming, or perhaps even an IPO.
 
@@ -58,6 +58,6 @@ But there is a big opportunity here, and one way or the other it's going to get 
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] Another tip: If you want to get all that value, don't destroy the startup after you buy it. Give the founders enough autonomy that they can grow the acquisition into what it would have become.
+[1] Another tip: If you want to get all that value, don't destroy the startup after you buy it. Give the founders enough autonomy that they can grow the acquisition into what it would have become.
 
 <b>Thanks</b> to Sam Altman, Paul Buchheit, David Hornik, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.

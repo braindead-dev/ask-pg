@@ -4,7 +4,7 @@ September 2009
 
 Publishers of all types, from news to music, are unhappy that consumers won't pay for content anymore. At least, that's how they see it.
 
-In fact consumers never really were paying for content, and publishers weren't really selling it either. If the content was what they were selling, why has the price of books or music or movies always depended mostly on the format? Why didn't better content cost more? <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font>
+In fact consumers never really were paying for content, and publishers weren't really selling it either. If the content was what they were selling, why has the price of books or music or movies always depended mostly on the format? Why didn't better content cost more? [1]
 
 A copy of <i>Time</i> costs $5 for 58 pages, or 8.6 cents a page. <i>The Economist</i> costs $7 for 86 pages, or 8.1 cents a page. Better journalism is actually slightly cheaper.
 
@@ -30,7 +30,7 @@ The situation is much the same with digital books. Whoever controls the device s
 
 Is software a counterexample? People pay a lot for desktop software, and that's just information. True, but I don't think publishers can learn much from software. Software companies can charge a lot because (a) many of the customers are businesses, who get in [trouble](http://www.bsa.org/country/News%20and%20Events/News%20Archives/en/2009/en-08312009-mueller.aspx?sc_lang=en) if they use pirated versions, and (b) though in form merely information, software is treated by both maker and purchaser as a different type of thing from a song or an article. A Photoshop user needs Photoshop in a way that no one needs a particular song or article.
 
-That's why there's a separate word, "content," for information that's not software. Software is a different business. Software and content blur together in some of the most lightweight software, like casual games. But those are usually free. To make money the way software companies do, publishers would have to become software companies, and being publishers gives them no particular head start in that domain. <font color=#999999>[<a href="#f2n"><font color=#999999>2</font></a>]</font>
+That's why there's a separate word, "content," for information that's not software. Software is a different business. Software and content blur together in some of the most lightweight software, like casual games. But those are usually free. To make money the way software companies do, publishers would have to become software companies, and being publishers gives them no particular head start in that domain. [2]
 
 The most promising countertrend is the premium cable channel. People still pay for those. But broadcasting isn't publishing: you're not selling a copy of something. That's one reason the movie business hasn't seen their revenues decline the way the news and music businesses have. They only have one foot in publishing.
 
@@ -46,13 +46,13 @@ The first is probably the future of most current media. [Give music away](http:/
 
 I'm not claiming that potential will be realized by the existing players. The [optimal](http://ycombinator.com/rfs1.html) ways to make money from the written word probably require different words written by different people.
 
-It's harder to say what will happen to movies. They could evolve into ads. Or they could return to their roots and make going to the theater a treat. If they made the experience good enough, audiences might start to prefer it to watching pirated movies at home. <font color=#999999>[<a href="#f3n"><font color=#999999>3</font></a>]</font> Or maybe the movie business will dry up, and the people working in it will go to work for game developers.
+It's harder to say what will happen to movies. They could evolve into ads. Or they could return to their roots and make going to the theater a treat. If they made the experience good enough, audiences might start to prefer it to watching pirated movies at home. [3] Or maybe the movie business will dry up, and the people working in it will go to work for game developers.
 
 I don't know how big embodying information in physical form will be. It may be surprisingly large; people overvalue [physical stuff](stuff.html). There should remain some market for printed books, at least.
 
 I can see the evolution of book publishing in the books on my shelves. Clearly at some point in the 1960s the big publishing houses started to ask: how cheaply can we make books before people refuse to buy them? The answer turned out to be one step short of phonebooks. As long as it isn't floppy, consumers still perceive it as a book.
 
-That worked as long as buying printed books was the only way to read them. If printed books are optional, publishers will have to work harder to entice people to buy them. There should be some market, but it's hard to foresee how big, because its size will depend not on macro trends like the amount people read, but on the ingenuity of individual publishers. <font color=#999999>[<a href="#f4n"><font color=#999999>4</font></a>]</font>
+That worked as long as buying printed books was the only way to read them. If printed books are optional, publishers will have to work harder to entice people to buy them. There should be some market, but it's hard to foresee how big, because its size will depend not on macro trends like the amount people read, but on the ingenuity of individual publishers. [4]
 
 Some magazines may thrive by focusing on the magazine as a physical object. Fashion magazines could be made lush in a way that would be hard to match digitally, at least for a while. But this is probably not an option for most magazines.
 
@@ -66,14 +66,14 @@ The reason I've been writing about existing forms is that I don't <i>know</i> wh
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] I don't like the word "content" and tried for a while to avoid using it, but I have to admit there's no other word that means the right thing. "Information" is too general.
+[1] I don't like the word "content" and tried for a while to avoid using it, but I have to admit there's no other word that means the right thing. "Information" is too general.
 
 Ironically, the main reason I don't like "content" is the thesis of this essay. The word suggests an undifferentiated slurry, but economically that's how both publishers and audiences treat it. Content is information you don't need.
 
-[<a name="f2n"><font color=#000000>2</font></a>] Some types of publishers would be at a disadvantage trying to enter the software business. Record labels, for example, would probably find it more natural to expand into casinos than software, because the kind of people who run them would be more at home at the mafia end of the business spectrum than the don't-be-evil end.
+[2] Some types of publishers would be at a disadvantage trying to enter the software business. Record labels, for example, would probably find it more natural to expand into casinos than software, because the kind of people who run them would be more at home at the mafia end of the business spectrum than the don't-be-evil end.
 
-[<a name="f3n"><font color=#000000>3</font></a>] I never watch movies in theaters anymore. The tipping point for me was the ads they show first.
+[3] I never watch movies in theaters anymore. The tipping point for me was the ads they show first.
 
-[<a name="f4n"><font color=#000000>4</font></a>] Unfortunately, making physically nice books will only be a niche within a niche. Publishers are more likely to resort to expedients like selling autographed copies, or editions with the buyer's picture on the cover.
+[4] Unfortunately, making physically nice books will only be a niche within a niche. Publishers are more likely to resort to expedients like selling autographed copies, or editions with the buyer's picture on the cover.
 
 <b>Thanks</b> to Michael Arrington, Trevor Blackwell, Steven Levy, Robert Morris, and Geoff Ralston for reading drafts of this.

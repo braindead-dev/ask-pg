@@ -20,7 +20,7 @@ If I had to narrow that down, I'd say investors are the limiting factor. Not bec
 
 There are several types of investors. The two main categories are angels and VCs: VCs invest other people's money, and angels invest their own.
 
-Though they're less well known, the angel investors are probably the more critical ingredient in creating a silicon valley. Most companies that VCs invest in would never have made it that far if angels hadn't invested first. VCs say between half and three quarters of companies that raise series A rounds have taken some outside investment already. <font color=#777777>[<a href="#f1n"><font color=#777777>1</font></a>]</font>
+Though they're less well known, the angel investors are probably the more critical ingredient in creating a silicon valley. Most companies that VCs invest in would never have made it that far if angels hadn't invested first. VCs say between half and three quarters of companies that raise series A rounds have taken some outside investment already. [1]
 
 Angels are willing to fund riskier projects than VCs. They also give valuable advice, because (unlike VCs) many have been startup founders themselves.
 
@@ -34,7 +34,7 @@ Where do angel investors come from? From other startups. So startup hubs like Si
 
 If angels are so important, why do we hear more about VCs? Because VCs like publicity. They need to market themselves to the investors who are their "customers"—the endowments and pension funds and rich families whose money they invest—and also to founders who might come to them for funding.
 
-Angels don't need to market themselves to investors because they invest their own money. Nor do they want to market themselves to founders: they don't want random people pestering them with business plans. Actually, neither do VCs. Both angels and VCs get deals almost exclusively through personal introductions. <font color=#777777>[<a href="#f2n"><font color=#777777>2</font></a>]</font>
+Angels don't need to market themselves to investors because they invest their own money. Nor do they want to market themselves to founders: they don't want random people pestering them with business plans. Actually, neither do VCs. Both angels and VCs get deals almost exclusively through personal introductions. [2]
 
 The reason VCs want a strong brand is not to draw in more business plans over the transom, but so they win deals when competing against other VCs. Whereas angels are rarely in direct competition, because (a) they do fewer deals, (b) they're happy to split them, and (c) they invest at a point where the stream is broader.
 
@@ -110,7 +110,7 @@ Whatever help investors give a startup tends to be underestimated. It's to every
 
 This trend is compounded by the obsession that the press has with founders. In a company founded by two people, 10% of the ideas might come from the first guy they hire. Arguably they've done a bad job of hiring otherwise. And yet this guy will be almost entirely overlooked by the press.
 
-I say this as a founder: the contribution of founders is always overestimated. The danger here is that new founders, looking at existing founders, will think that they're supermen that one couldn't possibly equal oneself. Actually they have a hundred different types of support people just offscreen making the whole show possible. <font color=#777777>[<a href="#f3n"><font color=#777777>3</font></a>]</font>
+I say this as a founder: the contribution of founders is always overestimated. The danger here is that new founders, looking at existing founders, will think that they're supermen that one couldn't possibly equal oneself. Actually they have a hundred different types of support people just offscreen making the whole show possible. [3]
 
 <b>11. VCs are afraid of looking bad.</b>
 
@@ -126,7 +126,7 @@ As a friend of mine said, "Most VCs can't do anything that would sound bad to th
 
 Some founders are quite dejected when they get turned down by investors. They shouldn't take it so much to heart. To start with, investors are often wrong. It's hard to think of a successful startup that wasn't turned down by investors at some point. Lots of VCs rejected Google. So obviously the reaction of investors is not a very meaningful test.
 
-Investors will often reject you for what seem to be superficial reasons. I read of one VC who [turned down](http://ricksegal.typepad.com/pmv/2007/02/a_fatal_paper_c.html) a startup simply because they'd given away so many little bits of stock that the deal required too many signatures to close. <font color=#777777>[<a href="#f4n"><font color=#777777>4</font></a>]</font> The reason investors can get away with this is that they see so many deals. It doesn't matter if they underestimate you because of some surface imperfection, because the next best deal will be [almost as good](judgement.html). Imagine picking out apples at a grocery store. You grab one with a little bruise. Maybe it's just a surface bruise, but why even bother checking when there are so many other unbruised apples to choose from?
+Investors will often reject you for what seem to be superficial reasons. I read of one VC who [turned down](http://ricksegal.typepad.com/pmv/2007/02/a_fatal_paper_c.html) a startup simply because they'd given away so many little bits of stock that the deal required too many signatures to close. [4] The reason investors can get away with this is that they see so many deals. It doesn't matter if they underestimate you because of some surface imperfection, because the next best deal will be [almost as good](judgement.html). Imagine picking out apples at a grocery store. You grab one with a little bruise. Maybe it's just a surface bruise, but why even bother checking when there are so many other unbruised apples to choose from?
 
 Investors would be the first to admit they're often wrong. So when you get rejected by investors, don't think "we suck," but instead ask "do we suck?" Rejection is a question, not an answer.
 
@@ -240,13 +240,13 @@ Apparently the most likely animals to be left alive after a nuclear war are cock
 
 <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] I may be underestimating VCs. They may play some behind the scenes role in IPOs, which you ultimately need if you want to create a silicon valley.
+[1] I may be underestimating VCs. They may play some behind the scenes role in IPOs, which you ultimately need if you want to create a silicon valley.
 
-[<a name="f2n"><font color=#000000>2</font></a>] A few VCs have an email address you can send your business plan to, but the number of startups that get funded this way is basically zero. You should always get a personal introduction—and to a partner, not an associate.
+[2] A few VCs have an email address you can send your business plan to, but the number of startups that get funded this way is basically zero. You should always get a personal introduction—and to a partner, not an associate.
 
-[<a name="f3n"><font color=#000000>3</font></a>] Several people have told us that the most valuable thing about [startup school](http://startupschool.org) was that they got to see famous startup founders and realized they were just ordinary guys. Though we're happy to provide this service, this is not generally the way we pitch startup school to potential speakers.
+[3] Several people have told us that the most valuable thing about [startup school](http://startupschool.org) was that they got to see famous startup founders and realized they were just ordinary guys. Though we're happy to provide this service, this is not generally the way we pitch startup school to potential speakers.
 
-[<a name="f4n"><font color=#000000>4</font></a>] Actually this sounds to me like a VC who got buyer's remorse, then used a technicality to get out of the deal. But it's telling that it even seemed a plausible excuse.
+[4] Actually this sounds to me like a VC who got buyer's remorse, then used a technicality to get out of the deal. But it's telling that it even seemed a plausible excuse.
 
 <b>Thanks</b> to Sam Altman, Paul Buchheit, Hutch Fishman, and Robert Morris for reading drafts of this, and to Kenneth King of ASES for inviting me to speak.
 

@@ -6,7 +6,7 @@ One of the things I always tell startups is a principle I learned from Paul Buch
 
 When I made the list there turned out to be 13: <p style="margin-top:32px"> <b>1. Pick good cofounders.</b>
 
-Cofounders are for a startup what location is for real estate. You can change anything about a house except where it is. In a startup you can change your idea easily, but changing your cofounders is hard. <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font> And the success of a startup is almost always a function of its founders.
+Cofounders are for a startup what location is for real estate. You can change anything about a house except where it is. In a startup you can change your idea easily, but changing your cofounders is hard. [1] And the success of a startup is almost always a function of its founders.
 
 <b>2. Launch fast.</b>
 
@@ -18,7 +18,7 @@ This is the second half of launching fast. Launch fast and iterate. It's a big m
 
 <b>4. Understand your users.</b>
 
-You can envision the wealth created by a startup as a rectangle, where one side is the number of users and the other is how much you improve their lives. <font color=#999999>[<a href="#f2n"><font color=#999999>2</font></a>]</font> The second dimension is the one you have most control over. And indeed, the growth in the first will be driven by how well you do in the second. As in science, the hard part is not answering questions but asking them: the hard part is seeing something new that users lack. The better you understand them the better the odds of doing that. That's why so many successful startups make something the founders needed.
+You can envision the wealth created by a startup as a rectangle, where one side is the number of users and the other is how much you improve their lives. [2] The second dimension is the one you have most control over. And indeed, the growth in the first will be driven by how well you do in the second. As in science, the hard part is not answering questions but asking them: the hard part is seeing something new that users lack. The better you understand them the better the odds of doing that. That's why so many successful startups make something the founders needed.
 
 <b>5. Better to make a few users love you than a lot ambivalent.</b>
 
@@ -30,11 +30,11 @@ Customers are used to being maltreated. Most of the companies they deal with are
 
 <b>7. You make what you measure.</b>
 
-I learned this one from Joe Kraus. <font color=#999999>[<a href="#f3n"><font color=#999999>3</font></a>]</font> Merely measuring something has an uncanny tendency to improve it. If you want to make your user numbers go up, put a big piece of paper on your wall and every day plot the number of users. You'll be delighted when it goes up and disappointed when it goes down. Pretty soon you'll start noticing what makes the number go up, and you'll start to do more of that. Corollary: be careful what you measure.
+I learned this one from Joe Kraus. [3] Merely measuring something has an uncanny tendency to improve it. If you want to make your user numbers go up, put a big piece of paper on your wall and every day plot the number of users. You'll be delighted when it goes up and disappointed when it goes down. Pretty soon you'll start noticing what makes the number go up, and you'll start to do more of that. Corollary: be careful what you measure.
 
 <b>8. Spend little.</b>
 
-I can't emphasize enough how important it is for a startup to be cheap. Most startups fail before they make something people want, and the most common form of failure is running out of money. So being cheap is (almost) interchangeable with iterating rapidly. <font color=#999999>[<a href="#f4n"><font color=#999999>4</font></a>]</font> But it's more than that. A culture of cheapness keeps companies young in something like the way exercise keeps people young.
+I can't emphasize enough how important it is for a startup to be cheap. Most startups fail before they make something people want, and the most common form of failure is running out of money. So being cheap is (almost) interchangeable with iterating rapidly. [4] But it's more than that. A culture of cheapness keeps companies young in something like the way exercise keeps people young.
 
 <b>9. Get ramen profitable.</b>
 
@@ -66,10 +66,10 @@ Understanding your users is part of half the principles in this list. That's the
 
 <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] Strictly speaking it's impossible without a time machine.
+[1] Strictly speaking it's impossible without a time machine.
 
-[<a name="f2n"><font color=#000000>2</font></a>] In practice it's more like a ragged comb.
+[2] In practice it's more like a ragged comb.
 
-[<a name="f3n"><font color=#000000>3</font></a>] Joe thinks one of the founders of Hewlett Packard said it first, but he doesn't remember which.
+[3] Joe thinks one of the founders of Hewlett Packard said it first, but he doesn't remember which.
 
-[<a name="f4n"><font color=#000000>4</font></a>] They'd be interchangeable if markets stood still. Since they don't, working twice as fast is better than having twice as much time.
+[4] They'd be interchangeable if markets stood still. Since they don't, working twice as fast is better than having twice as much time.

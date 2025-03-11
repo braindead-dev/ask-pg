@@ -4,7 +4,7 @@ November 2005
 
 Does "Web 2.0" mean anything? Till recently I thought it didn't, but the truth turns out to be more complicated. Originally, yes, it was meaningless. Now it seems to have acquired a meaning. And yet those who dislike the term are probably right, because if it means what I think it does, we don't need it.
 
-I first heard the phrase "Web 2.0" in the name of the Web 2.0 conference in 2004. At the time it was supposed to mean using "the web as a platform," which I took to refer to web-based applications. <font color=#777777>[<a href="#f1n"><font color=#777777>1</font></a>]</font>
+I first heard the phrase "Web 2.0" in the name of the Web 2.0 conference in 2004. At the time it was supposed to mean using "the web as a platform," which I took to refer to web-based applications. [1]
 
 So I was surprised at a conference this summer when Tim O'Reilly led a session intended to figure out a definition of "Web 2.0." Didn't it already mean using the web as a platform? And if it didn't already mean something, why did we need the phrase at all?
 
@@ -46,13 +46,13 @@ So ironically the original description of the Web 2.0 conference turned out to b
 
 The second big element of Web 2.0 is democracy. We now have several examples to prove that [amateurs](opensource.html) can surpass professionals, when they have the right kind of system to channel their efforts. [Wikipedia](http://wikipedia.org) may be the most famous. Experts have given Wikipedia middling reviews, but they miss the critical point: it's good enough. And it's free, which means people actually read it. On the web, articles you have to pay for might as well not exist. Even if you were willing to pay to read them yourself, you can't link to them. They're not part of the conversation.
 
-Another place democracy seems to win is in deciding what counts as news. I never look at any news site now except [Reddit](http://reddit.com). <font color=#777777>[<a href="#f2n"><font color=#777777>2</font></a>]</font> I know if something major happens, or someone writes a particularly interesting article, it will show up there. Why bother checking the front page of any specific paper or magazine? Reddit's like an RSS feed for the whole web, with a filter for quality. Similar sites include [Digg](http://digg.com), a technology news site that's rapidly approaching Slashdot in popularity, and [del.icio.us](http://del.icio.us), the collaborative bookmarking network that set off the "tagging" movement. And whereas Wikipedia's main appeal is that it's good enough and free, these sites suggest that voters do a significantly better job than human editors.
+Another place democracy seems to win is in deciding what counts as news. I never look at any news site now except [Reddit](http://reddit.com). [2] I know if something major happens, or someone writes a particularly interesting article, it will show up there. Why bother checking the front page of any specific paper or magazine? Reddit's like an RSS feed for the whole web, with a filter for quality. Similar sites include [Digg](http://digg.com), a technology news site that's rapidly approaching Slashdot in popularity, and [del.icio.us](http://del.icio.us), the collaborative bookmarking network that set off the "tagging" movement. And whereas Wikipedia's main appeal is that it's good enough and free, these sites suggest that voters do a significantly better job than human editors.
 
 The most dramatic example of Web 2.0 democracy is not in the selection of ideas, but their production. <!-- Usage has not yet evolved to reflect this: the only phrases we have to describe the phenomenon are ones that implicitly assume the superiority of the old order, like "user-generated content," or "blogging" (neutral in itself, but revealingly condescending in its over-broad use). --> I've noticed for a while that the stuff I read on individual people's sites is as good as or better than the stuff I read in newspapers and magazines. And now I have independent evidence: the top links on Reddit are generally links to individual people's sites rather than to magazine articles or news stories.
 
 My experience of writing for magazines suggests an explanation. Editors. They control the topics you can write about, and they can generally rewrite whatever you produce. The result is to damp extremes. Editing yields 95th percentile writing—95% of articles are improved by it, but 5% are dragged down. 5% of the time you get "throngs of geeks."
 
-On the web, people can publish whatever they want. Nearly all of it falls short of the editor-damped writing in print publications. But the pool of writers is very, very large. If it's large enough, the lack of damping means the best writing online should surpass the best in print. <font color=#777777>[<a href="#f3n"><font color=#777777>3</font></a>]</font> And now that the web has evolved mechanisms for selecting good stuff, the web wins net. Selection beats damping, for the same reason market economies beat centrally planned ones.
+On the web, people can publish whatever they want. Nearly all of it falls short of the editor-damped writing in print publications. But the pool of writers is very, very large. If it's large enough, the lack of damping means the best writing online should surpass the best in print. [3] And now that the web has evolved mechanisms for selecting good stuff, the web wins net. Selection beats damping, for the same reason market economies beat centrally planned ones.
 
 Even the startups are different this time around. They are to the startups of the Bubble what bloggers are to the print media. During the Bubble, a startup meant a company headed by an MBA that was blowing through several million dollars of VC money to "get big fast" in the most literal sense. Now it means a smaller, [younger](hiring.html), more technical group that just decided to make something great. They'll decide later if they want to raise VC-scale funding, and if they take it, they'll take it on [their terms](vcsqueeze.html).
 
@@ -66,7 +66,7 @@ At Y Combinator we advise all the startups we fund never to lord it over users. 
 
 In [How to Start a Startup](start.html) I advised startups never to let anyone fly under them, meaning never to let any other company offer a cheaper, easier solution. Another way to fly low is to give users more power. Let users do what they want. If you don't and a competitor does, you're in trouble.
 
-iTunes is Web 2.0ish in this sense. Finally you can buy individual songs instead of having to buy whole albums. The recording industry hated the idea and resisted it as long as possible. But it was obvious what users wanted, so Apple flew under the labels. <font color=#777777>[<a href="#f4n"><font color=#777777>4</font></a>]</font> Though really it might be better to describe iTunes as Web 1.5. Web 2.0 applied to music would probably mean individual bands giving away DRMless songs for free.
+iTunes is Web 2.0ish in this sense. Finally you can buy individual songs instead of having to buy whole albums. The recording industry hated the idea and resisted it as long as possible. But it was obvious what users wanted, so Apple flew under the labels. [4] Though really it might be better to describe iTunes as Web 1.5. Web 2.0 applied to music would probably mean individual bands giving away DRMless songs for free.
 
 The ultimate way to be nice to users is to give them something for free that competitors charge for. During the 90s a lot of people probably thought we'd have some working system for micropayments by now. In fact things have gone in the other direction. The most successful sites are the ones that figure out new ways to give stuff away for free. Craigslist has largely destroyed the classified ad sites of the 90s, and OkCupid looks likely to do the same to the previous generation of dating sites.
 
@@ -74,7 +74,7 @@ Serving web pages is very, very cheap. If you can make even a fraction of a cent
 
 Odd as it might sound, we tell startups that they should try to make as little money as possible. If you can figure out a way to turn a billion dollar industry into a fifty million dollar industry, so much the better, if all fifty million go to you. Though indeed, making things cheaper often turns out to generate more money in the end, just as automating things often turns out to generate more jobs.
 
-The ultimate target is Microsoft. What a bang that balloon is going to make when someone pops it by offering a free web-based alternative to MS Office. <font color=#777777>[<a href="#f5n"><font color=#777777>5</font></a>]</font> Who will? Google? They seem to be taking their time. I suspect the pin will be wielded by a couple of 20 year old hackers who are too naive to be intimidated by the idea. (How hard can it be?)
+The ultimate target is Microsoft. What a bang that balloon is going to make when someone pops it by offering a free web-based alternative to MS Office. [5] Who will? Google? They seem to be taking their time. I suspect the pin will be wielded by a couple of 20 year old hackers who are too naive to be intimidated by the idea. (How hard can it be?)
 
 <b>The Common Thread</b>
 
@@ -82,7 +82,7 @@ Ajax, democracy, and not dissing users. What do they all have in common? I didn'
 
 But there is a common thread. Web 2.0 means using the web the way it's meant to be used. The "trends" we're seeing now are simply the inherent nature of the web emerging from under the broken models that got imposed on it during the Bubble.
 
-I realized this when I read an <!-- as-yet unpublished--> interview with Joe Kraus, the co-founder of Excite. <font color=#777777>[<a href="#f6n"><font color=#777777>6</font></a>]</font> <blockquote> Excite really never got the business model right at all. We fell into the classic problem of how when a new medium comes out it adopts the practices, the content, the business models of the old medium—which fails, and then the more appropriate models get figured out. </blockquote> It may have seemed as if not much was happening during the years after the Bubble burst. But in retrospect, something was happening: the web was finding its natural angle of repose. The democracy component, for example—that's not an innovation, in the sense of something someone made happen. That's what the web naturally tends to produce.
+I realized this when I read an <!-- as-yet unpublished--> interview with Joe Kraus, the co-founder of Excite. [6] <blockquote> Excite really never got the business model right at all. We fell into the classic problem of how when a new medium comes out it adopts the practices, the content, the business models of the old medium—which fails, and then the more appropriate models get figured out. </blockquote> It may have seemed as if not much was happening during the years after the Bubble burst. But in retrospect, something was happening: the web was finding its natural angle of repose. The democracy component, for example—that's not an innovation, in the sense of something someone made happen. That's what the web naturally tends to produce.
 
 Ditto for the idea of delivering desktop-like applications over the web. That idea is almost as old as the web. But the first time around it was co-opted by Sun, and we got Java applets. Java has since been remade into a generic replacement for C++, but in 1996 the story about Java was that it represented a new model of software. Instead of desktop applications, you'd run Java "applets" delivered from a server.
 
@@ -94,7 +94,7 @@ There's another thing all three components of Web 2.0 have in common. Here's a c
 
 Google was a pioneer in all three components of Web 2.0: their core business sounds crushingly hip when described in Web 2.0 terms, "Don't maltreat users" is a subset of "Don't be evil," and of course Google set off the whole Ajax boom with Google Maps.
 
-Web 2.0 means using the web as it was meant to be used, and Google does. That's their secret. <!-- The web naturally has a certain grain, and Google is aligned with it. That's why their success seems so effortless.--> They're sailing with the wind, instead of sitting becalmed praying for a business model, like the print media, or trying to tack upwind by suing their customers, like Microsoft and the record labels. <font color=#777777>[<a href="#f7n"><font color=#777777>7</font></a>]</font>
+Web 2.0 means using the web as it was meant to be used, and Google does. That's their secret. <!-- The web naturally has a certain grain, and Google is aligned with it. That's why their success seems so effortless.--> They're sailing with the wind, instead of sitting becalmed praying for a business model, like the print media, or trying to tack upwind by suing their customers, like Microsoft and the record labels. [7]
 
 Google doesn't try to force things to happen their way. They try to figure out what's going to happen, and arrange to be standing there when it does. That's the way to approach technology—and as business includes an ever larger technological component, the right way to do business.
 
@@ -104,19 +104,19 @@ The fact that Google is a "Web 2.0" company shows that, while meaningful, the te
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] From the [conference site](http://web.archive.org/web/20040602111547/http://web2con.com/), June 2004: "While the first wave of the Web was closely tied to the browser, the second wave extends applications across the web and enables a new generation of services and business opportunities." To the extent this means anything, it seems to be about [web-based applications](road.html).
+[1] From the [conference site](http://web.archive.org/web/20040602111547/http://web2con.com/), June 2004: "While the first wave of the Web was closely tied to the browser, the second wave extends applications across the web and enables a new generation of services and business opportunities." To the extent this means anything, it seems to be about [web-based applications](road.html).
 
-[<a name="f2n"><font color=#000000>2</font></a>] Disclosure: Reddit was funded by [Y Combinator](http://ycombinator.com). But although I started using it out of loyalty to the home team, I've become a genuine addict. While we're at it, I'm also an investor in !MSFT, having sold all my shares earlier this year.
+[2] Disclosure: Reddit was funded by [Y Combinator](http://ycombinator.com). But although I started using it out of loyalty to the home team, I've become a genuine addict. While we're at it, I'm also an investor in !MSFT, having sold all my shares earlier this year.
 
-[<a name="f3n"><font color=#000000>3</font></a>] I'm not against editing. I spend more time editing than writing, and I have a group of picky friends who proofread almost everything I write. What I dislike is editing done after the fact by someone else.
+[3] I'm not against editing. I spend more time editing than writing, and I have a group of picky friends who proofread almost everything I write. What I dislike is editing done after the fact by someone else.
 
-[<a name="f4n"><font color=#000000>4</font></a>] Obvious is an understatement. Users had been climbing in through the window for years before Apple finally moved the door.
+[4] Obvious is an understatement. Users had been climbing in through the window for years before Apple finally moved the door.
 
-[<a name="f5n"><font color=#000000>5</font></a>] Hint: the way to create a web-based alternative to Office may not be to write every component yourself, but to establish a protocol for web-based apps to share a virtual home directory spread across multiple servers. Or it may be to write it all yourself.
+[5] Hint: the way to create a web-based alternative to Office may not be to write every component yourself, but to establish a protocol for web-based apps to share a virtual home directory spread across multiple servers. Or it may be to write it all yourself.
 
-[<a name="f6n"><font color=#000000>6</font></a>] In Jessica Livingston's <a href="http://foundersatwork.com"><i>Founders at Work</i></a>.
+[6] In Jessica Livingston's <a href="http://foundersatwork.com"><i>Founders at Work</i></a>.
 
-[<a name="f7n"><font color=#000000>7</font></a>] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.
+[7] Microsoft didn't sue their customers directly, but they seem to have done all they could to help SCO sue them.
 
 <b>Thanks</b> to Trevor Blackwell, Sarah Harlin, Jessica Livingston, Peter Norvig, Aaron Swartz, and Jeff Weiner for reading drafts of this, and to the guys at O'Reilly and Adaptive Path for answering my questions.
 

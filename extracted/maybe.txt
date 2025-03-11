@@ -10,7 +10,7 @@ The first thing to understand is that encouraging startups is a different proble
 
 People sometimes think they could improve the startup scene in their town by starting something like [Y Combinator](http://ycombinator.com) there, but in fact it will have near zero effect. I know because Y Combinator itself had near zero effect on Boston when we were based there half the year. The people we funded came from all over the country (indeed, the world) and afterward they went wherever they could get more funding—which generally meant Silicon Valley.
 
-The seed funding business is not a regional business, because at that stage startups are mobile. They're just a couple founders with laptops. <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font>
+The seed funding business is not a regional business, because at that stage startups are mobile. They're just a couple founders with laptops. [1]
 
 If you want to encourage startups in a particular city, you have to fund startups that won't leave. There are two ways to do that: have rules preventing them from leaving, or fund them at the point in their life when they naturally take root. The first approach is a mistake, because it becomes a filter for selecting bad startups. If your terms force startups to do things they don't want to, only the desperate ones will take your money.
 
@@ -34,9 +34,9 @@ What's more, it wouldn't take very long. You could probably do it in five years.
 
 But now comes the hard part. You have to pick the startups. How do you do that? Picking startups is a rare and valuable skill, and the handful of people who have it are not readily hireable. And this skill is so hard to measure that if a government did try to hire people with it, they'd almost certainly get the wrong ones.
 
-For example, a city could give money to a VC fund to establish a local branch, and let them make the choices. But only a bad VC fund would take that deal. They wouldn't <i>seem</i> bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs. All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. <font color=#999999>[<a href="#f2n"><font color=#999999>2</font></a>]</font>
+For example, a city could give money to a VC fund to establish a local branch, and let them make the choices. But only a bad VC fund would take that deal. They wouldn't <i>seem</i> bad to the city officials. They'd seem very impressive. But they'd be bad at picking startups. That's the characteristic failure mode of VCs. All VCs look impressive to limited partners. The difference between the good ones and the bad ones only becomes visible in the other half of their jobs: choosing and advising startups. [2]
 
-What you really want is a pool of local angel investors—people investing money they made from their own startups. But unfortunately you run into a chicken and egg problem here. If your city isn't already a startup hub, there won't be people there who got rich from startups. And there is no way I can think of that a city could attract angels from outside. By definition they're rich. There's no incentive that would make them move. <font color=#999999>[<a href="#f3n"><font color=#999999>3</font></a>]</font>
+What you really want is a pool of local angel investors—people investing money they made from their own startups. But unfortunately you run into a chicken and egg problem here. If your city isn't already a startup hub, there won't be people there who got rich from startups. And there is no way I can think of that a city could attract angels from outside. By definition they're rich. There's no incentive that would make them move. [3]
 
 However, a city could select startups by piggybacking on the expertise of investors who weren't local. It would be pretty straightforward to make a list of the most eminent Silicon Valley angels and from that to generate a list of all the startups they'd invested in. If a city offered these companies a million dollars each to move, a lot of the earlier stage ones would probably take it.
 
@@ -56,7 +56,7 @@ Don't try to make them all work in some renovated warehouse you've made into an 
 
 In fact, don't impose any restrictions on the startups at all. Startup founders are mostly [hackers](gba.html), and hackers are much more constrained by gentlemen's agreements than regulations. If they shake your hand on a promise, they'll keep it. But show them a lock and their first thought is how to pick it.
 
-Interestingly, the 30-startup experiment could be done by any sufficiently rich private citizen. And what pressure it would put on the city if it worked. <font color=#999999>[<a href="#f4n"><font color=#999999>4</font></a>]</font>
+Interestingly, the 30-startup experiment could be done by any sufficiently rich private citizen. And what pressure it would put on the city if it worked. [4]
 
 <center>___</center>
 
@@ -80,12 +80,12 @@ I realize the chance of any city having the political will to carry out this pla
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] What people who start these supposedly local seed firms always find is that (a) their applicants come from all over, not just the local area, and (b) the local startups also apply to the other seed firms. So what ends up happening is that the applicant pool gets partitioned by quality rather than geography.
+[1] What people who start these supposedly local seed firms always find is that (a) their applicants come from all over, not just the local area, and (b) the local startups also apply to the other seed firms. So what ends up happening is that the applicant pool gets partitioned by quality rather than geography.
 
-[<a name="f2n"><font color=#000000>2</font></a>] Interestingly, the bad VCs fail by choosing startups run by people like them—people who are good presenters, but have no real substance. It's a case of the fake leading the fake. And since everyone involved is so plausible, the LPs who invest in these funds have no idea what's happening till they measure their returns.
+[2] Interestingly, the bad VCs fail by choosing startups run by people like them—people who are good presenters, but have no real substance. It's a case of the fake leading the fake. And since everyone involved is so plausible, the LPs who invest in these funds have no idea what's happening till they measure their returns.
 
-[<a name="f3n"><font color=#000000>3</font></a>] Not even being a tax haven, I suspect. That makes some rich people move, but not the type who would make good angel investors in startups.
+[3] Not even being a tax haven, I suspect. That makes some rich people move, but not the type who would make good angel investors in startups.
 
-[<a name="f4n"><font color=#000000>4</font></a>] Thanks to Michael Keenan for pointing this out.
+[4] Thanks to Michael Keenan for pointing this out.
 
 <b>Thanks</b> to Trevor Blackwell, Jessica Livingston, Robert Morris, and Fred Wilson for reading drafts of this.

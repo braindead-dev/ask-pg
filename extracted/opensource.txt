@@ -4,7 +4,7 @@ August 2005
 
 <i>(This essay is derived from a talk at Oscon 2005.)</i>
 
-Lately companies have been paying more attention to open source. Ten years ago there seemed a real danger Microsoft would extend its monopoly to servers. It seems safe to say now that open source has prevented that. A recent survey found 52% of companies are replacing Windows servers with Linux servers. <font color=#777777>[<a href="#f1n"><font color=#777777>1</font></a>]</font>
+Lately companies have been paying more attention to open source. Ten years ago there seemed a real danger Microsoft would extend its monopoly to servers. It seems safe to say now that open source has prevented that. A recent survey found 52% of companies are replacing Windows servers with Linux servers. [1]
 
 More significant, I think, is <i>which</i> 52% they are. At this point, anyone proposing to run Windows on servers should be prepared to explain what they know about servers that Google, Yahoo, and Amazon don't.
 
@@ -20,7 +20,7 @@ Another thing blogging and open source have in common is the Web. People have al
 
 I think the most important of the new principles business has to learn is that people work a lot harder on stuff they like. Well, that's news to no one. So how can I claim business has to learn it? When I say business doesn't know this, I mean the structure of business doesn't reflect it.
 
-Business still reflects an older model, exemplified by the French word for working: <i>travailler</i>. It has an English cousin, travail, and what it means is torture. <font color=#777777>[<a href="#f2n"><font color=#777777>2</font></a>]</font>
+Business still reflects an older model, exemplified by the French word for working: <i>travailler</i>. It has an English cousin, travail, and what it means is torture. [2]
 
 This turns out not to be the last word on work, however. As societies get richer, they learn something about work that's a lot like what they learn about diet. We know now that the healthiest diet is the one our peasant ancestors were forced to eat because they were poor. Like rich food, idleness only seems desirable when you don't get enough of it. I think we were designed to work, just as we were designed to eat a certain amount of fiber, and we feel bad if we don't.
 
@@ -46,11 +46,11 @@ I know that from my own experience as a reader. Though most print publications a
 
 And when I read, say, New York Times stories, I never reach them through the Times front page. Most I find through aggregators like Google News or Slashdot or Delicious. Aggregators show how much [better](http://reddit.com) you can do than the channel. The New York Times front page is a list of articles written by people who work for the New York Times. Delicious is a list of articles that are interesting. And it's only now that you can see the two side by side that you notice how little overlap there is.
 
-Most articles in the print media are boring. For example, the president notices that a majority of voters now think invading Iraq was a mistake, so he makes an address to the nation to drum up support. Where is the man bites dog in that? I didn't hear the speech, but I could probably tell you exactly what he said. A speech like that is, in the most literal sense, not news: there is nothing <i>new</i> in it. <font color=#777777>[<a href="#f3n"><font color=#777777>3</font></a>]</font>
+Most articles in the print media are boring. For example, the president notices that a majority of voters now think invading Iraq was a mistake, so he makes an address to the nation to drum up support. Where is the man bites dog in that? I didn't hear the speech, but I could probably tell you exactly what he said. A speech like that is, in the most literal sense, not news: there is nothing <i>new</i> in it. [3]
 
 Nor is there anything new, except the names and places, in most "news" about things going wrong. A child is abducted; there's a tornado; a ferry sinks; someone gets bitten by a shark; a small plane crashes. And what do you learn about the world from these stories? Absolutely nothing. They're outlying data points; what makes them gripping also makes them irrelevant.
 
-As in software, when professionals produce such crap, it's not surprising if amateurs can do better. Live by the channel, die by the channel: if you depend on an oligopoly, you sink into bad habits that are hard to overcome when you suddenly get competition. <font color=#777777>[<a href="#f4n"><font color=#777777>4</font></a>]</font>
+As in software, when professionals produce such crap, it's not surprising if amateurs can do better. Live by the channel, die by the channel: if you depend on an oligopoly, you sink into bad habits that are hard to overcome when you suddenly get competition. [4]
 
 <b>Workplaces</b>
 
@@ -102,7 +102,7 @@ The same happens with writing. As we got close to publication, I found I was ver
 
 That's what all publishing used to be like. If you got ten people to read a manuscript, you were lucky. But I'd become so used to publishing online that the old method now seemed alarmingly unreliable, like navigating by dead reckoning once you'd gotten used to a GPS.
 
-The other thing I like about publishing online is that you can write what you want and publish when you want. Earlier this year I wrote [something](inequality.html) that seemed suitable for a magazine, so I sent it to an editor I know. As I was waiting to hear back, I found to my surprise that I was hoping they'd reject it. Then I could put it online right away. If they accepted it, it wouldn't be read by anyone for months, and in the meantime I'd have to fight word-by-word to save it from being mangled by some twenty five year old copy editor. <font color=#777777>[<a href="#f5n"><font color=#777777>5</font></a>]</font>
+The other thing I like about publishing online is that you can write what you want and publish when you want. Earlier this year I wrote [something](inequality.html) that seemed suitable for a magazine, so I sent it to an editor I know. As I was waiting to hear back, I found to my surprise that I was hoping they'd reject it. Then I could put it online right away. If they accepted it, it wouldn't be read by anyone for months, and in the meantime I'd have to fight word-by-word to save it from being mangled by some twenty five year old copy editor. [5]
 
 Many employees would <i>like</i> to build great things for the companies they work for, but more often than not management won't let them. How many of us have heard stories of employees going to management and saying, please let us build this thing to make money for you-- and the company saying no? The most famous example is probably Steve Wozniak, who originally wanted to build microcomputers for his then-employer, HP. And they turned him down. On the blunderometer, this episode ranks with IBM accepting a non-exclusive license for DOS. But I think this happens all the time. We just don't hear about it usually, because to prove yourself right you have to quit and start your own company, like Wozniak did.
 
@@ -116,7 +116,7 @@ And it's true, the benefit that specific manager could derive from the forces I'
 
 So what will business look like when it has assimilated the lessons of open source and blogging? I think the big obstacle preventing us from seeing the future of business is the assumption that people working for you have to be employees. But think about what's going on underneath: the company has some money, and they pay it to the employee in the hope that he'll make something worth more than they paid him. Well, there are other ways to arrange that relationship. Instead of paying the guy money as a salary, why not give it to him as investment? Then instead of coming to your office to work on your projects, he can work wherever he wants on projects of his own.
 
-Because few of us know any alternative, we have no idea how much better we could do than the traditional employer-employee relationship. Such customs evolve with glacial slowness. Our employer-employee relationship still retains a big chunk of master-servant DNA. <font color=#777777>[<a href="#f6n"><font color=#777777>6</font></a>]</font>
+Because few of us know any alternative, we have no idea how much better we could do than the traditional employer-employee relationship. Such customs evolve with glacial slowness. Our employer-employee relationship still retains a big chunk of master-servant DNA. [6]
 
 I dislike being on either end of it. I'll work my ass off for a customer, but I resent being told what to do by a boss. And being a boss is also horribly frustrating; half the time it's easier just to do stuff yourself than to get someone else to do it for you. I'd rather do almost anything than give or receive a performance review.
 
@@ -152,16 +152,16 @@ That may be the greatest effect, in the long run, of the forces underlying open 
 
  <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] Survey by Forrester Research reported in the cover story of Business Week, 31 Jan 2005. Apparently someone believed you have to replace the actual server in order to switch the operating system.
+[1] Survey by Forrester Research reported in the cover story of Business Week, 31 Jan 2005. Apparently someone believed you have to replace the actual server in order to switch the operating system.
 
-[<a name="f2n"><font color=#000000>2</font></a>] It derives from the late Latin <i>tripalium</i>, a torture device so called because it consisted of three stakes. I don't know how the stakes were used. "Travel" has the same root.
+[2] It derives from the late Latin <i>tripalium</i>, a torture device so called because it consisted of three stakes. I don't know how the stakes were used. "Travel" has the same root.
 
-[<a name="f3n"><font color=#000000>3</font></a>] It would be much bigger news, in that sense, if the president faced unscripted questions by giving a press conference.
+[3] It would be much bigger news, in that sense, if the president faced unscripted questions by giving a press conference.
 
-[<a name="f4n"><font color=#000000>4</font></a>] One measure of the incompetence of newspapers is that so many still make you register to read stories. I have yet to find a blog that tried that.
+[4] One measure of the incompetence of newspapers is that so many still make you register to read stories. I have yet to find a blog that tried that.
 
-[<a name="f5n"><font color=#000000>5</font></a>] They accepted the article, but I took so long to send them the final version that by the time I did the section of the magazine they'd accepted it for had disappeared in a reorganization.
+[5] They accepted the article, but I took so long to send them the final version that by the time I did the section of the magazine they'd accepted it for had disappeared in a reorganization.
 
-[<a name="f6n"><font color=#000000>6</font></a>] The word "boss" is derived from the Dutch <i>baas</i>, meaning "master."
+[6] The word "boss" is derived from the Dutch <i>baas</i>, meaning "master."
 
 <b>Thanks</b> to Sarah Harlin, Jessica Livingston, and Robert Morris for reading drafts of this.

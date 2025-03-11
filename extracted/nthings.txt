@@ -4,7 +4,7 @@ September 2009
 
 I bet you the current issue of <i>Cosmopolitan</i> has an article whose title begins with a number. "7 Things He Won't Tell You about Sex," or something like that. Some popular magazines feature articles of this type on the cover of every issue. That can't be happening by accident. Editors must know they attract readers.
 
-Why do readers like the list of n things so much? Mainly because it's easier to read than a regular article. <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font> Structurally, the list of n things is a degenerate case of essay. An essay can go anywhere the writer wants. In a list of n things the writer agrees to constrain himself to a collection of points of roughly equal importance, and he tells the reader explicitly what they are.
+Why do readers like the list of n things so much? Mainly because it's easier to read than a regular article. [1] Structurally, the list of n things is a degenerate case of essay. An essay can go anywhere the writer wants. In a list of n things the writer agrees to constrain himself to a collection of points of roughly equal importance, and he tells the reader explicitly what they are.
 
 Some of the work of reading an article is understanding its structure—figuring out what in high school we'd have called its "outline." Not explicitly, of course, but someone who really understands an article probably has something in his brain afterward that corresponds to such an outline. In a list of n things, this work is done for you. Its structure is an exoskeleton.
 
@@ -22,7 +22,7 @@ Writing a list of n things is so relaxing. You think of n/2 of them in the first
 
 Because the list of n things is easier for writers too, it's not always a damning sign when readers prefer it. It's not necessarily evidence readers are lazy; it could also mean they don't have much confidence in the writer. The list of n things is in that respect the cheeseburger of essay forms. If you're eating at a restaurant you suspect is bad, your best bet is to order the cheeseburger. Even a bad cook can make a decent cheeseburger. And there are pretty strict conventions about what a cheeseburger should look like. You can assume the cook isn't going to try something weird and artistic. The list of n things similarly limits the damage that can be done by a bad writer. You know it's going to be about whatever the title says, and the format prevents the writer from indulging in any flights of fancy.
 
-Because the list of n things is the easiest essay form, it should be a good one for beginning writers. And in fact it is what most beginning writers are taught. The classic 5 paragraph essay is really a list of n things for n = 3. But the students writing them don't realize they're using the same structure as the articles they read in <i>Cosmopolitan</i>. They're not allowed to include the numbers, and they're expected to spackle over the gaps with gratuitous transitions ("Furthermore...") and cap the thing at either end with introductory and concluding paragraphs so it will look superficially like a real essay. <font color=#999999>[<a href="#f2n"><font color=#999999>2</font></a>]</font>
+Because the list of n things is the easiest essay form, it should be a good one for beginning writers. And in fact it is what most beginning writers are taught. The classic 5 paragraph essay is really a list of n things for n = 3. But the students writing them don't realize they're using the same structure as the articles they read in <i>Cosmopolitan</i>. They're not allowed to include the numbers, and they're expected to spackle over the gaps with gratuitous transitions ("Furthermore...") and cap the thing at either end with introductory and concluding paragraphs so it will look superficially like a real essay. [2]
 
 It seems a fine plan to start students off with the list of n things. It's the easiest form. But if we're going to do that, why not do it openly? Let them write lists of n things like the pros, with numbers and no transitions or "conclusion."
 
@@ -42,9 +42,9 @@ Another advantage of admitting to beginning writers that the 5 paragraph essay i
 
 <b>Notes</b>
 
-[<a name="f1n"><font color=#000000>1</font></a>] Articles of this type are also startlingly popular on Delicious, but I think that's because [delicious/popular](http://delicious.com/popular) is driven by bookmarking, not because Delicious users are stupid. Delicious users are collectors, and a list of n things seems particularly collectible because it's a collection itself.
+[1] Articles of this type are also startlingly popular on Delicious, but I think that's because [delicious/popular](http://delicious.com/popular) is driven by bookmarking, not because Delicious users are stupid. Delicious users are collectors, and a list of n things seems particularly collectible because it's a collection itself.
 
-[<a name="f2n"><font color=#000000>2</font></a>] Most "word problems" in school math textbooks are similarly misleading. They look superficially like the application of math to real problems, but they're not. So if anything they reinforce the impression that math is merely a complicated but pointless collection of stuff to be memorized.
+[2] Most "word problems" in school math textbooks are similarly misleading. They look superficially like the application of math to real problems, but they're not. So if anything they reinforce the impression that math is merely a complicated but pointless collection of stuff to be memorized.
 
 
 
