@@ -172,7 +172,7 @@ The problem is, larger scale investors don't have exactly the same motivation. C
 
 Large-scale investors tend to put startups in three categories: successes, failures, and the "living dead"—companies that are plugging along but don't seem likely in the immediate future to get bought or go public. To the founders, "living dead" sounds harsh. These companies may be far from failures by ordinary standards. But they might as well be from a venture investor's point of view, and they suck up just as much time and attention as the successes. So if such a company has two possible strategies, a conservative one that's slightly more likely to work in the end, or a risky one that within a short time will either yield a giant success or kill the company, VCs will push for the kill-or-cure option. To them the company is already a write-off. Better to have resolution, one way or the other, as soon as possible.
 
-If a startup gets into real trouble, instead of trying to save it VCs may just sell it at a low price to another of their portfolio companies. Philip Greenspun said in <a href="http://www.amazon.com/gp/product/1590597141">*Founders at Work*</a> that Ars Digita's VCs did this to them.
+If a startup gets into real trouble, instead of trying to save it VCs may just sell it at a low price to another of their portfolio companies. Philip Greenspun said in [*Founders at Work*](http://www.amazon.com/gp/product/1590597141) that Ars Digita's VCs did this to them.
 
 **18. Investors have different risk profiles from founders.**
 
@@ -249,5 +249,3 @@ Apparently the most likely animals to be left alive after a nuclear war are cock
 [4] Actually this sounds to me like a VC who got buyer's remorse, then used a technicality to get out of the deal. But it's telling that it even seemed a plausible excuse.
 
 **Thanks** to Sam Altman, Paul Buchheit, Hutch Fishman, and Robert Morris for reading drafts of this, and to Kenneth King of ASES for inviting me to speak.
-
-![y18](http://ycombinator.com/images/y18.gif) [Comment](http://news.ycombinator.com/item?id=17947) on this essay.

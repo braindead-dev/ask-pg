@@ -110,6 +110,6 @@ If you try to attack wealth, you end up nailing risk as well, and with it growth
 
 [4] In a country with a truly feudal economy, you might be able to redistribute wealth successfully, because there are no startups to kill.
 
-[5] The speed at which startups develop new techology is the other reason they pay so well. As I explained in <a href=wealth.html>"How to Make Wealth"</a>, what you do in a startup is compress a lifetime's worth of work into a few years. It seems as dumb to discourage that as to discourage risk-taking.
+[5] The speed at which startups develop new techology is the other reason they pay so well. As I explained in ["How to Make Wealth"](wealth.html), what you do in a startup is compress a lifetime's worth of work into a few years. It seems as dumb to discourage that as to discourage risk-taking.
 
  **Thanks** to Chris Anderson, Trevor Blackwell, Dan Giffin, Jessica Livingston, and Evan Williams for reading drafts of this essay, and to Langley Steinert, Sangam Pant, and Mike Moritz for information about venture investing.

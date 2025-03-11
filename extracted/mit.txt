@@ -167,5 +167,3 @@ To be safe either (a) don't use code written while you were still employed in yo
 [4] Geshke and Warnock only founded Adobe because Xerox ignored them. If Xerox had used what they built, they would probably never have left PARC.
 
 **Thanks** to Jessica Livingston and Robert Morris for reading drafts of this, and to Jeff Arnold and the SIPB for inviting me to speak.
-
-<a href="http://reddit.com">![redditino](https://sep.turbifycdn.com/ty/cdn/paulgraham/redditino.png?t=1688221954&)</a> [ Comment](http://reddit.com/info/l1xb/comments) on this essay.

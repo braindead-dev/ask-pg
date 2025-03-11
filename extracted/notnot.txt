@@ -229,7 +229,3 @@ That's ultimately what drives us to work on Y Combinator. We want to make money,
 [4] Thought experiment: If doctors did the same work, but as impoverished outcasts, which parents would still want their kids to be doctors?
 
 **Thanks** to Trevor Blackwell, Jessica Livingston, and Robert Morris for reading drafts of this, to the founders of Zenter for letting me use their web-based PowerPoint killer even though it isn't launched yet, and to Ming-Hay Luk of the Berkeley CSUA for inviting me to speak.
-
-
-
-![y18](http://ycombinator.com/images/y18.gif) [Comment](http://news.ycombinator.com/comments?id=6668) on this essay.
