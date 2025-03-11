@@ -1,6 +1,6 @@
 How to Fund a Startup
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> November 2005
+November 2005
 
 <!-- <i>(This article is meant to be a complete summary of funding options for startup founders. In effect we're open-sourcing the kernel of what we tell founders about funding at <nota href="http://ycombinator.com">Y Combinator</a>.)</i> --> Venture funding works like gears. A typical startup goes through several rounds of funding, and at each round you want to take just enough money to reach the speed where you can shift into the next gear.
 

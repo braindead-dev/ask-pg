@@ -1,6 +1,6 @@
 Why There Aren't More Googles
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> April 2008
+April 2008
 
 Umair Haque [wrote](http://discussionleader.hbsp.com/haque/2008/04/i_agree_and_i.html) recently that the reason there aren't more Googles is that most startups get bought before they can change the world. <blockquote> Google, despite serious interest from Microsoft and Yahoo—what must have seemed like lucrative interest at the time—didn't sell out. Google might simply have been nothing but Yahoo's or MSN's search box.
 

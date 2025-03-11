@@ -1,6 +1,6 @@
 A Fundraising Survival Guide
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> August 2008
+August 2008
 
 Raising money is the second hardest part of starting a startup. The hardest part is making something people want: most startups that die, die because they didn't do that. But the second biggest cause of death is probably the difficulty of raising money. Fundraising is brutal.
 

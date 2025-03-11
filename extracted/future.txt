@@ -1,6 +1,6 @@
 The Future of Startup Funding
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> August 2010
+August 2010
 
 Two years ago I [wrote](http://www.paulgraham.com/googles.html#next) about what I called "<xa href="http://www.paulgraham.com/googles.html#next">a huge, unexploited opportunity in startup funding</a>:" the growing disconnect between VCs, whose current business model requires them to invest large amounts, and a large class of startups that need less than they used to. Increasingly, startups want a couple hundred thousand dollars, not a couple million. <font color=#999999>[<a href="#f1n"><font color=#999999>1</font></a>]</font>
 

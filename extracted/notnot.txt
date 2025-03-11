@@ -1,6 +1,6 @@
 Why to Not Not Start a Startup
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> March 2007
+March 2007
 
 <i>(This essay is derived from talks at the 2007 Startup School and the Berkeley CSUA.)</i>
 

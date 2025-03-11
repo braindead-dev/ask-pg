@@ -1,6 +1,6 @@
 Before the Startup
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> October 2014
+October 2014
 
 <i>(This essay is derived from a guest lecture in Sam Altman's [startup class](http://startupclass.samaltman.com/) at Stanford. It's intended for college students, but much of it is applicable to potential founders at other ages.)</i>
 

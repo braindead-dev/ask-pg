@@ -1,6 +1,6 @@
 How to Get Startup Ideas
 ---
-<table width=100% cellspacing=0> <tr><td bgcolor=#ff9922><img src="http://www.virtumundo.com/images/spacer.gif" height=15 width=1><font size=2> <b>Want to start a startup?</b> Get funded by [Y Combinator](http://ycombinator.com/apply.html). </font> <br><img src="http://www.virtumundo.com/images/spacer.gif" height=5 width=1></td ></tr> </table> <p> November 2012
+November 2012
 
 The way to get startup ideas is not to try to think of startup ideas. It's to look for problems, preferably problems you have yourself.
 
