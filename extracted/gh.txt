@@ -170,4 +170,4 @@ I don't think it's publication that makes the best hackers want to work in resea
 
 [7] Google is much more dangerous to Microsoft than Netscape was. Probably more dangerous than any other company has ever been. Not least because they're determined to fight. On their job listing page, they say that one of their "core values'' is "Don't be evil.'' From a company selling soybean oil or mining equipment, such a statement would merely be eccentric. But I think all of us in the computer world recognize who that is a declaration of war on.
 
-<b >Thanks</b> to Jessica Livingston, Robert Morris, and Sarah Harlin for reading earlier versions of this talk.
+**Thanks** to Jessica Livingston, Robert Morris, and Sarah Harlin for reading earlier versions of this talk.
