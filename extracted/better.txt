@@ -36,7 +36,7 @@ Mostly I've been working on smarter tokenization. On current spam, I've been abl
 
 ``A Plan for Spam'' uses a very simple definition of a token. Letters, digits, dashes, apostrophes, and dollar signs are constituent characters, and everything else is a token separator. I also ignored case.
 
-Now I have a more complicated definition of a token: <ol> <li> Case is preserved.
+Now I have a more complicated definition of a token: <li> Case is preserved.
 
 <li> Exclamation points are constituent characters.
 
@@ -44,11 +44,13 @@ Now I have a more complicated definition of a token: <ol> <li> Case is preserved
 
 <li> A price range like $20-25 yields two tokens, $20 and $25.
 
-<li> Tokens that occur within the To, From, Subject, and Return-Path lines, or within urls, get marked accordingly. E.g. ``foo'' in the Subject line becomes ``Subject*foo''. (The asterisk could be any character you don't allow as a constituent.) </ol> Such measures increase the filter's vocabulary, which makes it more discriminating. For example, in the current filter, ``free'' in the Subject line has a spam probability of 98%, whereas the same token in the body has a spam probability of only 65%.
+<li> Tokens that occur within the To, From, Subject, and Return-Path lines, or within urls, get marked accordingly. E.g. ``foo'' in the Subject line becomes ``Subject*foo''. (The asterisk could be any character you don't allow as a constituent.) Such measures increase the filter's vocabulary, which makes it more discriminating. For example, in the current filter, ``free'' in the Subject line has a spam probability of 98%, whereas the same token in the body has a spam probability of only 65%.
 
 Here are some of the current probabilities [6]:
 
-<font face=courier><pre> Subject*FREE 0.9999 free!! 0.9999 To*free 0.9998 Subject*free 0.9782 free! 0.9199 Free 0.9198 Url*free 0.9091 FREE 0.8747 From*free 0.7636 free 0.6546 </pre></font> In the Plan for Spam filter, all these tokens would have had the same probability, .7602. That filter recognized about 23,000 tokens. The current one recognizes about 187,000.
+
+
+ Subject*FREE 0.9999 free!! 0.9999 To*free 0.9998 Subject*free 0.9782 free! 0.9199 Free 0.9198 Url*free 0.9091 FREE 0.8747 From*free 0.7636 free 0.6546 </pre> In the Plan for Spam filter, all these tokens would have had the same probability, .7602. That filter recognized about 23,000 tokens. The current one recognizes about 187,000.
 
 The disadvantage of having a larger universe of tokens is that there is more chance of misses. Spreading your corpus out over more tokens has the same effect as making it smaller. If you consider exclamation points as constituents, for example, then you could end up not having a spam probability for free with seven exclamation points, even though you know that free with just two exclamation points has a probability of 99.99%.
 
@@ -56,7 +58,9 @@ One solution to this is what I call degeneration. If you can't find an exact mat
 
 Here are the alternatives [7] considered if the filter sees ``FREE!!!'' in the Subject line and doesn't have a probability for it.
 
-<font face=courier><pre> Subject*Free!!! Subject*free!!! Subject*FREE! Subject*Free! Subject*free! Subject*FREE Subject*Free Subject*free FREE!!! Free!!! free!!! FREE! Free! free! FREE Free free </pre></font> If you do this, be sure to consider versions with initial caps as well as all uppercase and all lowercase. Spams tend to have more sentences in imperative mood, and in those the first word is a verb. So verbs with initial caps have higher spam probabilities than they would in all lowercase. In my filter, the spam probability of ``Act'' is 98% and for ``act'' only 62%.
+
+
+ Subject*Free!!! Subject*free!!! Subject*FREE! Subject*Free! Subject*free! Subject*FREE Subject*Free Subject*free FREE!!! Free!!! free!!! FREE! Free! free! FREE Free free </pre> If you do this, be sure to consider versions with initial caps as well as all uppercase and all lowercase. Spams tend to have more sentences in imperative mood, and in those the first word is a verb. So verbs with initial caps have higher spam probabilities than they would in all lowercase. In my filter, the spam probability of ``Act'' is 98% and for ``act'' only 62%.
 
 If you increase your filter's vocabulary, you can end up counting the same word multiple times, according to your old definition of ``same''. Logically, they're not the same token anymore. But if this still bothers you, let me add from experience that the words you seem to be counting multiple times tend to be exactly the ones you'd want to.
 

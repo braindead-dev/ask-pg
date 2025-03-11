@@ -12,7 +12,9 @@ We do a lot of this behind the scenes stuff at YC, because we invest in such a l
 
 
 
-<hr> <pre> from: Paul Graham to: Fred Wilson, AirBedAndBreakfast Founders date: Fri, Jan 23, 2009 at 11:42 AM subject: meet the airbeds
+--- 
+
+ from: Paul Graham to: Fred Wilson, AirBedAndBreakfast Founders date: Fri, Jan 23, 2009 at 11:42 AM subject: meet the airbeds
 
 One of the startups from the batch that just started, AirbedAndBreakfast, is in NYC right now meeting their users. (NYC is their biggest market.) I'd recommend meeting them if your schedule allows.
 
@@ -194,4 +196,4 @@ If you look at many of the people who list at ABNB, they list elsewhere too
 
 I am not negative on this one, I am interested, but we are still in the gathering data phase.
 
-fred </pre></tt>
+fred </pre>

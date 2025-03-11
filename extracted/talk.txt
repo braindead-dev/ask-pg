@@ -6,7 +6,7 @@ Here's a simple trick for getting more people to read what you write: write in s
 
 Something comes over most people when they start writing. They write in a different language than they'd use if they were talking to a friend. The sentence structure and even the words are different. No one uses "pen" as a verb in spoken English. You'd feel like an idiot using "pen" instead of "write" in a conversation with a friend.
 
-The last straw for me was a sentence I read a couple days ago: <blockquote> The mercurial Spaniard himself declared: "After Altamira, all is decadence." </blockquote> It's from Neil Oliver's *A History of Ancient Britain*. I feel bad making an example of this book, because it's no worse than lots of others. But just imagine calling Picasso "the mercurial Spaniard" when talking to a friend. Even one sentence of this would raise eyebrows in conversation. And yet people write whole books of it.
+The last straw for me was a sentence I read a couple days ago: >  The mercurial Spaniard himself declared: "After Altamira, all is decadence."  It's from Neil Oliver's *A History of Ancient Britain*. I feel bad making an example of this book, because it's no worse than lots of others. But just imagine calling Picasso "the mercurial Spaniard" when talking to a friend. Even one sentence of this would raise eyebrows in conversation. And yet people write whole books of it.
 
 Ok, so written and spoken language are different. Does that make written language worse?
 

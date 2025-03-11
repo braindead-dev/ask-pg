@@ -2,7 +2,7 @@ Taste for Makers
 ---
 February 2002
 
-<table width=500 cellpadding=6 cellspacing=0> <tr><td bgcolor=#ffffdd> <table width=100% cellpadding=0 cellspacing=0> <tr><td bgcolor=#ffffdd><font size=2> "...Copernicus' aesthetic objections to [equants] provided one essential motive for his rejection of the Ptolemaic system...."
+<table width=500 cellpadding=6 cellspacing=0> <tr><td bgcolor=#ffffdd> <table width=100% cellpadding=0 cellspacing=0> <tr><td bgcolor=#ffffdd> "...Copernicus' aesthetic objections to [equants] provided one essential motive for his rejection of the Ptolemaic system...."
 
 - Thomas Kuhn, *The Copernican Revolution*
 
@@ -12,7 +12,7 @@ February 2002
 
 "Beauty is the first test: there is no permanent place in this world for ugly mathematics."
 
-- G. H. Hardy, *A Mathematician's Apology* </font> </td></tr></table> </td></tr></table>
+- G. H. Hardy, *A Mathematician's Apology*  </td></tr></table> </td></tr></table>
 
 I was talking recently to a friend who teaches at MIT. His field is hot now and every year he is inundated by applications from would-be graduate students. "A lot of them seem smart," he said. "What I can't tell is whether they have any kind of taste."
 

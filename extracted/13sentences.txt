@@ -56,7 +56,9 @@ Even if you get demoralized, [don't give up](die.html). You can get surprisingly
 
 **13. Deals fall through.**
 
-One of the most useful skills we learned from Viaweb was not getting our hopes up. We probably had 20 deals of various types fall through. After the first 10 or so we learned to treat deals as background processes that we should ignore till they terminated. It's very dangerous to morale to start to depend on deals closing, not just because they so often don't, but because it makes them less likely to. <p style="margin-top:32px"> Having gotten it down to 13 sentences, I asked myself which I'd choose if I could only keep one.
+One of the most useful skills we learned from Viaweb was not getting our hopes up. We probably had 20 deals of various types fall through. After the first 10 or so we learned to treat deals as background processes that we should ignore till they terminated. It's very dangerous to morale to start to depend on deals closing, not just because they so often don't, but because it makes them less likely to. 
+
+ Having gotten it down to 13 sentences, I asked myself which I'd choose if I could only keep one.
 
 Understand your users. That's the key. The essential task in a startup is to create wealth; the dimension of wealth you have most control over is how much you improve users' lives; and the hardest part of that is knowing what to make for them. Once you know what to make, it's mere effort to make it, and most decent hackers are capable of that.
 

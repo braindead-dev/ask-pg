@@ -44,4 +44,4 @@ It can be very useful to talk (in either sense) with other people as you're writ
 
 
 
-<font color="888888"> **Thanks** to Trevor Blackwell, Patrick Collison, and Robert Morris for reading drafts of this. </font>
+ **Thanks** to Trevor Blackwell, Patrick Collison, and Robert Morris for reading drafts of this. 

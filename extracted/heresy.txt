@@ -4,7 +4,7 @@ April 2022
 
 One of the most surprising things I've witnessed in my lifetime is the rebirth of the concept of heresy.
 
-In his excellent biography of Newton, Richard Westfall writes about the moment when he was elected a fellow of Trinity College: <blockquote> Supported comfortably, Newton was free to devote himself wholly to whatever he chose. To remain on, he had only to avoid the three unforgivable sins: crime, heresy, and marriage. [1] </blockquote> The first time I read that, in the 1990s, it sounded amusingly medieval. How strange, to have to avoid committing heresy. But when I reread it 20 years later it sounded like a description of contemporary employment.
+In his excellent biography of Newton, Richard Westfall writes about the moment when he was elected a fellow of Trinity College: >  Supported comfortably, Newton was free to devote himself wholly to whatever he chose. To remain on, he had only to avoid the three unforgivable sins: crime, heresy, and marriage. [1]  The first time I read that, in the 1990s, it sounded amusingly medieval. How strange, to have to avoid committing heresy. But when I reread it 20 years later it sounded like a description of contemporary employment.
 
 There are an ever-increasing number of opinions you can be fired for. Those doing the firing don't use the word "heresy" to describe them, but structurally they're equivalent. Structurally there are two distinctive things about heresy: (1) that it takes priority over the question of truth or falsity, and (2) that it outweighs everything else the speaker has done.
 
@@ -80,4 +80,4 @@ The superficial demands of orthodoxy make it an inexpensive substitute for virtu
 
 
 
-<font color="888888">**Thanks** to Marc Andreessen, Chris Best, Trevor Blackwell, Nicholas Christakis, Daniel Gackle, Jonathan Haidt, Claire Lehmann, Jessica Livingston, Greg Lukianoff, Robert Morris, and Garry Tan for reading drafts of this.</font>
+**Thanks** to Marc Andreessen, Chris Best, Trevor Blackwell, Nicholas Christakis, Daniel Gackle, Jonathan Haidt, Claire Lehmann, Jessica Livingston, Greg Lukianoff, Robert Morris, and Garry Tan for reading drafts of this.

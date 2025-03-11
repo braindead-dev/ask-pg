@@ -20,7 +20,7 @@ After decades of running an IV drip right into their audience, people in the ent
 
 Facebook killed TV. That is wildly oversimplified, of course, but probably as close to the truth as you can get in three words.
 
-<center>___</center>
+___
 
 The TV networks already seem, grudgingly, to see where things are going, and have responded by putting their stuff, grudgingly, online. But they're still dragging their heels. They still seem to wish people would watch shows on TV instead, just as newspapers that put their stories online still seem to wish people would wait till the next morning and read them printed on paper. They should both just face the fact that the Internet is the primary medium.
 
@@ -36,7 +36,7 @@ A recent article in the *Wall Street Journal* described how TV networks were try
 
 The other reason networks like live shows is that they're cheaper to produce. There they have the right idea, but they haven't followed it to its conclusion. Live content can be way cheaper than networks realize, and the way to take advantage of dramatic decreases in cost is to [increase volume](http://justin.tv). The networks are prevented from seeing this whole line of reasoning because they still think of themselves as being in the broadcast business—as sending one signal to everyone. [4]
 
-<center>___</center>
+___
 
 [Now](badeconomy.html) would be a good time to start any company that competes with TV networks. That's what a lot of Internet startups are, though they may not have had this as an explicit goal. People only have so many leisure hours a day, and TV is premised on such long sessions (unlike Google, which prides itself on sending users on their way quickly) that anything that takes up their time is competing with it. But in addition to such indirect competitors, I think TV companies will increasingly face direct ones.
 

@@ -1,8 +1,12 @@
 What Languages Fix
 ---
-<p align=justif> Kevin Kelleher suggested an interesting way to compare programming languages: to describe each in terms of the problem it fixes. The surprising thing is how many, and how well, languages can be described this way.
 
- <p align=left> **Algol:** Assembly language is too low-level.
+
+ Kevin Kelleher suggested an interesting way to compare programming languages: to describe each in terms of the problem it fixes. The surprising thing is how many, and how well, languages can be described this way.
+
+ 
+
+ **Algol:** Assembly language is too low-level.
 
 **Pascal:** Algol doesn't have enough data types.
 

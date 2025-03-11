@@ -46,11 +46,11 @@ Occasionally it's obvious from the beginning when there's a path out of the init
 
 So if you can't predict whether there's a path out of an idea, how do you choose between ideas? The truth is disappointing but interesting: if you're the right sort of person, you have the right sort of hunches. If you're at the leading edge of a field that's changing fast, when you have a hunch that something is worth doing, you're more likely to be right.
 
-In *Zen and the Art of Motorcycle Maintenance*, Robert Pirsig says: <blockquote> You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally. </blockquote> I've wondered about that passage since I read it in high school. I'm not sure how useful his advice is for painting specifically, but it fits this situation well. Empirically, the way to have good startup ideas is to become the sort of person who has them.
+In *Zen and the Art of Motorcycle Maintenance*, Robert Pirsig says: >  You want to know how to paint a perfect painting? It's easy. Make yourself perfect and then just paint naturally.  I've wondered about that passage since I read it in high school. I'm not sure how useful his advice is for painting specifically, but it fits this situation well. Empirically, the way to have good startup ideas is to become the sort of person who has them.
 
 Being at the leading edge of a field doesn't mean you have to be one of the people pushing it forward. You can also be at the leading edge as a user. It was not so much because he was a programmer that Facebook seemed a good idea to Mark Zuckerberg as because he used computers so much. If you'd asked most 40 year olds in 2004 whether they'd like to publish their lives semi-publicly on the Internet, they'd have been horrified at the idea. But Mark already lived online; to him it seemed natural.
 
-Paul Buchheit says that people at the leading edge of a rapidly changing field "live in the future." Combine that with Pirsig and you get: <blockquote> Live in the future, then build what's missing. </blockquote> That describes the way many if not most of the biggest startups got started. Neither Apple nor Yahoo nor Google nor Facebook were even supposed to be companies at first. They grew out of things their founders built because there seemed a gap in the world.
+Paul Buchheit says that people at the leading edge of a rapidly changing field "live in the future." Combine that with Pirsig and you get: >  Live in the future, then build what's missing.  That describes the way many if not most of the biggest startups got started. Neither Apple nor Yahoo nor Google nor Facebook were even supposed to be companies at first. They grew out of things their founders built because there seemed a gap in the world.
 
 If you look at the way successful founders have had their ideas, it's generally the result of some external stimulus hitting a prepared mind. Bill Gates and Paul Allen hear about the Altair and think "I bet we could write a Basic interpreter for it." Drew Houston realizes he's forgotten his USB stick and thinks "I really need to make my files live online." Lots of people heard about the Altair. Lots forgot USB sticks. The reason those stimuli caused those founders to start companies was that their experiences had prepared them to notice the opportunities they represented.
 
@@ -92,7 +92,7 @@ Just as trying to think up startup ideas tends to produce bad ones, working on t
 
 At YC we're excited when we meet startups working on things that we could imagine know-it-alls on forums dismissing as toys. To us that's positive evidence an idea is good.
 
-If you can afford to take a long view (and arguably you can't afford not to), you can turn "Live in the future and build what's missing" into something even better: <blockquote> Live in the future and build what seems interesting. </blockquote>
+If you can afford to take a long view (and arguably you can't afford not to), you can turn "Live in the future and build what's missing" into something even better: >  Live in the future and build what seems interesting. 
 
  **School**
 

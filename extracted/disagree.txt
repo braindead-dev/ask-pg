@@ -12,17 +12,17 @@ If we're all going to be disagreeing more, we should be careful to do it well. W
 
  **DH0. Name-calling.**
 
-This is the lowest form of disagreement, and probably also the most common. We've all seen comments like this: <blockquote> u r a fag!!!!!!!!!! </blockquote> But it's important to realize that more articulate name-calling has just as little weight. A comment like <blockquote> The author is a self-important dilettante. </blockquote> is really nothing more than a pretentious version of "u r a fag."
+This is the lowest form of disagreement, and probably also the most common. We've all seen comments like this: >  u r a fag!!!!!!!!!!  But it's important to realize that more articulate name-calling has just as little weight. A comment like >  The author is a self-important dilettante.  is really nothing more than a pretentious version of "u r a fag."
 
  **DH1. Ad Hominem.**
 
-An ad hominem attack is not quite as weak as mere name-calling. It might actually carry some weight. For example, if a senator wrote an article saying senators' salaries should be increased, one could respond: <blockquote> Of course he would say that. He's a senator. </blockquote> This wouldn't refute the author's argument, but it may at least be relevant to the case. It's still a very weak form of disagreement, though. If there's something wrong with the senator's argument, you should say what it is; and if there isn't, what difference does it make that he's a senator?
+An ad hominem attack is not quite as weak as mere name-calling. It might actually carry some weight. For example, if a senator wrote an article saying senators' salaries should be increased, one could respond: >  Of course he would say that. He's a senator.  This wouldn't refute the author's argument, but it may at least be relevant to the case. It's still a very weak form of disagreement, though. If there's something wrong with the senator's argument, you should say what it is; and if there isn't, what difference does it make that he's a senator?
 
 Saying that an author lacks the authority to write about a topic is a variant of ad hominem—and a particularly useless sort, because good ideas often come from outsiders. The question is whether the author is correct or not. If his lack of authority caused him to make mistakes, point those out. And if it didn't, it's not a problem.
 
  **DH2. Responding to Tone.**
 
-The next level up we start to see responses to the writing, rather than the writer. The lowest form of these is to disagree with the author's tone. E.g. <blockquote> I can't believe the author dismisses intelligent design in such a cavalier fashion. </blockquote> Though better than attacking the author, this is still a weak form of disagreement. It matters much more whether the author is wrong or right than what his tone is. Especially since tone is so hard to judge. Someone who has a chip on their shoulder about some topic might be offended by a tone that to other readers seemed neutral.
+The next level up we start to see responses to the writing, rather than the writer. The lowest form of these is to disagree with the author's tone. E.g. >  I can't believe the author dismisses intelligent design in such a cavalier fashion.  Though better than attacking the author, this is still a weak form of disagreement. It matters much more whether the author is wrong or right than what his tone is. Especially since tone is so hard to judge. Someone who has a chip on their shoulder about some topic might be offended by a tone that to other readers seemed neutral.
 
 So if the worst thing you can say about something is to criticize its tone, you're not saying much. Is the author flippant, but correct? Better that than grave and wrong. And if the author is incorrect somewhere, say where.
 
@@ -30,7 +30,7 @@ So if the worst thing you can say about something is to criticize its tone, you'
 
 In this stage we finally get responses to what was said, rather than how or by whom. The lowest form of response to an argument is simply to state the opposing case, with little or no supporting evidence.
 
-This is often combined with DH2 statements, as in: <blockquote> I can't believe the author dismisses intelligent design in such a cavalier fashion. Intelligent design is a legitimate scientific theory. </blockquote> Contradiction can sometimes have some weight. Sometimes merely seeing the opposing case stated explicitly is enough to see that it's right. But usually evidence will help.
+This is often combined with DH2 statements, as in: >  I can't believe the author dismisses intelligent design in such a cavalier fashion. Intelligent design is a legitimate scientific theory.  Contradiction can sometimes have some weight. Sometimes merely seeing the opposing case stated explicitly is enough to see that it's right. But usually evidence will help.
 
 **DH4. Counterargument.**
 
@@ -54,7 +54,7 @@ The force of a refutation depends on what you refute. The most powerful form of 
 
 Even as high as DH5 we still sometimes see deliberate dishonesty, as when someone picks out minor points of an argument and refutes those. Sometimes the spirit in which this is done makes it more of a sophisticated form of ad hominem than actual refutation. For example, correcting someone's grammar, or harping on minor mistakes in names or numbers. Unless the opposing argument actually depends on such things, the only purpose of correcting them is to discredit one's opponent.
 
-Truly refuting something requires one to refute its central point, or at least one of them. And that means one has to commit explicitly to what the central point is. So a truly effective refutation would look like: <blockquote> The author's main point seems to be x. As he says: <blockquote> <quotation> </blockquote> But this is wrong for the following reasons... </blockquote> The quotation you point out as mistaken need not be the actual statement of the author's main point. It's enough to refute something it depends upon.
+Truly refuting something requires one to refute its central point, or at least one of them. And that means one has to commit explicitly to what the central point is. So a truly effective refutation would look like: >  The author's main point seems to be x. As he says: <blockquote> <quotation>  But this is wrong for the following reasons... </blockquote> The quotation you point out as mistaken need not be the actual statement of the author's main point. It's enough to refute something it depends upon.
 
  **What It Means**
 

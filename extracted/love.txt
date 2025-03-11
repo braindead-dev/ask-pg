@@ -108,9 +108,9 @@ So while there may be some things someone has to do, there's a good chance anyon
 
 **Two Routes**
 
-There's another sense of "not everyone can do work they love" that's all too true, however. One has to make a living, and it's hard to get paid for doing work you love. There are two routes to that destination: <blockquote> The organic route: as you become more eminent, gradually to increase the parts of your job that you like at the expense of those you don't.
+There's another sense of "not everyone can do work they love" that's all too true, however. One has to make a living, and it's hard to get paid for doing work you love. There are two routes to that destination: >  The organic route: as you become more eminent, gradually to increase the parts of your job that you like at the expense of those you don't.
 
-The two-job route: to work at things you don't like to get money to work on things you do. </blockquote> The organic route is more common. It happens naturally to anyone who does good work. A young architect has to take whatever work he can get, but if he does well he'll gradually be in a position to pick and choose among projects. The disadvantage of this route is that it's slow and uncertain. Even tenure is not real freedom.
+The two-job route: to work at things you don't like to get money to work on things you do.  The organic route is more common. It happens naturally to anyone who does good work. A young architect has to take whatever work he can get, but if he does well he'll gradually be in a position to pick and choose among projects. The disadvantage of this route is that it's slow and uncertain. Even tenure is not real freedom.
 
 The two-job route has several variants depending on how long you work for money at a time. At one extreme is the "day job," where you work regular hours at one job to make money, and work on what you love in your spare time. At the other extreme you work at something till you make [enough](wealth.html) not to have to work for money again.
 

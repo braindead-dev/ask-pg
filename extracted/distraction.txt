@@ -22,7 +22,7 @@ Another reason it was hard to notice the danger of this new type of distraction 
 
 Eventually, though, it became clear that the Internet had become so much more distracting that I had to start treating it differently. Basically, I had to add a new application to my list of known time sinks: Firefox.
 
-<center>* * *</center>
+* * *
 
 The problem is a hard one to solve because most people still need the Internet for some things. If you drink too much, you can solve that problem by stopping entirely. But you can't solve the problem of overeating by stopping eating. I couldn't simply avoid the Internet entirely, as I'd done with previous time sinks.
 

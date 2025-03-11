@@ -6,7 +6,7 @@ One of the more surprising things I've noticed while working on Y Combinator is 
 
 Don't worry, it's not a sign of weakness. Arguably it's a sign of sanity. The biggest startup ideas are terrifying. And not just because they'd be a lot of work. The biggest ideas seem to threaten your identity: you wonder if you'd have enough ambition to carry them through.
 
-There's a scene in *Being John Malkovich* where the nerdy hero encounters a very attractive, sophisticated woman. She says to him: <blockquote> Here's the thing: If you ever got me, you wouldn't have a clue what to do with me. </blockquote> That's what these ideas say to us.
+There's a scene in *Being John Malkovich* where the nerdy hero encounters a very attractive, sophisticated woman. She says to him: >  Here's the thing: If you ever got me, you wouldn't have a clue what to do with me.  That's what these ideas say to us.
 
 This phenomenon is one of the most important things you can understand about startups. [1] You'd expect big startup ideas to be attractive, but actually they tend to repel you. And that has a bunch of consequences. It means these ideas are invisible to most people who try to think of startup ideas, because their subconscious filters them out. Even the most ambitious people are probably best off approaching them obliquely.
 

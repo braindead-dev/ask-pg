@@ -2,7 +2,7 @@ What I've Learned from Users
 ---
 September 2022
 
-I recently told applicants to Y Combinator that the best advice I could give for getting in, per word, was <blockquote> Explain what you've learned from users. </blockquote> That tests a lot of things: whether you're paying attention to users, how well you understand them, and even how much they need what you're making.
+I recently told applicants to Y Combinator that the best advice I could give for getting in, per word, was >  Explain what you've learned from users.  That tests a lot of things: whether you're paying attention to users, how well you understand them, and even how much they need what you're making.
 
 Afterward I asked myself the same question. What have I learned from YC's users, the startups we've funded?
 
@@ -78,4 +78,4 @@ YC founders aren't just inspired by one another. They also help one another. Tha
 
 
 
- <font color="888888">**Thanks** to Trevor Blackwell, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+ **Thanks** to Trevor Blackwell, Jessica Livingston, Harj Taggar, and Garry Tan for reading drafts of this.

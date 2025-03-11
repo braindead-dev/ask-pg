@@ -62,4 +62,4 @@ This thought experiment is also useful for distinguishing between university dep
 
 
 
-<font color="888888">**Thanks** to Trevor Blackwell, Paul Buchheit, Jessica Livingston, Robert Morris, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+**Thanks** to Trevor Blackwell, Paul Buchheit, Jessica Livingston, Robert Morris, Harj Taggar, and Garry Tan for reading drafts of this.

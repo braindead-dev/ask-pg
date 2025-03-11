@@ -34,4 +34,4 @@ So one way to express the correct answer is to use a regular expression. You can
 
 
 
- <font color="888888">**Thanks** to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.</font>
+ **Thanks** to Trevor Blackwell, Jessica Livingston, Robert Morris, and Michael Nielsen for reading drafts of this.

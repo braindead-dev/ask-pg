@@ -20,7 +20,7 @@ The result will be a world divided into writes and write-nots. There will still 
 
 Is that so bad? Isn't it common for skills to disappear when technology makes them obsolete? There aren't many blacksmiths left, and it doesn't seem to be a problem.
 
-Yes, it's bad. The reason is something I mentioned earlier: writing is thinking. In fact there's a kind of thinking that can only be done by writing. You can't make this point better than Leslie Lamport did: <blockquote> If you're thinking without writing, you only think you're thinking. </blockquote> So a world divided into writes and write-nots is more dangerous than it sounds. It will be a world of thinks and think-nots. I know which half I want to be in, and I bet you do too.
+Yes, it's bad. The reason is something I mentioned earlier: writing is thinking. In fact there's a kind of thinking that can only be done by writing. You can't make this point better than Leslie Lamport did: >  If you're thinking without writing, you only think you're thinking.  So a world divided into writes and write-nots is more dangerous than it sounds. It will be a world of thinks and think-nots. I know which half I want to be in, and I bet you do too.
 
 This situation is not unprecedented. In preindustrial times most people's jobs made them strong. Now if you want to be strong, you work out. So there are still strong people, but only those who choose to be.
 
@@ -34,4 +34,4 @@ It will be the same with writing. There will still be smart people, but only tho
 
 
 
-<font color="888888">**Thanks** to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this.</font>
+**Thanks** to Jessica Livingston, Ben Miller, and Robert Morris for reading drafts of this.

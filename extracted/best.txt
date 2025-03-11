@@ -156,4 +156,4 @@ Strictly speaking it's the graph of ideas that would be highly connected, not th
 
 
 
-<font color="888888">**Thanks** to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, Courtenay Pipkin, and Harj Taggar for reading drafts of this.</font>
+**Thanks** to Sam Altman, Trevor Blackwell, Jessica Livingston, Robert Morris, Courtenay Pipkin, and Harj Taggar for reading drafts of this.

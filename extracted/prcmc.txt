@@ -18,7 +18,7 @@ Sure, running your own company can be fairly interesting. Viaweb was more intere
 
 Whether the number of founders in the same position is asymptotic or merely large, there are certainly a lot of them. For them the right approach would be to hand the company over to a professional manager eventually, if they could find one who was good enough.
 
-<center>_____</center>
+_____
 
 So far so good. But what if your manager was hit by a bus? What you really want is a management company to run your company for you. Then you don't depend on any one person.
 
@@ -36,7 +36,7 @@ If such pooled-risk company management companies existed, signing up with one wo
 
 Good news: they do exist. What I've just described is an acquisition by a public company.
 
-<center>_____</center>
+_____
 
 Unfortunately, though public acquirers are structurally identical to pooled-risk company management companies, they don't think of themselves that way. With a property management company, you can just walk in whenever you want and say "manage my rental property for me" and they'll do it. Whereas acquirers are, as of this writing, extremely fickle. Sometimes they're in a buying mood and they'll overpay enormously; other times they're not interested. They're like property management companies run by madmen. Or more precisely, by Benjamin Graham's Mr. Market.
 

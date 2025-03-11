@@ -570,7 +570,7 @@ There's no way you could search this whole space, so you have to rely on heurist
 
 [19] It might be a good exercise to try writing down a list of questions you wondered about in your youth. You might find you're now in a position to do something about some of them.
 
-[20] The connection between originality and uncertainty causes a strange phenomenon: because the conventional-minded are more certain than the independent-minded, this tends to give them the upper hand in disputes, even though they're generally stupider. <blockquote> The best lack all conviction, while the worst<br> Are full of passionate intensity. </blockquote> [21] Derived from Linus Pauling's "If you want to have good ideas, you must have many ideas."
+[20] The connection between originality and uncertainty causes a strange phenomenon: because the conventional-minded are more certain than the independent-minded, this tends to give them the upper hand in disputes, even though they're generally stupider. >  The best lack all conviction, while the worst<br> Are full of passionate intensity.  [21] Derived from Linus Pauling's "If you want to have good ideas, you must have many ideas."
 
 [22] Attacking a project as a "toy" is similar to attacking a statement as "inappropriate." It means that no more substantial criticism can be made to stick.
 
@@ -590,4 +590,4 @@ There's no way you could search this whole space, so you have to rely on heurist
 
 
 
-<font color="888888">**Thanks** to Trevor Blackwell, Daniel Gackle, Pam Graham, Tom Howard, Patrick Hsu, Steve Huffman, Jessica Livingston, Henry Lloyd-Baker, Bob Metcalfe, Ben Miller, Robert Morris, Michael Nielsen, Courtenay Pipkin, Joris Poort, Mieke Roos, Rajat Suri, Harj Taggar, Garry Tan, and my younger son for suggestions and for reading drafts. </font>
+**Thanks** to Trevor Blackwell, Daniel Gackle, Pam Graham, Tom Howard, Patrick Hsu, Steve Huffman, Jessica Livingston, Henry Lloyd-Baker, Bob Metcalfe, Ben Miller, Robert Morris, Michael Nielsen, Courtenay Pipkin, Joris Poort, Mieke Roos, Rajat Suri, Harj Taggar, Garry Tan, and my younger son for suggestions and for reading drafts. 

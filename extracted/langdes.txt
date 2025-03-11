@@ -1,6 +1,8 @@
 Five Questions about Language Design
 ---
-May 2001 <p> *(These are some notes I made for a panel discussion on programming language design at MIT on May 10, 2001.)*
+May 2001 
+
+ *(These are some notes I made for a panel discussion on programming language design at MIT on May 10, 2001.)*
 
 
 
@@ -60,7 +62,11 @@ Libraries are becoming an increasingly important component of programming langua
 
 **2. Are People Really Scared of Prefix Syntax?**
 
-This is an open problem in the sense that I have wondered about it for years and still don't know the answer. Prefix syntax seems perfectly natural to me, except possibly for math. But it could be that a lot of Lisp's unpopularity is simply due to having an unfamiliar syntax. Whether to do anything about it, if it is true, is another question. <p align=left> **3. What Do You Need for Server-Based Software?** <p align=justif> I think a lot of the most exciting new applications that get written in the next twenty years will be Web-based applications, meaning programs that sit on the server and talk to you through a Web browser. And to write these kinds of programs we may need some new things.
+This is an open problem in the sense that I have wondered about it for years and still don't know the answer. Prefix syntax seems perfectly natural to me, except possibly for math. But it could be that a lot of Lisp's unpopularity is simply due to having an unfamiliar syntax. Whether to do anything about it, if it is true, is another question. 
+
+ **3. What Do You Need for Server-Based Software?** 
+
+ I think a lot of the most exciting new applications that get written in the next twenty years will be Web-based applications, meaning programs that sit on the server and talk to you through a Web browser. And to write these kinds of programs we may need some new things.
 
 One thing we'll need is support for the new way that server-based apps get released. Instead of having one or two big releases a year, like desktop software, server-based apps get released as a series of small changes. You may have as many as five or ten releases a day. And as a rule everyone will always use the latest version.
 

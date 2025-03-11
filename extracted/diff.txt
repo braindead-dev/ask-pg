@@ -1,12 +1,14 @@
 What Made Lisp Different
 ---
-December 2001 (rev. May 2002) <p align=justif> *(This article came about in response to some questions on the [LL1](http://ll1.mit.edu) mailing list. It is now incorporated in [Revenge of the Nerds](icad.html).)*
+December 2001 (rev. May 2002) 
+
+ *(This article came about in response to some questions on the [LL1](http://ll1.mit.edu) mailing list. It is now incorporated in [Revenge of the Nerds](icad.html).)*
 
 When McCarthy designed Lisp in the late 1950s, it was a radical departure from existing languages, the most important of which was [Fortran](history.html).
 
 Lisp embodied nine new ideas:
 
-<hr> **1. Conditionals.** A conditional is an if-then-else construct. We take these for granted now. They were [invented](http://www-formal.stanford.edu/jmc/history/lisp/node2.html) by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.
+--- **1. Conditionals.** A conditional is an if-then-else construct. We take these for granted now. They were [invented](http://www-formal.stanford.edu/jmc/history/lisp/node2.html) by McCarthy in the course of developing Lisp. (Fortran at that time only had a conditional goto, closely based on the branch instruction in the underlying hardware.) McCarthy, who was on the Algol committee, got conditionals into Algol, whence they spread to most other languages.
 
 **2. A function type.** In Lisp, functions are first class objects-- they're a data type just like integers, strings, etc, and have a literal representation, can be stored in variables, can be passed as arguments, and so on.
 
@@ -36,7 +38,7 @@ or
 
 **9. The whole language always available.** There is no real distinction between read-time, compile-time, and runtime. You can compile or run code while reading, read or run code while compiling, and read or compile code at runtime.
 
-Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML. <hr>
+Running code at read-time lets users reprogram Lisp's syntax; running code at compile-time is the basis of macros; compiling at runtime is the basis of Lisp's use as an extension language in programs like Emacs; and reading at runtime enables programs to communicate using s-expressions, an idea recently reinvented as XML. ---
 
 When Lisp was first invented, all these ideas were far removed from ordinary programming practice, which was dictated largely by the hardware available in the late 1950s.
 

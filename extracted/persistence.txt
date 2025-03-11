@@ -86,4 +86,4 @@ Considering what it's made of, it's not surprising that the right kind of stubbo
 
 
 
-<font color="888888">**Thanks** to Trevor Blackwell, Jessica Livingston, Jackie McDonough, Courtenay Pipkin, Harj Taggar, and Garry Tan for reading drafts of this.</font>
+**Thanks** to Trevor Blackwell, Jessica Livingston, Jackie McDonough, Courtenay Pipkin, Harj Taggar, and Garry Tan for reading drafts of this.
