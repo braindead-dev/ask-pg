@@ -29,13 +29,12 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
 
   const header = (
     <header className="m-auto flex max-w-96 flex-col gap-5 text-center">
-      <h1 className="text-2xl font-semibold leading-none tracking-tight">Basic AI Chatbot Template</h1>
+      <h1 className="text-2xl font-semibold leading-none tracking-tight">Ask PG</h1>
       <p className="text-muted-foreground text-sm">
-        This is an AI chatbot app template built with <span className="text-foreground">Next.js</span>, the{" "}
-        <span className="text-foreground">Vercel AI SDK</span>, and <span className="text-foreground">Vercel KV</span>.
+        I'm an AI version of <a href="https://www.paulgraham.com/bio.html" className="text-foreground hover:underline">Paul Graham</a>, based on his <a href="https://www.paulgraham.com/articles.html" className="text-foreground hover:underline">essays</a>. 
       </p>
       <p className="text-muted-foreground text-sm">
-        Connect an API Key from your provider and send a message to get started.
+        Ask me for startup, personal, or any other advice. I'll also reference the essays from which I derive my guidance.
       </p>
     </header>
   )
