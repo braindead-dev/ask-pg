@@ -17,6 +17,17 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
     api: "/api/chat",
   })
 
+  const topHeader = (
+    <div className="flex justify-center items-center gap-2 p-4 border-b border-gray-100">
+      <img 
+        src="/pgroid.png" 
+        alt="PG Avatar" 
+        className="h-8 w-8 rounded-lg"
+      />
+      <span className="font-medium">paulgraham.chat</span>
+    </div>
+  )
+
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
     void append({ content: input, role: "user" })
@@ -169,6 +180,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
       )}
       {...props}
     >
+      {topHeader}
       <div className="flex-1 content-center overflow-y-auto px-6">{messages.length ? messageList : header}</div>
       <form
         onSubmit={handleSubmit}
