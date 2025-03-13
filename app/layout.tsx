@@ -8,10 +8,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "PG Chat",
   description: "An AI version of Paul Graham, based on his essays.",
-  icons: {
-    icon: "/thumb.png",
-    apple: "/thumb.png",
-  },
   openGraph: {
     title: "PG Chat",
     description: "An AI version of Paul Graham, based on his essays.",
