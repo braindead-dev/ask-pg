@@ -41,15 +41,36 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
 
   const messageList = (
     <div className="my-4 flex h-fit min-h-full flex-col gap-4">
-      {messages.map((message, index) => (
-        <div
-          key={index}
-          data-role={message.role}
-          className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white"
-        >
-          {message.content}
-        </div>
-      ))}
+      {messages.map((message, index) => {
+        // Split assistant messages by double newlines
+        if (message.role === 'assistant' && typeof message.content === 'string') {
+          const parts = message.content.split('\n\n').filter(part => part.trim() !== '');
+          
+          // If there are multiple parts, render each as a separate message
+          if (parts.length > 1) {
+            return parts.map((part, partIndex) => (
+              <div
+                key={`${index}-${partIndex}`}
+                data-role="assistant"
+                className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+              >
+                {part}
+              </div>
+            ));
+          }
+        }
+        
+        // Default rendering for user messages and assistant messages without splits
+        return (
+          <div
+            key={index}
+            data-role={message.role}
+            className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+          >
+            {message.content}
+          </div>
+        );
+      })}
     </div>
   )
 
