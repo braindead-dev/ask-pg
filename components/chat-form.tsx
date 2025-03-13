@@ -18,7 +18,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
   })
 
   const topHeader = (
-    <div className="flex justify-center items-center gap-2 p-4 border-b border-gray-100">
+    <div className="flex justify-center items-center gap-2 p-4">
       <img 
         src="/pgroid.png" 
         alt="PG Avatar" 
