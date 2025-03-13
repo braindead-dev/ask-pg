@@ -6,9 +6,8 @@ import type { ReactNode } from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "OpenAI and AI SDK Chatbot",
-  description: "A simple chatbot built using the AI SDK and gpt-4o-mini.",
-    generator: 'v0.dev'
+  title: "PG Chat",
+  description: "An AI version of Paul Graham, based on his essays.",
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
