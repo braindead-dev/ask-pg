@@ -8,9 +8,9 @@ const markdownComponents: Components = {
   ),
   strong: ({children}) => <strong className="font-bold">{children}</strong>,
   em: ({children}) => <em className="italic">{children}</em>,
-  ol: ({children}) => <ol className="list-decimal pl-5">{children}</ol>,
-  ul: ({children}) => <ul className="list-disc pl-5">{children}</ul>,
-  li: ({children}) => <li>{children}</li>,
+  ol: ({children}) => <ol className="list-decimal pl-5 my-[-5px]">{children}</ol>,
+  ul: ({children}) => <ul className="list-disc pl-5 my-[-5px]">{children}</ul>,
+  li: ({children}) => <li className="my-[-5px]">{children}</li>,
 }
 
 export function MarkdownContent({ children }: { children: string }) {
