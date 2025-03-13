@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export function Attribution() {
   return (
-    <div className="fixed bottom-4 right-4 z-50">
+    <div>
       <a
         href="https://henr.ee"
         rel="noopener noreferrer"

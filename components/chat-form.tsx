@@ -43,6 +43,9 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
       <p className="text-muted-foreground text-sm">
         Ask me for startup, personal, or any other advice. I'll also reference the essays from which I derive my guidance.
       </p>
+      <div className="md:hidden justify-center flex">
+        <Attribution />
+      </div>
     </header>
   )
 
@@ -125,7 +128,9 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
           <TooltipContent sideOffset={12}>Submit</TooltipContent>
         </Tooltip>
       </form>
-      <Attribution />
+      <div className="fixed bottom-4 right-4 z-50 hidden md:block">
+        <Attribution />
+      </div>
     </main>
   )
 }
