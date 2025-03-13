@@ -8,6 +8,22 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "PG Chat",
   description: "An AI version of Paul Graham, based on his essays.",
+  icons: {
+    icon: "/thumb.png",
+    apple: "/thumb.png",
+  },
+  openGraph: {
+    title: "PG Chat",
+    description: "An AI version of Paul Graham, based on his essays.",
+    images: [{ url: "/thumb.png" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "PG Chat",
+    description: "An AI version of Paul Graham, based on his essays.",
+    images: ["/thumb.png"],
+  },
+  themeColor: "#f26522",
 }
 
 export default function Layout({ children }: { children: ReactNode }) {
@@ -19,7 +35,5 @@ export default function Layout({ children }: { children: ReactNode }) {
     </html>
   )
 }
-
-
 
 import './globals.css'
