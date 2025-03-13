@@ -29,7 +29,13 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
 
   const header = (
     <header className="m-auto flex max-w-96 flex-col gap-5 text-center">
-      <h1 className="text-2xl font-semibold leading-none tracking-tight">Ask PG</h1>
+      <div className="flex flex-col items-center justify-center">
+        <img 
+          src="/pgroid.png" 
+          alt="PG Avatar" 
+          className="h-20 w-20 rounded-lg"
+        />
+      </div>
       <p className="text-muted-foreground text-sm">
         I'm an AI version of <a href="https://www.paulgraham.com/bio.html" className="text-foreground hover:underline">Paul Graham</a>, based on his <a href="https://www.paulgraham.com/articles.html" className="text-foreground hover:underline">essays</a>. 
       </p>
