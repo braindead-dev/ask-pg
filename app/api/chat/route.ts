@@ -39,6 +39,7 @@ export async function POST(req: Request) {
       tools: [{
         type: "file_search",
         vector_store_ids: ["vs_67d14f36d3048191bcbeaaccd6b26340"],
+        max_num_results: 3,
       }],
       stream: true,
       store: true
@@ -58,6 +59,26 @@ export async function POST(req: Request) {
 
         // Process each event in the stream
         for await (const event of responseStream) {
+          if (event.type === 'response.completed') {
+            // Extract and log cited filenames from the response
+            const output = event.response?.output;
+            if (output && Array.isArray(output)) {
+              output.forEach(item => {
+                if (item.type === 'message' && item.content) {
+                  item.content.forEach(content => {
+                    if ('annotations' in content && Array.isArray(content.annotations)) {
+                      content.annotations.forEach(annotation => {
+                        if (annotation.type === 'file_citation' && 'file_id' in annotation) {
+                          console.log('cited:', (annotation as unknown as { filename: string }).filename);
+                        }
+                      });
+                    }
+                  });
+                }
+              });
+            }
+          }
+          
           if (event.type === 'response.output_text.delta' && event.delta) {
             // Send delta as JSON string after the 0: prefix (with quotes)
             // The exact format is 0:"text" not 0:text
