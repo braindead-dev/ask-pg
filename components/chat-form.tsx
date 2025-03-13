@@ -52,7 +52,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
       </div>
       <h1 className="text-2xl font-semibold leading-none tracking-tight">Ask PG</h1>
       <p className="text-muted-foreground text-sm">
-        I'm an AI version of <a href="https://www.paulgraham.com/bio.html" className="text-foreground hover:underline">Paul Graham</a>, based on his <a href="https://www.paulgraham.com/articles.html" className="text-foreground hover:underline">essays</a>. 
+        I'm an AI version of <a href="https://www.paulgraham.com/bio.html" className="text-foreground hover:underline" target="_blank" rel="noopener noreferrer">Paul Graham</a>, based on his <a href="https://www.paulgraham.com/articles.html" className="text-foreground hover:underline" target="_blank" rel="noopener noreferrer">essays</a>. 
       </p>
       <p className="text-muted-foreground text-sm">
         Ask me for startup, personal, or any other advice. I'll also reference the essays from which I derive my guidance.
