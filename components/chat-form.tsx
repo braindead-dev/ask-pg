@@ -11,7 +11,7 @@ import { AutoResizeTextarea } from "@/components/autoresize-textarea"
 import { Attribution } from "@/components/attribution"
 
 export function ChatForm({ className, ...props }: React.ComponentProps<"form">) {
-  const { messages, input, setInput, append } = useChat({
+  const { messages, input, setInput, append, error } = useChat({
     api: "/api/chat",
   })
 
@@ -78,6 +78,21 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
           </div>
         );
       })}
+      {error && (
+        <div
+          data-role="assistant"
+          className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+        >
+          {(() => {
+            try {
+              const parsed = JSON.parse(error.message);
+              return `Error: ${parsed.error}`;
+            } catch {
+              return `Error: ${error.message}`;
+            }
+          })()}
+        </div>
+      )}
     </div>
   )
 

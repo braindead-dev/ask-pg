@@ -120,8 +120,16 @@ export async function POST(req: Request) {
       }
     })
   } catch (error) {
-    console.error('OpenAI API error:', error)
-    return Response.json({ error: 'Failed to generate response' }, { status: 500 })
+    console.error('OpenAI API error:', error);
+    return new Response(
+      JSON.stringify({ 
+        error: error instanceof Error ? error.message : 'An error occurred while generating the response'
+      }), 
+      { 
+        status: 500,
+        headers: { 'Content-Type': 'application/json' }
+      }
+    );
   }
 }
 
