@@ -6,16 +6,16 @@ import type { ReactNode } from "react"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "PG Chat",
+  title: "PG.chat",
   description: "An AI version of Paul Graham, based on his essays.",
   openGraph: {
-    title: "PG Chat",
+    title: "PG.chat",
     description: "An AI version of Paul Graham, based on his essays.",
     images: [{ url: "/thumb.png" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "PG Chat",
+    title: "PG.chat",
     description: "An AI version of Paul Graham, based on his essays.",
     images: ["/thumb.png"],
   },
