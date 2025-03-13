@@ -50,8 +50,16 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
   )
 
   const messageList = (
-    <div className="my-4 flex h-fit min-h-full flex-col gap-4">
+    <div className="my-4 flex h-fit min-h-full flex-col gap-0">
       {messages.map((message, index) => {
+        // Determine if previous message was from same role
+        const prevMessage = index > 0 ? messages[index - 1] : null;
+        const isConsecutive = prevMessage && prevMessage.role === message.role;
+        
+        // Apply normal gap for first message or when role changes, smaller gap for consecutive
+        const gapClass = isConsecutive ? "mt-1" : "mt-4";
+        const isFirstMessage = index === 0;
+        
         // Split assistant messages by double newlines
         if (message.role === 'assistant' && typeof message.content === 'string') {
           // Check for citation format <file1|file2>
@@ -73,7 +81,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
               <div
                 key={`${index}-${partIndex}`}
                 data-role="assistant"
-                className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+                className={`max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap ${partIndex === 0 ? (isFirstMessage ? "" : gapClass) : "mt-1"}`}
               >
                 {part}
               </div>
@@ -104,7 +112,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
               <div
                 key={index}
                 data-role="assistant"
-                className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+                className={`max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap ${isFirstMessage ? "" : gapClass}`}
               >
                 {messageContent}
               </div>
@@ -129,7 +137,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
           <div
             key={index}
             data-role={message.role}
-            className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+            className={`max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap ${isFirstMessage ? "" : gapClass}`}
           >
             {message.content}
           </div>
