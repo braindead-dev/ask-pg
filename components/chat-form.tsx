@@ -8,6 +8,7 @@ import { ArrowUpIcon } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip"
 import { AutoResizeTextarea } from "@/components/autoresize-textarea"
+import { Attribution } from "@/components/attribution"
 
 export function ChatForm({ className, ...props }: React.ComponentProps<"form">) {
   const { messages, input, setInput, append } = useChat({
@@ -109,6 +110,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
           <TooltipContent sideOffset={12}>Submit</TooltipContent>
         </Tooltip>
       </form>
+      <Attribution />
     </main>
   )
 }
