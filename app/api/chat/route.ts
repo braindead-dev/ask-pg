@@ -60,7 +60,8 @@ export async function POST(req: Request) {
         // Process each event in the stream
         for await (const event of responseStream) {
           if (event.type === 'response.completed') {
-            // Extract and log cited filenames from the response
+            // Extract cited filenames from the response
+            const citedFiles: string[] = [];
             const output = event.response?.output;
             if (output && Array.isArray(output)) {
               output.forEach(item => {
@@ -69,7 +70,12 @@ export async function POST(req: Request) {
                     if ('annotations' in content && Array.isArray(content.annotations)) {
                       content.annotations.forEach(annotation => {
                         if (annotation.type === 'file_citation' && 'file_id' in annotation) {
-                          console.log('cited:', (annotation as unknown as { filename: string }).filename);
+                          const filename = (annotation as unknown as { filename: string }).filename;
+                          console.log('cited:', filename);
+                          // Add filename to the list if not already present
+                          if (!citedFiles.includes(filename)) {
+                            citedFiles.push(filename);
+                          }
                         }
                       });
                     }
@@ -77,12 +83,17 @@ export async function POST(req: Request) {
                 }
               });
             }
+            
+            // If we have collected citations, append them to the final delta
+            if (citedFiles.length > 0) {
+              const citationsText = `\n\n<${citedFiles.join('|')}>`;
+              controller.enqueue(encoder.encode(`0:${JSON.stringify(citationsText)}\n`));
+            }
           }
           
           if (event.type === 'response.output_text.delta' && event.delta) {
             // Send delta as JSON string after the 0: prefix (with quotes)
-            // The exact format is 0:"text" not 0:text
-            controller.enqueue(encoder.encode(`0:${JSON.stringify(event.delta)}\n`))
+            controller.enqueue(encoder.encode(`0:${JSON.stringify(event.delta)}\n`));
           }
         }
 

@@ -54,11 +54,22 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
       {messages.map((message, index) => {
         // Split assistant messages by double newlines
         if (message.role === 'assistant' && typeof message.content === 'string') {
-          const parts = message.content.split('\n\n').filter(part => part.trim() !== '');
+          // Check for citation format <file1|file2>
+          const citationMatch = message.content.match(/<([^>]+)>$/);
+          let messageContent = message.content;
+          let citations: string[] = [];
+          
+          if (citationMatch) {
+            // Extract citations and remove them from the displayed message
+            citations = citationMatch[1].split('|');
+            messageContent = message.content.replace(/<([^>]+)>$/, '').trim();
+          }
+          
+          const parts = messageContent.split('\n\n').filter(part => part.trim() !== '');
           
           // If there are multiple parts, render each as a separate message
           if (parts.length > 1) {
-            return parts.map((part, partIndex) => (
+            const messageElements = parts.map((part, partIndex) => (
               <div
                 key={`${index}-${partIndex}`}
                 data-role="assistant"
@@ -67,10 +78,53 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
                 {part}
               </div>
             ));
+            
+            // Add citations after the last message part if they exist
+            if (citations.length > 0) {
+              messageElements.push(
+                <div key={`${index}-citations`} className="flex flex-wrap gap-2 self-start ml-1 mt-1">
+                  {citations.map((citation, citationIndex) => (
+                    <div 
+                      key={`${index}-citation-${citationIndex}`}
+                      className="text-xs px-2 py-1 rounded-md bg-gray-50 text-gray-600 border border-gray-200"
+                    >
+                      {citation}
+                    </div>
+                  ))}
+                </div>
+              );
+            }
+            
+            return messageElements;
           }
+          
+          // Single part message with possible citations
+          return (
+            <>
+              <div
+                key={index}
+                data-role="assistant"
+                className="max-w-[80%] rounded-xl px-3 py-2 text-sm data-[role=assistant]:self-start data-[role=user]:self-end data-[role=assistant]:bg-gray-100 data-[role=user]:bg-blue-500 data-[role=assistant]:text-black data-[role=user]:text-white whitespace-pre-wrap"
+              >
+                {messageContent}
+              </div>
+              {citations.length > 0 && (
+                <div className="flex flex-wrap gap-2 self-start ml-1 mt-1">
+                  {citations.map((citation, citationIndex) => (
+                    <div 
+                      key={`citation-${citationIndex}`}
+                      className="text-xs px-2 py-1 rounded-md bg-gray-50 text-gray-600 border border-gray-200"
+                    >
+                      {citation}
+                    </div>
+                  ))}
+                </div>
+              )}
+            </>
+          );
         }
         
-        // Default rendering for user messages and assistant messages without splits
+        // Default rendering for user messages
         return (
           <div
             key={index}
