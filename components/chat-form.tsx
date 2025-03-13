@@ -50,6 +50,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
           className="h-20 w-20 rounded-lg"
         />
       </div>
+      <h1 className="text-2xl font-semibold leading-none tracking-tight">Ask PG</h1>
       <p className="text-muted-foreground text-sm">
         I'm an AI version of <a href="https://www.paulgraham.com/bio.html" className="text-foreground hover:underline">Paul Graham</a>, based on his <a href="https://www.paulgraham.com/articles.html" className="text-foreground hover:underline">essays</a>. 
       </p>
@@ -180,7 +181,7 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
       )}
       {...props}
     >
-      {topHeader}
+      {messages.length ? topHeader : null}
       <div className="flex-1 content-center overflow-y-auto px-6">{messages.length ? messageList : header}</div>
       <form
         onSubmit={handleSubmit}
