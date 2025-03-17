@@ -1,5 +1,7 @@
-# PG.chat 🤖
-
+<div align="center">
+  <img src="https://paulgraham.chat/pgroid.png" alt="PG Chat Logo" width="200"/>
+  <h1>Chat with AI PG</h1>
+</div>
 An AI-powered chat application that lets you interact with a virtual Paul Graham, trained on his essays. Get insights, advice, and perspectives in PG's characteristic direct and concise style.
 
 ## 🌟 Features
