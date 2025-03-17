@@ -45,14 +45,16 @@ KV_REST_API_READ_ONLY_TOKEN=your_kv_readonly_token_here
 KV_REST_API_URL=your_kv_rest_api_url_here
 ```
 
-4. Run the development server:
+4. Set up the vector store by going to [OpenAI's vector store page](https://platform.openai.com/api-keys) and creating a new vector store, and uploading the essays in /public/essays. Then, get the vector store ID and update the `vectorStoreId` in `config/ai.ts`.
+
+5. Run the development server:
 ```bash
 npm run dev
 # or
 yarn dev
 ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to start chatting!
+6. Open [http://localhost:3000](http://localhost:3000) in your browser to start chatting!
 
 ## 🔧 Configuration
 
@@ -73,6 +75,16 @@ The `config/ai.ts` file contains important settings for the AI chat functionalit
 - `KV_URL`: Vercel KV database URL for storing chat data
 - `KV_REST_API_READ_ONLY_TOKEN`: Read-only token for KV REST API access
 - `KV_REST_API_URL`: URL for the KV REST API endpoint
+
+### Vector Store Setup
+
+Before the application can function properly, you'll need to:
+
+1. Upload Paul Graham's essays to OpenAI's vector storage
+2. Get your vector store ID from OpenAI
+3. Update the `vectorStoreId` in `config/ai.ts` with your vector store ID
+
+Without this setup, the semantic search functionality that helps the AI reference PG's essays will not work.
 
 ## 🛠️ Tech Stack
 
