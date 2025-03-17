@@ -12,7 +12,6 @@ import { Attribution } from "@/components/attribution"
 import { MarkdownContent } from '@/components/markdown-content'
 import { CitationLink } from "@/components/citation-link"
 import { useState } from "react"
-import { useToast } from "@/components/ui/use-toast"
 
 interface ChatFormProps extends React.ComponentProps<"form"> {
   initialMessages?: any[]
@@ -25,13 +24,13 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
     initialMessages
   })
 
-  const [isSharing, setIsSharing] = useState(false)
-  const { toast } = useToast()
+  const [shareTooltip, setShareTooltip] = useState("Share chat")
+  const [tooltipOpen, setTooltipOpen] = useState(false)
 
   const handleShare = async () => {
     if (messages.length === 0) return
     
-    setIsSharing(true)
+    setTooltipOpen(true)
     try {
       // Clean messages to only include essential fields
       const cleanMessages = messages.map(({ role, content }) => ({
@@ -55,19 +54,21 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
       const shareUrl = `${window.location.origin}${url}`
       
       await navigator.clipboard.writeText(shareUrl)
-      toast({
-        title: "Chat link copied!",
-        description: "Share this link with others to view your chat.",
-      })
+      setShareTooltip("Copied!")
+      
+      // Reset tooltip after 2 seconds
+      setTimeout(() => {
+        setTooltipOpen(false)
+        setShareTooltip("Share chat")
+      }, 2000)
     } catch (error) {
-      toast({
-        title: "Error sharing chat",
-        description: "Failed to create share link. Please try again.",
-        variant: "destructive",
-      })
-    } finally {
-      setIsSharing(false)
-    }
+      setShareTooltip("Failed to share")
+      // Reset tooltip after 2 seconds
+      setTimeout(() => {
+        setTooltipOpen(false)
+        setShareTooltip("Share chat")
+      }, 2000)
+    } 
   }
 
   const topHeader = (
@@ -82,7 +83,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
       </div>
       {!isShared && messages.length > 0 && (
         <div className="absolute right-4">
-          <Tooltip>
+          <Tooltip open={tooltipOpen} onOpenChange={setTooltipOpen}>
             <TooltipTrigger asChild>
               <Button
                 variant="ghost"
@@ -93,12 +94,11 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
                   e.stopPropagation()
                   handleShare()
                 }}
-                disabled={isSharing}
               >
-                <Share size={16} className={isSharing ? "animate-pulse" : ""} />
+                <Share size={16} />
               </Button>
             </TooltipTrigger>
-            <TooltipContent>Share chat</TooltipContent>
+            <TooltipContent>{shareTooltip}</TooltipContent>
           </Tooltip>
         </div>
       )}
