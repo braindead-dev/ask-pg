@@ -19,9 +19,12 @@ export async function createSharedChat(messages: Message[]): Promise<SharedChat>
     throw new Error('No messages to share')
   }
 
-  // Generate a random ID (we'll use a timestamp + random string)
-  const id = `${Date.now()}-${Math.random().toString(36).substring(2, 15)}`
-  
+  // Generate a simple ID with lowercase letters, numbers, and hyphens
+  const id = Array.from({ length: 9 }, () => {
+    const chars = 'abcdefghijklmnopqrstuvwxyz0123456789-'
+    return chars.charAt(Math.floor(Math.random() * chars.length))
+  }).join('')
+
   const chat: SharedChat = {
     id,
     messages,

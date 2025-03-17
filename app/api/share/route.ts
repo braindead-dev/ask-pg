@@ -31,7 +31,7 @@ export async function POST(req: Request) {
 
     return NextResponse.json({
       id: chat.id,
-      url: `/chat/${chat.id}`
+      url: `/${chat.id}`
     })
   } catch (error) {
     console.error('Error sharing chat:', error)

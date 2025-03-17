@@ -82,7 +82,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
         <span className="font-medium">paulgraham.chat</span>
       </div>
       {!isShared && messages.length > 0 && (
-        <div className="absolute right-4">
+        <div className="fixed right-4">
           <Tooltip open={tooltipOpen} onOpenChange={setTooltipOpen}>
             <TooltipTrigger asChild>
               <Button
@@ -98,7 +98,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
                 <Share size={16} />
               </Button>
             </TooltipTrigger>
-            <TooltipContent>{shareTooltip}</TooltipContent>
+            <TooltipContent className="mr-3">{shareTooltip}</TooltipContent>
           </Tooltip>
         </div>
       )}
