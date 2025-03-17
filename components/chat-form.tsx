@@ -120,7 +120,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
 
   const header = (
     <header className="m-auto flex max-w-96 flex-col gap-5 text-center">
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center justify-center">
         <img 
           src="/pgroid.png" 
           alt="PG Avatar" 
@@ -253,40 +253,34 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
   return (
     <main
       className={cn(
-        "ring-none mx-auto flex h-svh max-h-svh w-full flex-col items-stretch border-none",
+        "ring-none mx-auto flex h-svh max-h-svh w-full max-w-[35rem] flex-col items-stretch border-none",
         className,
       )}
       {...props}
     >
       {topHeader}
-      <div className="flex-1 overflow-y-auto">
-        <div className="mx-auto max-w-[35rem] px-6 h-full flex items-center mt-[-25px]">
-          {messages.length ? messageList : header}
-        </div>
-      </div>
+      <div className="flex-1 content-center overflow-y-auto px-6">{messages.length ? messageList : header}</div>
       {!isShared && (
-        <div className="mx-6">
-          <form
-            onSubmit={handleSubmit}
-            className="border-input bg-background focus-within:ring-ring/10 relative mx-auto mb-6 flex w-full items-center rounded-[16px] border px-3 py-1.5 pr-8 text-sm focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-0 max-w-[35rem]"
-          >
-            <AutoResizeTextarea
-              onKeyDown={handleKeyDown}
-              onChange={(v) => setInput(v)}
-              value={input}
-              placeholder="Enter a message"
-              className="placeholder:text-muted-foreground flex-1 bg-transparent focus:outline-none"
-            />
-            <Tooltip>
-              <TooltipTrigger asChild>
-                <Button variant="ghost" size="sm" className="absolute bottom-1 right-1 size-6 rounded-full">
-                  <ArrowUpIcon size={16} />
-                </Button>
-              </TooltipTrigger>
-              <TooltipContent sideOffset={12}>Submit</TooltipContent>
-            </Tooltip>
-          </form>
-        </div>
+        <form
+          onSubmit={handleSubmit}
+          className="border-input bg-background focus-within:ring-ring/10 relative mx-6 mb-6 flex items-center rounded-[16px] border px-3 py-1.5 pr-8 text-sm focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-0"
+        >
+          <AutoResizeTextarea
+            onKeyDown={handleKeyDown}
+            onChange={(v) => setInput(v)}
+            value={input}
+            placeholder="Enter a message"
+            className="placeholder:text-muted-foreground flex-1 bg-transparent focus:outline-none"
+          />
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button variant="ghost" size="sm" className="absolute bottom-1 right-1 size-6 rounded-full">
+                <ArrowUpIcon size={16} />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent sideOffset={12}>Submit</TooltipContent>
+          </Tooltip>
+        </form>
       )}
       <div className="fixed bottom-4 right-4 z-50 hidden md:block">
         <Attribution />
