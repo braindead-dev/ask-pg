@@ -79,7 +79,6 @@ The `config/ai.ts` file contains important settings for the AI chat functionalit
 - [OpenAI API](https://openai.com/) - AI model integration
 - [Vercel KV](https://vercel.com/storage/kv) - Key-value storage
 - [Radix UI](https://www.radix-ui.com/) - Headless UI components
-- [Framer Motion](https://www.framer.com/motion/) - Animations
 
 ## 📝 License
 
