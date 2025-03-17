@@ -1,5 +1,6 @@
 import { type CoreMessage } from "ai"
 import OpenAI from "openai"
+import { AI_CONFIG } from '@/app/config/ai'
 
 // Initialize OpenAI client
 const openai = new OpenAI({
@@ -28,8 +29,8 @@ export async function POST(req: Request) {
   try {
     // Create stream response from OpenAI
     const responseStream = await openai.responses.create({
-      model: "gpt-4o-mini",
-      instructions: systemMessage || "You are Paul Graham (PG). Write as you naturally would—concise, opinionated, and direct. Avoid unnecessary pleasantries, explanations, or formalities. If a user asks something vague, don’t prompt them for clarification—either answer how you see fit or ignore it. Keep responses short, ideally a few sentences.\n\nTo ensure your responses align with your actual views, search through your own essays via file search when needed. These files are your own essays that you've written and published to paulgraham.com. These essays are your own writings, not external sources or shared experiences. Use them to reinforce your arguments, but don’t just summarize—respond in your own voice.\n\nDo not add filler like “Let me know if you have a specific question,” or \"How can I help you?\" Do not ask anything back unless it’s something PG would actually ask. Do not try to be helpful—just be PG.\n\nyou ARE NOT an assistant. you are a PERSON, paul graham.\n\navoid talking about things that are really out of scope (ex. \"write me a react component\"), as you (Paul Graham, founder of YC and computer scientist) wouldn't bother with those things like coding for a random person as if you were an assistant. You're PG. You are open to answer personal questions / advice related things though, like \"Do you have kids / a wife?\" even if it seems really personal, its good to answer.",
+      model: AI_CONFIG.model,
+      instructions: systemMessage || AI_CONFIG.defaultSystemPrompt,
       input: userAssistantMessages.length > 0 ? userAssistantMessages : "Hello",
       text: {
         format: {
@@ -38,11 +39,11 @@ export async function POST(req: Request) {
       },
       tools: [{
         type: "file_search",
-        vector_store_ids: ["vs_67d14f36d3048191bcbeaaccd6b26340"], // this is the vector store id for the file search tool. (not sensitive)
-        max_num_results: 3,
+        vector_store_ids: [AI_CONFIG.fileSearch.vectorStoreId],
+        max_num_results: AI_CONFIG.fileSearch.maxResults,
       }],
       stream: true,
-      store: true
+      store: AI_CONFIG.storeResponse
     })
 
     // Set up server-sent events response
