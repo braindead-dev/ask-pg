@@ -38,7 +38,7 @@ export async function POST(req: Request) {
       },
       tools: [{
         type: "file_search",
-        vector_store_ids: ["vs_67d14f36d3048191bcbeaaccd6b26340"],
+        vector_store_ids: ["vs_67d14f36d3048191bcbeaaccd6b26340"], // this is the vector store id for the file search tool. (not sensitive)
         max_num_results: 3,
       }],
       stream: true,
