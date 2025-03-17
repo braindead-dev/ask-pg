@@ -4,27 +4,104 @@ import { cn } from "@/lib/utils"
 
 import { useChat } from "ai/react"
 
-import { ArrowUpIcon } from "lucide-react"
+import { ArrowUpIcon, Share } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip"
 import { AutoResizeTextarea } from "@/components/autoresize-textarea"
 import { Attribution } from "@/components/attribution"
 import { MarkdownContent } from '@/components/markdown-content'
 import { CitationLink } from "@/components/citation-link"
+import { useState } from "react"
+import { useToast } from "@/components/ui/use-toast"
 
-export function ChatForm({ className, ...props }: React.ComponentProps<"form">) {
+interface ChatFormProps extends React.ComponentProps<"form"> {
+  initialMessages?: any[]
+  isShared?: boolean
+}
+
+export function ChatForm({ className, initialMessages, isShared, ...props }: ChatFormProps) {
   const { messages, input, setInput, append, error } = useChat({
     api: "/api/chat",
+    initialMessages
   })
 
+  const [isSharing, setIsSharing] = useState(false)
+  const { toast } = useToast()
+
+  const handleShare = async () => {
+    if (messages.length === 0) return
+    
+    setIsSharing(true)
+    try {
+      // Clean messages to only include essential fields
+      const cleanMessages = messages.map(({ role, content }) => ({
+        role,
+        content
+      }))
+
+      const response = await fetch('/api/share', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ messages: cleanMessages }),
+      })
+
+      if (!response.ok) {
+        throw new Error('Failed to share chat')
+      }
+
+      const { url } = await response.json()
+      const shareUrl = `${window.location.origin}${url}`
+      
+      await navigator.clipboard.writeText(shareUrl)
+      toast({
+        title: "Chat link copied!",
+        description: "Share this link with others to view your chat.",
+      })
+    } catch (error) {
+      toast({
+        title: "Error sharing chat",
+        description: "Failed to create share link. Please try again.",
+        variant: "destructive",
+      })
+    } finally {
+      setIsSharing(false)
+    }
+  }
+
   const topHeader = (
-    <div className="flex justify-center items-center gap-2 p-4">
-      <img 
-        src="/pgroid.png" 
-        alt="PG Avatar" 
-        className="h-8 w-8 rounded-lg"
-      />
-      <span className="font-medium">paulgraham.chat</span>
+    <div className="relative flex justify-center items-center p-4">
+      <div className="flex items-center gap-2">
+        <img 
+          src="/pgroid.png" 
+          alt="PG Avatar" 
+          className="h-8 w-8 rounded-lg"
+        />
+        <span className="font-medium">paulgraham.chat</span>
+      </div>
+      {!isShared && messages.length > 0 && (
+        <div className="absolute right-4">
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button
+                variant="ghost"
+                size="sm"
+                className="size-8 p-0"
+                onClick={(e) => {
+                  e.preventDefault()
+                  e.stopPropagation()
+                  handleShare()
+                }}
+                disabled={isSharing}
+              >
+                <Share size={16} className={isSharing ? "animate-pulse" : ""} />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent>Share chat</TooltipContent>
+          </Tooltip>
+        </div>
+      )}
     </div>
   )
 
@@ -181,28 +258,30 @@ export function ChatForm({ className, ...props }: React.ComponentProps<"form">) 
       )}
       {...props}
     >
-      {messages.length ? topHeader : null}
+      {topHeader}
       <div className="flex-1 content-center overflow-y-auto px-6">{messages.length ? messageList : header}</div>
-      <form
-        onSubmit={handleSubmit}
-        className="border-input bg-background focus-within:ring-ring/10 relative mx-6 mb-6 flex items-center rounded-[16px] border px-3 py-1.5 pr-8 text-sm focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-0"
-      >
-        <AutoResizeTextarea
-          onKeyDown={handleKeyDown}
-          onChange={(v) => setInput(v)}
-          value={input}
-          placeholder="Enter a message"
-          className="placeholder:text-muted-foreground flex-1 bg-transparent focus:outline-none"
-        />
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <Button variant="ghost" size="sm" className="absolute bottom-1 right-1 size-6 rounded-full">
-              <ArrowUpIcon size={16} />
-            </Button>
-          </TooltipTrigger>
-          <TooltipContent sideOffset={12}>Submit</TooltipContent>
-        </Tooltip>
-      </form>
+      {!isShared && (
+        <form
+          onSubmit={handleSubmit}
+          className="border-input bg-background focus-within:ring-ring/10 relative mx-6 mb-6 flex items-center rounded-[16px] border px-3 py-1.5 pr-8 text-sm focus-within:outline-none focus-within:ring-2 focus-within:ring-offset-0"
+        >
+          <AutoResizeTextarea
+            onKeyDown={handleKeyDown}
+            onChange={(v) => setInput(v)}
+            value={input}
+            placeholder="Enter a message"
+            className="placeholder:text-muted-foreground flex-1 bg-transparent focus:outline-none"
+          />
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <Button variant="ghost" size="sm" className="absolute bottom-1 right-1 size-6 rounded-full">
+                <ArrowUpIcon size={16} />
+              </Button>
+            </TooltipTrigger>
+            <TooltipContent sideOffset={12}>Submit</TooltipContent>
+          </Tooltip>
+        </form>
+      )}
       <div className="fixed bottom-4 right-4 z-50 hidden md:block">
         <Attribution />
       </div>
