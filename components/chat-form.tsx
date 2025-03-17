@@ -141,7 +141,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
   )
 
   const messageList = (
-    <div className="my-4 flex h-fit min-h-full flex-col gap-0">
+    <div className="my-4 flex h-fit min-h-full flex-col gap-0 pb-20">
       {messages.map((message, index) => {
         // Determine if previous message was from same role
         const prevMessage = index > 0 ? messages[index - 1] : null;
