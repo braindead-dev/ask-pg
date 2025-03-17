@@ -1,84 +1,89 @@
-"use client"
+"use client";
 
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 
-import { useChat } from "ai/react"
+import { useChat } from "ai/react";
 
-import { ArrowUpIcon, Share } from "lucide-react"
-import { Button } from "@/components/ui/button"
-import { Tooltip, TooltipContent, TooltipTrigger } from "@/components/ui/tooltip"
-import { AutoResizeTextarea } from "@/components/autoresize-textarea"
-import { Attribution } from "@/components/attribution"
-import { MarkdownContent } from '@/components/markdown-content'
-import { CitationLink } from "@/components/citation-link"
-import { useState } from "react"
+import { ArrowUpIcon, Share } from "lucide-react";
+import { Button } from "@/components/ui/button";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
+import { AutoResizeTextarea } from "@/components/autoresize-textarea";
+import { Attribution } from "@/components/attribution";
+import { MarkdownContent } from "@/components/markdown-content";
+import { CitationLink } from "@/components/citation-link";
+import { useState } from "react";
 
 interface ChatFormProps extends React.ComponentProps<"form"> {
-  initialMessages?: any[]
-  isShared?: boolean
+  initialMessages?: any[];
+  isShared?: boolean;
 }
 
-export function ChatForm({ className, initialMessages, isShared, ...props }: ChatFormProps) {
+export function ChatForm({
+  className,
+  initialMessages,
+  isShared,
+  ...props
+}: ChatFormProps) {
   const { messages, input, setInput, append, error } = useChat({
     api: "/api/chat",
-    initialMessages
-  })
+    initialMessages,
+  });
 
-  const [shareTooltip, setShareTooltip] = useState("Share chat")
-  const [tooltipOpen, setTooltipOpen] = useState(false)
+  const [shareTooltip, setShareTooltip] = useState("Share chat");
+  const [tooltipOpen, setTooltipOpen] = useState(false);
 
   const handleShare = async () => {
-    if (messages.length === 0) return
-    
-    setTooltipOpen(true)
+    if (messages.length === 0) return;
+
+    setTooltipOpen(true);
     try {
       // Clean messages to only include essential fields
       const cleanMessages = messages.map(({ role, content }) => ({
         role,
-        content
-      }))
+        content,
+      }));
 
-      const response = await fetch('/api/share', {
-        method: 'POST',
+      const response = await fetch("/api/share", {
+        method: "POST",
         headers: {
-          'Content-Type': 'application/json',
+          "Content-Type": "application/json",
         },
         body: JSON.stringify({ messages: cleanMessages }),
-      })
+      });
 
       if (!response.ok) {
-        throw new Error('Failed to share chat')
+        throw new Error("Failed to share chat");
       }
 
-      const { url } = await response.json()
-      const shareUrl = `${window.location.origin}${url}`
-      
-      await navigator.clipboard.writeText(shareUrl)
-      setShareTooltip("Copied!")
-      
+      const { url } = await response.json();
+      const shareUrl = `${window.location.origin}${url}`;
+
+      await navigator.clipboard.writeText(shareUrl);
+      setShareTooltip("Copied!");
+
       // Reset tooltip after 2 seconds
       setTimeout(() => {
-        setTooltipOpen(false)
-        setShareTooltip("Share chat")
-      }, 2000)
+        setTooltipOpen(false);
+        setShareTooltip("Share chat");
+      }, 2000);
     } catch (error) {
-      setShareTooltip("Failed to share")
+      setShareTooltip("Failed to share");
       // Reset tooltip after 2 seconds
       setTimeout(() => {
-        setTooltipOpen(false)
-        setShareTooltip("Share chat")
-      }, 2000)
-    } 
-  }
+        setTooltipOpen(false);
+        setShareTooltip("Share chat");
+      }, 2000);
+    }
+  };
 
   const topHeader = (
     <div className="relative flex justify-center items-center p-4">
       <div className="flex items-center gap-2">
-        <img 
-          src="/pgroid.png" 
-          alt="PG Avatar" 
-          className="h-8 w-8 rounded-lg"
-        />
+        <img src="/pgroid.png" alt="PG Avatar" className="h-8 w-8 rounded-lg" />
         <span className="font-medium">paulgraham.chat</span>
       </div>
       {!isShared && messages.length > 0 && (
@@ -90,9 +95,9 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
                 size="sm"
                 className="size-8 p-0"
                 onClick={(e) => {
-                  e.preventDefault()
-                  e.stopPropagation()
-                  handleShare()
+                  e.preventDefault();
+                  e.stopPropagation();
+                  handleShare();
                 }}
               >
                 <Share size={16} />
@@ -103,42 +108,63 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
         </div>
       )}
     </div>
-  )
+  );
 
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault()
-    void append({ content: input, role: "user" })
-    setInput("")
-  }
+    e.preventDefault();
+    void append({ content: input, role: "user" });
+    setInput("");
+  };
 
   const handleKeyDown = (e: React.KeyboardEvent<HTMLTextAreaElement>) => {
     if (e.key === "Enter" && !e.shiftKey) {
-      e.preventDefault()
-      handleSubmit(e as unknown as React.FormEvent<HTMLFormElement>)
+      e.preventDefault();
+      handleSubmit(e as unknown as React.FormEvent<HTMLFormElement>);
     }
-  }
+  };
 
   const header = (
     <header className="m-auto flex max-w-96 flex-col gap-5 text-center">
       <div className="flex flex-col items-center justify-center">
-        <img 
-          src="/pgroid.png" 
-          alt="PG Avatar" 
+        <img
+          src="/pgroid.png"
+          alt="PG Avatar"
           className="h-20 w-20 rounded-lg"
         />
       </div>
-      <h1 className="text-2xl font-semibold leading-none tracking-tight">Ask PG</h1>
+      <h1 className="text-2xl font-semibold leading-none tracking-tight">
+        Ask PG
+      </h1>
       <p className="text-muted-foreground text-sm">
-        I'm an AI version of <a href="https://www.paulgraham.com/bio.html" className="text-foreground hover:underline" target="_blank" rel="noopener noreferrer">Paul Graham</a>, based on his <a href="https://www.paulgraham.com/articles.html" className="text-foreground hover:underline" target="_blank" rel="noopener noreferrer">essays</a>. 
+        I'm an AI version of{" "}
+        <a
+          href="https://www.paulgraham.com/bio.html"
+          className="text-foreground hover:underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Paul Graham
+        </a>
+        , based on his{" "}
+        <a
+          href="https://www.paulgraham.com/articles.html"
+          className="text-foreground hover:underline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          essays
+        </a>
+        .
       </p>
       <p className="text-muted-foreground text-sm">
-        Ask me for startup, personal, or any other advice. I'll also reference the essays from which I derive my guidance.
+        Ask me for startup, personal, or any other advice. I'll also reference
+        the essays from which I derive my guidance.
       </p>
       <div className="md:hidden justify-center flex">
         <Attribution />
       </div>
     </header>
-  )
+  );
 
   const messageList = (
     <div className="my-4 flex h-fit min-h-full flex-col gap-0 pb-20">
@@ -146,26 +172,31 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
         // Determine if previous message was from same role
         const prevMessage = index > 0 ? messages[index - 1] : null;
         const isConsecutive = prevMessage && prevMessage.role === message.role;
-        
+
         // Apply normal gap for first message or when role changes, smaller gap for consecutive
         const gapClass = isConsecutive ? "mt-1" : "mt-4";
         const isFirstMessage = index === 0;
-        
+
         // Split assistant messages by double newlines
-        if (message.role === 'assistant' && typeof message.content === 'string') {
+        if (
+          message.role === "assistant" &&
+          typeof message.content === "string"
+        ) {
           // Check for citation format <file1|file2>
           const citationMatch = message.content.match(/<([^>]+)>$/);
           let messageContent = message.content;
           let citations: string[] = [];
-          
+
           if (citationMatch) {
             // Extract citations and remove them from the displayed message
-            citations = citationMatch[1].split('|');
-            messageContent = message.content.replace(/<([^>]+)>$/, '').trim();
+            citations = citationMatch[1].split("|");
+            messageContent = message.content.replace(/<([^>]+)>$/, "").trim();
           }
-          
-          const parts = messageContent.split('\n\n').filter(part => part.trim() !== '');
-          
+
+          const parts = messageContent
+            .split("\n\n")
+            .filter((part) => part.trim() !== "");
+
           // If there are multiple parts, render each as a separate message
           if (parts.length > 1) {
             const messageElements = parts.map((part, partIndex) => (
@@ -177,25 +208,31 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
                 <MarkdownContent>{part}</MarkdownContent>
               </div>
             ));
-            
+
             // Add citations after the last message part if they exist
             if (citations.length > 0) {
               messageElements.push(
-                <div key={`${index}-citations`} className="flex flex-wrap gap-2 self-start ml-1 mt-1">
+                <div
+                  key={`${index}-citations`}
+                  className="flex flex-wrap gap-2 self-start ml-1 mt-1"
+                >
                   {citations.map((citation, citationIndex) => {
                     // Remove .txt extension if present
-                    const essayName = citation.replace(/\.txt$/, '');
+                    const essayName = citation.replace(/\.txt$/, "");
                     return (
-                      <CitationLink key={`${index}-citation-${citationIndex}`} essayName={essayName} />
+                      <CitationLink
+                        key={`${index}-citation-${citationIndex}`}
+                        essayName={essayName}
+                      />
                     );
                   })}
-                </div>
+                </div>,
               );
             }
-            
+
             return messageElements;
           }
-          
+
           // Single part message with possible citations
           return (
             <>
@@ -210,9 +247,12 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
                 <div className="flex flex-wrap gap-2 self-start ml-1 mt-1">
                   {citations.map((citation, citationIndex) => {
                     // Remove .txt extension if present
-                    const essayName = citation.replace(/\.txt$/, '');
+                    const essayName = citation.replace(/\.txt$/, "");
                     return (
-                      <CitationLink key={`${index}-citation-${citationIndex}`} essayName={essayName} />
+                      <CitationLink
+                        key={`${index}-citation-${citationIndex}`}
+                        essayName={essayName}
+                      />
                     );
                   })}
                 </div>
@@ -220,7 +260,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
             </>
           );
         }
-        
+
         // Default rendering for user messages
         return (
           <div
@@ -248,7 +288,7 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
         </div>
       )}
     </div>
-  )
+  );
 
   return (
     <main
@@ -258,14 +298,14 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
       )}
       {...props}
     >
-      <div className="mx-auto w-full max-w-[35rem]">
-        {topHeader}
-      </div>
+      <div className="mx-auto w-full max-w-[35rem]">{topHeader}</div>
       <div className="flex-1 overflow-y-auto">
-        <div className={cn(
-          "mx-auto w-full max-w-[35rem] px-6",
-          !messages.length && "flex h-full items-center mt-[-25px]"
-        )}>
+        <div
+          className={cn(
+            "mx-auto w-full max-w-[35rem] px-6",
+            !messages.length && "flex h-full items-center mt-[-25px]",
+          )}
+        >
           {messages.length ? messageList : header}
         </div>
       </div>
@@ -284,7 +324,11 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
             />
             <Tooltip>
               <TooltipTrigger asChild>
-                <Button variant="ghost" size="sm" className="absolute bottom-1 right-1 size-6 rounded-full">
+                <Button
+                  variant="ghost"
+                  size="sm"
+                  className="absolute bottom-1 right-1 size-6 rounded-full"
+                >
                   <ArrowUpIcon size={16} />
                 </Button>
               </TooltipTrigger>
@@ -297,6 +341,5 @@ export function ChatForm({ className, initialMessages, isShared, ...props }: Cha
         <Attribution />
       </div>
     </main>
-  )
+  );
 }
-

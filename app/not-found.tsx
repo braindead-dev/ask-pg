@@ -1,5 +1,4 @@
-import { Attribution } from "@/components/attribution"
-
+import { Attribution } from "@/components/attribution";
 
 export default function Page() {
   return (
@@ -7,21 +6,24 @@ export default function Page() {
       <div className="flex-1 flex flex-col items-center justify-center">
         <div className="flex items-start gap-4">
           {/* PG Avatar */}
-          <img 
-            src="/pgroid.png" 
-            alt="PG Avatar" 
+          <img
+            src="/pgroid.png"
+            alt="PG Avatar"
             className="h-12 w-12 rounded-lg"
           />
-          
+
           {/* Message bubble styled like the chat UI */}
           <div className="flex flex-col gap-3">
-            <div 
+            <div
               data-role="assistant"
               className="max-w-[80%] rounded-xl px-4 py-3 text-sm bg-gray-100 text-black"
             >
-              Looks like you&apos;ve strayed from the path. But don&apos;t worry—exploration is where curiosity lives. Use this moment to ask &quot;why&quot; and &quot;what else.&quot; What unexpected corners might you discover next?
+              Looks like you&apos;ve strayed from the path. But don&apos;t
+              worry—exploration is where curiosity lives. Use this moment to ask
+              &quot;why&quot; and &quot;what else.&quot; What unexpected corners
+              might you discover next?
             </div>
-            
+
             <a
               href="/"
               className="text-neutral-600 dark:text-neutral-300 text-sm flex items-center
@@ -47,5 +49,5 @@ export default function Page() {
         <Attribution />
       </div>
     </main>
-  )
+  );
 }

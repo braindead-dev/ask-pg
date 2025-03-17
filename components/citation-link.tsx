@@ -19,5 +19,5 @@ export function CitationLink({ essayName }: { essayName: string }) {
     >
       {essayName}
     </a>
-  )
-} 
+  );
+}

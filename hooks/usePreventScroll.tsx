@@ -1,6 +1,6 @@
 // This code comes from https://github.com/adobe/react-spectrum/blob/main/packages/%40react-aria/overlays/src/usePreventScroll.ts
 
-import { useEffect, useLayoutEffect } from 'react';
+import { useEffect, useLayoutEffect } from "react";
 
 function isMac(): boolean | undefined {
   return testPlatform(/^Mac/);
@@ -23,7 +23,7 @@ function isIOS(): boolean | undefined {
 }
 
 function testPlatform(re: RegExp): boolean | undefined {
-  return typeof window !== 'undefined' && window.navigator != null
+  return typeof window !== "undefined" && window.navigator != null
     ? re.test(window.navigator.platform)
     : undefined;
 }
@@ -31,7 +31,7 @@ function testPlatform(re: RegExp): boolean | undefined {
 const KEYBOARD_BUFFER = 24;
 
 export const useIsomorphicLayoutEffect =
-  typeof window !== 'undefined' ? useLayoutEffect : useEffect;
+  typeof window !== "undefined" ? useLayoutEffect : useEffect;
 
 interface PreventScrollOptions {
   /** Whether the scroll lock is disabled. */
@@ -42,7 +42,7 @@ interface PreventScrollOptions {
 function chain(...callbacks: any[]): (...args: any[]) => void {
   return (...args: any[]) => {
     for (let callback of callbacks) {
-      if (typeof callback === 'function') {
+      if (typeof callback === "function") {
         callback(...args);
       }
     }
@@ -50,12 +50,12 @@ function chain(...callbacks: any[]): (...args: any[]) => void {
 }
 
 // @ts-ignore
-const visualViewport = typeof document !== 'undefined' && window.visualViewport;
+const visualViewport = typeof document !== "undefined" && window.visualViewport;
 
 export function isScrollable(node: Element): boolean {
   let style = window.getComputedStyle(node);
   return /(auto|scroll)/.test(
-    style.overflow + style.overflowX + style.overflowY
+    style.overflow + style.overflowX + style.overflowY,
   );
 }
 
@@ -73,15 +73,15 @@ export function getScrollParent(node: Element): Element {
 
 // HTML input types that do not cause the software keyboard to appear.
 const nonTextInputTypes = new Set([
-  'checkbox',
-  'radio',
-  'range',
-  'color',
-  'file',
-  'image',
-  'button',
-  'submit',
-  'reset',
+  "checkbox",
+  "radio",
+  "range",
+  "color",
+  "file",
+  "image",
+  "button",
+  "submit",
+  "reset",
 ]);
 
 // The number of active usePreventScroll calls. Used to determine whether to revert back to the original page style/scroll position
@@ -199,10 +199,10 @@ function preventScrollMobileSafari() {
       // Apply a transform to trick Safari into thinking the input is at the top of the page
       // so it doesn't try to scroll it into view. When tapping on an input, this needs to
       // be done before the "focus" event, so we have to focus the element ourselves.
-      target.style.transform = 'translateY(-2000px)';
+      target.style.transform = "translateY(-2000px)";
       target.focus();
       requestAnimationFrame(() => {
-        target.style.transform = '';
+        target.style.transform = "";
       });
     }
   };
@@ -214,9 +214,9 @@ function preventScrollMobileSafari() {
       // other than tapping on an input directly, e.g. the next/previous buttons in the
       // software keyboard. In these cases, it seems applying the transform in the focus event
       // is good enough, whereas when tapping an input, it must be done before the focus event. 🤷‍♂️
-      target.style.transform = 'translateY(-2000px)';
+      target.style.transform = "translateY(-2000px)";
       requestAnimationFrame(() => {
-        target.style.transform = '';
+        target.style.transform = "";
 
         // This will have prevented the browser from scrolling the focused element into view,
         // so we need to do this ourselves in a way that doesn't cause the whole page to scroll.
@@ -231,9 +231,9 @@ function preventScrollMobileSafari() {
             // Otherwise, wait for the visual viewport to resize before scrolling so we can
             // measure the correct position to scroll to.
             visualViewport.addEventListener(
-              'resize',
+              "resize",
               () => scrollIntoView(target),
-              { once: true }
+              { once: true },
             );
           }
         }
@@ -256,9 +256,9 @@ function preventScrollMobileSafari() {
   let restoreStyles = chain(
     setStyle(
       document.documentElement,
-      'paddingRight',
-      `${window.innerWidth - document.documentElement.clientWidth}px`
-    )
+      "paddingRight",
+      `${window.innerWidth - document.documentElement.clientWidth}px`,
+    ),
     // setStyle(document.documentElement, 'overflow', 'hidden'),
     // setStyle(document.body, 'marginTop', `-${scrollY}px`),
   );
@@ -267,20 +267,20 @@ function preventScrollMobileSafari() {
   window.scrollTo(0, 0);
 
   let removeEvents = chain(
-    addEvent(document, 'touchstart', onTouchStart, {
+    addEvent(document, "touchstart", onTouchStart, {
       passive: false,
       capture: true,
     }),
-    addEvent(document, 'touchmove', onTouchMove, {
+    addEvent(document, "touchmove", onTouchMove, {
       passive: false,
       capture: true,
     }),
-    addEvent(document, 'touchend', onTouchEnd, {
+    addEvent(document, "touchend", onTouchEnd, {
       passive: false,
       capture: true,
     }),
-    addEvent(document, 'focus', onFocus, true),
-    addEvent(window, 'scroll', onWindowScroll)
+    addEvent(document, "focus", onFocus, true),
+    addEvent(window, "scroll", onWindowScroll),
   );
 
   return () => {
@@ -295,7 +295,7 @@ function preventScrollMobileSafari() {
 function setStyle(
   element: HTMLElement,
   style: keyof React.CSSProperties,
-  value: string
+  value: string,
 ) {
   // https://github.com/microsoft/TypeScript/issues/17827#issuecomment-391663310
   // @ts-ignore
@@ -314,7 +314,7 @@ function addEvent<K extends keyof GlobalEventHandlersEventMap>(
   target: EventTarget,
   event: K,
   handler: (this: Document, ev: GlobalEventHandlersEventMap[K]) => any,
-  options?: boolean | AddEventListenerOptions
+  options?: boolean | AddEventListenerOptions,
 ) {
   // @ts-ignore
   target.addEventListener(event, handler, options);

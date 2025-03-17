@@ -25,12 +25,14 @@ An AI-powered chat application that lets you interact with a virtual Paul Graham
 ### Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/ask-pg.git
 cd ask-pg
 ```
 
 2. Install dependencies:
+
 ```bash
 npm install
 # or
@@ -38,6 +40,7 @@ yarn install
 ```
 
 3. Set up environment variables by creating a `.env` file in the root directory:
+
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
 KV_URL=your_vercel_kv_url_here
@@ -48,6 +51,7 @@ KV_REST_API_URL=your_kv_rest_api_url_here
 4. Set up the vector store by going to [OpenAI's vector store page](https://platform.openai.com/api-keys) and creating a new vector store, and uploading the essays in /public/essays. Then, get the vector store ID and update the `vectorStoreId` in `config/ai.ts`.
 
 5. Run the development server:
+
 ```bash
 npm run dev
 # or
@@ -110,4 +114,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## ⭐️ Support
 
-If you find this project helpful, please consider giving it a star on GitHub! 
+If you find this project helpful, please consider giving it a star on GitHub!
