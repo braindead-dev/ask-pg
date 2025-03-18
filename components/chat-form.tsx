@@ -339,7 +339,12 @@ export function ChatForm({
         <Attribution />
       </div>
 
-      <Dialog open={showShareDialog} onOpenChange={setShowShareDialog}>
+      <Dialog open={showShareDialog} onOpenChange={(open) => {
+        setShowShareDialog(open);
+        if (!open) {
+          setShareUrl(null);
+        }
+      }}>
         <DialogContent className="max-w-sm">
           <DialogHeader>
             <DialogTitle>Share public link to chat</DialogTitle>
@@ -351,7 +356,7 @@ export function ChatForm({
                 readOnly
                 value={isGeneratingLink ? "Generating..." : (shareUrl || "")}
                 placeholder="https://paulgraham.chat/..."
-                className="flex-1 rounded-full px-3 py-2 text-sm text-neutral-900 placeholder:text-neutral-400 focus:outline-none"
+                className={`flex-1 rounded-full px-3 py-2 text-sm focus:outline-none ${isGeneratingLink ? 'text-neutral-400' : 'text-neutral-900'} placeholder:text-neutral-400`}
               />
               {shareUrl ? (
                 <Button
