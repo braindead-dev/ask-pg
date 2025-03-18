@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 
 import { useChat } from "ai/react";
 
-import { ArrowUpIcon, Share } from "lucide-react";
+import { ArrowUpIcon, Share, Copy} from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   Tooltip,
@@ -16,6 +16,12 @@ import { Attribution } from "@/components/attribution";
 import { MarkdownContent } from "@/components/markdown-content";
 import { CitationLink } from "@/components/citation-link";
 import { useState } from "react";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+} from "@/components/ui/dialog";
 
 interface ChatFormProps extends React.ComponentProps<"form"> {
   initialMessages?: any[];
@@ -33,13 +39,19 @@ export function ChatForm({
     initialMessages,
   });
 
-  const [shareTooltip, setShareTooltip] = useState("Share chat");
-  const [tooltipOpen, setTooltipOpen] = useState(false);
+  const [shareUrl, setShareUrl] = useState<string | null>(null);
+  const [isGeneratingLink, setIsGeneratingLink] = useState(false);
+  const [showShareDialog, setShowShareDialog] = useState(false);
 
   const handleShare = async () => {
     if (messages.length === 0) return;
+    setShowShareDialog(true);
+  };
 
-    setTooltipOpen(true);
+  const handleCreateLink = async () => {
+    if (messages.length === 0) return;
+    setIsGeneratingLink(true);
+
     try {
       // Clean messages to only include essential fields
       const cleanMessages = messages.map(({ role, content }) => ({
@@ -60,23 +72,13 @@ export function ChatForm({
       }
 
       const { url } = await response.json();
-      const shareUrl = `${window.location.origin}${url}`;
-
-      await navigator.clipboard.writeText(shareUrl);
-      setShareTooltip("Copied!");
-
-      // Reset tooltip after 2 seconds
-      setTimeout(() => {
-        setTooltipOpen(false);
-        setShareTooltip("Share chat");
-      }, 2000);
+      const fullShareUrl = `${window.location.origin}${url}`;
+      setShareUrl(fullShareUrl);
+      await navigator.clipboard.writeText(fullShareUrl);
     } catch (error) {
-      setShareTooltip("Failed to share");
-      // Reset tooltip after 2 seconds
-      setTimeout(() => {
-        setTooltipOpen(false);
-        setShareTooltip("Share chat");
-      }, 2000);
+      console.error("Failed to generate share link:", error);
+    } finally {
+      setIsGeneratingLink(false);
     }
   };
 
@@ -88,24 +90,19 @@ export function ChatForm({
       </div>
       {!isShared && messages.length > 0 && (
         <div className="fixed right-5">
-          <Tooltip open={tooltipOpen} onOpenChange={setTooltipOpen}>
-            <TooltipTrigger asChild>
-              <Button
-                variant="ghost"
-                size="sm"
-                className="flex items-center gap-2 px-3 border"
-                onClick={(e) => {
-                  e.preventDefault();
-                  e.stopPropagation();
-                  handleShare();
-                }}
-              >
-                <Share size={16} />
-                <span>Share</span>
-              </Button>
-            </TooltipTrigger>
-            <TooltipContent className="mr-2">{shareTooltip}</TooltipContent>
-          </Tooltip>
+          <Button
+            variant="ghost"
+            size="sm"
+            className="flex items-center gap-2 px-3 border"
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              handleShare();
+            }}
+          >
+            <Share size={16} />
+            <span>Share</span>
+          </Button>
         </div>
       )}
     </div>
@@ -341,6 +338,49 @@ export function ChatForm({
       <div className="fixed bottom-4 right-4 z-50 hidden md:block">
         <Attribution />
       </div>
+
+      <Dialog open={showShareDialog} onOpenChange={setShowShareDialog}>
+        <DialogContent className="max-w-sm">
+          <DialogHeader>
+            <DialogTitle>Share public link to chat</DialogTitle>
+          </DialogHeader>
+          <div className="flex flex-col gap-4">
+            <div className="flex items-center border-2 rounded-full p-1">
+              <input
+                type="text"
+                readOnly
+                value={isGeneratingLink ? "Generating..." : (shareUrl || "")}
+                placeholder="https://paulgraham.chat/..."
+                className="flex-1 rounded-full px-3 py-2 text-sm text-neutral-900 placeholder:text-neutral-400 focus:outline-none"
+              />
+              {shareUrl ? (
+                <Button
+                  variant="default"
+                  className="rounded-full gap-1"
+                  size="sm"
+                  onClick={() => {
+                    navigator.clipboard.writeText(shareUrl);
+                  }}
+                  disabled={isGeneratingLink}
+                >
+                  <Copy size={16} />
+                  <span>Copy</span>
+                </Button>
+              ) : (
+                <Button
+                  variant="default"
+                  size="sm"
+                  className="rounded-full"
+                  onClick={handleCreateLink}
+                  disabled={isGeneratingLink}
+                >
+                  Create link
+                </Button>
+              )}
+            </div>
+          </div>
+        </DialogContent>
+      </Dialog>
     </main>
   );
 }
