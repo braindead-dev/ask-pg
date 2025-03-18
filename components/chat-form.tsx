@@ -22,6 +22,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
+import Link from 'next/link';
 
 interface ChatFormProps extends React.ComponentProps<"form"> {
   initialMessages?: any[];
@@ -95,10 +96,10 @@ export function ChatForm({
 
   const topHeader = (
     <div className="relative flex justify-center items-center p-4">
-      <div className="flex items-center gap-2">
+      <Link href="/" className="flex items-center gap-2">
         <img src="/pgroid.png" alt="PG Avatar" className="h-8 w-8 rounded-lg" />
         <span className="font-medium">paulgraham.chat</span>
-      </div>
+      </Link>
       {!isShared && messages.length > 0 && (
         <div className="fixed right-5">
           <Button
