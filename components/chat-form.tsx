@@ -42,6 +42,7 @@ export function ChatForm({
   const [shareUrl, setShareUrl] = useState<string | null>(null);
   const [isGeneratingLink, setIsGeneratingLink] = useState(false);
   const [showShareDialog, setShowShareDialog] = useState(false);
+  const [copyButtonText, setCopyButtonText] = useState("Copy");
 
   const handleShare = async () => {
     if (messages.length === 0) return;
@@ -79,6 +80,16 @@ export function ChatForm({
       console.error("Failed to generate share link:", error);
     } finally {
       setIsGeneratingLink(false);
+    }
+  };
+
+  const handleCopy = () => {
+    if (shareUrl) {
+      navigator.clipboard.writeText(shareUrl);
+      setCopyButtonText("Copied");
+      setTimeout(() => {
+        setCopyButtonText("Copy");
+      }, 1000);
     }
   };
 
@@ -363,13 +374,11 @@ export function ChatForm({
                   variant="default"
                   className="rounded-full gap-1"
                   size="sm"
-                  onClick={() => {
-                    navigator.clipboard.writeText(shareUrl);
-                  }}
-                  disabled={isGeneratingLink}
+                  onClick={handleCopy}
+                  disabled={isGeneratingLink || copyButtonText === "Copied"}
                 >
                   <Copy size={16} />
-                  <span>Copy</span>
+                  <span>{copyButtonText}</span>
                 </Button>
               ) : (
                 <Button
