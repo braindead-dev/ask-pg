@@ -102,10 +102,25 @@ export function ChatForm({
       </Link>
       {!isShared && messages.length > 0 && (
         <div className="fixed right-5">
+          {/* Mobile version: circle with just icon */}
+          <Button
+            variant="ghost"
+            size="icon"
+            className="flex md:hidden items-center justify-center size-9 rounded-full border"
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              handleShare();
+            }}
+          >
+            <Share size={16} />
+          </Button>
+          
+          {/* Desktop version: button with text */}
           <Button
             variant="ghost"
             size="sm"
-            className="flex items-center gap-2 px-3 border"
+            className="hidden md:flex items-center gap-2 px-3 border"
             onClick={(e) => {
               e.preventDefault();
               e.stopPropagation();
