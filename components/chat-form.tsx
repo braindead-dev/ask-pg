@@ -185,6 +185,17 @@ export function ChatForm({
         Ask me for startup, personal, or any other advice. I'll also reference
         the essays from which I derive my guidance.
       </p>
+      <div className="flex justify-center mt-2">
+        <a href="https://www.producthunt.com/posts/pg-chat?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-pg&#0045;chat" target="_blank" rel="noopener noreferrer">
+          <img 
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=951146&theme=light&t=1744132356460" 
+            alt="PG&#0046;chat - Chat&#0032;with&#0032;AI&#0032;Paul&#0032;Graham&#0032;based&#0032;on&#0032;his&#0032;200&#0043;&#0032;essays | Product Hunt" 
+            style={{ width: '200px', height: '43px' }} 
+            width="200" 
+            height="43" 
+          />
+        </a>
+      </div>
       <div className="md:hidden justify-center flex">
         <Attribution />
       </div>
