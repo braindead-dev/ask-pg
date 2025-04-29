@@ -4,7 +4,7 @@ import { cn } from "@/lib/utils";
 
 import { useChat } from "ai/react";
 
-import { ArrowUpIcon, Share, Copy} from "lucide-react";
+import { ArrowUpIcon, Share, Copy } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import {
   Tooltip,
@@ -22,7 +22,7 @@ import {
   DialogHeader,
   DialogTitle,
 } from "@/components/ui/dialog";
-import Link from 'next/link';
+import Link from "next/link";
 
 interface ChatFormProps extends React.ComponentProps<"form"> {
   initialMessages?: any[];
@@ -115,7 +115,7 @@ export function ChatForm({
           >
             <Share size={16} />
           </Button>
-          
+
           {/* Desktop version: button with text */}
           <Button
             variant="ghost"
@@ -186,13 +186,17 @@ export function ChatForm({
         the essays from which I derive my guidance.
       </p>
       <div className="flex justify-center mt-2">
-        <a href="https://www.producthunt.com/posts/pg-chat?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-pg&#0045;chat" target="_blank" rel="noopener noreferrer">
-          <img 
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=951146&theme=light&t=1744132356460" 
-            alt="PG&#0046;chat - Chat&#0032;with&#0032;AI&#0032;Paul&#0032;Graham&#0032;based&#0032;on&#0032;his&#0032;200&#0043;&#0032;essays | Product Hunt" 
-            style={{ width: '200px', height: '43px' }} 
-            width="200" 
-            height="43" 
+        <a
+          href="https://www.producthunt.com/posts/pg-chat?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-pg&#0045;chat"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <img
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=951146&theme=light&t=1744132356460"
+            alt="PG&#0046;chat - Chat&#0032;with&#0032;AI&#0032;Paul&#0032;Graham&#0032;based&#0032;on&#0032;his&#0032;200&#0043;&#0032;essays | Product Hunt"
+            style={{ width: "200px", height: "43px" }}
+            width="200"
+            height="43"
           />
         </a>
       </div>
@@ -377,13 +381,16 @@ export function ChatForm({
         <Attribution />
       </div>
 
-      <Dialog open={showShareDialog} onOpenChange={(open) => {
-        setShowShareDialog(open);
-        if (!open) {
-          setShareUrl(null);
-        }
-      }}>
-        <DialogContent className="max-w-sm">
+      <Dialog
+        open={showShareDialog}
+        onOpenChange={(open) => {
+          setShowShareDialog(open);
+          if (!open) {
+            setShareUrl(null);
+          }
+        }}
+      >
+        <DialogContent className="max-w-sm rounded-xl">
           <DialogHeader>
             <DialogTitle>Share public link to chat</DialogTitle>
           </DialogHeader>
@@ -392,9 +399,9 @@ export function ChatForm({
               <input
                 type="text"
                 readOnly
-                value={isGeneratingLink ? "Generating..." : (shareUrl || "")}
+                value={isGeneratingLink ? "Generating..." : shareUrl || ""}
                 placeholder="https://paulgraham.chat/..."
-                className={`flex-1 rounded-full px-3 py-2 text-sm focus:outline-none ${isGeneratingLink ? 'text-neutral-400' : 'text-neutral-900'} placeholder:text-neutral-400`}
+                className={`flex-1 rounded-full px-3 py-2 text-sm focus:outline-none ${isGeneratingLink ? "text-neutral-400" : "text-neutral-900"} placeholder:text-neutral-400`}
               />
               {shareUrl ? (
                 <Button
