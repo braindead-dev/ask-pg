@@ -96,7 +96,14 @@ export function ChatForm({
 
   const topHeader = (
     <div className="relative flex justify-center items-center p-4">
-      <Link href="/" className="flex items-center gap-2">
+      <Link
+        href="/"
+        onClick={(e) => {
+          e.preventDefault();
+          window.location.reload();
+        }}
+        className="flex items-center gap-2"
+      >
         <img src="/pgroid.png" alt="PG Avatar" className="h-8 w-8 rounded-lg" />
         <span className="font-medium">paulgraham.chat</span>
       </Link>
